@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^2.53.3"
+  }
+}
