@@ -1,2442 +1,1936 @@
 {
   "type": "FeatureCollection",
-  "features": 
-[
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.9176335,
-        17.3395405
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Araike_Jizo Nara",
-      "title": [
-        "荒池地蔵尊"
-      ],
-      "description": [
-        "高畑町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Araike Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nara_Takabatake_Araike_Jizo.jpg/320px-Nara_Takabatake_Araike_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/39/Nara_Takabatake_Araike_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>高畑町 荒池地蔵尊か？"
-          ]
-        }
-      ],
-      "popupContent": "<h2>荒池地蔵尊</h2>高畑町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nara_Takabatake_Araike_Jizo.jpg/320px-Nara_Takabatake_Araike_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.9137925,
-        17.340852
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Enmei_Jizo Nara",
-      "title": [
-        "延命地蔵尊"
-      ],
-      "description": [
-        "角振新屋町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Enmei_Jizouson Nara.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Enmei_Jizouson_Nara.jpg/320px-Enmei_Jizouson_Nara.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Enmei_Jizouson_Nara.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> <a href=\"https://ja.wikipedia.org/wiki/%E9%9A%BC%E7%A5%9E%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82)#.E5.BB.B6.E5.91.BD.E5.9C.B0.E8.94.B5\" class=\"extiw\" title=\"ja:隼神社 (奈良市)\">延命地蔵尊</a>、奈良"
-          ]
-        }
-      ],
-      "popupContent": "<h2>延命地蔵尊</h2>角振新屋町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Enmei_Jizouson_Nara.jpg/320px-Enmei_Jizouson_Nara.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.838456,
-        34.673893
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:HigashiKidera-cho_1 Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "東紀寺町1"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:HigashiKidera-cho_1 Jizodo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HigashiKidera-cho_1_Jizodo_Nara_Inside.jpg/180px-HigashiKidera-cho_1_Jizodo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1b/HigashiKidera-cho_1_Jizodo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東紀寺町1 地蔵堂内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:HigashiKidera-cho_1 Jizodo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/HigashiKidera-cho_1_Jizodo_Nara_Outside.jpg/180px-HigashiKidera-cho_1_Jizodo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c8/HigashiKidera-cho_1_Jizodo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東紀寺町1 地蔵堂外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>東紀寺町1<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HigashiKidera-cho_1_Jizodo_Nara_Inside.jpg/180px-HigashiKidera-cho_1_Jizodo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.9201515,
-        17.336525
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:HigashiKidera-cho_2 (East) Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "東紀寺町2 (東方)"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:HigashiKidera-cho_2 Jizodo Nara.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HigashiKidera-cho_2_Jizodo_Nara.jpg/180px-HigashiKidera-cho_2_Jizodo_Nara.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/40/HigashiKidera-cho_2_Jizodo_Nara.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東紀寺町2 地蔵堂"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>東紀寺町2 (東方)<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HigashiKidera-cho_2_Jizodo_Nara.jpg/180px-HigashiKidera-cho_2_Jizodo_Nara.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.839081,
-        34.6717455
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:HigashiKidera-cho_2 (South) Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "東紀寺町2 (南方)"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Jizodo_HigashiKidera-cho 2 Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jizodo_HigashiKidera-cho_2_Inside.jpg/320px-Jizodo_HigashiKidera-cho_2_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/08/Jizodo_HigashiKidera-cho_2_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 地蔵堂東紀寺町 内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Jizodo_HigashiKidera-cho 2.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jizodo_HigashiKidera-cho_2.jpg/320px-Jizodo_HigashiKidera-cho_2.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/52/Jizodo_HigashiKidera-cho_2.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 地蔵堂東紀寺町"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>東紀寺町2 (南方)<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jizodo_HigashiKidera-cho_2_Inside.jpg/320px-Jizodo_HigashiKidera-cho_2_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        203.741539,
-        52.0112855
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:HigashiKitsuji-cho_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "東木辻町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_HigashiKitsuji Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nara_HigashiKitsuji_Jizo.jpg/180px-Nara_HigashiKitsuji_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Nara_HigashiKitsuji_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>奈良市東木辻町 地蔵堂"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Big Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wayside_Jizo_In_Nara_Near_Big_Nara_Inside.jpg/180px-Wayside_Jizo_In_Nara_Near_Big_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Wayside_Jizo_In_Nara_Near_Big_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良京終 ビッグナラそばの地蔵（中）"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Big Nara.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wayside_Jizo_In_Nara_Near_Big_Nara.jpg/180px-Wayside_Jizo_In_Nara_Near_Big_Nara.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/86/Wayside_Jizo_In_Nara_Near_Big_Nara.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良京終 ビッグナラそばの地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>東木辻町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nara_HigashiKitsuji_Jizo.jpg/180px-Nara_HigashiKitsuji_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.8288125,
-        34.685335
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:HigashimukiKita-machi_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "東向北町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Higashimuki KIta Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nara_Higashimuki_KIta_Jizo.jpg/180px-Nara_Higashimuki_KIta_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Nara_Higashimuki_KIta_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市東向北町 地蔵堂"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Higashimuki-KIta Dori EastSide Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nara_Higashimuki-KIta_Dori_EastSide_Jizo.jpg/180px-Nara_Higashimuki-KIta_Dori_EastSide_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nara_Higashimuki-KIta_Dori_EastSide_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、東向北商店街、中ほど東側の地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>東向北町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nara_Higashimuki_KIta_Jizo.jpg/180px-Nara_Higashimuki_KIta_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.833061,
-        34.6966305
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Horen-cho_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "法蓮町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Horen-cho_Jizodo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horen-cho_Jizodo_Nara_Inside.jpg/320px-Horen-cho_Jizodo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/06/Horen-cho_Jizodo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 地蔵堂 内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Horen-cho_Jizodo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Horen-cho_Jizodo_Nara_Outside.jpg/320px-Horen-cho_Jizodo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/40/Horen-cho_Jizodo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 地蔵堂 外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>法蓮町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horen-cho_Jizodo_Nara_Inside.jpg/320px-Horen-cho_Jizodo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.82945999999998,
-        34.691582
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Horen-cho_Jizos (North of Fuko-in) Nara",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "法蓮町 (普光院北)"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Horen-cho_Jizos (North of Fuko-in) Nara Far.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Far.jpg/320px-Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Far.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Far.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 地蔵 (普光院北) 遠景"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Horen-cho_Jizos (North of Fuko-in) Nara Near.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Near.jpg/320px-Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Near.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Near.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 地蔵 (普光院北) 近景"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵</h2>法蓮町 (普光院北)<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Far.jpg/320px-Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Far.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.9152435,
-        17.340453
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Isagawa_Jizo Nara",
-      "title": [
-        "率川地蔵尊"
-      ],
-      "description": [
-        "登大路町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Isakawa_Jizos Nara.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Isakawa_Jizos_Nara.jpg/135px-Isakawa_Jizos_Nara.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/00/Isakawa_Jizos_Nara.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 率川の地蔵群、奈良"
-          ]
-        }
-      ],
-      "popupContent": "<h2>率川地蔵尊</h2>登大路町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Isakawa_Jizos_Nara.jpg/135px-Isakawa_Jizos_Nara.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.914536,
-        17.3433915
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Jufuku_Jizo Nara",
-      "title": [
-        "十福地蔵尊"
-      ],
-      "description": [
-        "花芝町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Higashimuki-KIta Dori NorthEast Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nara_Higashimuki-KIta_Dori_NorthEast_Jizo.jpg/180px-Nara_Higashimuki-KIta_Dori_NorthEast_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nara_Higashimuki-KIta_Dori_NorthEast_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、東向北商店街、北ドンツキ東側の地蔵（十福地蔵尊）"
-          ]
-        }
-      ],
-      "popupContent": "<h2>十福地蔵尊</h2>花芝町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nara_Higashimuki-KIta_Dori_NorthEast_Jizo.jpg/180px-Nara_Higashimuki-KIta_Dori_NorthEast_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.8302085,
-        34.670658
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Kainotsuka-cho_Jizo (With Myogo) Nara",
-      "title": [
-        "地蔵 名号付"
-      ],
-      "description": [
-        "肘塚町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo (With Myogo) Nara Myogo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara_Myogo.jpg/320px-Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara_Myogo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara_Myogo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市肘塚町 地蔵 名号付 名号"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo (With Myogo) Nara.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市肘塚町 地蔵 名号付"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵 名号付</h2>肘塚町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara_Myogo.jpg/320px-Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara_Myogo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        271.5774235,
-        69.38787099999999
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Kangiji_Jizo Nara",
-      "title": [
-        "歓喜寺地蔵尊"
-      ],
-      "description": [
-        "二条町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kangiji_Jizo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kangiji_Jizo_Nara_Inside.jpg/320px-Kangiji_Jizo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kangiji_Jizo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市二条町 歓喜寺地蔵尊内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kangiji_Jizo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kangiji_Jizo_Nara_Outside.jpg/320px-Kangiji_Jizo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kangiji_Jizo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市二条町 歓喜寺地蔵尊外観"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kangiji_Jizo Nara Plate.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kangiji_Jizo_Nara_Plate.jpg/180px-Kangiji_Jizo_Nara_Plate.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kangiji_Jizo_Nara_Plate.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市二条町 歓喜寺地蔵尊プレート"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kobo_Well With Amida And Kangiji Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg/320px-Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市二条町 弘法井戸及び歓喜寺地蔵尊遠景"
-          ]
-        }
-      ],
-      "popupContent": "<h2>歓喜寺地蔵尊</h2>二条町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kangiji_Jizo_Nara_Inside.jpg/320px-Kangiji_Jizo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.834664,
-        34.697353
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Kawakami-cho_Jizodo (East of Nara Juvenile Prison)",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "川上町 (奈良少年刑務所東)"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizodo (East of Nara Juvenile Prison) Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Inside.jpg/180px-Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市川上町 地蔵堂 (奈良少年刑務所東) 内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizodo (East of Nara Juvenile Prison) Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Outside.jpg/180px-Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市川上町 地蔵堂 (奈良少年刑務所東) 外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>川上町 (奈良少年刑務所東)<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Inside.jpg/180px-Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.83500700000002,
-        34.696365
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Kawakami-cho_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "川上町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizodo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kawakami-cho_Jizodo_Nara_Inside.jpg/320px-Kawakami-cho_Jizodo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/35/Kawakami-cho_Jizodo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市川上町 地蔵堂内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizodo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kawakami-cho_Jizodo_Nara_Outside.jpg/320px-Kawakami-cho_Jizodo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kawakami-cho_Jizodo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市川上町 地蔵堂外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>川上町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kawakami-cho_Jizodo_Nara_Inside.jpg/320px-Kawakami-cho_Jizodo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.82955850000002,
-        34.691546
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Kawanaka_Jizo (Horen-cho) Nara",
-      "title": [
-        "川中地蔵尊"
-      ],
-      "description": [
-        "法蓮町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kawanaka_Jizo (Horen-cho) Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kawanaka_Jizo_%28Horen-cho%29_Nara_Inside.jpg/320px-Kawanaka_Jizo_%28Horen-cho%29_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kawanaka_Jizo_%28Horen-cho%29_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 川中地蔵尊 内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kawanaka_Jizo (Horen-cho) Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kawanaka_Jizo_%28Horen-cho%29_Nara_Outside.jpg/320px-Kawanaka_Jizo_%28Horen-cho%29_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kawanaka_Jizo_%28Horen-cho%29_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 川中地蔵尊 外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>川中地蔵尊</h2>法蓮町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kawanaka_Jizo_%28Horen-cho%29_Nara_Inside.jpg/320px-Kawanaka_Jizo_%28Horen-cho%29_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.9161,
-        17.3446345
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Kawanaka_Jizo Nara",
-      "title": [
-        "川中地蔵尊"
-      ],
-      "description": [
-        "川久保町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Kawanaka Jizo Kitamachi.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nara_Kawanaka_Jizo_Kitamachi.jpg/320px-Nara_Kawanaka_Jizo_Kitamachi.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nara_Kawanaka_Jizo_Kitamachi.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良きたまち、川中地蔵尊、吉城川暗渠上の地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>川中地蔵尊</h2>川久保町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nara_Kawanaka_Jizo_Kitamachi.jpg/320px-Nara_Kawanaka_Jizo_Kitamachi.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.9144445,
-        17.3372055
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Kawarado-cho_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "瓦堂町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Kawarado cho Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nara_Kawarado_cho_Jizo.jpg/320px-Nara_Kawarado_cho_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Nara_Kawarado_cho_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市瓦堂町 地蔵堂"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>瓦堂町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nara_Kawarado_cho_Jizo.jpg/320px-Nara_Kawarado_cho_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.783036,
-        34.693967
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Kitamuki_Jizo Nara",
-      "title": [
-        "北向地蔵尊"
-      ],
-      "description": [
-        "西大寺国見町1"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kitamuki_Jizo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kitamuki_Jizo_Nara_Inside.jpg/180px-Kitamuki_Jizo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/50/Kitamuki_Jizo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西大寺国見町1 北向地蔵尊内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kitamuki_Jizo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kitamuki_Jizo_Nara_Outside.jpg/180px-Kitamuki_Jizo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kitamuki_Jizo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西大寺国見町1 北向地蔵尊外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>北向地蔵尊</h2>西大寺国見町1<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kitamuki_Jizo_Nara_Inside.jpg/180px-Kitamuki_Jizo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        203.73733350000003,
-        52.011707
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Kodakara_Jizo Nara",
-      "title": [
-        "子宝地蔵尊"
-      ],
-      "description": [
-        "西木辻町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kodakara_Jizo Nara Inside 1.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kodakara_Jizo_Nara_Inside_1.jpg/180px-Kodakara_Jizo_Nara_Inside_1.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kodakara_Jizo_Nara_Inside_1.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 子宝地蔵尊内部1"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kodakara_Jizo Nara Inside 2.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kodakara_Jizo_Nara_Inside_2.jpg/180px-Kodakara_Jizo_Nara_Inside_2.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kodakara_Jizo_Nara_Inside_2.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 子宝地蔵尊内部2"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Kodakara_Jizo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kodakara_Jizo_Nara_Outside.jpg/180px-Kodakara_Jizo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kodakara_Jizo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 子宝地蔵尊外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>子宝地蔵尊</h2>西木辻町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kodakara_Jizo_Nara_Inside_1.jpg/180px-Kodakara_Jizo_Nara_Inside_1.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.830581,
-        34.690464
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Komori_Jizo (NishiSasaboko-cho) Nara",
-      "title": [
-        "子守地蔵尊"
-      ],
-      "description": [
-        "西笹鉾町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Komori_Jizo (NishiSasaboko-cho) Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Inside.jpg/320px-Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 西笹鉾町 子守地蔵尊 内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Komori_Jizo (NishiSasaboko-cho) Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Outside.jpg/180px-Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 西笹鉾町 子守地蔵尊 外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>子守地蔵尊</h2>西笹鉾町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Inside.jpg/320px-Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        203.75210650000002,
-        52.048334999999994
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Manki_Jizo Nara",
-      "title": [
-        "萬季地蔵尊"
-      ],
-      "description": [
-        "般若寺町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Manki_Jizo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Manki_Jizo_Nara_Inside.jpg/320px-Manki_Jizo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Manki_Jizo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市般若寺町 萬季地蔵尊 内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Manki_Jizo Nara NameStone.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Manki_Jizo_Nara_NameStone.jpg/180px-Manki_Jizo_Nara_NameStone.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/81/Manki_Jizo_Nara_NameStone.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市般若寺町 萬季地蔵尊 石碑"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Manki_Jizo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Manki_Jizo_Nara_Outside.jpg/180px-Manki_Jizo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Manki_Jizo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市般若寺町 萬季地蔵尊 外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>萬季地蔵尊</h2>般若寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Manki_Jizo_Nara_Inside.jpg/320px-Manki_Jizo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.8234875,
-        34.678521
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:ManNaoshi_Jizo Nara",
-      "title": [
-        "万直し地蔵尊"
-      ],
-      "description": [
-        "杉ヶ町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Nara Sugigacho Near Sugiichi Taishin Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin_Inside.jpg/180px-Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町杉市大神そばの地蔵（中）"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Nara Sugigacho Near Sugiichi Taishin.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin.jpg/320px-Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/25/Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町杉市大神そばの地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>万直し地蔵尊</h2>杉ヶ町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin_Inside.jpg/180px-Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.9145515,
-        17.333496
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:MinamiKyobate-cho_(Fukudera) Jizo Nara",
-      "title": [
-        "福寺跡 地蔵"
-      ],
-      "description": [
-        "南京終町5"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Fukudera Stone Buddha.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nara_Fukudera_Stone_Buddha.jpg/320px-Nara_Fukudera_Stone_Buddha.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nara_Fukudera_Stone_Buddha.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市、<a href=\"https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%AF%BA\" class=\"extiw\" title=\"ja:福寺\">福寺</a>池の底から出た石仏群"
-          ]
-        }
-      ],
-      "popupContent": "<h2>福寺跡 地蔵</h2>南京終町5<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nara_Fukudera_Stone_Buddha.jpg/320px-Nara_Fukudera_Stone_Buddha.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.827269,
-        34.6706305
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:MinamiKyobate-cho_1 Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "南京終町1"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:MinamiKyobate-cho_1 Jizodo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MinamiKyobate-cho_1_Jizodo_Nara_Inside.jpg/180px-MinamiKyobate-cho_1_Jizodo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0f/MinamiKyobate-cho_1_Jizodo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市南京終町1 地蔵堂内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:MinamiKyobate-cho_1 Jizodo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MinamiKyobate-cho_1_Jizodo_Nara_Outside.jpg/180px-MinamiKyobate-cho_1_Jizodo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/07/MinamiKyobate-cho_1_Jizodo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市南京終町1 地蔵堂外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>南京終町1<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MinamiKyobate-cho_1_Jizodo_Nara_Inside.jpg/180px-MinamiKyobate-cho_1_Jizodo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.824814,
-        34.672082
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:MinamiKyobate-cho_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "南京終町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:MinamiKyobate-cho_Jizodo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MinamiKyobate-cho_Jizodo_Nara_Inside.jpg/320px-MinamiKyobate-cho_Jizodo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a7/MinamiKyobate-cho_Jizodo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市南京終町 地蔵堂内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:MinamiKyobate-cho_Jizodo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/MinamiKyobate-cho_Jizodo_Nara_Outside.jpg/180px-MinamiKyobate-cho_Jizodo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/43/MinamiKyobate-cho_Jizodo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市南京終町 地蔵堂外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>南京終町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MinamiKyobate-cho_Jizodo_Nara_Inside.jpg/320px-MinamiKyobate-cho_Jizodo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.912743,
-        17.338386
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:MinamiShin-machi_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "南新町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo And Benzaiten Minami Shinmachi.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg/320px-Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良南新町の地蔵尊と弁財天"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>南新町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg/320px-Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.8282,
-        34.684947
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Nakasuji-cho_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "中筋町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nakasuji-cho_Jizodo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Nakasuji-cho_Jizodo_Nara_Inside.jpg/320px-Nakasuji-cho_Jizodo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Nakasuji-cho_Jizodo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市中筋町 地蔵堂内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nakasuji-cho_Jizodo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nakasuji-cho_Jizodo_Nara_Outside.jpg/320px-Nakasuji-cho_Jizodo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/17/Nakasuji-cho_Jizodo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市中筋町 地蔵堂外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>中筋町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Nakasuji-cho_Jizodo_Nara_Inside.jpg/320px-Nakasuji-cho_Jizodo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.825486,
-        34.6751845
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_(Kawaramachi) Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "西木辻町(瓦町)"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Kawaramachi Kaisho Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wayside_Jizo_Kawaramachi_Kaisho_Inside.jpg/180px-Wayside_Jizo_Kawaramachi_Kaisho_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/46/Wayside_Jizo_Kawaramachi_Kaisho_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良瓦町会所の地蔵（中）"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Kawaramachi Kaisho.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wayside_Jizo_Kawaramachi_Kaisho.jpg/320px-Wayside_Jizo_Kawaramachi_Kaisho.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wayside_Jizo_Kawaramachi_Kaisho.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良瓦町会所の地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>西木辻町(瓦町)<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wayside_Jizo_Kawaramachi_Kaisho_Inside.jpg/180px-Wayside_Jizo_Kawaramachi_Kaisho_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        203.74076100000002,
-        52.010256999999996
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_(Watamachi) Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "西木辻町 (綿町)"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_NishiKitsuji Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nara_NishiKitsuji_Jizo.jpg/320px-Nara_NishiKitsuji_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nara_NishiKitsuji_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Watamachi Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wayside_Jizo_In_Nara_Near_Watamachi_Inside.jpg/320px-Wayside_Jizo_In_Nara_Near_Watamachi_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Wayside_Jizo_In_Nara_Near_Watamachi_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良京終 綿町バス停そばの地蔵（中）"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Watamachi.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wayside_Jizo_In_Nara_Near_Watamachi.jpg/320px-Wayside_Jizo_In_Nara_Near_Watamachi.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Wayside_Jizo_In_Nara_Near_Watamachi.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良京終 綿町バス停そばの地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>西木辻町 (綿町)<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nara_NishiKitsuji_Jizo.jpg/320px-Nara_NishiKitsuji_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.82131249999998,
-        34.674733
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo (Empty) Nara",
-      "title": [
-        "地蔵堂（内部空）"
-      ],
-      "description": [
-        "西木辻町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Empty) Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Inside.jpg/320px-NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/df/NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（内部空）内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Empty) Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Outside.jpg/320px-NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（内部空）外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂（内部空）</h2>西木辻町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Inside.jpg/320px-NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.8191385,
-        34.6750915
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo (Under Sakurai Line North) Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "西木辻町（桜井線下北）"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line North) Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Inside.jpg/180px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/21/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下北）内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line North) Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Outside.jpg/180px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下北）外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>西木辻町（桜井線下北）<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Inside.jpg/180px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        271.638101,
-        69.34971250000001
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo (Under Sakurai Line South) Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "西木辻町（桜井線下南）"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line South) Nara Inside Left.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Left.jpg/320px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Left.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Left.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下南）内部左側"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line South) Nara Inside Right.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Right.jpg/320px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Right.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/42/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Right.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下南）内部右側"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line South) Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside.jpg/320px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f7/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下南）内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line South) Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Outside.jpg/320px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/92/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下南）外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>西木辻町（桜井線下南）<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Left.jpg/320px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Left.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        271.643455,
-        69.36731900000001
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Nishinosaka-cho_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "西之阪町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nishinosaka-cho_Jizodo Nara Center.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nishinosaka-cho_Jizodo_Nara_Center.jpg/320px-Nishinosaka-cho_Jizodo_Nara_Center.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Nishinosaka-cho_Jizodo_Nara_Center.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西之阪町 地蔵堂中央"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nishinosaka-cho_Jizodo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nishinosaka-cho_Jizodo_Nara_Inside.jpg/320px-Nishinosaka-cho_Jizodo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/02/Nishinosaka-cho_Jizodo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西之阪町 地蔵堂内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nishinosaka-cho_Jizodo Nara Left.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nishinosaka-cho_Jizodo_Nara_Left.jpg/320px-Nishinosaka-cho_Jizodo_Nara_Left.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nishinosaka-cho_Jizodo_Nara_Left.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西之阪町 地蔵堂左方"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nishinosaka-cho_Jizodo Nara Right.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nishinosaka-cho_Jizodo_Nara_Right.jpg/320px-Nishinosaka-cho_Jizodo_Nara_Right.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nishinosaka-cho_Jizodo_Nara_Right.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西之阪町 地蔵堂右方"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>西之阪町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nishinosaka-cho_Jizodo_Nara_Center.jpg/320px-Nishinosaka-cho_Jizodo_Nara_Center.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.915214,
-        17.338625
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:NishiShinya-cho_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "西新屋町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Jizo_in Nara Nishi-Shinnyacho.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jizo_in_Nara_Nishi-Shinnyacho.jpg/320px-Jizo_in_Nara_Nishi-Shinnyacho.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jizo_in_Nara_Nishi-Shinnyacho.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西新屋町、菊岡漢方薬局隣の地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>西新屋町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jizo_in_Nara_Nishi-Shinnyacho.jpg/320px-Jizo_in_Nara_Nishi-Shinnyacho.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.8242725,
-        34.6765015
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Omori-cho_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "大森町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Omori-cho_Jizodo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Omori-cho_Jizodo_Nara_Inside.jpg/180px-Omori-cho_Jizodo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/57/Omori-cho_Jizodo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市大森町 地蔵堂内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Omori-cho_Jizodo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Omori-cho_Jizodo_Nara_Outside.jpg/180px-Omori-cho_Jizodo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Omori-cho_Jizodo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市大森町 地蔵堂外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>大森町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Omori-cho_Jizodo_Nara_Inside.jpg/180px-Omori-cho_Jizodo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.823167,
-        34.67945
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Sanjo-cho_Jizodo Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "三条町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_wayside Jizo In Sugigacho North Of Sugiichi Taishin Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg/180px-Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町杉市大神北方の地蔵（中）"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_wayside Jizo In Sugigacho North Of Sugiichi Taishin.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin.jpg/180px-Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町杉市大神北方の地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>三条町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg/180px-Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.83453450000002,
-        34.673597
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Sawara_Jizo Nara",
-      "title": [
-        "早和良地蔵尊"
-      ],
-      "description": [
-        "紀寺町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Sawara_Jizo Nara Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sawara_Jizo_Nara_Inside.jpg/320px-Sawara_Jizo_Nara_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sawara_Jizo_Nara_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市紀寺町 早和良地蔵尊内部"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Sawara_Jizo Nara Outside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sawara_Jizo_Nara_Outside.jpg/320px-Sawara_Jizo_Nara_Outside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sawara_Jizo_Nara_Outside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市紀寺町 早和良地蔵尊外観"
-          ]
-        }
-      ],
-      "popupContent": "<h2>早和良地蔵尊</h2>紀寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sawara_Jizo_Nara_Inside.jpg/320px-Sawara_Jizo_Nara_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.9238735,
-        17.336346
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Shinmei_Jizo Nara",
-      "title": [
-        "神明地蔵"
-      ],
-      "description": [
-        "白毫寺町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Shinmei Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nara_Byakugoji_cho_Shinmei_Jizo.jpg/320px-Nara_Byakugoji_cho_Shinmei_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nara_Byakugoji_cho_Shinmei_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市白毫寺町 神明地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>神明地蔵</h2>白毫寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nara_Byakugoji_cho_Shinmei_Jizo.jpg/320px-Nara_Byakugoji_cho_Shinmei_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.8215095,
-        34.679553999999996
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Sugiga-cho_Park Jizodo (North) Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "杉ヶ町 (公園北方)"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Wayside Jizo Sugigacho Park North Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg/320px-Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町公園北方の地蔵（中）"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Wayside Jizo Sugigacho Park North.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Nara_Wayside_Jizo_Sugigacho_Park_North.jpg/180px-Nara_Wayside_Jizo_Sugigacho_Park_North.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nara_Wayside_Jizo_Sugigacho_Park_North.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町公園北方の地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>杉ヶ町 (公園北方)<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg/320px-Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.8216625,
-        34.679511500000004
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Sugiga-cho_Park Jizodo (South) Nara",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "杉ヶ町 (公園南方)"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Wayside Jizo Sugigacho Park South Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg/180px-Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町公園南方の地蔵（中）"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Wayside Jizo Sugigacho Park South.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nara_Wayside_Jizo_Sugigacho_Park_South.jpg/180px-Nara_Wayside_Jizo_Sugigacho_Park_South.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nara_Wayside_Jizo_Sugigacho_Park_South.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町公園南方の地蔵"
-          ]
-        }
-      ],
-      "popupContent": "<h2>地蔵堂</h2>杉ヶ町 (公園南方)<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg/180px-Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        203.7594375,
-        52.015836
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Tsubaki_Jizo Nara",
-      "title": [
-        "椿地蔵尊"
-      ],
-      "description": [
-        "高畑町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Tsubaki Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nara_Takabatake_Tsubaki_Jizo.jpg/180px-Nara_Takabatake_Tsubaki_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nara_Takabatake_Tsubaki_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑町 椿地蔵尊"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatakecho Tsubaki Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nara_Takabatakecho_Tsubaki_Jizo.jpg/180px-Nara_Takabatakecho_Tsubaki_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/09/Nara_Takabatakecho_Tsubaki_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良高畑町 椿地蔵尊"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Tsubaki Takabatake Inside And Ceremony.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wayside_Jizo_Tsubaki_Takabatake_Inside_And_Ceremony.jpg/320px-Wayside_Jizo_Tsubaki_Takabatake_Inside_And_Ceremony.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/da/Wayside_Jizo_Tsubaki_Takabatake_Inside_And_Ceremony.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑町 椿地蔵尊（地蔵盆中、内部開扉）"
-          ]
-        }
-      ],
-      "popupContent": "<h2>椿地蔵尊</h2>高畑町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nara_Takabatake_Tsubaki_Jizo.jpg/180px-Nara_Takabatake_Tsubaki_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.9187085,
-        17.338793
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Tsumegaki_Jizo Nara",
-      "title": [
-        "爪がき地蔵尊"
-      ],
-      "description": [
-        "高畑町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Tsumegaki Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nara_Takabatake_Tsumegaki_Jizo.jpg/180px-Nara_Takabatake_Tsumegaki_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nara_Takabatake_Tsumegaki_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑 爪がき地蔵尊"
-          ]
-        }
-      ],
-      "popupContent": "<h2>爪がき地蔵尊</h2>高畑町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nara_Takabatake_Tsumegaki_Jizo.jpg/180px-Nara_Takabatake_Tsumegaki_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        203.7615055,
-        52.015536000000004
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Yanagi_Jizo Nara",
-      "title": [
-        "柳地蔵尊"
-      ],
-      "description": [
-        "高畑町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Yanagi Jizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nara_Takabatake_Yanagi_Jizo.jpg/180px-Nara_Takabatake_Yanagi_Jizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nara_Takabatake_Yanagi_Jizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑町 柳地蔵尊か？"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Yanagi Takabatake Inside.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wayside_Jizo_Yanagi_Takabatake_Inside.jpg/180px-Wayside_Jizo_Yanagi_Takabatake_Inside.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Wayside_Jizo_Yanagi_Takabatake_Inside.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑町 柳地蔵尊（内部）"
-          ]
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Yanagi Takabatake.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wayside_Jizo_Yanagi_Takabatake.jpg/180px-Wayside_Jizo_Yanagi_Takabatake.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Wayside_Jizo_Yanagi_Takabatake.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑町 柳地蔵尊"
-          ]
-        }
-      ],
-      "popupContent": "<h2>柳地蔵尊</h2>高畑町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nara_Takabatake_Yanagi_Jizo.jpg/180px-Nara_Takabatake_Yanagi_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.91862,
-        17.338055
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Yoroi_Jizo Nara",
-      "title": [
-        "鎧地蔵堂"
-      ],
-      "description": [
-        "紀寺町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Yoroi_Jizo Kasayacho Nara.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Yoroi_Jizo_Kasayacho_Nara.jpg/320px-Yoroi_Jizo_Kasayacho_Nara.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/12/Yoroi_Jizo_Kasayacho_Nara.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 鎧地蔵堂、紀寺町（笠屋町）、奈良"
-          ]
-        }
-      ],
-      "popupContent": "<h2>鎧地蔵堂</h2>紀寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Yoroi_Jizo_Kasayacho_Nara.jpg/320px-Yoroi_Jizo_Kasayacho_Nara.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        67.9177165,
-        17.3483835
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/Category:Yuhi_Jizo Nara",
-      "title": [
-        "夕日地蔵"
-      ],
-      "description": [
-        "興善院町"
-      ],
-      "files": [
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Nara_Yuuhijizo.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nara_Yuuhijizo.jpg/320px-Nara_Yuuhijizo.jpg",
-          "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/58/Nara_Yuuhijizo.jpg",
-          "description": [
-            "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、<a href=\"https://ja.wikipedia.org/wiki/%E6%B5%84%E7%A6%8F%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)#.E5.A4.95.E6.97.A5.E5.9C.B0.E8.94.B5\" class=\"extiw\" title=\"ja:浄福寺 (奈良市)\">夕日地蔵</a>"
-          ]
-        }
-      ],
-      "popupContent": "<h2>夕日地蔵</h2>興善院町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nara_Yuuhijizo.jpg/320px-Nara_Yuuhijizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.829344,
-        34.694992
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:HandaBiraki-cho_Jizos Nara.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "半田開町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/HandaBiraki-cho_Jizos_Nara.jpg/320px-HandaBiraki-cho_Jizos_Nara.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/02/HandaBiraki-cho_Jizos_Nara.jpg",
-      "popupContent": "<h2>地蔵</h2>半田開町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/HandaBiraki-cho_Jizos_Nara.jpg/320px-HandaBiraki-cho_Jizos_Nara.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.830414,
-        34.689053
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Jizo_of north of Nara Womans Univ.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "奈良女子大学北側"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jizo_of_north_of_Nara_Womans_Univ.jpg/320px-Jizo_of_north_of_Nara_Womans_Univ.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jizo_of_north_of_Nara_Womans_Univ.jpg",
-      "popupContent": "<h2>地蔵</h2>奈良女子大学北側<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jizo_of_north_of_Nara_Womans_Univ.jpg/320px-Jizo_of_north_of_Nara_Womans_Univ.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.829894,
-        34.670672
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo (Block Wall) Nara.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "肘塚町 ブロック塀内"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kainotsuka-cho_Jizo_%28Block_Wall%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28Block_Wall%29_Nara.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kainotsuka-cho_Jizo_%28Block_Wall%29_Nara.jpg",
-      "popupContent": "<h2>地蔵</h2>肘塚町 ブロック塀内<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kainotsuka-cho_Jizo_%28Block_Wall%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28Block_Wall%29_Nara.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.831619,
-        34.671422
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo (Kaisho-mae) Nara.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "肘塚町 (会所前)"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kainotsuka-cho_Jizo_%28Kaisho-mae%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28Kaisho-mae%29_Nara.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/92/Kainotsuka-cho_Jizo_%28Kaisho-mae%29_Nara.jpg",
-      "popupContent": "<h2>地蔵</h2>肘塚町 (会所前)<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kainotsuka-cho_Jizo_%28Kaisho-mae%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28Kaisho-mae%29_Nara.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.831131,
-        34.670925
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo (Kaisho-west) Nara.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "肘塚町 会所西方"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kainotsuka-cho_Jizo_%28Kaisho-west%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28Kaisho-west%29_Nara.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kainotsuka-cho_Jizo_%28Kaisho-west%29_Nara.jpg",
-      "popupContent": "<h2>地蔵</h2>肘塚町 会所西方<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kainotsuka-cho_Jizo_%28Kaisho-west%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28Kaisho-west%29_Nara.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.834397,
-        34.697083
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizo (South of Nara Juvenile Prison).jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "川上町 (奈良少年刑務所南)"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kawakami-cho_Jizo_%28South_of_Nara_Juvenile_Prison%29.jpg/180px-Kawakami-cho_Jizo_%28South_of_Nara_Juvenile_Prison%29.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kawakami-cho_Jizo_%28South_of_Nara_Juvenile_Prison%29.jpg",
-      "popupContent": "<h2>地蔵</h2>川上町 (奈良少年刑務所南)<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kawakami-cho_Jizo_%28South_of_Nara_Juvenile_Prison%29.jpg/180px-Kawakami-cho_Jizo_%28South_of_Nara_Juvenile_Prison%29.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.830628,
-        34.688178
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:KitaHandaNishi-machi_Jizodo Nara.jpg",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "北半田西町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/KitaHandaNishi-machi_Jizodo_Nara.jpg/320px-KitaHandaNishi-machi_Jizodo_Nara.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1d/KitaHandaNishi-machi_Jizodo_Nara.jpg",
-      "popupContent": "<h2>地蔵堂</h2>北半田西町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/KitaHandaNishi-machi_Jizodo_Nara.jpg/320px-KitaHandaNishi-machi_Jizodo_Nara.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.847519,
-        34.672578
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Jizos 1.jpg",
-      "title": [
-        "地蔵群"
-      ],
-      "description": [
-        "白毫寺町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nara_Byakugoji_cho_Jizos_1.jpg/320px-Nara_Byakugoji_cho_Jizos_1.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Nara_Byakugoji_cho_Jizos_1.jpg",
-      "popupContent": "<h2>地蔵群</h2>白毫寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nara_Byakugoji_cho_Jizos_1.jpg/320px-Nara_Byakugoji_cho_Jizos_1.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.846603,
-        34.671322
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Jizos 2.jpg",
-      "title": [
-        "地蔵群"
-      ],
-      "description": [
-        "白毫寺町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nara_Byakugoji_cho_Jizos_2.jpg/320px-Nara_Byakugoji_cho_Jizos_2.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nara_Byakugoji_cho_Jizos_2.jpg",
-      "popupContent": "<h2>地蔵群</h2>白毫寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nara_Byakugoji_cho_Jizos_2.jpg/320px-Nara_Byakugoji_cho_Jizos_2.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.845336,
-        34.670864
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Jizos 3.jpg",
-      "title": [
-        "地蔵群"
-      ],
-      "description": [
-        "白毫寺町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Nara_Byakugoji_cho_Jizos_3.jpg/320px-Nara_Byakugoji_cho_Jizos_3.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nara_Byakugoji_cho_Jizos_3.jpg",
-      "popupContent": "地蔵群</h2>白毫寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Nara_Byakugoji_cho_Jizos_3.jpg/320px-Nara_Byakugoji_cho_Jizos_3.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.843017,
-        34.671158
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Notogawa Jizos 1.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "白毫寺町 能登川河畔"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Nara_Byakugoji_cho_Notogawa_Jizos_1.jpg/180px-Nara_Byakugoji_cho_Notogawa_Jizos_1.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/86/Nara_Byakugoji_cho_Notogawa_Jizos_1.jpg",
-      "popupContent": "<h2>地蔵</h2>白毫寺町 能登川河畔<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Nara_Byakugoji_cho_Notogawa_Jizos_1.jpg/180px-Nara_Byakugoji_cho_Notogawa_Jizos_1.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.842531,
-        34.671131
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Notogawa Jizos 2.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "白毫寺町 能登川河畔"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Nara_Byakugoji_cho_Notogawa_Jizos_2.jpg/180px-Nara_Byakugoji_cho_Notogawa_Jizos_2.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nara_Byakugoji_cho_Notogawa_Jizos_2.jpg",
-      "popupContent": "<h2>地蔵</h2>白毫寺町 能登川河畔<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Nara_Byakugoji_cho_Notogawa_Jizos_2.jpg/180px-Nara_Byakugoji_cho_Notogawa_Jizos_2.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.829925,
-        34.680878
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Ganrin-in Jizodo.jpg",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "元林院町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nara_Ganrin-in_Jizodo.jpg/180px-Nara_Ganrin-in_Jizodo.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/54/Nara_Ganrin-in_Jizodo.jpg",
-      "popupContent": "<h2>地蔵堂</h2>元林院町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nara_Ganrin-in_Jizodo.jpg/180px-Nara_Ganrin-in_Jizodo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.829972,
-        34.674922
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Hanazono cho Jizos in Wall.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "花園町 壁の中"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nara_Hanazono_cho_Jizos_in_Wall.jpg/320px-Nara_Hanazono_cho_Jizos_in_Wall.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nara_Hanazono_cho_Jizos_in_Wall.jpg",
-      "popupContent": "<h2>地蔵</h2>花園町 壁の中<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nara_Hanazono_cho_Jizos_in_Wall.jpg/320px-Nara_Hanazono_cho_Jizos_in_Wall.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.836594,
-        34.687094
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Irie KyuKyo Jizo.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "入江泰吉旧居、吉城川畔に降りる道脇"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nara_Irie_KyuKyo_Jizo.jpg/320px-Nara_Irie_KyuKyo_Jizo.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/75/Nara_Irie_KyuKyo_Jizo.jpg",
-      "popupContent": "<h2>地蔵</h2>入江泰吉旧居、吉城川畔に降りる道脇<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nara_Irie_KyuKyo_Jizo.jpg/320px-Nara_Irie_KyuKyo_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.830458,
-        34.668778
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Kainotsuka Jizo.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "肘塚町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nara_Kainotsuka_Jizo.jpg/180px-Nara_Kainotsuka_Jizo.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/45/Nara_Kainotsuka_Jizo.jpg",
-      "popupContent": "<h2>地蔵</h2>肘塚町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nara_Kainotsuka_Jizo.jpg/180px-Nara_Kainotsuka_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.833786,
-        34.671108
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Kidera cho Jizo 1.jpg",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "紀寺町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nara_Kidera_cho_Jizo_1.jpg/180px-Nara_Kidera_cho_Jizo_1.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nara_Kidera_cho_Jizo_1.jpg",
-      "popupContent": "<h2>地蔵堂</h2>紀寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nara_Kidera_cho_Jizo_1.jpg/180px-Nara_Kidera_cho_Jizo_1.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.833633,
-        34.671692
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Kidera cho Jizo 2.jpg",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "紀寺町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nara_Kidera_cho_Jizo_2.jpg/180px-Nara_Kidera_cho_Jizo_2.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nara_Kidera_cho_Jizo_2.jpg",
-      "popupContent": "<h2>地蔵堂</h2>紀寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nara_Kidera_cho_Jizo_2.jpg/180px-Nara_Kidera_cho_Jizo_2.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.833572,
-        34.671731
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Kidera cho Jizo 3.jpg",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "紀寺町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nara_Kidera_cho_Jizo_3.jpg/320px-Nara_Kidera_cho_Jizo_3.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nara_Kidera_cho_Jizo_3.jpg",
-      "popupContent": "<h2>地蔵堂</h2>紀寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nara_Kidera_cho_Jizo_3.jpg/320px-Nara_Kidera_cho_Jizo_3.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.832839,
-        34.672272
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Kidera cho Jizo 4.jpg",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "紀寺町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Nara_Kidera_cho_Jizo_4.jpg/180px-Nara_Kidera_cho_Jizo_4.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Nara_Kidera_cho_Jizo_4.jpg",
-      "popupContent": "<h2>地蔵堂</h2>紀寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Nara_Kidera_cho_Jizo_4.jpg/180px-Nara_Kidera_cho_Jizo_4.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.83455,
-        34.670836
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Kidera Jizo in Mansion.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "紀寺町 マンション基礎内"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nara_Kidera_Jizo_in_Mansion.jpg/320px-Nara_Kidera_Jizo_in_Mansion.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/28/Nara_Kidera_Jizo_in_Mansion.jpg",
-      "popupContent": "<h2>地蔵</h2>紀寺町 マンション基礎内<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nara_Kidera_Jizo_in_Mansion.jpg/320px-Nara_Kidera_Jizo_in_Mansion.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.832414,
-        34.682122
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Kofukuji South Jizo.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "興福寺南側 菩提堂向付近"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nara_Kofukuji_South_Jizo.jpg/180px-Nara_Kofukuji_South_Jizo.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nara_Kofukuji_South_Jizo.jpg",
-      "popupContent": "<h2>地蔵</h2>興福寺南側 菩提堂向付近<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nara_Kofukuji_South_Jizo.jpg/180px-Nara_Kofukuji_South_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.832686,
-        34.673778
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Nishikidera Jizo.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "西紀寺町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nara_Nishikidera_Jizo.jpg/320px-Nara_Nishikidera_Jizo.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nara_Nishikidera_Jizo.jpg",
-      "popupContent": "<h2>地蔵</h2>西紀寺町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nara_Nishikidera_Jizo.jpg/320px-Nara_Nishikidera_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.835022,
-        34.679558
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Jizo near Araike.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "高畑町 荒池のほとり"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nara_Takabatake_Jizo_near_Araike.jpg/180px-Nara_Takabatake_Jizo_near_Araike.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/72/Nara_Takabatake_Jizo_near_Araike.jpg",
-      "popupContent": "<h2>地蔵</h2>高畑町 荒池のほとり<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nara_Takabatake_Jizo_near_Araike.jpg/180px-Nara_Takabatake_Jizo_near_Araike.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.839631,
-        34.677681
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Nokisaki Jizo.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "高畑町 ビル軒先"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nara_Takabatake_Nokisaki_Jizo.jpg/320px-Nara_Takabatake_Nokisaki_Jizo.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/45/Nara_Takabatake_Nokisaki_Jizo.jpg",
-      "popupContent": "<h2>地蔵</h2>高畑町 ビル軒先<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nara_Takabatake_Nokisaki_Jizo.jpg/320px-Nara_Takabatake_Nokisaki_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.829042,
-        34.676667
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Takamikado cho Jizo in Wall.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "高御門町 壁の中"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nara_Takamikado_cho_Jizo_in_Wall.jpg/180px-Nara_Takamikado_cho_Jizo_in_Wall.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Nara_Takamikado_cho_Jizo_in_Wall.jpg",
-      "popupContent": "<h2>地蔵</h2>高御門町 壁の中<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nara_Takamikado_cho_Jizo_in_Wall.jpg/180px-Nara_Takamikado_cho_Jizo_in_Wall.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.839814,
-        34.684831
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Nara_Zoshi Cho Jizo.jpg",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "雑司町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nara_Zoshi_Cho_Jizo.jpg/180px-Nara_Zoshi_Cho_Jizo.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nara_Zoshi_Cho_Jizo.jpg",
-      "popupContent": "<h2>地蔵堂</h2>雑司町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nara_Zoshi_Cho_Jizo.jpg/180px-Nara_Zoshi_Cho_Jizo.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.821367,
-        34.684617
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Shibatsuji-cho_Jizodo Nara.jpg",
-      "title": [
-        "地蔵堂"
-      ],
-      "description": [
-        "芝辻町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shibatsuji-cho_Jizodo_Nara.jpg/320px-Shibatsuji-cho_Jizodo_Nara.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Shibatsuji-cho_Jizodo_Nara.jpg",
-      "popupContent": "<h2>地蔵堂</h2>芝辻町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shibatsuji-cho_Jizodo_Nara.jpg/320px-Shibatsuji-cho_Jizodo_Nara.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.830567,
-        34.672414
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Asuka JInja.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "京終 飛鳥神社そば"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg/320px-Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/99/Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg",
-      "popupContent": "<h2>地蔵</h2>京終 飛鳥神社そば<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg/320px-Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.839281,
-        34.676792
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Zuto.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "高畑町 頭塔そば"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wayside_Jizo_In_Nara_Near_Zuto.jpg/320px-Wayside_Jizo_In_Nara_Near_Zuto.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wayside_Jizo_In_Nara_Near_Zuto.jpg",
-      "popupContent": "<h2>地蔵</h2>高畑町 頭塔そば<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wayside_Jizo_In_Nara_Near_Zuto.jpg/320px-Wayside_Jizo_In_Nara_Near_Zuto.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.824708,
-        34.678089
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Sugigamachi.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "杉ヶ町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wayside_Jizo_In_Nara_Sugigamachi.jpg/320px-Wayside_Jizo_In_Nara_Sugigamachi.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/de/Wayside_Jizo_In_Nara_Sugigamachi.jpg",
-      "popupContent": "<h2>地蔵</h2>杉ヶ町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wayside_Jizo_In_Nara_Sugigamachi.jpg/320px-Wayside_Jizo_In_Nara_Sugigamachi.jpg'>"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        135.825486,
-        34.6773
-      ]
-    },
-    "properties": {
-      "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Minami Uoyacho.jpg",
-      "title": [
-        "地蔵"
-      ],
-      "description": [
-        "南魚屋町"
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wayside_Jizo_Minami_Uoyacho.jpg/180px-Wayside_Jizo_Minami_Uoyacho.jpg",
-      "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wayside_Jizo_Minami_Uoyacho.jpg",
-      "popupContent": "<h2>地蔵</h2>南魚屋町<br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wayside_Jizo_Minami_Uoyacho.jpg/180px-Wayside_Jizo_Minami_Uoyacho.jpg'>"
-    }
-  }
-]
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.835267,
+          34.679081
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Araike_Jizo Nara",
+        "title": "荒池地蔵尊",
+        "description": "高畑町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Araike Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nara_Takabatake_Araike_Jizo.jpg/320px-Nara_Takabatake_Araike_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/39/Nara_Takabatake_Araike_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>高畑町 荒池地蔵尊か？"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nara_Takabatake_Araike_Jizo.jpg/320px-Nara_Takabatake_Araike_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.827585,
+          34.681704
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Enmei_Jizo Nara",
+        "title": "延命地蔵尊",
+        "description": "角振新屋町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Enmei_Jizouson Nara.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Enmei_Jizouson_Nara.jpg/320px-Enmei_Jizouson_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Enmei_Jizouson_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> <a href=\"https://ja.wikipedia.org/wiki/%E9%9A%BC%E7%A5%9E%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82)#.E5.BB.B6.E5.91.BD.E5.9C.B0.E8.94.B5\" class=\"extiw\" title=\"ja:隼神社 (奈良市)\">延命地蔵尊</a>、奈良"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Enmei_Jizouson_Nara.jpg/320px-Enmei_Jizouson_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.838456,
+          34.673893
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:HigashiKidera-cho_1 Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "東紀寺町1",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:HigashiKidera-cho_1 Jizodo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HigashiKidera-cho_1_Jizodo_Nara_Inside.jpg/180px-HigashiKidera-cho_1_Jizodo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1b/HigashiKidera-cho_1_Jizodo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東紀寺町1 地蔵堂内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:HigashiKidera-cho_1 Jizodo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/HigashiKidera-cho_1_Jizodo_Nara_Outside.jpg/180px-HigashiKidera-cho_1_Jizodo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c8/HigashiKidera-cho_1_Jizodo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東紀寺町1 地蔵堂外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HigashiKidera-cho_1_Jizodo_Nara_Inside.jpg/180px-HigashiKidera-cho_1_Jizodo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.840303,
+          34.67305
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:HigashiKidera-cho_2 (East) Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "東紀寺町2 (東方)",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:HigashiKidera-cho_2 Jizodo Nara.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HigashiKidera-cho_2_Jizodo_Nara.jpg/180px-HigashiKidera-cho_2_Jizodo_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/40/HigashiKidera-cho_2_Jizodo_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東紀寺町2 地蔵堂"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HigashiKidera-cho_2_Jizodo_Nara.jpg/180px-HigashiKidera-cho_2_Jizodo_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.839081,
+          34.6717455
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:HigashiKidera-cho_2 (South) Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "東紀寺町2 (南方)",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizodo_HigashiKidera-cho 2 Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jizodo_HigashiKidera-cho_2_Inside.jpg/320px-Jizodo_HigashiKidera-cho_2_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/08/Jizodo_HigashiKidera-cho_2_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 地蔵堂東紀寺町 内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizodo_HigashiKidera-cho 2.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jizodo_HigashiKidera-cho_2.jpg/320px-Jizodo_HigashiKidera-cho_2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/52/Jizodo_HigashiKidera-cho_2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 地蔵堂東紀寺町"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jizodo_HigashiKidera-cho_2_Inside.jpg/320px-Jizodo_HigashiKidera-cho_2_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82769266666665,
+          34.674190333333335
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:HigashiKitsuji-cho_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "東木辻町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_HigashiKitsuji Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nara_HigashiKitsuji_Jizo.jpg/180px-Nara_HigashiKitsuji_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Nara_HigashiKitsuji_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>奈良市東木辻町 地蔵堂"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Big Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wayside_Jizo_In_Nara_Near_Big_Nara_Inside.jpg/180px-Wayside_Jizo_In_Nara_Near_Big_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Wayside_Jizo_In_Nara_Near_Big_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良京終 ビッグナラそばの地蔵（中）"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Big Nara.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wayside_Jizo_In_Nara_Near_Big_Nara.jpg/180px-Wayside_Jizo_In_Nara_Near_Big_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/86/Wayside_Jizo_In_Nara_Near_Big_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良京終 ビッグナラそばの地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nara_HigashiKitsuji_Jizo.jpg/180px-Nara_HigashiKitsuji_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8288125,
+          34.685335
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:HigashimukiKita-machi_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "東向北町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Higashimuki KIta Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nara_Higashimuki_KIta_Jizo.jpg/180px-Nara_Higashimuki_KIta_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Nara_Higashimuki_KIta_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市東向北町 地蔵堂"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Higashimuki-KIta Dori EastSide Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nara_Higashimuki-KIta_Dori_EastSide_Jizo.jpg/180px-Nara_Higashimuki-KIta_Dori_EastSide_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nara_Higashimuki-KIta_Dori_EastSide_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、東向北商店街、中ほど東側の地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nara_Higashimuki_KIta_Jizo.jpg/180px-Nara_Higashimuki_KIta_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.833061,
+          34.6966305
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Horen-cho_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "法蓮町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Horen-cho_Jizodo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horen-cho_Jizodo_Nara_Inside.jpg/320px-Horen-cho_Jizodo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/06/Horen-cho_Jizodo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 地蔵堂 内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Horen-cho_Jizodo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Horen-cho_Jizodo_Nara_Outside.jpg/320px-Horen-cho_Jizodo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/40/Horen-cho_Jizodo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 地蔵堂 外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horen-cho_Jizodo_Nara_Inside.jpg/320px-Horen-cho_Jizodo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82945999999998,
+          34.691582
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Horen-cho_Jizos (North of Fuko-in) Nara",
+        "title": "地蔵",
+        "description": "法蓮町 (普光院北)",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Horen-cho_Jizos (North of Fuko-in) Nara Far.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Far.jpg/320px-Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Far.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Far.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 地蔵 (普光院北) 遠景"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Horen-cho_Jizos (North of Fuko-in) Nara Near.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Near.jpg/320px-Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Near.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Near.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 地蔵 (普光院北) 近景"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Far.jpg/320px-Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara_Far.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.830487,
+          34.680906
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Isagawa_Jizo Nara",
+        "title": "率川地蔵尊",
+        "description": "登大路町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Isakawa_Jizos Nara.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Isakawa_Jizos_Nara.jpg/135px-Isakawa_Jizos_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/00/Isakawa_Jizos_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 率川の地蔵群、奈良"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Isakawa_Jizos_Nara.jpg/135px-Isakawa_Jizos_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.829072,
+          34.686783
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Jufuku_Jizo Nara",
+        "title": "十福地蔵尊",
+        "description": "花芝町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Higashimuki-KIta Dori NorthEast Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nara_Higashimuki-KIta_Dori_NorthEast_Jizo.jpg/180px-Nara_Higashimuki-KIta_Dori_NorthEast_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nara_Higashimuki-KIta_Dori_NorthEast_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、東向北商店街、北ドンツキ東側の地蔵（十福地蔵尊）"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nara_Higashimuki-KIta_Dori_NorthEast_Jizo.jpg/180px-Nara_Higashimuki-KIta_Dori_NorthEast_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8302085,
+          34.670658
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Kainotsuka-cho_Jizo (With Myogo) Nara",
+        "title": "地蔵 名号付",
+        "description": "肘塚町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo (With Myogo) Nara Myogo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara_Myogo.jpg/320px-Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara_Myogo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara_Myogo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市肘塚町 地蔵 名号付 名号"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo (With Myogo) Nara.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市肘塚町 地蔵 名号付"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara_Myogo.jpg/320px-Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara_Myogo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78871175,
+          34.693935499999995
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Kangiji_Jizo Nara",
+        "title": "歓喜寺地蔵尊",
+        "description": "二条町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kangiji_Jizo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kangiji_Jizo_Nara_Inside.jpg/320px-Kangiji_Jizo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kangiji_Jizo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市二条町 歓喜寺地蔵尊内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kangiji_Jizo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kangiji_Jizo_Nara_Outside.jpg/320px-Kangiji_Jizo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kangiji_Jizo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市二条町 歓喜寺地蔵尊外観"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kangiji_Jizo Nara Plate.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kangiji_Jizo_Nara_Plate.jpg/180px-Kangiji_Jizo_Nara_Plate.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kangiji_Jizo_Nara_Plate.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市二条町 歓喜寺地蔵尊プレート"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kobo_Well With Amida And Kangiji Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg/320px-Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市二条町 弘法井戸及び歓喜寺地蔵尊遠景"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kangiji_Jizo_Nara_Inside.jpg/320px-Kangiji_Jizo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.834664,
+          34.697353
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Kawakami-cho_Jizodo (East of Nara Juvenile Prison)",
+        "title": "地蔵堂",
+        "description": "川上町 (奈良少年刑務所東)",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizodo (East of Nara Juvenile Prison) Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Inside.jpg/180px-Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市川上町 地蔵堂 (奈良少年刑務所東) 内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizodo (East of Nara Juvenile Prison) Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Outside.jpg/180px-Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市川上町 地蔵堂 (奈良少年刑務所東) 外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Inside.jpg/180px-Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83500700000002,
+          34.696365
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Kawakami-cho_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "川上町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizodo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kawakami-cho_Jizodo_Nara_Inside.jpg/320px-Kawakami-cho_Jizodo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/35/Kawakami-cho_Jizodo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市川上町 地蔵堂内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizodo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kawakami-cho_Jizodo_Nara_Outside.jpg/320px-Kawakami-cho_Jizodo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kawakami-cho_Jizodo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市川上町 地蔵堂外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kawakami-cho_Jizodo_Nara_Inside.jpg/320px-Kawakami-cho_Jizodo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82955850000002,
+          34.691546
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Kawanaka_Jizo (Horen-cho) Nara",
+        "title": "川中地蔵尊",
+        "description": "法蓮町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kawanaka_Jizo (Horen-cho) Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kawanaka_Jizo_%28Horen-cho%29_Nara_Inside.jpg/320px-Kawanaka_Jizo_%28Horen-cho%29_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kawanaka_Jizo_%28Horen-cho%29_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 川中地蔵尊 内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kawanaka_Jizo (Horen-cho) Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kawanaka_Jizo_%28Horen-cho%29_Nara_Outside.jpg/320px-Kawanaka_Jizo_%28Horen-cho%29_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kawanaka_Jizo_%28Horen-cho%29_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市法蓮町 川中地蔵尊 外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kawanaka_Jizo_%28Horen-cho%29_Nara_Inside.jpg/320px-Kawanaka_Jizo_%28Horen-cho%29_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8322,
+          34.689269
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Kawanaka_Jizo Nara",
+        "title": "川中地蔵尊",
+        "description": "川久保町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Kawanaka Jizo Kitamachi.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nara_Kawanaka_Jizo_Kitamachi.jpg/320px-Nara_Kawanaka_Jizo_Kitamachi.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nara_Kawanaka_Jizo_Kitamachi.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良きたまち、川中地蔵尊、吉城川暗渠上の地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nara_Kawanaka_Jizo_Kitamachi.jpg/320px-Nara_Kawanaka_Jizo_Kitamachi.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.828889,
+          34.674411
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Kawarado-cho_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "瓦堂町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Kawarado cho Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nara_Kawarado_cho_Jizo.jpg/320px-Nara_Kawarado_cho_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Nara_Kawarado_cho_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市瓦堂町 地蔵堂"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nara_Kawarado_cho_Jizo.jpg/320px-Nara_Kawarado_cho_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.783036,
+          34.693967
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Kitamuki_Jizo Nara",
+        "title": "北向地蔵尊",
+        "description": "西大寺国見町1",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kitamuki_Jizo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kitamuki_Jizo_Nara_Inside.jpg/180px-Kitamuki_Jizo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/50/Kitamuki_Jizo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西大寺国見町1 北向地蔵尊内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kitamuki_Jizo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kitamuki_Jizo_Nara_Outside.jpg/180px-Kitamuki_Jizo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kitamuki_Jizo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西大寺国見町1 北向地蔵尊外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kitamuki_Jizo_Nara_Inside.jpg/180px-Kitamuki_Jizo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.824889,
+          34.67447133333334
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Kodakara_Jizo Nara",
+        "title": "子宝地蔵尊",
+        "description": "西木辻町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kodakara_Jizo Nara Inside 1.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kodakara_Jizo_Nara_Inside_1.jpg/180px-Kodakara_Jizo_Nara_Inside_1.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kodakara_Jizo_Nara_Inside_1.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 子宝地蔵尊内部1"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kodakara_Jizo Nara Inside 2.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kodakara_Jizo_Nara_Inside_2.jpg/180px-Kodakara_Jizo_Nara_Inside_2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kodakara_Jizo_Nara_Inside_2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 子宝地蔵尊内部2"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kodakara_Jizo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kodakara_Jizo_Nara_Outside.jpg/180px-Kodakara_Jizo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kodakara_Jizo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 子宝地蔵尊外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kodakara_Jizo_Nara_Inside_1.jpg/180px-Kodakara_Jizo_Nara_Inside_1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.830581,
+          34.690464
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Komori_Jizo (NishiSasaboko-cho) Nara",
+        "title": "子守地蔵尊",
+        "description": "西笹鉾町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Komori_Jizo (NishiSasaboko-cho) Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Inside.jpg/320px-Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 西笹鉾町 子守地蔵尊 内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Komori_Jizo (NishiSasaboko-cho) Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Outside.jpg/180px-Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 西笹鉾町 子守地蔵尊 外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Inside.jpg/320px-Komori_Jizo_%28NishiSasaboko-cho%29_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83473766666668,
+          34.69889
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Manki_Jizo Nara",
+        "title": "萬季地蔵尊",
+        "description": "般若寺町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Manki_Jizo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Manki_Jizo_Nara_Inside.jpg/320px-Manki_Jizo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Manki_Jizo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市般若寺町 萬季地蔵尊 内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Manki_Jizo Nara NameStone.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Manki_Jizo_Nara_NameStone.jpg/180px-Manki_Jizo_Nara_NameStone.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/81/Manki_Jizo_Nara_NameStone.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市般若寺町 萬季地蔵尊 石碑"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Manki_Jizo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Manki_Jizo_Nara_Outside.jpg/180px-Manki_Jizo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Manki_Jizo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市般若寺町 萬季地蔵尊 外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Manki_Jizo_Nara_Inside.jpg/320px-Manki_Jizo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8234875,
+          34.678521
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:ManNaoshi_Jizo Nara",
+        "title": "万直し地蔵尊",
+        "description": "杉ヶ町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Nara Sugigacho Near Sugiichi Taishin Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin_Inside.jpg/180px-Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町杉市大神そばの地蔵（中）"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Nara Sugigacho Near Sugiichi Taishin.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin.jpg/320px-Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/25/Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町杉市大神そばの地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin_Inside.jpg/180px-Wayside_Jizo_Nara_Sugigacho_Near_Sugiichi_Taishin_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.829103,
+          34.666992
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:MinamiKyobate-cho_(Fukudera) Jizo Nara",
+        "title": "福寺跡 地蔵",
+        "description": "南京終町5",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Fukudera Stone Buddha.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nara_Fukudera_Stone_Buddha.jpg/320px-Nara_Fukudera_Stone_Buddha.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nara_Fukudera_Stone_Buddha.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市、<a href=\"https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%AF%BA\" class=\"extiw\" title=\"ja:福寺\">福寺</a>池の底から出た石仏群"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nara_Fukudera_Stone_Buddha.jpg/320px-Nara_Fukudera_Stone_Buddha.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.827269,
+          34.6706305
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:MinamiKyobate-cho_1 Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "南京終町1",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:MinamiKyobate-cho_1 Jizodo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MinamiKyobate-cho_1_Jizodo_Nara_Inside.jpg/180px-MinamiKyobate-cho_1_Jizodo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0f/MinamiKyobate-cho_1_Jizodo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市南京終町1 地蔵堂内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:MinamiKyobate-cho_1 Jizodo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MinamiKyobate-cho_1_Jizodo_Nara_Outside.jpg/180px-MinamiKyobate-cho_1_Jizodo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/07/MinamiKyobate-cho_1_Jizodo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市南京終町1 地蔵堂外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MinamiKyobate-cho_1_Jizodo_Nara_Inside.jpg/180px-MinamiKyobate-cho_1_Jizodo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.824814,
+          34.672082
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:MinamiKyobate-cho_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "南京終町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:MinamiKyobate-cho_Jizodo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MinamiKyobate-cho_Jizodo_Nara_Inside.jpg/320px-MinamiKyobate-cho_Jizodo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a7/MinamiKyobate-cho_Jizodo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市南京終町 地蔵堂内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:MinamiKyobate-cho_Jizodo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/MinamiKyobate-cho_Jizodo_Nara_Outside.jpg/180px-MinamiKyobate-cho_Jizodo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/43/MinamiKyobate-cho_Jizodo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市南京終町 地蔵堂外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MinamiKyobate-cho_Jizodo_Nara_Inside.jpg/320px-MinamiKyobate-cho_Jizodo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.825486,
+          34.676772
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:MinamiShin-machi_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "南新町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo And Benzaiten Minami Shinmachi.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg/320px-Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良南新町の地蔵尊と弁財天"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg/320px-Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8282,
+          34.684947
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Nakasuji-cho_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "中筋町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nakasuji-cho_Jizodo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Nakasuji-cho_Jizodo_Nara_Inside.jpg/320px-Nakasuji-cho_Jizodo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Nakasuji-cho_Jizodo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市中筋町 地蔵堂内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nakasuji-cho_Jizodo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nakasuji-cho_Jizodo_Nara_Outside.jpg/320px-Nakasuji-cho_Jizodo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/17/Nakasuji-cho_Jizodo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市中筋町 地蔵堂外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Nakasuji-cho_Jizodo_Nara_Inside.jpg/320px-Nakasuji-cho_Jizodo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.825486,
+          34.6751845
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_(Kawaramachi) Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "西木辻町(瓦町)",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Kawaramachi Kaisho Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wayside_Jizo_Kawaramachi_Kaisho_Inside.jpg/180px-Wayside_Jizo_Kawaramachi_Kaisho_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/46/Wayside_Jizo_Kawaramachi_Kaisho_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良瓦町会所の地蔵（中）"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Kawaramachi Kaisho.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wayside_Jizo_Kawaramachi_Kaisho.jpg/320px-Wayside_Jizo_Kawaramachi_Kaisho.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wayside_Jizo_Kawaramachi_Kaisho.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良瓦町会所の地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wayside_Jizo_Kawaramachi_Kaisho_Inside.jpg/180px-Wayside_Jizo_Kawaramachi_Kaisho_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.827174,
+          34.673504666666666
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_(Watamachi) Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "西木辻町 (綿町)",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_NishiKitsuji Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nara_NishiKitsuji_Jizo.jpg/320px-Nara_NishiKitsuji_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nara_NishiKitsuji_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Watamachi Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wayside_Jizo_In_Nara_Near_Watamachi_Inside.jpg/320px-Wayside_Jizo_In_Nara_Near_Watamachi_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Wayside_Jizo_In_Nara_Near_Watamachi_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良京終 綿町バス停そばの地蔵（中）"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Watamachi.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wayside_Jizo_In_Nara_Near_Watamachi.jpg/320px-Wayside_Jizo_In_Nara_Near_Watamachi.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Wayside_Jizo_In_Nara_Near_Watamachi.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良京終 綿町バス停そばの地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nara_NishiKitsuji_Jizo.jpg/320px-Nara_NishiKitsuji_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82131249999998,
+          34.674733
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo (Empty) Nara",
+        "title": "地蔵堂（内部空）",
+        "description": "西木辻町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Empty) Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Inside.jpg/320px-NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/df/NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（内部空）内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Empty) Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Outside.jpg/320px-NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（内部空）外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Inside.jpg/320px-NishiKitsuji-cho_Jizodo_%28Empty%29_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8191385,
+          34.6750915
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo (Under Sakurai Line North) Nara",
+        "title": "地蔵堂",
+        "description": "西木辻町（桜井線下北）",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line North) Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Inside.jpg/180px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/21/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下北）内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line North) Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Outside.jpg/180px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下北）外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Inside.jpg/180px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8190505,
+          34.674856250000005
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo (Under Sakurai Line South) Nara",
+        "title": "地蔵堂",
+        "description": "西木辻町（桜井線下南）",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line South) Nara Inside Left.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Left.jpg/320px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Left.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Left.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下南）内部左側"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line South) Nara Inside Right.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Right.jpg/320px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Right.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/42/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Right.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下南）内部右側"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line South) Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside.jpg/320px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f7/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下南）内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:NishiKitsuji-cho_Jizodo (Under Sakurai Line South) Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Outside.jpg/320px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/92/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西木辻町 地蔵堂（桜井線下南）外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Left.jpg/320px-NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara_Inside_Left.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo Nara",
+        "title": [
+          "西木辻町 地蔵堂"
+        ],
+        "description": [
+          "西木辻町 地蔵堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8217275,
+          34.683659500000005
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Nishinosaka-cho_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "西之阪町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishinosaka-cho_Jizodo Nara Center.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nishinosaka-cho_Jizodo_Nara_Center.jpg/320px-Nishinosaka-cho_Jizodo_Nara_Center.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Nishinosaka-cho_Jizodo_Nara_Center.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西之阪町 地蔵堂中央"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishinosaka-cho_Jizodo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nishinosaka-cho_Jizodo_Nara_Inside.jpg/320px-Nishinosaka-cho_Jizodo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/02/Nishinosaka-cho_Jizodo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西之阪町 地蔵堂内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishinosaka-cho_Jizodo Nara Left.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nishinosaka-cho_Jizodo_Nara_Left.jpg/320px-Nishinosaka-cho_Jizodo_Nara_Left.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nishinosaka-cho_Jizodo_Nara_Left.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西之阪町 地蔵堂左方"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishinosaka-cho_Jizodo Nara Right.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nishinosaka-cho_Jizodo_Nara_Right.jpg/320px-Nishinosaka-cho_Jizodo_Nara_Right.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nishinosaka-cho_Jizodo_Nara_Right.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西之阪町 地蔵堂右方"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nishinosaka-cho_Jizodo_Nara_Center.jpg/320px-Nishinosaka-cho_Jizodo_Nara_Center.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.830428,
+          34.67725
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:NishiShinya-cho_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "西新屋町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizo_in Nara Nishi-Shinnyacho.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jizo_in_Nara_Nishi-Shinnyacho.jpg/320px-Jizo_in_Nara_Nishi-Shinnyacho.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jizo_in_Nara_Nishi-Shinnyacho.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市西新屋町、菊岡漢方薬局隣の地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jizo_in_Nara_Nishi-Shinnyacho.jpg/320px-Jizo_in_Nara_Nishi-Shinnyacho.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8242725,
+          34.6765015
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Omori-cho_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "大森町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Omori-cho_Jizodo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Omori-cho_Jizodo_Nara_Inside.jpg/180px-Omori-cho_Jizodo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/57/Omori-cho_Jizodo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市大森町 地蔵堂内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Omori-cho_Jizodo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Omori-cho_Jizodo_Nara_Outside.jpg/180px-Omori-cho_Jizodo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Omori-cho_Jizodo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市大森町 地蔵堂外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Omori-cho_Jizodo_Nara_Inside.jpg/180px-Omori-cho_Jizodo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.823167,
+          34.67945
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Sanjo-cho_Jizodo Nara",
+        "title": "地蔵堂",
+        "description": "三条町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_wayside Jizo In Sugigacho North Of Sugiichi Taishin Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg/180px-Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町杉市大神北方の地蔵（中）"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_wayside Jizo In Sugigacho North Of Sugiichi Taishin.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin.jpg/180px-Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町杉市大神北方の地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg/180px-Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83453450000002,
+          34.673597
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Sawara_Jizo Nara",
+        "title": "早和良地蔵尊",
+        "description": "紀寺町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Sawara_Jizo Nara Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sawara_Jizo_Nara_Inside.jpg/320px-Sawara_Jizo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sawara_Jizo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市紀寺町 早和良地蔵尊内部"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Sawara_Jizo Nara Outside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sawara_Jizo_Nara_Outside.jpg/320px-Sawara_Jizo_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sawara_Jizo_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市紀寺町 早和良地蔵尊外観"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sawara_Jizo_Nara_Inside.jpg/320px-Sawara_Jizo_Nara_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.847747,
+          34.672692
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Shinmei_Jizo Nara",
+        "title": "神明地蔵",
+        "description": "白毫寺町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Shinmei Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nara_Byakugoji_cho_Shinmei_Jizo.jpg/320px-Nara_Byakugoji_cho_Shinmei_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nara_Byakugoji_cho_Shinmei_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市白毫寺町 神明地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nara_Byakugoji_cho_Shinmei_Jizo.jpg/320px-Nara_Byakugoji_cho_Shinmei_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8215095,
+          34.679553999999996
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Sugiga-cho_Park Jizodo (North) Nara",
+        "title": "地蔵堂",
+        "description": "杉ヶ町 (公園北方)",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Wayside Jizo Sugigacho Park North Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg/320px-Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町公園北方の地蔵（中）"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Wayside Jizo Sugigacho Park North.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Nara_Wayside_Jizo_Sugigacho_Park_North.jpg/180px-Nara_Wayside_Jizo_Sugigacho_Park_North.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nara_Wayside_Jizo_Sugigacho_Park_North.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町公園北方の地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg/320px-Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8216625,
+          34.679511500000004
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Sugiga-cho_Park Jizodo (South) Nara",
+        "title": "地蔵堂",
+        "description": "杉ヶ町 (公園南方)",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Wayside Jizo Sugigacho Park South Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg/180px-Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町公園南方の地蔵（中）"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Wayside Jizo Sugigacho Park South.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nara_Wayside_Jizo_Sugigacho_Park_South.jpg/180px-Nara_Wayside_Jizo_Sugigacho_Park_South.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nara_Wayside_Jizo_Sugigacho_Park_South.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町公園南方の地蔵"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg/180px-Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83962499999998,
+          34.677224
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Tsubaki_Jizo Nara",
+        "title": "椿地蔵尊",
+        "description": "高畑町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Tsubaki Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nara_Takabatake_Tsubaki_Jizo.jpg/180px-Nara_Takabatake_Tsubaki_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nara_Takabatake_Tsubaki_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑町 椿地蔵尊"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatakecho Tsubaki Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nara_Takabatakecho_Tsubaki_Jizo.jpg/180px-Nara_Takabatakecho_Tsubaki_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/09/Nara_Takabatakecho_Tsubaki_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良高畑町 椿地蔵尊"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Tsubaki Takabatake Inside And Ceremony.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wayside_Jizo_Tsubaki_Takabatake_Inside_And_Ceremony.jpg/320px-Wayside_Jizo_Tsubaki_Takabatake_Inside_And_Ceremony.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/da/Wayside_Jizo_Tsubaki_Takabatake_Inside_And_Ceremony.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑町 椿地蔵尊（地蔵盆中、内部開扉）"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nara_Takabatake_Tsubaki_Jizo.jpg/180px-Nara_Takabatake_Tsubaki_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.837417,
+          34.677586
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Tsumegaki_Jizo Nara",
+        "title": "爪がき地蔵尊",
+        "description": "高畑町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Tsumegaki Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nara_Takabatake_Tsumegaki_Jizo.jpg/180px-Nara_Takabatake_Tsumegaki_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nara_Takabatake_Tsumegaki_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑 爪がき地蔵尊"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nara_Takabatake_Tsumegaki_Jizo.jpg/180px-Nara_Takabatake_Tsumegaki_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84100366666667,
+          34.677024
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Yanagi_Jizo Nara",
+        "title": "柳地蔵尊",
+        "description": "高畑町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Yanagi Jizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nara_Takabatake_Yanagi_Jizo.jpg/180px-Nara_Takabatake_Yanagi_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nara_Takabatake_Yanagi_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑町 柳地蔵尊か？"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Yanagi Takabatake Inside.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wayside_Jizo_Yanagi_Takabatake_Inside.jpg/180px-Wayside_Jizo_Yanagi_Takabatake_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Wayside_Jizo_Yanagi_Takabatake_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑町 柳地蔵尊（内部）"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Yanagi Takabatake.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wayside_Jizo_Yanagi_Takabatake.jpg/180px-Wayside_Jizo_Yanagi_Takabatake.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Wayside_Jizo_Yanagi_Takabatake.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良市高畑町 柳地蔵尊"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nara_Takabatake_Yanagi_Jizo.jpg/180px-Nara_Takabatake_Yanagi_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83724,
+          34.67611
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Yoroi_Jizo Nara",
+        "title": "鎧地蔵堂",
+        "description": "紀寺町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Yoroi_Jizo Kasayacho Nara.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Yoroi_Jizo_Kasayacho_Nara.jpg/320px-Yoroi_Jizo_Kasayacho_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/12/Yoroi_Jizo_Kasayacho_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 鎧地蔵堂、紀寺町（笠屋町）、奈良"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Yoroi_Jizo_Kasayacho_Nara.jpg/320px-Yoroi_Jizo_Kasayacho_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.835433,
+          34.696767
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Yuhi_Jizo Nara",
+        "title": "夕日地蔵",
+        "description": "興善院町",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Yuuhijizo.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nara_Yuuhijizo.jpg/320px-Nara_Yuuhijizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/58/Nara_Yuuhijizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、<a href=\"https://ja.wikipedia.org/wiki/%E6%B5%84%E7%A6%8F%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)#.E5.A4.95.E6.97.A5.E5.9C.B0.E8.94.B5\" class=\"extiw\" title=\"ja:浄福寺 (奈良市)\">夕日地蔵</a>"
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nara_Yuuhijizo.jpg/320px-Nara_Yuuhijizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.829344,
+          34.694992
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:HandaBiraki-cho_Jizos Nara.jpg",
+        "title": "地蔵",
+        "description": "半田開町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/HandaBiraki-cho_Jizos_Nara.jpg/320px-HandaBiraki-cho_Jizos_Nara.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/02/HandaBiraki-cho_Jizos_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.830414,
+          34.689053
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Jizo_of north of Nara Womans Univ.jpg",
+        "title": "地蔵",
+        "description": "奈良女子大学北側",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jizo_of_north_of_Nara_Womans_Univ.jpg/320px-Jizo_of_north_of_Nara_Womans_Univ.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jizo_of_north_of_Nara_Womans_Univ.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.829894,
+          34.670672
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo (Block Wall) Nara.jpg",
+        "title": "地蔵",
+        "description": "肘塚町 ブロック塀内",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kainotsuka-cho_Jizo_%28Block_Wall%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28Block_Wall%29_Nara.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kainotsuka-cho_Jizo_%28Block_Wall%29_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.831619,
+          34.671422
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo (Kaisho-mae) Nara.jpg",
+        "title": "地蔵",
+        "description": "肘塚町 (会所前)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kainotsuka-cho_Jizo_%28Kaisho-mae%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28Kaisho-mae%29_Nara.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/92/Kainotsuka-cho_Jizo_%28Kaisho-mae%29_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.831131,
+          34.670925
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo (Kaisho-west) Nara.jpg",
+        "title": "地蔵",
+        "description": "肘塚町 会所西方",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kainotsuka-cho_Jizo_%28Kaisho-west%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28Kaisho-west%29_Nara.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kainotsuka-cho_Jizo_%28Kaisho-west%29_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.834397,
+          34.697083
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizo (South of Nara Juvenile Prison).jpg",
+        "title": "地蔵",
+        "description": "川上町 (奈良少年刑務所南)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kawakami-cho_Jizo_%28South_of_Nara_Juvenile_Prison%29.jpg/180px-Kawakami-cho_Jizo_%28South_of_Nara_Juvenile_Prison%29.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kawakami-cho_Jizo_%28South_of_Nara_Juvenile_Prison%29.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.830628,
+          34.688178
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:KitaHandaNishi-machi_Jizodo Nara.jpg",
+        "title": "地蔵堂",
+        "description": "北半田西町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/KitaHandaNishi-machi_Jizodo_Nara.jpg/320px-KitaHandaNishi-machi_Jizodo_Nara.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1d/KitaHandaNishi-machi_Jizodo_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.847519,
+          34.672578
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Jizos 1.jpg",
+        "title": "地蔵群",
+        "description": "白毫寺町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nara_Byakugoji_cho_Jizos_1.jpg/320px-Nara_Byakugoji_cho_Jizos_1.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Nara_Byakugoji_cho_Jizos_1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.846603,
+          34.671322
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Jizos 2.jpg",
+        "title": "地蔵群",
+        "description": "白毫寺町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nara_Byakugoji_cho_Jizos_2.jpg/320px-Nara_Byakugoji_cho_Jizos_2.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nara_Byakugoji_cho_Jizos_2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.845336,
+          34.670864
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Jizos 3.jpg",
+        "title": "地蔵群",
+        "description": "白毫寺町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Nara_Byakugoji_cho_Jizos_3.jpg/320px-Nara_Byakugoji_cho_Jizos_3.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nara_Byakugoji_cho_Jizos_3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.843017,
+          34.671158
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Notogawa Jizos 1.jpg",
+        "title": "地蔵",
+        "description": "白毫寺町 能登川河畔",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Nara_Byakugoji_cho_Notogawa_Jizos_1.jpg/180px-Nara_Byakugoji_cho_Notogawa_Jizos_1.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/86/Nara_Byakugoji_cho_Notogawa_Jizos_1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.842531,
+          34.671131
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji cho Notogawa Jizos 2.jpg",
+        "title": "地蔵",
+        "description": "白毫寺町 能登川河畔",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Nara_Byakugoji_cho_Notogawa_Jizos_2.jpg/180px-Nara_Byakugoji_cho_Notogawa_Jizos_2.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nara_Byakugoji_cho_Notogawa_Jizos_2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.829925,
+          34.680878
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Ganrin-in Jizodo.jpg",
+        "title": "地蔵堂",
+        "description": "元林院町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nara_Ganrin-in_Jizodo.jpg/180px-Nara_Ganrin-in_Jizodo.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/54/Nara_Ganrin-in_Jizodo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.829972,
+          34.674922
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Hanazono cho Jizos in Wall.jpg",
+        "title": "地蔵",
+        "description": "花園町 壁の中",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nara_Hanazono_cho_Jizos_in_Wall.jpg/320px-Nara_Hanazono_cho_Jizos_in_Wall.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nara_Hanazono_cho_Jizos_in_Wall.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.836594,
+          34.687094
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Irie KyuKyo Jizo.jpg",
+        "title": "地蔵",
+        "description": "入江泰吉旧居、吉城川畔に降りる道脇",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nara_Irie_KyuKyo_Jizo.jpg/320px-Nara_Irie_KyuKyo_Jizo.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/75/Nara_Irie_KyuKyo_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.830458,
+          34.668778
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Kainotsuka Jizo.jpg",
+        "title": "地蔵",
+        "description": "肘塚町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nara_Kainotsuka_Jizo.jpg/180px-Nara_Kainotsuka_Jizo.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/45/Nara_Kainotsuka_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.833786,
+          34.671108
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Kidera cho Jizo 1.jpg",
+        "title": "地蔵堂",
+        "description": "紀寺町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nara_Kidera_cho_Jizo_1.jpg/180px-Nara_Kidera_cho_Jizo_1.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nara_Kidera_cho_Jizo_1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.833633,
+          34.671692
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Kidera cho Jizo 2.jpg",
+        "title": "地蔵堂",
+        "description": "紀寺町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nara_Kidera_cho_Jizo_2.jpg/180px-Nara_Kidera_cho_Jizo_2.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nara_Kidera_cho_Jizo_2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.833572,
+          34.671731
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Kidera cho Jizo 3.jpg",
+        "title": "地蔵堂",
+        "description": "紀寺町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nara_Kidera_cho_Jizo_3.jpg/320px-Nara_Kidera_cho_Jizo_3.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nara_Kidera_cho_Jizo_3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.832839,
+          34.672272
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Kidera cho Jizo 4.jpg",
+        "title": "地蔵堂",
+        "description": "紀寺町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Nara_Kidera_cho_Jizo_4.jpg/180px-Nara_Kidera_cho_Jizo_4.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Nara_Kidera_cho_Jizo_4.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83455,
+          34.670836
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Kidera Jizo in Mansion.jpg",
+        "title": "地蔵",
+        "description": "紀寺町 マンション基礎内",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nara_Kidera_Jizo_in_Mansion.jpg/320px-Nara_Kidera_Jizo_in_Mansion.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/28/Nara_Kidera_Jizo_in_Mansion.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.832414,
+          34.682122
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Kofukuji South Jizo.jpg",
+        "title": "地蔵",
+        "description": "興福寺南側 菩提堂向付近",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nara_Kofukuji_South_Jizo.jpg/180px-Nara_Kofukuji_South_Jizo.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nara_Kofukuji_South_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.832686,
+          34.673778
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Nishikidera Jizo.jpg",
+        "title": "地蔵",
+        "description": "西紀寺町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nara_Nishikidera_Jizo.jpg/320px-Nara_Nishikidera_Jizo.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nara_Nishikidera_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.835022,
+          34.679558
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Jizo near Araike.jpg",
+        "title": "地蔵",
+        "description": "高畑町 荒池のほとり",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nara_Takabatake_Jizo_near_Araike.jpg/180px-Nara_Takabatake_Jizo_near_Araike.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/72/Nara_Takabatake_Jizo_near_Araike.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.839631,
+          34.677681
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake Nokisaki Jizo.jpg",
+        "title": "地蔵",
+        "description": "高畑町 ビル軒先",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nara_Takabatake_Nokisaki_Jizo.jpg/320px-Nara_Takabatake_Nokisaki_Jizo.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/45/Nara_Takabatake_Nokisaki_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.829042,
+          34.676667
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Takamikado cho Jizo in Wall.jpg",
+        "title": "地蔵",
+        "description": "高御門町 壁の中",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nara_Takamikado_cho_Jizo_in_Wall.jpg/180px-Nara_Takamikado_cho_Jizo_in_Wall.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Nara_Takamikado_cho_Jizo_in_Wall.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.839814,
+          34.684831
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Zoshi Cho Jizo.jpg",
+        "title": "地蔵堂",
+        "description": "雑司町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nara_Zoshi_Cho_Jizo.jpg/180px-Nara_Zoshi_Cho_Jizo.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nara_Zoshi_Cho_Jizo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.821367,
+          34.684617
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Shibatsuji-cho_Jizodo Nara.jpg",
+        "title": "地蔵堂",
+        "description": "芝辻町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shibatsuji-cho_Jizodo_Nara.jpg/320px-Shibatsuji-cho_Jizodo_Nara.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Shibatsuji-cho_Jizodo_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.830567,
+          34.672414
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Asuka JInja.jpg",
+        "title": "地蔵",
+        "description": "京終 飛鳥神社そば",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg/320px-Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/99/Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.839281,
+          34.676792
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Near Zuto.jpg",
+        "title": "地蔵",
+        "description": "高畑町 頭塔そば",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wayside_Jizo_In_Nara_Near_Zuto.jpg/320px-Wayside_Jizo_In_Nara_Near_Zuto.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wayside_Jizo_In_Nara_Near_Zuto.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.824708,
+          34.678089
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo In Nara Sugigamachi.jpg",
+        "title": "地蔵",
+        "description": "杉ヶ町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wayside_Jizo_In_Nara_Sugigamachi.jpg/320px-Wayside_Jizo_In_Nara_Sugigamachi.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/de/Wayside_Jizo_In_Nara_Sugigamachi.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.825486,
+          34.6773
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo Minami Uoyacho.jpg",
+        "title": "地蔵",
+        "description": "南魚屋町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wayside_Jizo_Minami_Uoyacho.jpg/180px-Wayside_Jizo_Minami_Uoyacho.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wayside_Jizo_Minami_Uoyacho.jpg"
+      }
+    }
+  ]
 }
