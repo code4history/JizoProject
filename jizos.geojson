@@ -990,25 +990,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "url": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo Nara",
-        "title": [
-          "西木辻町 地蔵堂"
-        ],
-        "description": [
-          "西木辻町 地蔵堂"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           135.8217275,
           34.683659500000005
         ]
