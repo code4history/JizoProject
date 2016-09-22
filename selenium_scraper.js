@@ -54,12 +54,12 @@ function scrape_category(args) {
     ]).then(function(results){
         driver.close();
         var rets = results[1].map(function(item){
-            var url    = 'https://commons.wikimedia.org/wiki/Category:' + item.replace(" ","_");
+            var url    = 'https://commons.wikimedia.org/wiki/Category:' + item.replace(/ /g,"_");
             console.log(old);
             var oldone = old.map(function(oldeach){
                 return oldeach.properties != null ? oldeach.properties : oldeach;
             }).filter(function(oldeach){
-                return oldeach.url == url;
+                return oldeach.url.replace(/ /g,"_") == url;
             });
             return {
                 "url" : url,
@@ -67,12 +67,12 @@ function scrape_category(args) {
             };
         });
         rets = rets.concat(results[2].map(function(item){
-            var url    = 'https://commons.wikimedia.org/wiki/File:' + item.replace(" ","_");
+            var url    = 'https://commons.wikimedia.org/wiki/File:' + item.replace(/ /g,"_");
             console.log(old);
             var oldone = old.map(function(oldeach){
                 return oldeach.properties != null ? oldeach.properties : oldeach;
             }).filter(function(oldeach){ 
-                return oldeach.url == url 
+                return oldeach.url.replace(/ /g,"_") == url 
             });
             return {
                 "url" : url,
@@ -152,9 +152,9 @@ function load_each_page(target) {
                 page.thumbnail = res.thumbnail;
                 page.fullsize  = res.fullsize;
                 if (page.old != null) {
-                    page.description = page.old.description.length ? page.old.description[0] : page.old.description;
+                    page.description = Array.isArray(page.old.description) ? page.old.description[0] : page.old.description;
                     if (page.old.title != null) {
-                        page.title       = page.old.title.length       ? page.old.title[0]       : page.old.title;
+                        page.title   = Array.isArray(page.old.title)       ? page.old.title[0]       : page.old.title;
                     }
                 } else {
                     page.description = res.description;
@@ -180,9 +180,9 @@ function load_each_page(target) {
                 });
                 page.files  = lpages;
                 if (page.old != null) {
-                    page.description = page.old.description.length ? page.old.description[0] : page.old.description;
+                    page.description = Array.isArray(page.old.description) ? page.old.description[0] : page.old.description;
                     if (page.old.title != null) {
-                        page.title       = page.old.title.length       ? page.old.title[0]       : page.old.title;
+                        page.title   = Array.isArray(page.old.title)       ? page.old.title[0]       : page.old.title;
                     }                } else {
                     page.description = ltarget.description;
                 }
