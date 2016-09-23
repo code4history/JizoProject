@@ -1249,6 +1249,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.846328,
+          34.677040000000005
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Takabatake-cho_%28Fuku-in_north%29_Jizo_Nara",
+        "title": "地蔵堂",
+        "description": "高畑町 (不空院北)",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizo_Takabatake-cho_Nara_%28Fuku-in_north%29_Inside.jpg",
+            "pushIndex": 0,
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jizo_Takabatake-cho_Nara_%28Fuku-in_north%29_Inside.jpg/180px-Jizo_Takabatake-cho_Nara_%28Fuku-in_north%29_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/de/Jizo_Takabatake-cho_Nara_%28Fuku-in_north%29_Inside.jpg",
+            "description": [
+              "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 地蔵高畑町 (不空院北) 内部"
+            ]
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizo_Takabatake-cho_Nara_%28Fuku-in_north%29.jpg",
+            "pushIndex": 1,
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Jizo_Takabatake-cho_Nara_%28Fuku-in_north%29.jpg/180px-Jizo_Takabatake-cho_Nara_%28Fuku-in_north%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jizo_Takabatake-cho_Nara_%28Fuku-in_north%29.jpg",
+            "description": [
+              "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 地蔵高畑町 (不空院北)"
+            ]
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jizo_Takabatake-cho_Nara_%28Fuku-in_north%29_Inside.jpg/180px-Jizo_Takabatake-cho_Nara_%28Fuku-in_north%29_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.847649,
+          34.676964
+        ]
+      },
+      "properties": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Takabatake-cho_%28Kakuya-dera_west%29_Jizo_Nara",
+        "title": "地蔵堂",
+        "description": "高畑町 (隔夜寺西)",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizo_Takabatake-cho_Nara_%28Kakuya-dera_west%29_Inside.jpg",
+            "pushIndex": 0,
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Jizo_Takabatake-cho_Nara_%28Kakuya-dera_west%29_Inside.jpg/180px-Jizo_Takabatake-cho_Nara_%28Kakuya-dera_west%29_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jizo_Takabatake-cho_Nara_%28Kakuya-dera_west%29_Inside.jpg",
+            "description": [
+              "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 地蔵高畑町 (隔夜寺西) 内部"
+            ]
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizo_Takabatake-cho_Nara_%28Kakuya-dera_west%29.jpg",
+            "pushIndex": 1,
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Jizo_Takabatake-cho_Nara_%28Kakuya-dera_west%29.jpg/320px-Jizo_Takabatake-cho_Nara_%28Kakuya-dera_west%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/43/Jizo_Takabatake-cho_Nara_%28Kakuya-dera_west%29.jpg",
+            "description": [
+              "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 地蔵高畑町 (隔夜寺西)"
+            ]
+          }
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Jizo_Takabatake-cho_Nara_%28Kakuya-dera_west%29_Inside.jpg/180px-Jizo_Takabatake-cho_Nara_%28Kakuya-dera_west%29_Inside.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.83962499999998,
           34.677224
         ]

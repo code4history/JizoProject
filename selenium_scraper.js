@@ -1,8 +1,23 @@
+#!/usr/bin/env node
+
 var webdriver = require('selenium-webdriver'),
     By = webdriver.By,
     until = webdriver.until,
-    fs = require('fs');
+    fs = require('fs'),
+    argv = require('argv');
 
+argv.option({
+    name: 'newonly',
+    short: 'n',
+    type : 'boolean',
+    description : '新しい要素だけを追加します',
+    example: "'selenium_scraper.js --newonly' or 'selenium_scraper.js -n'"
+});
+
+var args = argv.run();
+console.log(args);
+var newonly = args.options && args.options.newonly ? true : false;
+console.log(newonly);
 var timeout  = 600000;
 var old_json = JSON.parse(fs.readFileSync("./jizos.geojson", 'utf8')).features;
 
@@ -11,6 +26,7 @@ function wikiurl_escape(url) {
 }
 
 function old_data_copy1(arr,type,old) {
+    if (!old) old = [];
     return arr.map(function(item){
         var url    = 'https://commons.wikimedia.org/wiki/' + type + ':' + wikiurl_escape(item);
         var oldone = old.map(function(oldeach){
@@ -86,6 +102,12 @@ function scrape_category(args) {
         driver.close();
         var rets = old_data_copy1(results[1],"Category",old);
         rets = rets.concat(old_data_copy1(results[2],"File",old));
+        if (newonly) {
+            rets = rets.filter(function(each,index){
+                each.pushIndex = index;
+                return each.old == null;
+            });
+        }
 
         return {
             "description" : results[0],
@@ -190,32 +212,47 @@ get_target("https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_in_Nara",o
 .then(scrape_category)
 .then(load_each_page)
 .then(function(target){
+    var features = target.pages.map(function(source){
+        var feature = {
+            "type": "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [source.latlng[1],source.latlng[0]]
+            },
+            "properties" : {
+                "url" : source.url,
+                "title" : source.title ? source.title : source.description,
+                "description" : source.description
+            }
+        };
+        var prop = feature.properties;
+        if (source.files && source.files.length != 0) {
+            prop.files = source.files;
+            prop.thumbnail = source.files[0].thumbnail;
+        } else {
+            prop.thumbnail = source.thumbnail;
+            prop.fullsize  = source.fullsize;
+        }
+        if (newonly) {
+            feature.pushIndex = source.pushIndex;
+        }
+
+        return feature;
+    });
+
+    if (newonly) {
+        features.forEach(function(each){
+            old_json.splice(each.pushIndex,0,each);
+            delete each.pushIndex;
+        });
+        features = old_json;
+    }
+
     var geojson = {
         "type": "FeatureCollection",
-        "features": target.pages.map(function(source){
-            var feature = {
-                "type": "Feature",
-                "geometry" : {
-                    "type" : "Point",
-                    "coordinates" : [source.latlng[1],source.latlng[0]]
-                },
-                "properties" : {
-                    "url" : source.url,
-                    "title" : source.title ? source.title : source.description,
-                    "description" : source.description
-                }
-            };
-            var prop = feature.properties;
-            if (source.files && source.files.length != 0) {
-                prop.files = source.files;
-                prop.thumbnail = source.files[0].thumbnail;
-            } else {
-                prop.thumbnail = source.thumbnail;
-                prop.fullsize  = source.fullsize;
-            }
-            return feature;
-        })
+        "features": features
     };
+
     var json = JSON.stringify(geojson, null, "  ");
     fs.writeFile('./jizos.geojson', json , function (err) {
         console.log(err);
