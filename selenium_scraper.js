@@ -6,6 +6,37 @@ var webdriver = require('selenium-webdriver'),
 var timeout  = 600000;
 var old_json = JSON.parse(fs.readFileSync("./jizos.geojson", 'utf8')).features;
 
+function wikiurl_escape(url) {
+    return url.replace(/ /g,"_").replace(/\(/g,"%28").replace(/\)/g,"%29");
+}
+
+function old_data_copy1(arr,type,old) {
+    return arr.map(function(item){
+        var url    = 'https://commons.wikimedia.org/wiki/' + type + ':' + wikiurl_escape(item);
+        var oldone = old.map(function(oldeach){
+            return oldeach.properties != null ? oldeach.properties : oldeach;
+        }).filter(function(oldeach){ 
+            return wikiurl_escape(oldeach.url) == url;
+        });
+        return {
+            "url" : url,
+            "old" : oldone.length > 0 ? oldone[0] : null                
+        };
+    })
+}
+
+function old_data_copy2(page,res) {
+    if (page.old != null) {
+        page.description = Array.isArray(page.old.description) ? page.old.description[0] : page.old.description;
+        if (page.old.title != null) {
+            page.title   = Array.isArray(page.old.title)       ? page.old.title[0]       : page.old.title;
+        }
+    } else {
+        page.description = res.description;
+    }
+    delete page.old;
+}
+
 function get_target(url, old) {
     var driver = new webdriver.Builder()
         .forBrowser('chrome')
@@ -53,32 +84,8 @@ function scrape_category(args) {
         })
     ]).then(function(results){
         driver.close();
-        var rets = results[1].map(function(item){
-            var url    = 'https://commons.wikimedia.org/wiki/Category:' + item.replace(/ /g,"_");
-            console.log(old);
-            var oldone = old.map(function(oldeach){
-                return oldeach.properties != null ? oldeach.properties : oldeach;
-            }).filter(function(oldeach){
-                return oldeach.url.replace(/ /g,"_") == url;
-            });
-            return {
-                "url" : url,
-                "old" : oldone.length > 0 ? oldone[0] : null
-            };
-        });
-        rets = rets.concat(results[2].map(function(item){
-            var url    = 'https://commons.wikimedia.org/wiki/File:' + item.replace(/ /g,"_");
-            console.log(old);
-            var oldone = old.map(function(oldeach){
-                return oldeach.properties != null ? oldeach.properties : oldeach;
-            }).filter(function(oldeach){ 
-                return oldeach.url.replace(/ /g,"_") == url 
-            });
-            return {
-                "url" : url,
-                "old" : oldone.length > 0 ? oldone[0] : null                
-            };
-        }));
+        var rets = old_data_copy1(results[1],"Category",old);
+        rets = rets.concat(old_data_copy1(results[2],"File",old));
 
         return {
             "description" : results[0],
@@ -151,21 +158,13 @@ function load_each_page(target) {
                 page.latlng    = res.latlng;               
                 page.thumbnail = res.thumbnail;
                 page.fullsize  = res.fullsize;
-                if (page.old != null) {
-                    page.description = Array.isArray(page.old.description) ? page.old.description[0] : page.old.description;
-                    if (page.old.title != null) {
-                        page.title   = Array.isArray(page.old.title)       ? page.old.title[0]       : page.old.title;
-                    }
-                } else {
-                    page.description = res.description;
-                }
-                delete page.old;
-            }) : 
+                old_data_copy2(page,res);
+            }) :
             get_target(page.url,page.old ? page.old.files : null)
             .then(scrape_category)
             .then(load_each_page)
-            .then(function(ltarget){
-                var lpages  = ltarget.pages;
+            .then(function(res){
+                var lpages  = res.pages;
                 var lls     = lpages.filter(function(val){
                     return val.latlng != void 0;
                 });
@@ -179,14 +178,7 @@ function load_each_page(target) {
                     return val / lls.length;
                 });
                 page.files  = lpages;
-                if (page.old != null) {
-                    page.description = Array.isArray(page.old.description) ? page.old.description[0] : page.old.description;
-                    if (page.old.title != null) {
-                        page.title   = Array.isArray(page.old.title)       ? page.old.title[0]       : page.old.title;
-                    }                } else {
-                    page.description = ltarget.description;
-                }
-                delete page.old;
+                old_data_copy2(page,res);
             });
     }))
     .then(function(){
