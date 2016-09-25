@@ -6,20 +6,26 @@ var webdriver = require('selenium-webdriver'),
     fs = require('fs'),
     argv = require('argv');
 
-argv.option({
+argv.option([{
     name: 'newonly',
     short: 'n',
     type : 'boolean',
     description : '新しい要素だけを追加します',
     example: "'selenium_scraper.js --newonly' or 'selenium_scraper.js -n'"
-});
+},{
+    name: 'feedback',
+    short: 'f',
+    type : 'string',
+    description : 'uMapからのフィードバックを適用します。フィードバック対象のgeojsonファイルを指定します。',
+    example: "'selenium_scraper.js --feedback feedback.geojson' or 'selenium_scraper.js -f feedback.geojson'"
+}]);
 
 var args = argv.run();
-console.log(args);
 var newonly = args.options && args.options.newonly ? true : false;
-console.log(newonly);
+var fb_file = args.options && args.options.feedback ? args.options.feedback : false;
 var timeout  = 600000;
 var old_json = JSON.parse(fs.readFileSync("./jizos.geojson", 'utf8')).features;
+var feedback = fb_file ? JSON.parse(fs.readFileSync(fb_file, 'utf8')).features : false;
 
 function wikiurl_escape(url) {
     return url.replace(/ /g,"_").replace(/\(/g,"%28").replace(/\)/g,"%29");
@@ -54,6 +60,8 @@ function old_data_copy2(page,res) {
 }
 
 function get_target(url, old) {
+    console.log("aaa");
+    if (feedback) return Promise.all([]);
     var driver = new webdriver.Builder()
         .forBrowser('chrome')
         .usingServer('http://localhost:4444/wd/hub')
@@ -72,6 +80,8 @@ function get_target(url, old) {
 }
 
 function scrape_category(args) {
+    console.log("bbb");
+    if (feedback) return Promise.all([]);
     var driver = args[0];
     var old    = args[1];
     return Promise.all([
@@ -171,7 +181,8 @@ function scrape_filepage(args) {
 }
 
 function load_each_page(target) {
-    var pages = target.pages;
+    console.log("eee");
+    if (feedback) return Promise.all([]);
     return Promise.all(pages.map(function(page){
         return page.url.includes('wiki/File:') ?
             get_target(page.url)
@@ -204,6 +215,7 @@ function load_each_page(target) {
             });
     }))
     .then(function(){
+        console.log("ddd");
         return target;
     });
 }
@@ -212,7 +224,8 @@ get_target("https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_in_Nara",o
 .then(scrape_category)
 .then(load_each_page)
 .then(function(target){
-    var features = target.pages.map(function(source){
+    console.log("ccc");
+    var features = feedback ? old_json : target.pages.map(function(source){
         var feature = {
             "type": "Feature",
             "geometry" : {
@@ -246,6 +259,23 @@ get_target("https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_in_Nara",o
             delete each.pushIndex;
         });
         features = old_json;
+    } else if (feedback) {
+        var buffer = [];
+        features.forEach(function(each, index) {
+            var target = feedback.filter(function(tgt){
+                return tgt.properties.url == each.properties.url;
+            }).reduce(function(prev,curr){
+                console.log(prev == each ? "Mitsuketa" : "Nai");
+                return prev == each ? curr : prev;
+            },each);
+            console.log(target == each ? "Onaji" : "Chau");
+            buffer.push({
+                "type" : target.type,
+                "geometry" : target.geometry,
+                "properties" : target.properties
+            });
+        });
+        features = buffer;
     }
 
     var geojson = {
@@ -255,6 +285,6 @@ get_target("https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_in_Nara",o
 
     var json = JSON.stringify(geojson, null, "  ");
     fs.writeFile('./jizos.geojson', json , function (err) {
-        console.log(err);
+        if (err) console.log(err);
     });
 });
