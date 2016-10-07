@@ -25,7 +25,12 @@ var newonly = args.options && args.options.newonly ? true : false;
 var fb_file = args.options && args.options.feedback ? args.options.feedback : false;
 var timeout  = 600000;
 var old_json = JSON.parse(fs.readFileSync("./jizos.geojson", 'utf8')).features;
-var feedback = fb_file ? JSON.parse(fs.readFileSync(fb_file, 'utf8')).features : false;
+var feedback = fb_file ? JSON.parse(fs.readFileSync(fb_file, 'utf8')).features.map(function(item){
+    if (item.properties.files && typeof item.properties.files === 'string') {
+        item.properties.files = JSON.parse(item.properties.files);
+    }
+    return item;
+}) : false;
 
 function wikiurl_escape(url) {
     return url.replace(/ /g,"_").replace(/\(/g,"%28").replace(/\)/g,"%29");
@@ -60,7 +65,6 @@ function old_data_copy2(page,res) {
 }
 
 function get_target(url, old) {
-    console.log("aaa");
     if (feedback) return Promise.all([]);
     var driver = new webdriver.Builder()
         .forBrowser('chrome')
@@ -80,7 +84,6 @@ function get_target(url, old) {
 }
 
 function scrape_category(args) {
-    console.log("bbb");
     if (feedback) return Promise.all([]);
     var driver = args[0];
     var old    = args[1];
@@ -180,8 +183,38 @@ function scrape_filepage(args) {
     });
 }
 
+function sort_key(target) {
+    var order = [
+        "type",
+        "features",
+        "geometry",
+        "coordinates",
+        "properties",
+        "url",
+        "title",
+        "description",
+        "thumbnail",
+        "fullsize",
+        "monumento",
+        "files"
+    ];
+    var ret = {};
+    order.forEach(function(key){
+        if (target[key] !== void(0) && target[key] !== null) {
+            ret[key] = (key == "geometry" || key == "properties") ? sort_key(target[key]) :
+                (key == "files" || key == "features") ? target[key].map(function(item){ 
+                    return sort_key(item); 
+                }) :
+                ((key == "title" || key == "description") && typeof target[key] === 'array') ? 
+                    target[key][0] :
+                target[key];
+        }
+    });
+
+    return ret;
+}
+
 function load_each_page(target) {
-    console.log("eee");
     if (feedback) return Promise.all([]);
     return Promise.all(pages.map(function(page){
         return page.url.includes('wiki/File:') ?
@@ -215,7 +248,6 @@ function load_each_page(target) {
             });
     }))
     .then(function(){
-        console.log("ddd");
         return target;
     });
 }
@@ -224,7 +256,6 @@ get_target("https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_in_Nara",o
 .then(scrape_category)
 .then(load_each_page)
 .then(function(target){
-    console.log("ccc");
     var features = feedback ? old_json : target.pages.map(function(source){
         var feature = {
             "type": "Feature",
@@ -265,10 +296,8 @@ get_target("https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_in_Nara",o
             var target = feedback.filter(function(tgt){
                 return tgt.properties.url == each.properties.url;
             }).reduce(function(prev,curr){
-                console.log(prev == each ? "Mitsuketa" : "Nai");
                 return prev == each ? curr : prev;
             },each);
-            console.log(target == each ? "Onaji" : "Chau");
             buffer.push({
                 "type" : target.type,
                 "geometry" : target.geometry,
@@ -278,10 +307,10 @@ get_target("https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_in_Nara",o
         features = buffer;
     }
 
-    var geojson = {
+    var geojson = sort_key({
         "type": "FeatureCollection",
         "features": features
-    };
+    });
 
     var json = JSON.stringify(geojson, null, "  ");
     fs.writeFile('./jizos.geojson', json , function (err) {
