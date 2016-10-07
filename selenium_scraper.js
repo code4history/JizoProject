@@ -195,6 +195,7 @@ function sort_key(target) {
         "description",
         "thumbnail",
         "fullsize",
+        "wikipedia",
         "monumento",
         "files"
     ];

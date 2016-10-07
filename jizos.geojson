@@ -39,6 +39,7 @@
         "title": "延命地蔵尊",
         "description": "角振新屋町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Enmei_Jizouson_Nara.jpg/320px-Enmei_Jizouson_Nara.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E9%9A%BC%E7%A5%9E%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82)#.E5.BB.B6.E5.91.BD.E5.9C.B0.E8.94.B5",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Enmei_Jizouson_Nara.jpg",
@@ -1308,6 +1309,7 @@
         "title": "椿地蔵尊",
         "description": "高畑町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nara_Takabatake_Tsubaki_Jizo.jpg/180px-Nara_Takabatake_Tsubaki_Jizo.jpg",
+        "monumento": "https://monumen.to/spots/2141",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake_Tsubaki_Jizo.jpg",
@@ -1404,6 +1406,7 @@
         "title": "鎧地蔵堂",
         "description": "紀寺町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Yoroi_Jizo_Kasayacho_Nara.jpg/320px-Yoroi_Jizo_Kasayacho_Nara.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E9%8E%A7%E5%9C%B0%E8%94%B5%E5%A0%82",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Yoroi_Jizo_Kasayacho_Nara.jpg",
@@ -1741,7 +1744,8 @@
         "title": "地蔵堂",
         "description": "紀寺町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nara_Kidera_cho_Jizo_2.jpg/180px-Nara_Kidera_cho_Jizo_2.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nara_Kidera_cho_Jizo_2.jpg"
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nara_Kidera_cho_Jizo_2.jpg",
+        "monumento": "https://monumen.to/spots/2204"
       }
     },
     {
