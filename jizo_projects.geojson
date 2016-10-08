@@ -718,6 +718,7 @@
         "title": "福寺跡 地蔵",
         "description": "南京終町5",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nara_Fukudera_Stone_Buddha.jpg/320px-Nara_Fukudera_Stone_Buddha.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%AF%BA#.E8.A4.87.E5.BC.81.E8.93.AE.E8.8F.AF.E6.96.87.E8.BB.92.E4.B8.B8.E7.93.A6.E3.81.AE.E7.99.BA.E8.A6.8B",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Fukudera_Stone_Buddha.jpg",
@@ -1471,6 +1472,7 @@
         "title": "夕日地蔵",
         "description": "興善院町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nara_Yuuhijizo.jpg/320px-Nara_Yuuhijizo.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%84%E7%A6%8F%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)#.E5.A4.95.E6.97.A5.E5.9C.B0.E8.94.B5",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Yuuhijizo.jpg",
@@ -2256,6 +2258,7 @@
         "title": "八王子社",
         "description": "納院町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nara_Nouin-cho_Hachioji_shrine.jpg/180px-Nara_Nouin-cho_Hachioji_shrine.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%8E%8B%E5%AD%90%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82%E7%B4%8D%E9%99%A2%E7%94%BA)",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Nouin-cho_Hachioji_shrine.jpg",
@@ -2362,6 +2365,7 @@
         "title": "春日若宮社",
         "description": "中辻町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nara_Kainaduka_KasugaWakamiya.jpg/320px-Nara_Kainaduka_KasugaWakamiya.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E8%8B%A5%E5%AE%AE%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82%E4%B8%AD%E8%BE%BB%E7%94%BA)",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Kainaduka_KasugaWakamiya.jpg",
@@ -2387,6 +2391,7 @@
         "title": "椚神社",
         "description": "肘塚町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nara_Kainotsuka_Kunugi_Shrine.jpg/180px-Nara_Kainotsuka_Kunugi_Shrine.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%A4%9A%E7%A5%9E%E7%A4%BE",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Kainotsuka_Kunugi_Shrine.jpg",
@@ -2517,6 +2522,7 @@
         "title": "手力雄神社",
         "description": "橋本町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Tajikarao_Jinja_in_Nara.jpg/320px-Tajikarao_Jinja_in_Nara.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%89%8B%E5%8A%9B%E9%9B%84%E7%A5%9E%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82)",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Tajikarao_Jinja_in_Nara.jpg",
@@ -2529,6 +2535,50 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> <a href=\"https://ja.wikipedia.org/wiki/%E6%89%8B%E5%8A%9B%E9%9B%84%E7%A5%9E%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82)\" class=\"extiw\" title=\"ja:手力雄神社 ()\">手力雄神社</a>、奈良",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tajikarao_Jinja_In_Nara.JPG/320px-Tajikarao_Jinja_In_Nara.JPG",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tajikarao_Jinja_In_Nara.JPG"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.85186,
+          34.684644
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Tsukihi-iwa",
+        "title": "月日磐",
+        "description": "春日野町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tsukihiiwa_Annai.jpg/320px-Tsukihiiwa_Annai.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%88%E6%97%A5%E7%A3%90",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Tsukihiiwa_Annai.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、月日磐、氷室神社の元境内地。案内石碑。",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tsukihiiwa_Annai.jpg/320px-Tsukihiiwa_Annai.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/10/Tsukihiiwa_Annai.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Tsukihiiwa_dam.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、月日磐、氷室神社の元境内地。少し下流の堰。",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tsukihiiwa_dam.jpg/320px-Tsukihiiwa_dam.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tsukihiiwa_dam.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Tsukihiiwa_itself.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、月日磐、氷室神社の元境内地。月日磐そのもの。",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tsukihiiwa_itself.jpg/320px-Tsukihiiwa_itself.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tsukihiiwa_itself.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Tsukihiiwa_toro.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、月日磐、氷室神社の元境内地。古い石灯籠。",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tsukihiiwa_toro.jpg/320px-Tsukihiiwa_toro.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Tsukihiiwa_toro.jpg"
           }
         ]
       }
@@ -2569,6 +2619,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.842681,
+          34.676888
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/File:Akoh_Shrine1.jpg",
+        "title": "式内赤穂神社",
+        "description": "高畑町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Akoh_Shrine1.jpg/320px-Akoh_Shrine1.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Akoh_Shrine1.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E7%A5%9E%E7%A4%BE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.827657,
+          34.681822
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/File:Hayabusa_Jinja_Nara.jpg",
+        "title": " 隼神社",
+        "description": "角振新屋町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hayabusa_Jinja_Nara.jpg/320px-Hayabusa_Jinja_Nara.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hayabusa_Jinja_Nara.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E9%9A%BC%E7%A5%9E%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.835128,
           34.684456
         ]
@@ -2580,6 +2668,25 @@
         "description": "登大路町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Nara_Hyoshi_Shrine.jpg/180px-Nara_Hyoshi_Shrine.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nara_Hyoshi_Shrine.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.831161,
+          34.673747
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Igami_Shrine.jpg",
+        "title": "井上神社",
+        "description": "井上町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nara_Igami_Shrine.jpg/180px-Nara_Igami_Shrine.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/df/Nara_Igami_Shrine.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E7%A5%9E%E7%A4%BE"
       }
     },
     {
@@ -2652,6 +2759,25 @@
         "description": "杉ヶ町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sugiichi_Taishin_Shrine_In_Nara.jpg/180px-Sugiichi_Taishin_Shrine_In_Nara.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sugiichi_Taishin_Shrine_In_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.823222,
+          34.681942
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/File:Tsukihi_Jinja_Nara.jpg",
+        "title": "月日神社",
+        "description": "下三條町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tsukihi_Jinja_Nara.jpg/320px-Tsukihi_Jinja_Nara.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tsukihi_Jinja_Nara.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%88%E6%97%A5%E7%A5%9E%E7%A4%BE"
       }
     },
     {
