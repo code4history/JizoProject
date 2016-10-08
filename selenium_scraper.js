@@ -6,6 +6,13 @@ var webdriver = require('selenium-webdriver'),
     fs = require('fs'),
     argv = require('argv');
 
+var targets_master = {
+    "jizo"    : {"type":"jizo",   "category":"Wayside_Jizos_in_Nara",   "default":"地蔵"},
+    "shrine"  : {"type":"shrine", "category":"Wayside_Shrines_in_Nara", "default":"小祠"},
+    "buddha"  : {"type":"buddha", "category":"Wayside_Buddhas_in_Nara", "default":"石仏等"}
+};
+var targets = [];
+
 argv.option([{
     name: 'newonly',
     short: 'n',
@@ -18,19 +25,46 @@ argv.option([{
     type : 'string',
     description : 'uMapからのフィードバックを適用します。フィードバック対象のgeojsonファイルを指定します。',
     example: "'selenium_scraper.js --feedback feedback.geojson' or 'selenium_scraper.js -f feedback.geojson'"
+},{
+    name: 'jizo',
+    short: 'j',
+    type : 'boolean',
+    description : '地蔵を編集します。',
+    example: "'selenium_scraper.js --jizo' or 'selenium_scraper.js -j'"
+},{
+    name: 'shrine',
+    short: 's',
+    type : 'boolean',
+    description : '小祠を編集します。',
+    example: "'selenium_scraper.js --shrine' or 'selenium_scraper.js -s'"
+},{
+    name: 'buddha',
+    short: 'b',
+    type : 'boolean',
+    description : '石仏を編集します。',
+    example: "'selenium_scraper.js --buddha' or 'selenium_scraper.js -b'"
 }]);
 
 var args = argv.run();
 var newonly = args.options && args.options.newonly ? true : false;
 var fb_file = args.options && args.options.feedback ? args.options.feedback : false;
+var target  = args.options && args.options.jizo   ? targets_master.jizo   :
+              args.options && args.options.shrine ? targets_master.shrine :
+              args.options && args.options.buddha ? targets_master.buddha : 
+              {"type":"jizo_project"};
+var jsonfile = "./" + target.type + "s.geojson"
 var timeout  = 600000;
-var old_json = JSON.parse(fs.readFileSync("./jizos.geojson", 'utf8')).features;
+var old_json = [];
+try {
+    old_json = JSON.parse(fs.readFileSync(jsonfile, 'utf8')).features;
+} catch(e) {}
 var feedback = fb_file ? JSON.parse(fs.readFileSync(fb_file, 'utf8')).features.map(function(item){
     if (item.properties.files && typeof item.properties.files === 'string') {
         item.properties.files = JSON.parse(item.properties.files);
     }
     return item;
 }) : false;
+var skip_flag = feedback || target.type == "jizo_project";
 
 function wikiurl_escape(url) {
     return url.replace(/ /g,"_").replace(/\(/g,"%28").replace(/\)/g,"%29");
@@ -65,7 +99,7 @@ function old_data_copy2(page,res) {
 }
 
 function get_target(url, old) {
-    if (feedback) return Promise.all([]);
+    if (skip_flag) return Promise.all([]);
     var driver = new webdriver.Builder()
         .forBrowser('chrome')
         .usingServer('http://localhost:4444/wd/hub')
@@ -84,7 +118,7 @@ function get_target(url, old) {
 }
 
 function scrape_category(args) {
-    if (feedback) return Promise.all([]);
+    if (skip_flag) return Promise.all([]);
     var driver = args[0];
     var old    = args[1];
     return Promise.all([
@@ -206,7 +240,7 @@ function sort_key(target) {
                 (key == "files" || key == "features") ? target[key].map(function(item){ 
                     return sort_key(item); 
                 }) :
-                ((key == "title" || key == "description") && typeof target[key] === 'array') ? 
+                ((key == "title" || key == "description") && Array.isArray(target[key])) ? 
                     target[key][0] :
                 target[key];
         }
@@ -216,8 +250,8 @@ function sort_key(target) {
 }
 
 function load_each_page(target) {
-    if (feedback) return Promise.all([]);
-    return Promise.all(pages.map(function(page){
+    if (skip_flag) return Promise.all([]);
+    return Promise.all(target.pages.map(function(page){
         return page.url.includes('wiki/File:') ?
             get_target(page.url)
             .then(scrape_filepage)
@@ -253,44 +287,54 @@ function load_each_page(target) {
     });
 }
 
-get_target("https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_in_Nara",old_json)
+get_target("https://commons.wikimedia.org/wiki/Category:" + target.category,old_json)
 .then(scrape_category)
 .then(load_each_page)
-.then(function(target){
-    var features = feedback ? old_json : target.pages.map(function(source){
-        var feature = {
-            "type": "Feature",
-            "geometry" : {
-                "type" : "Point",
-                "coordinates" : [source.latlng[1],source.latlng[0]]
-            },
-            "properties" : {
-                "url" : source.url,
-                "title" : source.title ? source.title : source.description,
-                "description" : source.description
-            }
-        };
-        var prop = feature.properties;
-        if (source.files && source.files.length != 0) {
-            prop.files = source.files;
-            prop.thumbnail = source.files[0].thumbnail;
-        } else {
-            prop.thumbnail = source.thumbnail;
-            prop.fullsize  = source.fullsize;
-        }
-        if (newonly) {
-            feature.pushIndex = source.pushIndex;
-        }
+.then(function(arg){
 
-        return feature;
-    });
+    var features = feedback ? old_json : 
+        skip_flag ? ["jizo","buddha","shrine"].reduce(function(prev,curr) {
+            var json = [];
+            try {
+                json = JSON.parse(fs.readFileSync("./" + curr + "s.geojson", 'utf8')).features;
+            } catch(e) {}
+            return prev.concat(json);
+        },[]) :
+        arg.pages.map(function(source){
+            var feature = {
+                "type": "Feature",
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : [source.latlng[1],source.latlng[0]]
+                },
+                "properties" : {
+                    "type"  : target.default,
+                    "url"   : source.url,
+                    "title" : source.title ? source.title : source.description,
+                    "description" : source.description
+                }
+            };
+            var prop = feature.properties;
+            if (source.files && source.files.length != 0) {
+                prop.files = source.files;
+                prop.thumbnail = source.files[0].thumbnail;
+            } else {
+                prop.thumbnail = source.thumbnail;
+                prop.fullsize  = source.fullsize;
+            }
+            if (newonly) {
+                feature.pushIndex = source.pushIndex;
+            }
+
+            return feature;
+        });
 
     if (newonly) {
         features.forEach(function(each){
             old_json.splice(each.pushIndex,0,each);
             delete each.pushIndex;
         });
-        features = old_json;
+        features = old_json;//.map(function(item){ item.properties.type = target.default; return item; });
     } else if (feedback) {
         var buffer = [];
         features.forEach(function(each, index) {
@@ -310,11 +354,11 @@ get_target("https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_in_Nara",o
 
     var geojson = sort_key({
         "type": "FeatureCollection",
-        "features": features
+        "features": features.filter(function(val){ return !isNaN(val.geometry.coordinates[0]); })
     });
 
     var json = JSON.stringify(geojson, null, "  ");
-    fs.writeFile('./jizos.geojson', json , function (err) {
+    fs.writeFile(jsonfile, json , function (err) {
         if (err) console.log(err);
     });
 });
