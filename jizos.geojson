@@ -1869,6 +1869,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.826217,
+          34.681103
+        ]
+      },
+      "properties": {
+        "type": "地蔵",
+        "url": "https://commons.wikimedia.org/wiki/File:Honkomori-cho_Jizo_Short_%28Nara%29.jpg",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>本子守町 地蔵堂(低)",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>本子守町 地蔵堂(低)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Honkomori-cho_Jizo_Short_%28Nara%29.jpg/320px-Honkomori-cho_Jizo_Short_%28Nara%29.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Honkomori-cho_Jizo_Short_%28Nara%29.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.826233,
           34.681172
         ]

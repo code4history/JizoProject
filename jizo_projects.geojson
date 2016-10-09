@@ -300,15 +300,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8313835,
+          135.831383,
           34.652211
         ]
       },
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Jizo_Yokoi-2-chome_Nara",
-        "title": "横井二丁目 祖先の碑脇の地蔵",
-        "description": "横井二丁目 祖先の碑脇の地蔵",
+        "title": "地蔵",
+        "description": "横井二丁目 祖先の碑脇",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Jizo_near_Sosen-no-hi_Yokoi2_Nara.jpg/320px-Jizo_near_Sosen-no-hi_Yokoi2_Nara.jpg",
         "files": [
           {
@@ -350,8 +350,8 @@
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Jizodo_Daianji4_%28Nara%29",
-        "title": "大安寺4丁目 地蔵堂",
-        "description": "大安寺4丁目 地蔵堂",
+        "title": "地蔵堂",
+        "description": "大安寺四丁目",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jizodo_Daianji4_Inside.jpg/320px-Jizodo_Daianji4_Inside.jpg",
         "files": [
           {
@@ -374,15 +374,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.81268999999998,
-          34.6723545
+          135.81269,
+          34.672354
         ]
       },
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Jizodo_Daianji4_%28Nara,On_Stream%29",
-        "title": "大安寺4 地蔵堂 (水路上)",
-        "description": "大安寺4 地蔵堂 (水路上)",
+        "title": "地蔵堂",
+        "description": "大安寺四丁目 水路上",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jizodo_Daianji4_On_the_Stream_Inside.jpg/320px-Jizodo_Daianji4_On_the_Stream_Inside.jpg",
         "files": [
           {
@@ -412,8 +412,8 @@
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Jizodo_in_Emperor_Sudo_Shrine_%28Nara_Kodono%29",
-        "title": "神殿町 崇道天皇神社内の地蔵堂",
-        "description": "神殿町 崇道天皇神社内の地蔵堂",
+        "title": "地蔵堂",
+        "description": "神殿町 崇道天皇神社内",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jizodo_in_Emperor_Sudo_Shrine_%28Nara_Kodono%29_Inside.jpg/320px-Jizodo_in_Emperor_Sudo_Shrine_%28Nara_Kodono%29_Inside.jpg",
         "files": [
           {
@@ -436,15 +436,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.81694125,
-          34.670150750000005
+          135.816941,
+          34.670151
         ]
       },
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Jizos_in_Hakayama_Kofun_%28Nara%29",
-        "title": "大安寺 墓山古墳内の地蔵群",
-        "description": "大安寺 墓山古墳内の地蔵群",
+        "title": "地蔵群",
+        "description": "大安寺 墓山古墳内",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hakayama_Kofun_Nara_Big_Jizo.jpg/320px-Hakayama_Kofun_Nara_Big_Jizo.jpg",
         "files": [
           {
@@ -504,15 +504,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83032200000002,
+          135.830322,
           34.668862
         ]
       },
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Kainotsuka-cho_Jizo_%28Near_Big_Stone_Light%29_Nara",
-        "title": "肘塚町(大きな双石灯籠のそば) 地蔵堂",
-        "description": "肘塚町(大きな双石灯籠のそば) 地蔵堂",
+        "title": "地蔵堂",
+        "description": "肘塚町 大きな双石灯籠のそば",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kainotsuka-cho_Jizo_%28Near_Big_Stone_Light%29_Nara.jpg/320px-Kainotsuka-cho_Jizo_%28Near_Big_Stone_Light%29_Nara.jpg",
         "files": [
           {
@@ -765,8 +765,8 @@
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29",
-        "title": "紀寺町 春日自動車学校脇の地蔵堂",
-        "description": "紀寺町 春日自動車学校脇の地蔵堂",
+        "title": "地蔵堂",
+        "description": "紀寺町 春日自動車学校脇",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29_Inside.jpg/320px-Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29_Inside.jpg",
         "files": [
           {
@@ -1044,15 +1044,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82655749999998,
-          34.65033675
+          135.826558,
+          34.650337
         ]
       },
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:MinamiNagai-cho_Jizo_near_Taishi-michi",
-        "title": "南永井町 永井大師道石碑そばの地蔵",
-        "description": "南永井町 永井大師道石碑そばの地蔵",
+        "title": "地蔵",
+        "description": "南永井町 永井大師道石碑そば",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Inside_Kaisho_near_MinamiNagai-cho_Jizo.jpg/320px-Inside_Kaisho_near_MinamiNagai-cho_Jizo.jpg",
         "files": [
           {
@@ -1828,7 +1828,7 @@
         "type": "Point",
         "coordinates": [
           135.839836,
-          34.6848155
+          34.684815
         ]
       },
       "properties": {
@@ -1876,6 +1876,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.826217,
+          34.681103
+        ]
+      },
+      "properties": {
+        "type": "地蔵",
+        "url": "https://commons.wikimedia.org/wiki/File:Honkomori-cho_Jizo_Short_%28Nara%29.jpg",
+        "title": "地蔵堂",
+        "description": "本子守町 背が低い",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Honkomori-cho_Jizo_Short_%28Nara%29.jpg/320px-Honkomori-cho_Jizo_Short_%28Nara%29.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Honkomori-cho_Jizo_Short_%28Nara%29.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.826233,
           34.681172
         ]
@@ -1883,8 +1901,8 @@
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/File:Honkomori-cho_Jizo_Tall_%28Nara%29.jpg",
-        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>本子守町 地蔵堂(高)",
-        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>本子守町 地蔵堂(高)",
+        "title": "地蔵堂",
+        "description": "本子守町 背が高い",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Honkomori-cho_Jizo_Tall_%28Nara%29.jpg/180px-Honkomori-cho_Jizo_Tall_%28Nara%29.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Honkomori-cho_Jizo_Tall_%28Nara%29.jpg"
       }
@@ -1919,8 +1937,8 @@
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/File:Jizodo_Daianji4_Sugiyama_Kofun_Mae.jpg",
-        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺4 地蔵堂 (杉山古墳前)",
-        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺4 地蔵堂 (杉山古墳前)",
+        "title": "地蔵堂",
+        "description": "大安寺四丁目 (杉山古墳前)",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jizodo_Daianji4_Sugiyama_Kofun_Mae.jpg/320px-Jizodo_Daianji4_Sugiyama_Kofun_Mae.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Jizodo_Daianji4_Sugiyama_Kofun_Mae.jpg"
       }
@@ -1937,8 +1955,8 @@
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/File:Jizos_in_Takabatake_%28Obanatani_River%29.jpg",
-        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>高畑町 尾花谷川石碑裏の地蔵",
-        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>高畑町 尾花谷川石碑裏の地蔵",
+        "title": "地蔵",
+        "description": "高畑町 尾花谷川石碑裏",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jizos_in_Takabatake_%28Obanatani_River%29.jpg/320px-Jizos_in_Takabatake_%28Obanatani_River%29.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jizos_in_Takabatake_%28Obanatani_River%29.jpg"
       }
@@ -2453,15 +2471,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8276715,
-          34.671710000000004
+          135.827672,
+          34.67171
         ]
       },
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/Category:Amida_in_Nara_Kyobate_Jizo",
-        "title": "京終地蔵院 本尊阿弥陀三尊",
-        "description": "京終地蔵院 本尊阿弥陀三尊",
+        "title": "本尊阿弥陀三尊",
+        "description": "京終地蔵院",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Amida_In_Nara_Kyobate_Jizo.jpg/320px-Amida_In_Nara_Kyobate_Jizo.jpg",
         "files": [
           {
@@ -2528,8 +2546,8 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/Category:MinamiKainotsuka_Small_Temple_%28Nara%29",
-        "title": "南肘塚町 石仏を祀るお堂",
-        "description": "南肘塚町 石仏を祀るお堂",
+        "title": "石仏を祀るお堂",
+        "description": "南肘塚町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg/320px-MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg",
         "files": [
           {
@@ -2608,8 +2626,8 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka_Myogo_sekihi_%28Nara%29.jpg",
-        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 欄干に立てかけてある名号石碑",
-        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 欄干に立てかけてある名号石碑",
+        "title": "名号石碑",
+        "description": "肘塚町 欄干に立てかけてある",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kainotsuka_Myogo_sekihi_%28Nara%29.jpg/320px-Kainotsuka_Myogo_sekihi_%28Nara%29.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kainotsuka_Myogo_sekihi_%28Nara%29.jpg"
       }
@@ -2673,8 +2691,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82867366666665,
-          34.6523685
+          135.828674,
+          34.652369
         ]
       },
       "properties": {
@@ -2950,15 +2968,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82222358333334,
-          34.65603958333333
+          135.822224,
+          34.65604
         ]
       },
       "properties": {
         "type": "小祠",
         "url": "https://commons.wikimedia.org/wiki/Category:Nishiyama-Inari_Shrine_%28Nara%29",
-        "title": "北永井町 西山稲荷神社",
-        "description": "北永井町 西山稲荷神社",
+        "title": "西山稲荷神社",
+        "description": "北永井町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nishiyama-Inari_Shrine_%28Nara%29_Chozusha.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Chozusha.jpg",
         "files": [
           {
@@ -3084,15 +3102,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83038599999998,
+          135.830386,
           34.664414
         ]
       },
       "properties": {
         "type": "小祠",
         "url": "https://commons.wikimedia.org/wiki/Category:Small_Shrine_near_Big_Tree_Kainotsuka_Nara",
-        "title": "肘塚町 大木を祀っていると思われる小祠",
-        "description": "肘塚町 大木を祀っていると思われる小祠",
+        "title": "小祠",
+        "description": "肘塚町 大木を祀っていると思われる",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/God_Tree_of_worship_Kainotsuka_Nara.jpg/320px-God_Tree_of_worship_Kainotsuka_Nara.jpg",
         "files": [
           {
@@ -3355,7 +3373,7 @@
         "type": "小祠",
         "url": "https://commons.wikimedia.org/wiki/File:Nara_Tsubai_Ichina_RIkimatsu_Inari.jpg",
         "title": "力松稲荷神社？",
-        "description": "椿井市場内、呼称は地域の方による",
+        "description": "椿井市場内 呼称は地域の方による",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nara_Tsubai_Ichina_RIkimatsu_Inari.jpg/320px-Nara_Tsubai_Ichina_RIkimatsu_Inari.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/96/Nara_Tsubai_Ichina_RIkimatsu_Inari.jpg"
       }
@@ -3390,8 +3408,8 @@
       "properties": {
         "type": "小祠",
         "url": "https://commons.wikimedia.org/wiki/File:Small_Shrines_in_Imaichi_Nara.jpg",
-        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>今市町 小祠",
-        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>今市町 小祠",
+        "title": "小祠",
+        "description": "今市町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Small_Shrines_in_Imaichi_Nara.jpg/180px-Small_Shrines_in_Imaichi_Nara.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Small_Shrines_in_Imaichi_Nara.jpg"
       }
