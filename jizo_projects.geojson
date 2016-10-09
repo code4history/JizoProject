@@ -42,6 +42,7 @@
         "description": "角振新屋町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Enmei_Jizouson_Nara.jpg/320px-Enmei_Jizouson_Nara.jpg",
         "wikipedia": "https://ja.wikipedia.org/wiki/%E9%9A%BC%E7%A5%9E%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82)#.E5.BB.B6.E5.91.BD.E5.9C.B0.E8.94.B5",
+        "monumento": "https://monumen.to/spots/3063",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Enmei_Jizouson_Nara.jpg",
@@ -2176,10 +2177,11 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/File:Nara_Kyobate_Jizo_buddha.jpg",
-        "title": "本尊阿弥陀",
+        "title": "本尊阿弥陀三尊",
         "description": "京終地蔵院",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nara_Kyobate_Jizo_buddha.jpg/180px-Nara_Kyobate_Jizo_buddha.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Nara_Kyobate_Jizo_buddha.jpg"
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Nara_Kyobate_Jizo_buddha.jpg",
+        "monumento": "https://monumen.to/spots/2850"
       }
     },
     {
@@ -2284,6 +2286,7 @@
         "title": "八王子四之室神社",
         "description": "元林院町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nara_Ganrin-in_Hachioji_Shinomuro.jpg/320px-Nara_Ganrin-in_Hachioji_Shinomuro.jpg",
+        "monumento": "https://monumen.to/spots/2465",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Ganrin-in_Hachioji_Shinomuro.jpg",
@@ -2686,7 +2689,8 @@
         "description": "井上町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nara_Igami_Shrine.jpg/180px-Nara_Igami_Shrine.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/df/Nara_Igami_Shrine.jpg",
-        "wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E7%A5%9E%E7%A4%BE"
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E7%A5%9E%E7%A4%BE",
+        "monumento": "https://monumen.to/spots/2214"
       }
     },
     {
