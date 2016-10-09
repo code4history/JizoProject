@@ -6,6 +6,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.8276715,
+          34.671710000000004
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Amida_in_Nara_Kyobate_Jizo",
+        "title": "京終地蔵院 本尊阿弥陀三尊",
+        "description": "京終地蔵院 本尊阿弥陀三尊",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Amida_In_Nara_Kyobate_Jizo.jpg/320px-Amida_In_Nara_Kyobate_Jizo.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Amida_In_Nara_Kyobate_Jizo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 京終地蔵院 本尊阿弥陀三尊",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Amida_In_Nara_Kyobate_Jizo.jpg/320px-Amida_In_Nara_Kyobate_Jizo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Amida_In_Nara_Kyobate_Jizo.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Kyobate_Jizo_buddha.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span><a href=\"https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%B5%82%E5%9C%B0%E8%94%B5%E9%99%A2\" class=\"extiw\" title=\"ja:京終地蔵院\">京終地蔵尊</a>本尊阿弥陀",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nara_Kyobate_Jizo_buddha.jpg/180px-Nara_Kyobate_Jizo_buddha.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Nara_Kyobate_Jizo_buddha.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.788661,
           34.693928666666665
         ]
@@ -34,6 +65,37 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>二条町 弘法井戸外観",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kobo_Well_With_Amida_Nara_Outside.jpg/320px-Kobo_Well_With_Amida_Nara_Outside.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kobo_Well_With_Amida_Nara_Outside.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.830564,
+          34.66455
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:MinamiKainotsuka_Small_Temple_%28Nara%29",
+        "title": "南肘塚町 石仏を祀るお堂",
+        "description": "南肘塚町 石仏を祀るお堂",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg/320px-MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南肘塚町 お堂内の石仏",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg/320px-MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/37/MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:MinamiKainotsuka_Small_Temple_%28Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南肘塚町 石仏を祀るお堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MinamiKainotsuka_Small_Temple_%28Nara%29.jpg/320px-MinamiKainotsuka_Small_Temple_%28Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/93/MinamiKainotsuka_Small_Temple_%28Nara%29.jpg"
           }
         ]
       }
@@ -92,6 +154,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.830442,
+          34.667672
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka_Myogo_sekihi_%28Nara%29.jpg",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 欄干に立てかけてある名号石碑",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 欄干に立てかけてある名号石碑",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kainotsuka_Myogo_sekihi_%28Nara%29.jpg/320px-Kainotsuka_Myogo_sekihi_%28Nara%29.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kainotsuka_Myogo_sekihi_%28Nara%29.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.831711,
           34.670764
         ]
@@ -103,24 +183,6 @@
         "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 卒都婆レリーフ",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kainotsuka-cho_Stoper_Relief_Nara.jpg/320px-Kainotsuka-cho_Stoper_Relief_Nara.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kainotsuka-cho_Stoper_Relief_Nara.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.828057,
-          34.671906
-        ]
-      },
-      "properties": {
-        "type": "石仏等",
-        "url": "https://commons.wikimedia.org/wiki/File:Nara_Kyobate_Jizo_buddha.jpg",
-        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span><a href=\"https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%B5%82%E5%9C%B0%E8%94%B5%E9%99%A2\" class=\"extiw\" title=\"ja:京終地蔵院\">京終地蔵尊</a>本尊阿弥陀",
-        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span><a href=\"https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%B5%82%E5%9C%B0%E8%94%B5%E9%99%A2\" class=\"extiw\" title=\"ja:京終地蔵院\">京終地蔵尊</a>本尊阿弥陀",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nara_Kyobate_Jizo_buddha.jpg/180px-Nara_Kyobate_Jizo_buddha.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Nara_Kyobate_Jizo_buddha.jpg"
       }
     },
     {

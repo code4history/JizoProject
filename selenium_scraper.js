@@ -104,7 +104,7 @@ function get_target(url, old) {
         .forBrowser('chrome')
         .usingServer('http://localhost:4444/wd/hub')
         .build();
-    driver.get(url);
+    driver.get(url + "?lang=ja");
     return driver.wait(function(){
         return driver.findElements(By.xpath('//h1[@id="firstHeading"][@class="firstHeading"]'))
         .then(function(elems){

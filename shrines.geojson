@@ -6,6 +6,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.82867366666665,
+          34.6523685
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Aoi-Jinja_KitaNagai_Nara",
+        "title": "北永井町 青井神社",
+        "description": "北永井町 青井神社",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aoi-Jinja_KitaNagai_Nara_Haiden.jpg/320px-Aoi-Jinja_KitaNagai_Nara_Haiden.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Aoi-Jinja_KitaNagai_Nara_Haiden.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 青井神社 拝殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aoi-Jinja_KitaNagai_Nara_Haiden.jpg/320px-Aoi-Jinja_KitaNagai_Nara_Haiden.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Aoi-Jinja_KitaNagai_Nara_Haiden.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Aoi-Jinja_KitaNagai_Nara_Hoso.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 青井神社 灯篭に疱瘡神社の文字",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aoi-Jinja_KitaNagai_Nara_Hoso.jpg/180px-Aoi-Jinja_KitaNagai_Nara_Hoso.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Aoi-Jinja_KitaNagai_Nara_Hoso.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Aoi-Jinja_KitaNagai_Nara_Keidai.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 青井神社 境内",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aoi-Jinja_KitaNagai_Nara_Keidai.jpg/320px-Aoi-Jinja_KitaNagai_Nara_Keidai.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Aoi-Jinja_KitaNagai_Nara_Keidai.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Aoi-Jinja_KitaNagai_Nara_Toro_1.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 青井神社 灯篭",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aoi-Jinja_KitaNagai_Nara_Toro_1.jpg/180px-Aoi-Jinja_KitaNagai_Nara_Toro_1.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/74/Aoi-Jinja_KitaNagai_Nara_Toro_1.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Aoi-Jinja_KitaNagai_Nara_Toro_2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 青井神社 灯篭",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Aoi-Jinja_KitaNagai_Nara_Toro_2.jpg/180px-Aoi-Jinja_KitaNagai_Nara_Toro_2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aoi-Jinja_KitaNagai_Nara_Toro_2.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Aoi-Jinja_KitaNagai_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 青井神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aoi-Jinja_KitaNagai_Nara.jpg/320px-Aoi-Jinja_KitaNagai_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Aoi-Jinja_KitaNagai_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.824906,
           34.678475
         ]
@@ -56,8 +111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.829942,
-          34.680886
+          135.8300405,
+          34.680831999999995
         ]
       },
       "properties": {
@@ -65,8 +120,14 @@
         "url": "https://commons.wikimedia.org/wiki/Category:HachiojiShinomuro_Shrine_Nara",
         "title": "元林院町 八王子四之室神社",
         "description": "元林院町 八王子四之室神社",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nara_Ganrin-in_Hachioji_Shinomuro.jpg/320px-Nara_Ganrin-in_Hachioji_Shinomuro.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hachioji_Shinomuro_Shrine_Nara.jpg/320px-Hachioji_Shinomuro_Shrine_Nara.jpg",
         "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hachioji_Shinomuro_Shrine_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>元林院町 八王子四之室神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hachioji_Shinomuro_Shrine_Nara.jpg/320px-Hachioji_Shinomuro_Shrine_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hachioji_Shinomuro_Shrine_Nara.jpg"
+          },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Ganrin-in_Hachioji_Shinomuro.jpg",
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>元林院町 八王子四之室神社",
@@ -218,6 +279,97 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.82222358333334,
+          34.65603958333333
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Nishiyama-Inari_Shrine_%28Nara%29",
+        "title": "北永井町 西山稲荷神社",
+        "description": "北永井町 西山稲荷神社",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nishiyama-Inari_Shrine_%28Nara%29_Chozusha.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Chozusha.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Chozusha.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 手水舎",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nishiyama-Inari_Shrine_%28Nara%29_Chozusha.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Chozusha.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Nishiyama-Inari_Shrine_%28Nara%29_Chozusha.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Entrance.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 入り口",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nishiyama-Inari_Shrine_%28Nara%29_Entrance.jpg/180px-Nishiyama-Inari_Shrine_%28Nara%29_Entrance.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Nishiyama-Inari_Shrine_%28Nara%29_Entrance.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Haiden.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 拝殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nishiyama-Inari_Shrine_%28Nara%29_Haiden.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Haiden.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/15/Nishiyama-Inari_Shrine_%28Nara%29_Haiden.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Hengaku.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 拝殿扁額",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nishiyama-Inari_Shrine_%28Nara%29_Hengaku.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Hengaku.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/df/Nishiyama-Inari_Shrine_%28Nara%29_Hengaku.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Mankichi.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 萬吉の碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nishiyama-Inari_Shrine_%28Nara%29_Mankichi.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Mankichi.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nishiyama-Inari_Shrine_%28Nara%29_Mankichi.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Morimitsu.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 盛光の碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nishiyama-Inari_Shrine_%28Nara%29_Morimitsu.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Morimitsu.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Nishiyama-Inari_Shrine_%28Nara%29_Morimitsu.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Sankichi_2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 三吉 (遠景)",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nishiyama-Inari_Shrine_%28Nara%29_Sankichi_2.jpg/180px-Nishiyama-Inari_Shrine_%28Nara%29_Sankichi_2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nishiyama-Inari_Shrine_%28Nara%29_Sankichi_2.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Sankichi.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 三吉の碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nishiyama-Inari_Shrine_%28Nara%29_Sankichi.jpg/180px-Nishiyama-Inari_Shrine_%28Nara%29_Sankichi.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nishiyama-Inari_Shrine_%28Nara%29_Sankichi.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Shoshichi.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 小七の碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nishiyama-Inari_Shrine_%28Nara%29_Shoshichi.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Shoshichi.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nishiyama-Inari_Shrine_%28Nara%29_Shoshichi.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Toriis.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 鳥居群",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nishiyama-Inari_Shrine_%28Nara%29_Toriis.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Toriis.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nishiyama-Inari_Shrine_%28Nara%29_Toriis.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Toro.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 灯篭状の碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nishiyama-Inari_Shrine_%28Nara%29_Toro.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Toro.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nishiyama-Inari_Shrine_%28Nara%29_Toro.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nishiyama-Inari_Shrine_%28Nara%29_Toro2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北永井町 西山稲荷神社 灯篭状の碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nishiyama-Inari_Shrine_%28Nara%29_Toro2.jpg/320px-Nishiyama-Inari_Shrine_%28Nara%29_Toro2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/09/Nishiyama-Inari_Shrine_%28Nara%29_Toro2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.8254735,
           34.68486675
         ]
@@ -252,6 +404,37 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>高天町 龍長大神鳥居",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/RyuCho_Taishin_Shrine_Nara_Torii.jpg/320px-RyuCho_Taishin_Shrine_Nara_Torii.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/da/RyuCho_Taishin_Shrine_Nara_Torii.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83038599999998,
+          34.664414
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Small_Shrine_near_Big_Tree_Kainotsuka_Nara",
+        "title": "肘塚町 大木を祀っていると思われる小祠",
+        "description": "肘塚町 大木を祀っていると思われる小祠",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/God_Tree_of_worship_Kainotsuka_Nara.jpg/320px-God_Tree_of_worship_Kainotsuka_Nara.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:God_Tree_of_worship_Kainotsuka_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 小祠の御神体と思われる大木",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/God_Tree_of_worship_Kainotsuka_Nara.jpg/320px-God_Tree_of_worship_Kainotsuka_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0e/God_Tree_of_worship_Kainotsuka_Nara.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 大木を祀っていると思われる小祠",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg/320px-Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg"
           }
         ]
       }
@@ -514,6 +697,24 @@
         "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西之阪町 白龍大神",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Nishinosaka-cho_Hakuryu_Taishin_Nara.jpg/320px-Nishinosaka-cho_Hakuryu_Taishin_Nara.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nishinosaka-cho_Hakuryu_Taishin_Nara.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.824311,
+          34.645083
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/File:Small_Shrines_in_Imaichi_Nara.jpg",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>今市町 小祠",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>今市町 小祠",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Small_Shrines_in_Imaichi_Nara.jpg/180px-Small_Shrines_in_Imaichi_Nara.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Small_Shrines_in_Imaichi_Nara.jpg"
       }
     },
     {
