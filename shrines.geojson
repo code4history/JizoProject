@@ -6,6 +6,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.8509445,
+          34.674376499999994
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Akachi_Shrine_Nara",
+        "title": "白毫寺町 赤乳神社",
+        "description": "白毫寺町 赤乳神社",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Akachi_Shrine_Nara1.jpg/320px-Akachi_Shrine_Nara1.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Akachi_Shrine_Nara1.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>白毫寺町 赤乳神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Akachi_Shrine_Nara1.jpg/320px-Akachi_Shrine_Nara1.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/09/Akachi_Shrine_Nara1.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Akachi_Shrine_Nara2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>白毫寺町 赤乳神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Akachi_Shrine_Nara2.jpg/320px-Akachi_Shrine_Nara2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Akachi_Shrine_Nara2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.82867366666665,
           34.6523685
         ]
@@ -61,8 +92,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.824906,
-          34.678475
+          135.824864,
+          34.67849633333333
         ]
       },
       "properties": {
@@ -70,8 +101,20 @@
         "url": "https://commons.wikimedia.org/wiki/Category:Fuku_Shrine_Nara",
         "title": "南魚屋町 冨久神社",
         "description": "南魚屋町 冨久神社",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Nara_Fuku_Shrine.jpg/320px-Nara_Fuku_Shrine.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fuku_Shrine_Nara_Honden.jpg/320px-Fuku_Shrine_Nara_Honden.jpg",
         "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fuku_Shrine_Nara_Honden.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南魚屋町 冨久神社 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fuku_Shrine_Nara_Honden.jpg/320px-Fuku_Shrine_Nara_Honden.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Fuku_Shrine_Nara_Honden.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fuku_Shrine_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南魚屋町 冨久神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fuku_Shrine_Nara.jpg/320px-Fuku_Shrine_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fuku_Shrine_Nara.jpg"
+          },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Fuku_Shrine.jpg",
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>　冨久神社",
@@ -142,6 +185,79 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.8320771111111,
+          34.674058
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Hakusan_Shrine_Nara",
+        "title": "川之上突抜町 白山神社",
+        "description": "川之上突抜町 白山神社",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hakusan_Shrine_Nara_Chozu.jpg/320px-Hakusan_Shrine_Nara_Chozu.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Chozu.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>川之上突抜町 白山神社 手水鉢",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hakusan_Shrine_Nara_Chozu.jpg/320px-Hakusan_Shrine_Nara_Chozu.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hakusan_Shrine_Nara_Chozu.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Gate.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>川之上突抜町 白山神社 入り口",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hakusan_Shrine_Nara_Gate.jpg/320px-Hakusan_Shrine_Nara_Gate.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/60/Hakusan_Shrine_Nara_Gate.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Honden1.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>川之上突抜町 白山神社 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hakusan_Shrine_Nara_Honden1.jpg/320px-Hakusan_Shrine_Nara_Honden1.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hakusan_Shrine_Nara_Honden1.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Honden2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>川之上突抜町 白山神社 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hakusan_Shrine_Nara_Honden2.jpg/320px-Hakusan_Shrine_Nara_Honden2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hakusan_Shrine_Nara_Honden2.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Information.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>川之上突抜町 白山神社 説明文",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hakusan_Shrine_Nara_Information.jpg/320px-Hakusan_Shrine_Nara_Information.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Hakusan_Shrine_Nara_Information.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Kahi.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>川之上突抜町 白山神社 歌碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hakusan_Shrine_Nara_Kahi.jpg/180px-Hakusan_Shrine_Nara_Kahi.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Hakusan_Shrine_Nara_Kahi.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Keidai.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>川之上突抜町 白山神社 境内",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hakusan_Shrine_Nara_Keidai.jpg/320px-Hakusan_Shrine_Nara_Keidai.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Hakusan_Shrine_Nara_Keidai.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Torii.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>川之上突抜町 白山神社 鳥居",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hakusan_Shrine_Nara_Torii.jpg/320px-Hakusan_Shrine_Nara_Torii.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/44/Hakusan_Shrine_Nara_Torii.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Well.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>川之上突抜町 白山神社 井戸",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hakusan_Shrine_Nara_Well.jpg/320px-Hakusan_Shrine_Nara_Well.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hakusan_Shrine_Nara_Well.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.829117,
           34.683217
         ]
@@ -158,6 +274,49 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良 東向辨財天",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nara_Higashimuki_Benzaiten.jpg/320px-Nara_Higashimuki_Benzaiten.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Nara_Higashimuki_Benzaiten.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8267065,
+          34.678777249999996
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Itsukushima_Shrine_Kitaburo-cho_Nara",
+        "title": "北風呂町 厳島神社",
+        "description": "北風呂町 厳島神社",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Itsukushima_Shrine_Kitaburo-cho_Nara_Chozubachi.jpg/320px-Itsukushima_Shrine_Kitaburo-cho_Nara_Chozubachi.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_Kitaburo-cho_Nara_Chozubachi.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北風呂町 厳島神社 手水鉢",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Itsukushima_Shrine_Kitaburo-cho_Nara_Chozubachi.jpg/320px-Itsukushima_Shrine_Kitaburo-cho_Nara_Chozubachi.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Itsukushima_Shrine_Kitaburo-cho_Nara_Chozubachi.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_Kitaburo-cho_Nara_Gate.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北風呂町 厳島神社 門",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Itsukushima_Shrine_Kitaburo-cho_Nara_Gate.jpg/320px-Itsukushima_Shrine_Kitaburo-cho_Nara_Gate.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Itsukushima_Shrine_Kitaburo-cho_Nara_Gate.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_Kitaburo-cho_Nara_Tree.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北風呂町 厳島神社 神木？",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Itsukushima_Shrine_Kitaburo-cho_Nara_Tree.jpg/180px-Itsukushima_Shrine_Kitaburo-cho_Nara_Tree.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Itsukushima_Shrine_Kitaburo-cho_Nara_Tree.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_Kitaburo-cho_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北風呂町 厳島神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Itsukushima_Shrine_Kitaburo-cho_Nara.jpg/320px-Itsukushima_Shrine_Kitaburo-cho_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Itsukushima_Shrine_Kitaburo-cho_Nara.jpg"
           }
         ]
       }
@@ -223,6 +382,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.819832,
+          34.678915
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Kojoro_Taishin_Sanjo_Honmachi_Nara",
+        "title": "小女郎大神 三条本町 正一位なので稲荷？ 建物の隙間に所在 2016年9月では見つけられず失われた可能性",
+        "description": "小女郎大神 三条本町 正一位なので稲荷？ 建物の隙間に所在 2016年9月では見つけられず失われた可能性",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg/180px-Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 小女郎大神 三条本町 正一位なので稲荷？ 建物の隙間に所在 2016年9月では見つけられず失われた可能性",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg/180px-Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kojoro_Taishin_Sanjo_Honmachi_Nara_2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 小女郎大神 三条本町 正一位なので稲荷？ 建物の隙間に所在 2016年9月では見つけられず失われた可能性",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kojoro_Taishin_Sanjo_Honmachi_Nara_2.jpg/320px-Kojoro_Taishin_Sanjo_Honmachi_Nara_2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Kojoro_Taishin_Sanjo_Honmachi_Nara_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.830489,
           34.670589
         ]
@@ -270,6 +460,43 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良南新町の地蔵尊と弁財天",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg/320px-Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82701666666665,
+          34.68451866666667
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Misome_Shrine_Nara",
+        "title": "西御門町 見初社",
+        "description": "西御門町 見初社",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Misome_Shrine_Nara_Gate.jpg/320px-Misome_Shrine_Nara_Gate.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Misome_Shrine_Nara_Gate.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西御門町 見初社 門",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Misome_Shrine_Nara_Gate.jpg/320px-Misome_Shrine_Nara_Gate.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/94/Misome_Shrine_Nara_Gate.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Misome_Shrine_Nara_Honden_From_Above.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西御門町 見初社 本殿（上から）",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Misome_Shrine_Nara_Honden_From_Above.jpg/180px-Misome_Shrine_Nara_Honden_From_Above.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Misome_Shrine_Nara_Honden_From_Above.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Misome_Shrine_Nara_Honden.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西御門町 見初社 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Misome_Shrine_Nara_Honden.jpg/180px-Misome_Shrine_Nara_Honden.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/49/Misome_Shrine_Nara_Honden.jpg"
           }
         ]
       }
@@ -413,6 +640,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.85114533333333,
+          34.675834333333334
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Shirachi_Shrine_Nara",
+        "title": "春日野町 白乳神社",
+        "description": "春日野町 白乳神社",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shirachi_Shrine_Nara_Information.jpg/180px-Shirachi_Shrine_Nara_Information.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Shirachi_Shrine_Nara_Information.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>春日野町 白乳神社 案内板",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shirachi_Shrine_Nara_Information.jpg/180px-Shirachi_Shrine_Nara_Information.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Shirachi_Shrine_Nara_Information.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Shirachi_Shrine_Nara1.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>春日野町 白乳神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Shirachi_Shrine_Nara1.jpg/320px-Shirachi_Shrine_Nara1.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Shirachi_Shrine_Nara1.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Shirachi_Shrine_Nara2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>春日野町 白乳神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Shirachi_Shrine_Nara2.jpg/180px-Shirachi_Shrine_Nara2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Shirachi_Shrine_Nara2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.83038599999998,
           34.664414
         ]
@@ -435,6 +699,49 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 大木を祀っていると思われる小祠",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg/320px-Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8230325,
+          34.678582
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Sugiichi_Taishin_Sugiga-cho_Nara",
+        "title": "杉ヶ町 杉市大神",
+        "description": "杉ヶ町 杉市大神",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sugiichi_Taishin_Shrine_In_Nara.jpg/180px-Sugiichi_Taishin_Shrine_In_Nara.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Sugiichi_Taishin_Shrine_In_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良 杉市大神",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sugiichi_Taishin_Shrine_In_Nara.jpg/180px-Sugiichi_Taishin_Shrine_In_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sugiichi_Taishin_Shrine_In_Nara.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Sugiichi_Taishin_Sugiga-cho_NameStone1.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>杉ヶ町 杉市大神 若杉大明神と彫られている",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sugiichi_Taishin_Sugiga-cho_NameStone1.jpg/180px-Sugiichi_Taishin_Sugiga-cho_NameStone1.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sugiichi_Taishin_Sugiga-cho_NameStone1.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Sugiichi_Taishin_Sugiga-cho_NameStone2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>杉ヶ町 杉市大神 社名が彫られている",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sugiichi_Taishin_Sugiga-cho_NameStone2.jpg/180px-Sugiichi_Taishin_Sugiga-cho_NameStone2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sugiichi_Taishin_Sugiga-cho_NameStone2.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Sugiichi_Taishin_Sugiga-cho_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>杉ヶ町 杉市大神",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sugiichi_Taishin_Sugiga-cho_Nara.jpg/320px-Sugiichi_Taishin_Sugiga-cho_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sugiichi_Taishin_Sugiga-cho_Nara.jpg"
           }
         ]
       }
@@ -715,24 +1022,6 @@
         "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>今市町 小祠",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Small_Shrines_in_Imaichi_Nara.jpg/180px-Small_Shrines_in_Imaichi_Nara.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Small_Shrines_in_Imaichi_Nara.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.822983,
-          34.67855
-        ]
-      },
-      "properties": {
-        "type": "小祠",
-        "url": "https://commons.wikimedia.org/wiki/File:Sugiichi_Taishin_Shrine_In_Nara.jpg",
-        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良 杉市大神",
-        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良 杉市大神",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sugiichi_Taishin_Shrine_In_Nara.jpg/180px-Sugiichi_Taishin_Shrine_In_Nara.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sugiichi_Taishin_Shrine_In_Nara.jpg"
       }
     },
     {

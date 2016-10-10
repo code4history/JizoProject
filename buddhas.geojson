@@ -136,6 +136,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.829361,
+          34.676014
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/File:Gangou-ji_Shoto-in_Wayside_Garan.jpg",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>元興寺小塔院の道路沿い伽藍",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>元興寺小塔院の道路沿い伽藍",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gangou-ji_Shoto-in_Wayside_Garan.jpg/320px-Gangou-ji_Shoto-in_Wayside_Garan.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Gangou-ji_Shoto-in_Wayside_Garan.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.829453,
           34.691414
         ]

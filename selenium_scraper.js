@@ -45,6 +45,8 @@ argv.option([{
     example: "'selenium_scraper.js --buddha' or 'selenium_scraper.js -b'"
 }]);
 
+var driver = null;
+
 var args = argv.run();
 var newonly = args.options && args.options.newonly ? true : false;
 var fb_file = args.options && args.options.feedback ? args.options.feedback : false;
@@ -64,7 +66,13 @@ var feedback = fb_file ? JSON.parse(fs.readFileSync(fb_file, 'utf8')).features.m
     }
     return item;
 }) : false;
+var login_info = null;
+try {
+    login_info = JSON.parse(fs.readFileSync("./login.json", 'utf8'));
+} catch(e) {}
 var skip_flag = feedback || target.type == "jizo_project";
+
+//process.exit(0);
 
 function wikiurl_escape(url) {
     return url.replace(/ /g,"_").replace(/\(/g,"%28").replace(/\)/g,"%29");
@@ -98,29 +106,74 @@ function old_data_copy2(page,res) {
     delete page.old;
 }
 
-function get_target(url, old) {
-    if (skip_flag) return Promise.all([]);
-    var driver = new webdriver.Builder()
-        .forBrowser('chrome')
-        .usingServer('http://localhost:4444/wd/hub')
-        .build();
-    driver.get(url + "?lang=ja");
-    return driver.wait(function(){
-        return driver.findElements(By.xpath('//h1[@id="firstHeading"][@class="firstHeading"]'))
-        .then(function(elems){
-            if (elems.length == 0) return false;
-            return true;
-        });
-    }, timeout)
-    .then(function(){
-        return [driver, old];
-    });
+driver = new webdriver.Builder()
+    .forBrowser('chrome')
+    .usingServer('http://localhost:4444/wd/hub')
+    .build();
+
+// ドライバーが空の場合、ドライバーを生成する。
+// ログインモードの際ログインさせるために、Promiseで返す。
+function get_driver() {
+    return new Promise(function(resolve, reject){
+        if (!driver) {
+            driver = new webdriver.Builder()
+                .forBrowser('chrome')
+                .usingServer('http://localhost:4444/wd/hub')
+                .build();
+            if (login_info) {
+                driver.get('https://commons.wikimedia.org/wiki/Special:UserLogin');
+                driver.wait(function(){
+                    return driver.findElements(By.xpath('//div[@id="userloginForm"]'))
+                        .then(function(elems){
+                            if (elems.length == 0) return false;
+                            return true;
+                        });
+                }, timeout)
+                .then(function(){
+                    driver.findElement(By.name("wpName")).sendKeys(login_info.user);
+                    driver.findElement(By.name("wpPassword")).sendKeys(login_info.pass);
+                    driver.findElement(By.name("wploginattempt")).click();
+                    driver.wait(function(){
+                        return driver.findElements(By.xpath('//html[contains(@class,"mw-mainpage")]'))
+                            .then(function(elems){
+                                if (elems.length == 0) return false;
+                                return true;
+                            });
+                    }, timeout)
+                    .then(function(){
+                        resolve(driver);                        
+                    });
+
+                });
+            } else {
+                resolve(driver);
+            }
+        } else {
+            resolve(driver);
+        }
+    })
 }
 
-function scrape_category(args) {
+function get_target(url, old) {
     if (skip_flag) return Promise.all([]);
-    var driver = args[0];
-    var old    = args[1];
+    //return get_driver()
+    //.then(function(driver){
+        driver.get(url + "?lang=ja");
+        return driver.wait(function(){
+            return driver.findElements(By.xpath('//h1[@id="firstHeading"][@class="firstHeading"]'))
+            .then(function(elems){
+                if (elems.length == 0) return false;
+                return true;
+            });
+        }, timeout)
+        .then(function(){
+            return old;
+        });
+    //});
+}
+
+function scrape_category(old) {
+    if (skip_flag) return Promise.all([]);
     return Promise.all([
         driver.findElements(By.xpath('//div[contains(@class,"description")][contains(@class,"mw-content-ltr")][contains(@class,"ja")]|//div[@id="mw-content-text"]/*[1][name(.)="p"]'))
         .then(function(elems){
@@ -146,7 +199,6 @@ function scrape_category(args) {
             }));
         })
     ]).then(function(results){
-        driver.close();
         var rets = old_data_copy1(results[1],"Category",old);
         rets = rets.concat(old_data_copy1(results[2],"File",old));
         if (newonly) {
@@ -163,8 +215,7 @@ function scrape_category(args) {
     });
 }
 
-function scrape_filepage(args) {
-    var driver = args[0];
+function scrape_filepage() {
     return Promise.all([
         driver.findElements(By.xpath('//a[contains(text(),"OpenStreetMap")]'))
         .then(function(elems){
@@ -207,7 +258,6 @@ function scrape_filepage(args) {
         })
     ])
     .then(function(arr){
-        driver.close();
         var ret = {};
         if (arr[0]) ret["latlng"]    = arr[0];
         if (arr[1]) ret["thumbnail"] = arr[1];
@@ -291,7 +341,7 @@ get_target("https://commons.wikimedia.org/wiki/Category:" + target.category,old_
 .then(scrape_category)
 .then(load_each_page)
 .then(function(arg){
-
+    driver.close();
     var features = feedback ? old_json : 
         skip_flag ? ["jizo","buddha","shrine"].reduce(function(prev,curr) {
             var json = [];
@@ -358,6 +408,7 @@ get_target("https://commons.wikimedia.org/wiki/Category:" + target.category,old_
     });
 
     var json = JSON.stringify(geojson, null, "  ");
+
     fs.writeFile(jsonfile, json , function (err) {
         if (err) console.log(err);
     });

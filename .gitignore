@@ -3,3 +3,4 @@ node_modules
 *.js_
 *_bak.js
 feedback.*
+login.json
