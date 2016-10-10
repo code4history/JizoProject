@@ -5,6 +5,8 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nara_Kidera_Jizo_in_Mansion.jpg/320px-Nara_Kidera_Jizo_in_Mansion.jpg) 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nara_Nouin-cho_Hachioji_shrine.jpg/180px-Nara_Nouin-cho_Hachioji_shrine.jpg)
 
+* [配布レポジトリ(ここ,GeoJson)](https://github.com/code4nara/JizoProject/)
+* [配布レポジトリ(写真 on Wikimedia)](https://commons.wikimedia.org/wiki/Category:Wayside_Place_of_Worship_in_Nara)
 * [Wiki](https://github.com/code4nara/JizoProject/wiki)
 * ~~[uMapビジュアライズ](https://umap.openstreetmap.fr/ja/map/map_103724#14/34.6885/135.8371)~~(自由度が低いので廃止しました)
 * [CARTOビジュアライズ](https://kochizufan.carto.com/viz/619dd090-8cdf-11e6-91a7-0e05a8b3e3d7/embed_map)
