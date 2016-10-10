@@ -139,6 +139,7 @@
         "title": "八王子社",
         "description": "納院町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nara_Nouin-cho_Hachioji_shrine.jpg/180px-Nara_Nouin-cho_Hachioji_shrine.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%8E%8B%E5%AD%90%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82%E7%B4%8D%E9%99%A2%E7%94%BA)",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Nouin-cho_Hachioji_shrine.jpg",
@@ -164,6 +165,7 @@
         "title": "八王子四之室神社",
         "description": "元林院町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hachioji_Shinomuro_Shrine_Nara.jpg/320px-Hachioji_Shinomuro_Shrine_Nara.jpg",
+        "monumento": "https://monumen.to/spots/2465",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Hachioji_Shinomuro_Shrine_Nara.jpg",
@@ -185,8 +187,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8320771111111,
-          34.674058
+          135.83206562499998,
+          34.67405725
         ]
       },
       "properties": {
@@ -219,12 +221,6 @@
             "description": "川之上突抜町 白山神社 本殿",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hakusan_Shrine_Nara_Honden2.jpg/320px-Hakusan_Shrine_Nara_Honden2.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hakusan_Shrine_Nara_Honden2.jpg"
-          },
-          {
-            "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Information.jpg",
-            "description": "川之上突抜町 白山神社 説明文",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hakusan_Shrine_Nara_Information.jpg/320px-Hakusan_Shrine_Nara_Information.jpg",
-            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Hakusan_Shrine_Nara_Information.jpg"
           },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Kahi.jpg",
@@ -367,6 +363,7 @@
         "title": "春日若宮社",
         "description": "中辻町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nara_Kainaduka_KasugaWakamiya.jpg/320px-Nara_Kainaduka_KasugaWakamiya.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E8%8B%A5%E5%AE%AE%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82%E4%B8%AD%E8%BE%BB%E7%94%BA)",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Kainaduka_KasugaWakamiya.jpg",
@@ -423,6 +420,7 @@
         "title": "椚神社",
         "description": "肘塚町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nara_Kainotsuka_Kunugi_Shrine.jpg/180px-Nara_Kainotsuka_Kunugi_Shrine.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%A4%9A%E7%A5%9E%E7%A4%BE",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Kainotsuka_Kunugi_Shrine.jpg",
@@ -640,8 +638,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.85114533333333,
-          34.675834333333334
+          135.8511585,
+          34.675836000000004
         ]
       },
       "properties": {
@@ -649,14 +647,8 @@
         "url": "https://commons.wikimedia.org/wiki/Category:Shirachi_Shrine_Nara",
         "title": "白乳神社",
         "description": "春日野町",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shirachi_Shrine_Nara_Information.jpg/180px-Shirachi_Shrine_Nara_Information.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Shirachi_Shrine_Nara1.jpg/320px-Shirachi_Shrine_Nara1.jpg",
         "files": [
-          {
-            "url": "https://commons.wikimedia.org/wiki/File:Shirachi_Shrine_Nara_Information.jpg",
-            "description": "春日野町 白乳神社 案内板",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shirachi_Shrine_Nara_Information.jpg/180px-Shirachi_Shrine_Nara_Information.jpg",
-            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Shirachi_Shrine_Nara_Information.jpg"
-          },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Shirachi_Shrine_Nara1.jpg",
             "description": "春日野町 白乳神社",
@@ -792,6 +784,7 @@
         "title": "手力雄神社",
         "description": "橋本町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Tajikarao_Jinja_in_Nara.jpg/320px-Tajikarao_Jinja_in_Nara.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%89%8B%E5%8A%9B%E9%9B%84%E7%A5%9E%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82)",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Tajikarao_Jinja_in_Nara.jpg",
@@ -823,6 +816,7 @@
         "title": "月日磐",
         "description": "春日野町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tsukihiiwa_Annai.jpg/320px-Tsukihiiwa_Annai.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%88%E6%97%A5%E7%A3%90",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Tsukihiiwa_Annai.jpg",
@@ -897,7 +891,8 @@
         "title": "式内赤穂神社",
         "description": "高畑町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Akoh_Shrine1.jpg/320px-Akoh_Shrine1.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Akoh_Shrine1.jpg"
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Akoh_Shrine1.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E7%A5%9E%E7%A4%BE"
       }
     },
     {
@@ -915,7 +910,8 @@
         "title": " 隼神社",
         "description": "角振新屋町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hayabusa_Jinja_Nara.jpg/320px-Hayabusa_Jinja_Nara.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hayabusa_Jinja_Nara.jpg"
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hayabusa_Jinja_Nara.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E9%9A%BC%E7%A5%9E%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82)"
       }
     },
     {
@@ -951,7 +947,9 @@
         "title": "井上神社",
         "description": "井上町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nara_Igami_Shrine.jpg/180px-Nara_Igami_Shrine.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/df/Nara_Igami_Shrine.jpg"
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/df/Nara_Igami_Shrine.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E7%A5%9E%E7%A4%BE",
+        "monumento": "https://monumen.to/spots/2214"
       }
     },
     {
@@ -1041,7 +1039,8 @@
         "title": "月日神社",
         "description": "下三條町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tsukihi_Jinja_Nara.jpg/320px-Tsukihi_Jinja_Nara.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tsukihi_Jinja_Nara.jpg"
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tsukihi_Jinja_Nara.jpg",
+        "wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%88%E6%97%A5%E7%A5%9E%E7%A4%BE"
       }
     },
     {

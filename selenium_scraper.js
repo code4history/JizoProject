@@ -85,7 +85,9 @@ function old_data_copy1(arr,type,old) {
     return arr.map(function(item){
         var url    = 'https://commons.wikimedia.org/wiki/' + type + ':' + wikiurl_escape(item);
         var oldone = old.map(function(oldeach){
-            return oldeach.properties != null ? oldeach.properties : oldeach;
+            var prop = oldeach.properties != null ? oldeach.properties : oldeach;
+            prop.latlng = oldeach.geomety != null ? [oldeach.geomety.coordinates[1],oldeach.geomety.coordinates[0]] : null;
+            return prop;
         }).filter(function(oldeach){ 
             return wikiurl_escape(oldeach.url) == url;
         });
@@ -102,8 +104,16 @@ function old_title_desc_copy(page,res) {
         if (page.old.title != null) {
             page.title   = Array.isArray(page.old.title)       ? page.old.title[0]       : page.old.title;
         }
+        if (page.old.wikipedia != null) {
+            page.wikipedia = page.old.wikipedia;
+        }
+        if (page.old.monumento != null) {
+            page.monumento = page.old.monumento;
+        }
+        page.latlng = (page.old.latlng != null) ? page.old.latlng : res.latlng;
     } else {
         page.description = res.description;
+        page.latlng      = res.latlng;
     }
     delete page.old;
 }
@@ -256,8 +266,7 @@ function load_each_page(target) {
         return page.url.includes('wiki/File:') ?
             get_target(page.url)
             .then(scrape_filepage)
-            .then(function(res){
-                page.latlng    = res.latlng;               
+            .then(function(res){              
                 page.thumbnail = res.thumbnail;
                 page.fullsize  = res.fullsize;
                 old_title_desc_copy(page,res);
@@ -270,7 +279,7 @@ function load_each_page(target) {
                 var lls     = lpages.filter(function(val){
                     return val.latlng != void 0;
                 });
-                page.latlng = lls.reduce(function(prev,curr){
+                res.latlng = lls.reduce(function(prev,curr){
                     var latlng = curr.latlng;
                     delete curr.latlng;
                     return prev.map(function(val,i){
@@ -312,7 +321,9 @@ get_target("https://commons.wikimedia.org/wiki/Category:" + target.category,old_
                     "type"  : target.default,
                     "url"   : source.url,
                     "title" : source.title ? source.title : source.description,
-                    "description" : source.description
+                    "description" : source.description,
+                    "wikipedia" : source.wikipedia,
+                    "monumento" : source.monumento
                 }
             };
             var prop = feature.properties;
