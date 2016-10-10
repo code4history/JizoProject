@@ -46,6 +46,10 @@ argv.option([{
 }]);
 
 var driver = null;
+driver = new webdriver.Builder()
+        .forBrowser('chrome')
+        .usingServer('http://localhost:4444/wd/hub')
+        .build();
 
 var args = argv.run();
 var newonly = args.options && args.options.newonly ? true : false;
@@ -92,7 +96,7 @@ function old_data_copy1(arr,type,old) {
     })
 }
 
-function old_data_copy2(page,res) {
+function old_title_desc_copy(page,res) {
     if (page.old != null) {
         page.description = Array.isArray(page.old.description) ? page.old.description[0] : page.old.description;
         if (page.old.title != null) {
@@ -106,10 +110,6 @@ function old_data_copy2(page,res) {
 
 function get_target(url, old) {
     if (skip_flag) return Promise.all([]);
-    if (!driver) driver = new webdriver.Builder()
-        .forBrowser('chrome')
-        .usingServer('http://localhost:4444/wd/hub')
-        .build();
     driver.get(url + "?lang=ja");
     return driver.wait(function(){
         return driver.findElements(By.xpath('//h1[@id="firstHeading"][@class="firstHeading"]'))
@@ -260,7 +260,7 @@ function load_each_page(target) {
                 page.latlng    = res.latlng;               
                 page.thumbnail = res.thumbnail;
                 page.fullsize  = res.fullsize;
-                old_data_copy2(page,res);
+                old_title_desc_copy(page,res);
             }) :
             get_target(page.url,page.old ? page.old.files : null)
             .then(scrape_category)
@@ -280,7 +280,7 @@ function load_each_page(target) {
                     return val / lls.length;
                 });
                 page.files  = lpages;
-                old_data_copy2(page,res);
+                old_title_desc_copy(page,res);
             });
     }))
     .then(function(){
