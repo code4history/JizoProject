@@ -2996,6 +2996,7 @@
         "description": "納院町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nara_Nouin-cho_Hachioji_shrine.jpg/180px-Nara_Nouin-cho_Hachioji_shrine.jpg",
         "wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%8E%8B%E5%AD%90%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82%E7%B4%8D%E9%99%A2%E7%94%BA)",
+        "monumento": "https://monumen.to/spots/2190",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Nouin-cho_Hachioji_shrine.jpg",
@@ -3053,6 +3054,7 @@
         "title": "白山神社",
         "description": "川之上突抜町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hakusan_Shrine_Nara_Chozu.jpg/320px-Hakusan_Shrine_Nara_Chozu.jpg",
+        "monumento": "https://monumen.to/spots/6304",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Shrine_Nara_Chozu.jpg",
@@ -3504,6 +3506,7 @@
         "title": "白乳神社",
         "description": "春日野町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Shirachi_Shrine_Nara1.jpg/320px-Shirachi_Shrine_Nara1.jpg",
+        "monumento": "https://monumen.to/spots/6305",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Shirachi_Shrine_Nara1.jpg",
@@ -3785,7 +3788,8 @@
         "title": "拍子神社",
         "description": "登大路町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Nara_Hyoshi_Shrine.jpg/180px-Nara_Hyoshi_Shrine.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nara_Hyoshi_Shrine.jpg"
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nara_Hyoshi_Shrine.jpg",
+        "monumento": "https://monumen.to/spots/2526"
       }
     },
     {
