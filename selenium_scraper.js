@@ -72,8 +72,6 @@ try {
 } catch(e) {}
 var skip_flag = feedback || target.type == "jizo_project";
 
-//process.exit(0);
-
 function wikiurl_escape(url) {
     return url.replace(/ /g,"_").replace(/\(/g,"%28").replace(/\)/g,"%29");
 }
@@ -106,70 +104,23 @@ function old_data_copy2(page,res) {
     delete page.old;
 }
 
-driver = new webdriver.Builder()
-    .forBrowser('chrome')
-    .usingServer('http://localhost:4444/wd/hub')
-    .build();
-
-// ドライバーが空の場合、ドライバーを生成する。
-// ログインモードの際ログインさせるために、Promiseで返す。
-function get_driver() {
-    return new Promise(function(resolve, reject){
-        if (!driver) {
-            driver = new webdriver.Builder()
-                .forBrowser('chrome')
-                .usingServer('http://localhost:4444/wd/hub')
-                .build();
-            if (login_info) {
-                driver.get('https://commons.wikimedia.org/wiki/Special:UserLogin');
-                driver.wait(function(){
-                    return driver.findElements(By.xpath('//div[@id="userloginForm"]'))
-                        .then(function(elems){
-                            if (elems.length == 0) return false;
-                            return true;
-                        });
-                }, timeout)
-                .then(function(){
-                    driver.findElement(By.name("wpName")).sendKeys(login_info.user);
-                    driver.findElement(By.name("wpPassword")).sendKeys(login_info.pass);
-                    driver.findElement(By.name("wploginattempt")).click();
-                    driver.wait(function(){
-                        return driver.findElements(By.xpath('//html[contains(@class,"mw-mainpage")]'))
-                            .then(function(elems){
-                                if (elems.length == 0) return false;
-                                return true;
-                            });
-                    }, timeout)
-                    .then(function(){
-                        resolve(driver);                        
-                    });
-
-                });
-            } else {
-                resolve(driver);
-            }
-        } else {
-            resolve(driver);
-        }
-    })
-}
-
 function get_target(url, old) {
     if (skip_flag) return Promise.all([]);
-    //return get_driver()
-    //.then(function(driver){
-        driver.get(url + "?lang=ja");
-        return driver.wait(function(){
-            return driver.findElements(By.xpath('//h1[@id="firstHeading"][@class="firstHeading"]'))
-            .then(function(elems){
-                if (elems.length == 0) return false;
-                return true;
-            });
-        }, timeout)
-        .then(function(){
-            return old;
+    if (!driver) driver = new webdriver.Builder()
+        .forBrowser('chrome')
+        .usingServer('http://localhost:4444/wd/hub')
+        .build();
+    driver.get(url + "?lang=ja");
+    return driver.wait(function(){
+        return driver.findElements(By.xpath('//h1[@id="firstHeading"][@class="firstHeading"]'))
+        .then(function(elems){
+            if (elems.length == 0) return false;
+            return true;
         });
-    //});
+    }, timeout)
+    .then(function(){
+        return old;
+    });
 }
 
 function scrape_category(old) {
