@@ -329,7 +329,12 @@ get_target("https://commons.wikimedia.org/wiki/Category:" + target.category,old_
             var prop = feature.properties;
             if (source.files && source.files.length != 0) {
                 prop.files = source.files;
-                prop.thumbnail = source.files[0].thumbnail;
+                for (var i = 0; i < source.files.length; i++) {
+                    if (!source.files[i].thumbnail.match(/inside/i)) {
+                        prop.thumbnail = source.files[i].thumbnail;
+                        break;
+                    }
+                }
             } else {
                 prop.thumbnail = source.thumbnail;
                 prop.fullsize  = source.fullsize;

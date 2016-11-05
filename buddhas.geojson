@@ -13,19 +13,19 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/Category:Amida_in_Nara_Kyobate_Jizo",
-        "title": "本尊阿弥陀三尊",
-        "description": "京終地蔵院",
+        "title": "京終地蔵院 本尊阿弥陀三尊",
+        "description": "京終地蔵院 本尊阿弥陀三尊",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Amida_In_Nara_Kyobate_Jizo.jpg/320px-Amida_In_Nara_Kyobate_Jizo.jpg",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Amida_In_Nara_Kyobate_Jizo.jpg",
-            "description": "京終地蔵院 本尊阿弥陀三尊",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 京終地蔵院 本尊阿弥陀三尊",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Amida_In_Nara_Kyobate_Jizo.jpg/320px-Amida_In_Nara_Kyobate_Jizo.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Amida_In_Nara_Kyobate_Jizo.jpg"
           },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Nara_Kyobate_Jizo_buddha.jpg",
-            "description": "<a href=\"https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%B5%82%E5%9C%B0%E8%94%B5%E9%99%A2\" class=\"extiw\" title=\"ja:京終地蔵院\">京終地蔵尊</a>本尊阿弥陀",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span><a href=\"https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%B5%82%E5%9C%B0%E8%94%B5%E9%99%A2\" class=\"extiw\" title=\"ja:京終地蔵院\">京終地蔵尊</a>本尊阿弥陀",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nara_Kyobate_Jizo_buddha.jpg/180px-Nara_Kyobate_Jizo_buddha.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Nara_Kyobate_Jizo_buddha.jpg"
           }
@@ -44,27 +44,58 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/Category:Kobo_Well_With_Amida_Nara",
-        "title": "弘法井戸",
-        "description": "二条町",
+        "title": "二条町 弘法井戸",
+        "description": "二条町 弘法井戸",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg/320px-Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg",
-            "description": "二条町 弘法井戸及び歓喜寺地蔵尊遠景",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>二条町 弘法井戸及び歓喜寺地蔵尊遠景",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg/320px-Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kobo_Well_With_Amida_And_Kangiji_Jizo.jpg"
           },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Kobo_Well_With_Amida_Nara_Inside.jpg",
-            "description": "二条町 弘法井戸内部",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>二条町 弘法井戸内部",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kobo_Well_With_Amida_Nara_Inside.jpg/320px-Kobo_Well_With_Amida_Nara_Inside.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kobo_Well_With_Amida_Nara_Inside.jpg"
           },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Kobo_Well_With_Amida_Nara_Outside.jpg",
-            "description": "二条町 弘法井戸外観",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>二条町 弘法井戸外観",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kobo_Well_With_Amida_Nara_Outside.jpg/320px-Kobo_Well_With_Amida_Nara_Outside.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kobo_Well_With_Amida_Nara_Outside.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82990949999999,
+          34.6765445
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Koshindo_%28NishiShinya-cho%29_Nara",
+        "title": "西新屋町 庚申堂",
+        "description": "西新屋町 庚申堂",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Koshindo_%28NishiShinya-cho%29_Nara.jpg/320px-Koshindo_%28NishiShinya-cho%29_Nara.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Koshindo_%28NishiShinya-cho%29_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西新屋町 庚申堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Koshindo_%28NishiShinya-cho%29_Nara_Inside.jpg/320px-Koshindo_%28NishiShinya-cho%29_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/02/Koshindo_%28NishiShinya-cho%29_Nara_Inside.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Koshindo_%28NishiShinya-cho%29_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西新屋町 庚申堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Koshindo_%28NishiShinya-cho%29_Nara.jpg/320px-Koshindo_%28NishiShinya-cho%29_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/65/Koshindo_%28NishiShinya-cho%29_Nara.jpg"
           }
         ]
       }
@@ -81,21 +112,132 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/Category:MinamiKainotsuka_Small_Temple_%28Nara%29",
-        "title": "石仏を祀るお堂",
-        "description": "南肘塚町",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg/320px-MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg",
+        "title": "南肘塚町 石仏を祀るお堂",
+        "description": "南肘塚町 石仏を祀るお堂",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MinamiKainotsuka_Small_Temple_%28Nara%29.jpg/320px-MinamiKainotsuka_Small_Temple_%28Nara%29.jpg",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg",
-            "description": "南肘塚町 お堂内の石仏",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南肘塚町 お堂内の石仏",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg/320px-MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/37/MinamiKainotsuka_Small_Temple_%28Nara%29_Inside.jpg"
           },
           {
             "url": "https://commons.wikimedia.org/wiki/File:MinamiKainotsuka_Small_Temple_%28Nara%29.jpg",
-            "description": "南肘塚町 石仏を祀るお堂",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南肘塚町 石仏を祀るお堂",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MinamiKainotsuka_Small_Temple_%28Nara%29.jpg/320px-MinamiKainotsuka_Small_Temple_%28Nara%29.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/93/MinamiKainotsuka_Small_Temple_%28Nara%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8220595,
+          34.6807515
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Mirokudo_%28Sanjo-cho%29_Nara",
+        "title": "三条町 弥勒堂",
+        "description": "三条町 弥勒堂",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mirokudo_%28Sanjo-cho%29_Nara.jpg/320px-Mirokudo_%28Sanjo-cho%29_Nara.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Mirokudo_%28Sanjo-cho%29_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>三条町 弥勒堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mirokudo_%28Sanjo-cho%29_Nara_Inside.jpg/320px-Mirokudo_%28Sanjo-cho%29_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mirokudo_%28Sanjo-cho%29_Nara_Inside.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Mirokudo_%28Sanjo-cho%29_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>三条町 弥勒堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mirokudo_%28Sanjo-cho%29_Nara.jpg/320px-Mirokudo_%28Sanjo-cho%29_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mirokudo_%28Sanjo-cho%29_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8263508,
+          34.675466799999995
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Seiten-do_%28NishiKitsuji-cho%29_Nara",
+        "title": "西木辻町 聖天堂",
+        "description": "西木辻町 聖天堂",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jizo_%28NishiKitsuji%2C_Seiten-mae%29_Nara.jpg/320px-Jizo_%28NishiKitsuji%2C_Seiten-mae%29_Nara.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizo_%28NishiKitsuji,_Seiten-mae%29_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西木辻町 聖天堂前地蔵",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jizo_%28NishiKitsuji%2C_Seiten-mae%29_Nara.jpg/320px-Jizo_%28NishiKitsuji%2C_Seiten-mae%29_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Jizo_%28NishiKitsuji%2C_Seiten-mae%29_Nara.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Seiten-do_%28NishiKitsuji-cho%29_Nara_Hengaku.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西木辻町 聖天堂 扁額",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Seiten-do_%28NishiKitsuji-cho%29_Nara_Hengaku.jpg/180px-Seiten-do_%28NishiKitsuji-cho%29_Nara_Hengaku.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/20/Seiten-do_%28NishiKitsuji-cho%29_Nara_Hengaku.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Seiten-do_%28NishiKitsuji-cho%29_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西木辻町 聖天堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Seiten-do_%28NishiKitsuji-cho%29_Nara_Inside.jpg/320px-Seiten-do_%28NishiKitsuji-cho%29_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Seiten-do_%28NishiKitsuji-cho%29_Nara_Inside.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Seiten-do_%28NishiKitsuji-cho%29_Nara_Omine_Kuyo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西木辻町 聖天堂前大峰山百二十度供養塔",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Seiten-do_%28NishiKitsuji-cho%29_Nara_Omine_Kuyo.jpg/180px-Seiten-do_%28NishiKitsuji-cho%29_Nara_Omine_Kuyo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Seiten-do_%28NishiKitsuji-cho%29_Nara_Omine_Kuyo.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Seiten-do_%28NishiKitsuji-cho%29_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西木辻町 聖天堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Seiten-do_%28NishiKitsuji-cho%29_Nara.jpg/320px-Seiten-do_%28NishiKitsuji-cho%29_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Seiten-do_%28NishiKitsuji-cho%29_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82895000000002,
+          34.680546
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Shoho_Rigen_Daishido_%28Nara%29",
+        "title": "餅飯殿町 聖寶理源大師堂",
+        "description": "餅飯殿町 聖寶理源大師堂",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mochiidono_Benzaiten_and_Shoho_Rigen_Daishido_%28Nara%29.jpg/320px-Mochiidono_Benzaiten_and_Shoho_Rigen_Daishido_%28Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Mochiidono_Benzaiten_and_Shoho_Rigen_Daishido_%28Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>餅飯殿町 餅飯殿辨財天社 聖寶理源大師堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mochiidono_Benzaiten_and_Shoho_Rigen_Daishido_%28Nara%29.jpg/320px-Mochiidono_Benzaiten_and_Shoho_Rigen_Daishido_%28Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mochiidono_Benzaiten_and_Shoho_Rigen_Daishido_%28Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Shoho_Rigen_Daishido_%28Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>餅飯殿町 聖寶理源大師堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Shoho_Rigen_Daishido_%28Nara%29.jpg/320px-Shoho_Rigen_Daishido_%28Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Shoho_Rigen_Daishido_%28Nara%29.jpg"
           }
         ]
       }
@@ -112,41 +254,23 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/Category:Wayside_Amidado_%28Sugigacho,_Nara%29",
-        "title": "阿弥陀堂",
-        "description": "杉ヶ町",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wayside_Amida_In_Nara_Sugigacho_Inside.jpg/180px-Wayside_Amida_In_Nara_Sugigacho_Inside.jpg",
+        "title": "阿弥陀堂杉ヶ町",
+        "description": "阿弥陀堂杉ヶ町",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wayside_Amida_In_Nara_Sugigacho.jpg/180px-Wayside_Amida_In_Nara_Sugigacho.jpg",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Wayside_Amida_In_Nara_Sugigacho_Inside.jpg",
-            "description": "奈良杉ヶ町の阿弥陀如来（中）",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町の阿弥陀如来（中）",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wayside_Amida_In_Nara_Sugigacho_Inside.jpg/180px-Wayside_Amida_In_Nara_Sugigacho_Inside.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Wayside_Amida_In_Nara_Sugigacho_Inside.jpg"
           },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Wayside_Amida_In_Nara_Sugigacho.jpg",
-            "description": "奈良杉ヶ町の阿弥陀如来",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町の阿弥陀如来",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wayside_Amida_In_Nara_Sugigacho.jpg/180px-Wayside_Amida_In_Nara_Sugigacho.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Wayside_Amida_In_Nara_Sugigacho.jpg"
           }
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.829361,
-          34.676014
-        ]
-      },
-      "properties": {
-        "type": "石仏等",
-        "url": "https://commons.wikimedia.org/wiki/File:Gangou-ji_Shoto-in_Wayside_Garan.jpg",
-        "title": "元興寺小塔院伽藍",
-        "description": "元興寺小塔院の道路沿い伽藍",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gangou-ji_Shoto-in_Wayside_Garan.jpg/320px-Gangou-ji_Shoto-in_Wayside_Garan.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Gangou-ji_Shoto-in_Wayside_Garan.jpg"
       }
     },
     {
@@ -161,8 +285,8 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/File:Horen-cho_Stone_Amida_in_Fuko-in_Nara.jpg",
-        "title": "石の阿弥陀",
-        "description": "法蓮町 普光院境内北端",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>法蓮町 普光院境内北端の石の阿弥陀",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>法蓮町 普光院境内北端の石の阿弥陀",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Horen-cho_Stone_Amida_in_Fuko-in_Nara.jpg/320px-Horen-cho_Stone_Amida_in_Fuko-in_Nara.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/65/Horen-cho_Stone_Amida_in_Fuko-in_Nara.jpg"
       }
@@ -179,8 +303,8 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka_Myogo_sekihi_%28Nara%29.jpg",
-        "title": "名号石碑",
-        "description": "肘塚町 欄干に立てかけてある",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 欄干に立てかけてある名号石碑",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 欄干に立てかけてある名号石碑",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kainotsuka_Myogo_sekihi_%28Nara%29.jpg/320px-Kainotsuka_Myogo_sekihi_%28Nara%29.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kainotsuka_Myogo_sekihi_%28Nara%29.jpg"
       }
@@ -197,8 +321,8 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Stoper_Relief_Nara.jpg",
-        "title": "卒都婆レリーフ",
-        "description": "肘塚町",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 卒都婆レリーフ",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>肘塚町 卒都婆レリーフ",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kainotsuka-cho_Stoper_Relief_Nara.jpg/320px-Kainotsuka-cho_Stoper_Relief_Nara.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kainotsuka-cho_Stoper_Relief_Nara.jpg"
       }
@@ -215,8 +339,8 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/File:Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg",
-        "title": "石仏",
-        "description": "徳融寺北東駐車場内",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、徳融寺北東駐車場内、石仏",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、徳融寺北東駐車場内、石仏",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg/180px-Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg"
       }
@@ -233,8 +357,8 @@
       "properties": {
         "type": "石仏等",
         "url": "https://commons.wikimedia.org/wiki/File:Nara_Tanjoji_SeimenKongo.jpg",
-        "title": "青面金剛",
-        "description": "誕生寺",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span><a href=\"https://ja.wikipedia.org/wiki/%E8%AA%95%E7%94%9F%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)\" class=\"extiw\" title=\"ja:誕生寺 ()\">誕生寺</a>青面金剛",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span><a href=\"https://ja.wikipedia.org/wiki/%E8%AA%95%E7%94%9F%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)\" class=\"extiw\" title=\"ja:誕生寺 ()\">誕生寺</a>青面金剛",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nara_Tanjoji_SeimenKongo.jpg/320px-Nara_Tanjoji_SeimenKongo.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nara_Tanjoji_SeimenKongo.jpg"
       }
