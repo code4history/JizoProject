@@ -31,7 +31,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83176600000002,
+          135.831766,
           34.675072
         ]
       },
@@ -68,8 +68,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8264128,
-          34.6809482
+          135.826512,
+          34.680913
         ]
       },
       "properties": {
@@ -117,8 +117,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.827585,
-          34.681704
+          135.82766,
+          34.681711
         ]
       },
       "properties": {
@@ -299,8 +299,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8183665,
-          34.686670500000005
+          135.818366,
+          34.686671
         ]
       },
       "properties": {
@@ -454,8 +454,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8270525,
-          34.675957000000004
+          135.827053,
+          34.675957
         ]
       },
       "properties": {
@@ -497,8 +497,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.81346200000002,
-          34.686752999999996
+          135.813462,
+          34.686753
         ]
       },
       "properties": {
@@ -540,7 +540,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8290265,
+          135.829026,
           34.676664
         ]
       },
@@ -571,8 +571,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82984433333334,
-          34.67598533333334
+          135.829844,
+          34.675985
         ]
       },
       "properties": {
@@ -651,8 +651,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82043449999998,
-          34.6868335
+          135.820434,
+          34.686833
         ]
       },
       "properties": {
@@ -683,7 +683,7 @@
         "type": "Point",
         "coordinates": [
           135.822635,
-          34.6903005
+          34.6903
         ]
       },
       "properties": {
@@ -725,7 +725,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83445400000002,
+          135.834454,
           34.69493
         ]
       },
@@ -799,8 +799,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.81205699999998,
-          34.6853615
+          135.812057,
+          34.685361
         ]
       },
       "properties": {
@@ -830,8 +830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8283695,
-          34.6868665
+          135.828369,
+          34.686867
         ]
       },
       "properties": {
@@ -861,8 +861,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83009866666666,
-          34.69209766666667
+          135.830099,
+          34.692098
         ]
       },
       "properties": {
@@ -929,8 +929,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83498066666667,
-          34.69318966666666
+          135.834981,
+          34.69319
         ]
       },
       "properties": {
@@ -966,8 +966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8346335,
-          34.6929945
+          135.834633,
+          34.692994
         ]
       },
       "properties": {
@@ -997,8 +997,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82662433333334,
-          34.680974
+          135.826619,
+          34.680873
         ]
       },
       "properties": {
@@ -1128,7 +1128,7 @@
         "type": "Point",
         "coordinates": [
           135.829335,
-          34.676027000000005
+          34.676027
         ]
       },
       "properties": {
@@ -1517,8 +1517,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8206934285714,
-          34.689260142857144
+          135.820693,
+          34.68926
         ]
       },
       "properties": {
@@ -1578,8 +1578,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83469633333334,
-          34.694173000000006
+          135.834696,
+          34.694173
         ]
       },
       "properties": {
@@ -1782,8 +1782,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.823573,
-          34.678573
+          135.82354,
+          34.678561
         ]
       },
       "properties": {
@@ -2006,8 +2006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83278333333337,
-          34.67227966666667
+          135.832783,
+          34.67228
         ]
       },
       "properties": {
@@ -2462,8 +2462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.823167,
-          34.67945
+          135.823165,
+          34.67951
         ]
       },
       "properties": {
@@ -3593,8 +3593,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82990949999999,
-          34.6765445
+          135.829909,
+          34.676544
         ]
       },
       "properties": {
@@ -3655,8 +3655,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8220595,
-          34.6807515
+          135.822059,
+          34.680751
         ]
       },
       "properties": {
@@ -3686,8 +3686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8263508,
-          34.675466799999995
+          135.826405,
+          34.67546
         ]
       },
       "properties": {
@@ -3695,7 +3695,7 @@
         "url": "https://commons.wikimedia.org/wiki/Category:Seiten-do_%28NishiKitsuji-cho%29_Nara",
         "title": "聖天堂",
         "description": "西木辻町",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jizo_%28NishiKitsuji%2C_Seiten-mae%29_Nara.jpg/320px-Jizo_%28NishiKitsuji%2C_Seiten-mae%29_Nara.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Seiten-do_%28NishiKitsuji-cho%29_Nara.jpg/320px-Seiten-do_%28NishiKitsuji-cho%29_Nara.jpg",
         "files": [
           {
             "url": "https://commons.wikimedia.org/wiki/File:Jizo_%28NishiKitsuji,_Seiten-mae%29_Nara.jpg",
@@ -3735,7 +3735,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82895000000002,
+          135.82895,
           34.680546
         ]
       },
@@ -3974,7 +3974,7 @@
         "type": "Point",
         "coordinates": [
           135.832028,
-          34.6725115
+          34.672511
         ]
       },
       "properties": {
@@ -4113,7 +4113,7 @@
         "type": "Point",
         "coordinates": [
           135.829796,
-          34.675920500000004
+          34.675921
         ]
       },
       "properties": {
@@ -4236,8 +4236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83115633333333,
-          34.67372766666666
+          135.831156,
+          34.673728
         ]
       },
       "properties": {
@@ -4273,8 +4273,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82988749999998,
-          34.6761875
+          135.829887,
+          34.676187
         ]
       },
       "properties": {
@@ -4405,7 +4405,7 @@
         "type": "Point",
         "coordinates": [
           135.827056,
-          34.6759625
+          34.675962
         ]
       },
       "properties": {
@@ -4435,15 +4435,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.819832,
-          34.678915
+          135.822065,
+          34.68067
         ]
       },
       "properties": {
         "type": "小祠",
         "url": "https://commons.wikimedia.org/wiki/Category:Kojoro_Taishin_Sanjo_Honmachi_Nara",
         "title": "小女郎大神",
-        "description": "三条本町 正一位なので稲荷？ 建物の隙間に所在 2016年9月では見つけられず失われた可能性",
+        "description": "三条町 小女郎大神 (移転後)",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg/180px-Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg",
         "files": [
           {
@@ -4460,13 +4460,13 @@
           },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg",
-            "description": "小女郎大神 三条本町 正一位なので稲荷？ 建物の隙間に所在 2016年9月では見つけられず失われた可能性",
+            "description": "小女郎大神 三条本町 正一位なので稲荷？ 建物の隙間に所在 三條会館に移転",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg/180px-Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kojoro_Taishin_Sanjo_Honmachi_Nara_1.jpg"
           },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Kojoro_Taishin_Sanjo_Honmachi_Nara_2.jpg",
-            "description": "小女郎大神 三条本町 正一位なので稲荷？ 建物の隙間に所在 2016年9月では見つけられず失われた可能性",
+            "description": "小女郎大神 三条本町 正一位なので稲荷？ 建物の隙間に所在 三條会館に移転",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kojoro_Taishin_Sanjo_Honmachi_Nara_2.jpg/320px-Kojoro_Taishin_Sanjo_Honmachi_Nara_2.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Kojoro_Taishin_Sanjo_Honmachi_Nara_2.jpg"
           }
@@ -4478,8 +4478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8293155,
-          34.678121000000004
+          135.829316,
+          34.678121
         ]
       },
       "properties": {
@@ -4603,8 +4603,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8288936666667,
-          34.68054899999999
+          135.828894,
+          34.680549
         ]
       },
       "properties": {
@@ -4640,8 +4640,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.827256,
-          34.6804835
+          135.827258,
+          34.680511
         ]
       },
       "properties": {
@@ -4671,8 +4671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82689433333334,
-          34.680506666666666
+          135.826894,
+          34.680507
         ]
       },
       "properties": {
@@ -4843,7 +4843,7 @@
         "type": "Point",
         "coordinates": [
           135.830361,
-          34.6915385
+          34.691539
         ]
       },
       "properties": {
@@ -5079,8 +5079,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83191366666668,
-          34.69341466666667
+          135.831914,
+          34.693415
         ]
       },
       "properties": {
