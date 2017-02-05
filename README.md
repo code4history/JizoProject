@@ -14,6 +14,10 @@
 * ~~[uMapビジュアライズ](https://umap.openstreetmap.fr/ja/map/map_103724#14/34.6885/135.8371)~~(自由度が低いので廃止しました)
 * [CARTOビジュアライズ](https://kochizufan.carto.com/viz/619dd090-8cdf-11e6-91a7-0e05a8b3e3d7/embed_map)
 
+# Collaboration demo with Maplat
+Code 4 NaraからUrban data challenge 2016に応募中の[Maplat](https://github.com/code4nara/Maplat)と地蔵プロジェクトをコラボレーションさせたデモを作りました。
+* https://code4nara.github.io/Maplat/?appid=jizoapp&overlay=true
+
 ## License
 
 * Data: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
