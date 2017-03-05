@@ -37,6 +37,136 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.813431,
+          34.666542
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara",
+        "title": "東九条町　八幡神社前北側の仏教石碑のお堂",
+        "description": "東九条町　八幡神社前北側の仏教石碑のお堂",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara.jpg/320px-Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara_%28Inside%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町　八幡神社前北側の仏教石碑のお堂（内部）",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara_%28Inside%29.jpg/320px-Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara_%28Inside%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/89/Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara_%28Inside%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町　八幡神社前北側の仏教石碑のお堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara.jpg/320px-Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78110733333332,
+          34.69391866666667
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Buddhism_stone_Saidaiji_Minami_Nara",
+        "title": "西大寺南町　仏教石碑",
+        "description": "西大寺南町　仏教石碑",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Buddhism_stone_Saidaiji_Minami_Nara_%28body%29.jpg/180px-Buddhism_stone_Saidaiji_Minami_Nara_%28body%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Buddhism_stone_Saidaiji_Minami_Nara_%28body%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西大寺南町　仏教石碑（涎掛け下）",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Buddhism_stone_Saidaiji_Minami_Nara_%28body%29.jpg/180px-Buddhism_stone_Saidaiji_Minami_Nara_%28body%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Buddhism_stone_Saidaiji_Minami_Nara_%28body%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Buddhism_stone_Saidaiji_Minami_Nara_%28zoom%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西大寺南町　仏教石碑（拡大）",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Buddhism_stone_Saidaiji_Minami_Nara_%28zoom%29.jpg/180px-Buddhism_stone_Saidaiji_Minami_Nara_%28zoom%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/42/Buddhism_stone_Saidaiji_Minami_Nara_%28zoom%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Buddhism_stone_Saidaiji_Minami_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西大寺南町　仏教石碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Buddhism_stone_Saidaiji_Minami_Nara.jpg/320px-Buddhism_stone_Saidaiji_Minami_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/da/Buddhism_stone_Saidaiji_Minami_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.81859550000001,
+          34.669914
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Gorinto-Daianji1-Nara",
+        "title": "大安寺一丁目 団地の中の五輪塔堂",
+        "description": "大安寺一丁目 団地の中の五輪塔堂",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gorinto-Daianji1-Nara.jpg/180px-Gorinto-Daianji1-Nara.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Gorinto-Daianji1-Nara-Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺一丁目 団地の中の五輪塔堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gorinto-Daianji1-Nara-Inside.jpg/180px-Gorinto-Daianji1-Nara-Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/77/Gorinto-Daianji1-Nara-Inside.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Gorinto-Daianji1-Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺一丁目 団地の中の五輪塔堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gorinto-Daianji1-Nara.jpg/180px-Gorinto-Daianji1-Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/09/Gorinto-Daianji1-Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8334275,
+          34.6707635
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Incised_Stupa_Kidera",
+        "title": "　紀寺町　線刻の五輪塔",
+        "description": "　紀寺町　線刻の五輪塔",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Incised_Stupa_Kidera_1.jpg/320px-Incised_Stupa_Kidera_1.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Incised_Stupa_Kidera_1.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>　紀寺町　線刻の五輪塔",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Incised_Stupa_Kidera_1.jpg/320px-Incised_Stupa_Kidera_1.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Incised_Stupa_Kidera_1.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Incised_Stupa_Kidera_2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>　紀寺町　線刻の五輪塔",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Incised_Stupa_Kidera_2.jpg/180px-Incised_Stupa_Kidera_2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Incised_Stupa_Kidera_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.788661,
           34.693928666666665
         ]
@@ -216,6 +346,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.779878,
+          34.69521975
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Several_Buddhas_Saidaiji_Kobo_Nara",
+        "title": "西大寺小坊町　いくつかの尊像（三宝大荒神、大聖不動明王、観世音菩薩、地蔵大菩薩）",
+        "description": "西大寺小坊町　いくつかの尊像（三宝大荒神、大聖不動明王、観世音菩薩、地蔵大菩薩）",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Several_Buddhas_Saidaiji_Kobo_Nara_%28Fudo%29.jpg/180px-Several_Buddhas_Saidaiji_Kobo_Nara_%28Fudo%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Several_Buddhas_Saidaiji_Kobo_Nara_%28Fudo%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西大寺小坊町　大聖不動明王",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Several_Buddhas_Saidaiji_Kobo_Nara_%28Fudo%29.jpg/180px-Several_Buddhas_Saidaiji_Kobo_Nara_%28Fudo%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/54/Several_Buddhas_Saidaiji_Kobo_Nara_%28Fudo%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Several_Buddhas_Saidaiji_Kobo_Nara_%28Kanzeon%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西大寺小坊町　観世音菩薩",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Several_Buddhas_Saidaiji_Kobo_Nara_%28Kanzeon%29.jpg/180px-Several_Buddhas_Saidaiji_Kobo_Nara_%28Kanzeon%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Several_Buddhas_Saidaiji_Kobo_Nara_%28Kanzeon%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Several_Buddhas_Saidaiji_Kobo_Nara_%28Sanpo%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西大寺小坊町　三宝大荒神",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Several_Buddhas_Saidaiji_Kobo_Nara_%28Sanpo%29.jpg/180px-Several_Buddhas_Saidaiji_Kobo_Nara_%28Sanpo%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/76/Several_Buddhas_Saidaiji_Kobo_Nara_%28Sanpo%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Several_Buddhas_Saidaiji_Kobo_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西大寺小坊町　いくつかの尊像（三宝大荒神、大聖不動明王、観世音菩薩、地蔵大菩薩）",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Several_Buddhas_Saidaiji_Kobo_Nara.jpg/320px-Several_Buddhas_Saidaiji_Kobo_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Several_Buddhas_Saidaiji_Kobo_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.82895000000002,
           34.680546
         ]
@@ -238,6 +411,117 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>餅飯殿町 聖寶理源大師堂",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Shoho_Rigen_Daishido_%28Nara%29.jpg/320px-Shoho_Rigen_Daishido_%28Nara%29.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Shoho_Rigen_Daishido_%28Nara%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.779861,
+          34.695294
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Shugyo_Daishi_Saidaiji_Kobo_Nara",
+        "title": "西大寺小坊町　修行大師尊像",
+        "description": "西大寺小坊町　修行大師尊像",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Shugyo_Daishi_Saidaiji_Kobo_Nara.jpg/180px-Shugyo_Daishi_Saidaiji_Kobo_Nara.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Shugyo_Daishi_Saidaiji_Kobo_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西大寺小坊町　修行大師尊像",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Shugyo_Daishi_Saidaiji_Kobo_Nara.jpg/180px-Shugyo_Daishi_Saidaiji_Kobo_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Shugyo_Daishi_Saidaiji_Kobo_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.813614,
+          34.668118666666665
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Small_Temple_Daianji1_Nara",
+        "title": "大安寺一丁目　石碑？の祀られているお堂",
+        "description": "大安寺一丁目　石碑？の祀られているお堂",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Small_Temple_Daianji1_Nara_Enkyo_3.jpg/180px-Small_Temple_Daianji1_Nara_Enkyo_3.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Small_Temple_Daianji1_Nara_Enkyo_3.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺一丁目　石碑？の祀られているお堂　河原に延享三年の文字",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Small_Temple_Daianji1_Nara_Enkyo_3.jpg/180px-Small_Temple_Daianji1_Nara_Enkyo_3.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/15/Small_Temple_Daianji1_Nara_Enkyo_3.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Small_Temple_Daianji1_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺一丁目　石碑？の祀られているお堂　内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Small_Temple_Daianji1_Nara_Inside.jpg/180px-Small_Temple_Daianji1_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/95/Small_Temple_Daianji1_Nara_Inside.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Small_Temple_Daianji1_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺一丁目　石碑？の祀られているお堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Small_Temple_Daianji1_Nara.jpg/320px-Small_Temple_Daianji1_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/89/Small_Temple_Daianji1_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8137692,
+          34.6680264
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Vairocana_Daianji1_Nara",
+        "title": "大安寺一丁目　石造大日如来　（推古天皇社脇）",
+        "description": "大安寺一丁目　石造大日如来　（推古天皇社脇）",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kobo-daishi_Koshikake_Ishi_NameStone.jpg/180px-Kobo-daishi_Koshikake_Ishi_NameStone.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kobo-daishi_Koshikake_Ishi_NameStone.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺一丁目　石造大日如来　（推古天皇社脇）弘法大師腰掛け石の案内石",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kobo-daishi_Koshikake_Ishi_NameStone.jpg/180px-Kobo-daishi_Koshikake_Ishi_NameStone.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kobo-daishi_Koshikake_Ishi_NameStone.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kobo-daishi_Koshikake_Ishi.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺一丁目　石造大日如来　（推古天皇社脇）正面の弘法大師腰掛け石",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kobo-daishi_Koshikake_Ishi.jpg/320px-Kobo-daishi_Koshikake_Ishi.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kobo-daishi_Koshikake_Ishi.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Vairocana_Daianji1_Nara_Inscribed.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺一丁目　石造大日如来　（推古天皇社脇）線刻",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Vairocana_Daianji1_Nara_Inscribed.jpg/180px-Vairocana_Daianji1_Nara_Inscribed.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/62/Vairocana_Daianji1_Nara_Inscribed.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Vairocana_Daianji1_Nara_New_Statue.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺一丁目　石造大日如来　（推古天皇社脇）新し目の石像",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vairocana_Daianji1_Nara_New_Statue.jpg/180px-Vairocana_Daianji1_Nara_New_Statue.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vairocana_Daianji1_Nara_New_Statue.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Vairocana_Daianji1_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大安寺一丁目　石造大日如来　（推古天皇社脇）",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vairocana_Daianji1_Nara.jpg/320px-Vairocana_Daianji1_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/70/Vairocana_Daianji1_Nara.jpg"
           }
         ]
       }
