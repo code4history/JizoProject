@@ -110,6 +110,9 @@ function old_title_desc_copy(page,res) {
         if (page.old.monumento != null) {
             page.monumento = page.old.monumento;
         }
+        if (page.old.refs != null) {
+            page.refs = page.old.refs;
+        }
         page.latlng = (page.old.latlng != null) ? page.old.latlng : res.latlng;
     } else {
         page.description = res.description;
@@ -242,6 +245,7 @@ function sort_key(target) {
         "fullsize",
         "wikipedia",
         "monumento",
+        "refs",
         "files"
     ];
     var ret = {};
@@ -323,7 +327,8 @@ get_target("https://commons.wikimedia.org/wiki/Category:" + target.category,old_
                     "title" : source.title ? source.title : source.description,
                     "description" : source.description,
                     "wikipedia" : source.wikipedia,
-                    "monumento" : source.monumento
+                    "monumento" : source.monumento,
+                    "refs" : source.refs
                 }
             };
             var prop = feature.properties;

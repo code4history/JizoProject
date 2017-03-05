@@ -60,6 +60,16 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Enmei_Jizo_%28Kawanoue-cho%29_Nara.jpg/320px-Enmei_Jizo_%28Kawanoue-cho%29_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/55/Enmei_Jizo_%28Kawanoue-cho%29_Nara.jpg"
           }
+        ],
+        "refs": [
+          {
+            "type": "book",
+            "title": "奈良市史: 社寺編",
+            "editor": "奈良市史編集審議会",
+            "publisher": "吉川弘文館",
+            "published": 1985,
+            "page": 119
+          }
         ]
       }
     },
@@ -1168,6 +1178,14 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jizodo_%28Horen-cho%29_Nara.jpg/320px-Jizodo_%28Horen-cho%29_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jizodo_%28Horen-cho%29_Nara.jpg"
           }
+        ],
+        "refs": [
+          {
+            "type": "web",
+            "url": "http://www.naracity.ed.jp/ele01/index.cfm/68,12731,c,html/12731/20140530-150823.pdf",
+            "title": "佐保と戦争 -奈良市法蓮町の空襲-",
+            "publisher": "奈良市佐保小学校"
+          }
         ]
       }
     },
@@ -1606,6 +1624,16 @@
             "description": "鳴川町 元興寺小塔院の道路沿い地蔵堂",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Jizodo_near_Gangouji_Shotoin_Nara.jpg/320px-Jizodo_near_Gangouji_Shotoin_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jizodo_near_Gangouji_Shotoin_Nara.jpg"
+          }
+        ],
+        "refs": [
+          {
+            "type": "book",
+            "title": "奈良市史: 社寺編",
+            "editor": "奈良市史編集審議会",
+            "publisher": "吉川弘文館",
+            "published": 1985,
+            "page": 160
           }
         ]
       }
@@ -3134,6 +3162,22 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sahogawa_Jizo_Nara.jpg/320px-Sahogawa_Jizo_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/98/Sahogawa_Jizo_Nara.jpg"
           }
+        ],
+        "refs": [
+          {
+            "type": "book",
+            "title": "奈良市史: 社寺編",
+            "editor": "奈良市史編集審議会",
+            "publisher": "吉川弘文館",
+            "published": 1985,
+            "page": 51
+          },
+          {
+            "type": "web",
+            "url": "http://www.naraliving.com/sneaker/nara_01.html",
+            "title": "佐保川天満宮　佐保川地蔵尊",
+            "publisher": "ならリビング.com"
+          }
         ]
       }
     },
@@ -4544,6 +4588,16 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Seiten-do_%28NishiKitsuji-cho%29_Nara.jpg/320px-Seiten-do_%28NishiKitsuji-cho%29_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Seiten-do_%28NishiKitsuji-cho%29_Nara.jpg"
           }
+        ],
+        "refs": [
+          {
+            "type": "book",
+            "title": "奈良市史: 社寺編",
+            "editor": "奈良市史編集審議会",
+            "publisher": "吉川弘文館",
+            "published": 1985,
+            "page": 165
+          }
         ]
       }
     },
@@ -4979,6 +5033,16 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Benzaiten_%28Kidera-cho%29_Nara_Inside.jpg/180px-Benzaiten_%28Kidera-cho%29_Nara_Inside.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Benzaiten_%28Kidera-cho%29_Nara_Inside.jpg"
           }
+        ],
+        "refs": [
+          {
+            "type": "book",
+            "title": "奈良市史: 社寺編",
+            "editor": "奈良市史編集審議会",
+            "publisher": "吉川弘文館",
+            "published": 1985,
+            "page": 88
+          }
         ]
       }
     },
@@ -5168,6 +5232,16 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hakusan_Shrine_%28Gangouji-cho%29_Nara_Keidai.jpg/320px-Hakusan_Shrine_%28Gangouji-cho%29_Nara_Keidai.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hakusan_Shrine_%28Gangouji-cho%29_Nara_Keidai.jpg"
           }
+        ],
+        "refs": [
+          {
+            "type": "book",
+            "title": "奈良市史: 社寺編",
+            "editor": "奈良市史編集審議会",
+            "publisher": "吉川弘文館",
+            "published": 1985,
+            "page": 146
+          }
         ]
       }
     },
@@ -5328,6 +5402,16 @@
             "description": "西新屋町 率川神社",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Isagawa_Shrine_%28NishiShinya-cho%29_Nara.jpg/320px-Isagawa_Shrine_%28NishiShinya-cho%29_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Isagawa_Shrine_%28NishiShinya-cho%29_Nara.jpg"
+          }
+        ],
+        "refs": [
+          {
+            "type": "book",
+            "title": "奈良市史: 社寺編",
+            "editor": "奈良市史編集審議会",
+            "publisher": "吉川弘文館",
+            "published": 1985,
+            "page": 145
           }
         ]
       }
@@ -5602,6 +5686,16 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kotai_Jingu_%28Wakido-cho%29_Nara.jpg/320px-Kotai_Jingu_%28Wakido-cho%29_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kotai_Jingu_%28Wakido-cho%29_Nara.jpg"
           }
+        ],
+        "refs": [
+          {
+            "type": "book",
+            "title": "奈良市史: 社寺編",
+            "editor": "奈良市史編集審議会",
+            "publisher": "吉川弘文館",
+            "published": 1985,
+            "page": 145
+          }
         ]
       }
     },
@@ -5732,6 +5826,16 @@
             "description": "餅飯殿町 餅飯殿辨財天社",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mochiidono_Benzaiten_Shrine_%28Nara%29_2.jpg/320px-Mochiidono_Benzaiten_Shrine_%28Nara%29_2.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mochiidono_Benzaiten_Shrine_%28Nara%29_2.jpg"
+          }
+        ],
+        "refs": [
+          {
+            "type": "book",
+            "title": "奈良市史: 社寺編",
+            "editor": "奈良市史編集審議会",
+            "publisher": "吉川弘文館",
+            "published": 1985,
+            "page": 184
           }
         ]
       }
@@ -5990,6 +6094,14 @@
             "description": "西包永町 佐保川天満宮",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sahogawa_Tenmangu_Nara.jpg/320px-Sahogawa_Tenmangu_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Sahogawa_Tenmangu_Nara.jpg"
+          }
+        ],
+        "refs": [
+          {
+            "type": "web",
+            "url": "http://www.naraliving.com/sneaker/nara_01.html",
+            "title": "佐保川天満宮　佐保川地蔵尊",
+            "publisher": "ならリビング.com"
           }
         ]
       }
