@@ -562,6 +562,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.82919975000002,
+          34.675349499999996
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Yakushido,_Tanjo-ji_%28Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kitamuki_Koshindo_Nara_Stone_Monument.jpg/180px-Kitamuki_Koshindo_Nara_Stone_Monument.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kitamuki_Koshindo_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>三棟町　北向庚申堂（或いは誕生寺薬師堂）内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kitamuki_Koshindo_Nara_Inside.jpg/320px-Kitamuki_Koshindo_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Kitamuki_Koshindo_Nara_Inside.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kitamuki_Koshindo_Nara_Stone_Monument.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>三棟町　北向庚申堂（或いは誕生寺薬師堂）石碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kitamuki_Koshindo_Nara_Stone_Monument.jpg/180px-Kitamuki_Koshindo_Nara_Stone_Monument.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kitamuki_Koshindo_Nara_Stone_Monument.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Kitamuki_Koshindo_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>三棟町　北向庚申堂（或いは誕生寺薬師堂）",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kitamuki_Koshindo_Nara.jpg/320px-Kitamuki_Koshindo_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kitamuki_Koshindo_Nara.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nara_Tanjoji_SeimenKongo.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span><a href=\"https://ja.wikipedia.org/wiki/%E8%AA%95%E7%94%9F%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)\" class=\"extiw\" title=\"ja:誕生寺 ()\">誕生寺</a>青面金剛",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nara_Tanjoji_SeimenKongo.jpg/320px-Nara_Tanjoji_SeimenKongo.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nara_Tanjoji_SeimenKongo.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.829453,
           34.691414
         ]
@@ -627,24 +668,6 @@
         "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、徳融寺北東駐車場内、石仏",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg/180px-Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.829189,
-          34.675343
-        ]
-      },
-      "properties": {
-        "type": "石仏等",
-        "url": "https://commons.wikimedia.org/wiki/File:Nara_Tanjoji_SeimenKongo.jpg",
-        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span><a href=\"https://ja.wikipedia.org/wiki/%E8%AA%95%E7%94%9F%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)\" class=\"extiw\" title=\"ja:誕生寺 ()\">誕生寺</a>青面金剛",
-        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span><a href=\"https://ja.wikipedia.org/wiki/%E8%AA%95%E7%94%9F%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)\" class=\"extiw\" title=\"ja:誕生寺 ()\">誕生寺</a>青面金剛",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nara_Tanjoji_SeimenKongo.jpg/320px-Nara_Tanjoji_SeimenKongo.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nara_Tanjoji_SeimenKongo.jpg"
       }
     }
   ]

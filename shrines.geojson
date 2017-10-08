@@ -166,6 +166,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.828629,
+          34.680029000000005
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Daifuku_Inari_Mochiido-cho_Nara",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Daifuku_Inari_Mochiido-cho_Nara.jpg/320px-Daifuku_Inari_Mochiido-cho_Nara.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Daifuku_Inari_Mochiido-cho_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>餅飯殿町 大福稲荷神社 (春日大社大宿所内)",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Daifuku_Inari_Mochiido-cho_Nara.jpg/320px-Daifuku_Inari_Mochiido-cho_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Daifuku_Inari_Mochiido-cho_Nara.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Daifuku_Inari_Mochiido-cho_Nara2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>餅飯殿町 大福稲荷神社 (春日大社大宿所内)",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Daifuku_Inari_Mochiido-cho_Nara2.jpg/180px-Daifuku_Inari_Mochiido-cho_Nara2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Daifuku_Inari_Mochiido-cho_Nara2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.824864,
           34.67849633333333
         ]
@@ -259,8 +288,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8300405,
-          34.680831999999995
+          135.83000766666666,
+          34.680871333333336
         ]
       },
       "properties": {
@@ -270,6 +299,12 @@
         "description": "元林院町 八王子四之室神社",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hachioji_Shinomuro_Shrine_Nara.jpg/320px-Hachioji_Shinomuro_Shrine_Nara.jpg",
         "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hachioji_Shinomuro_Shrine_Nara_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>元林院町 八王子四之室神社 祠",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hachioji_Shinomuro_Shrine_Nara_Inside.jpg/180px-Hachioji_Shinomuro_Shrine_Nara_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Hachioji_Shinomuro_Shrine_Nara_Inside.jpg"
+          },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Hachioji_Shinomuro_Shrine_Nara.jpg",
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>元林院町 八王子四之室神社",
@@ -487,9 +522,7 @@
       },
       "properties": {
         "type": "小祠",
-        "url": "https://commons.wikimedia.org/wiki/Category:Itsukushima_Shrine_Kitaburo-cho_Nara",
-        "title": "北風呂町 厳島神社",
-        "description": "北風呂町 厳島神社",
+        "url": "https://commons.wikimedia.org/wiki/Category:Itsukushima-jinja_%28Kitaburo-cho,_Nara%29",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Itsukushima_Shrine_%28%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE%29_in_Sugawara_Shrine_%28%E8%8F%85%E5%8E%9F%E7%A5%9E%E7%A4%BE%29_-_panoramio.jpg/320px-Itsukushima_Shrine_%28%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE%29_in_Sugawara_Shrine_%28%E8%8F%85%E5%8E%9F%E7%A5%9E%E7%A4%BE%29_-_panoramio.jpg",
         "files": [
           {
@@ -789,6 +822,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.829789,
+          34.680383
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Minamiichi_Inari_Nara",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Minamiichi_Inari_Nara_Honden.jpg/320px-Minamiichi_Inari_Nara_Honden.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Minamiichi_Inari_Nara_Honden.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南市町 南市稲荷神社 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Minamiichi_Inari_Nara_Honden.jpg/320px-Minamiichi_Inari_Nara_Honden.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Minamiichi_Inari_Nara_Honden.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Minamiichi_Inari_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南市町 南市稲荷神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Minamiichi_Inari_Nara.jpg/320px-Minamiichi_Inari_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Minamiichi_Inari_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.825486,
           34.676772
         ]
@@ -879,6 +941,53 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>餅飯殿町 餅飯殿辨財天社",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mochiidono_Benzaiten_Shrine_%28Nara%29_2.jpg/320px-Mochiidono_Benzaiten_Shrine_%28Nara%29_2.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mochiidono_Benzaiten_Shrine_%28Nara%29_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8276342,
+          34.68519
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Nakasuji_Shrine_Nara",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nakasuji_Jinja_Honden_%28Nara%29.jpg/180px-Nakasuji_Jinja_Honden_%28Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nakasuji_Jinja_Honden_%28Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>中筋町　中筋神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nakasuji_Jinja_Honden_%28Nara%29.jpg/180px-Nakasuji_Jinja_Honden_%28Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/62/Nakasuji_Jinja_Honden_%28Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nakasuji_Jinja_Honden2_%28Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>中筋町　中筋神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nakasuji_Jinja_Honden2_%28Nara%29.jpg/180px-Nakasuji_Jinja_Honden2_%28Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nakasuji_Jinja_Honden2_%28Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nakasuji_Jinja_Torii_%28Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>中筋町　中筋神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nakasuji_Jinja_Torii_%28Nara%29.jpg/320px-Nakasuji_Jinja_Torii_%28Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nakasuji_Jinja_Torii_%28Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nakasuji_Shrine_Nara_Honden.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>中筋町 中筋神社本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Nakasuji_Shrine_Nara_Honden.jpg/180px-Nakasuji_Shrine_Nara_Honden.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nakasuji_Shrine_Nara_Honden.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Nakasuji_Shrine_Nara_Outside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>中筋町 中筋神社外観",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Nakasuji_Shrine_Nara_Outside.jpg/320px-Nakasuji_Shrine_Nara_Outside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/79/Nakasuji_Shrine_Nara_Outside.jpg"
           }
         ]
       }
@@ -1514,6 +1623,41 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>　南紀寺町三丁目　小祠",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wayside_Shrine_in_Minami-Kidera_3_Nara.jpg/320px-Wayside_Shrine_in_Minami-Kidera_3_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/44/Wayside_Shrine_in_Minami-Kidera_3_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.829497,
+          34.67539433333334
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Wayside_Shrine_Mitsumune-sho_%28Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wayside_Shrine_and_Jizo_Mitsumune-sho_%28Nara%29.jpg/320px-Wayside_Shrine_and_Jizo_Mitsumune-sho_%28Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Shrine_and_Jizo_Mitsumune-sho_%28Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>三棟町　小祠と地蔵",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wayside_Shrine_and_Jizo_Mitsumune-sho_%28Nara%29.jpg/320px-Wayside_Shrine_and_Jizo_Mitsumune-sho_%28Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Wayside_Shrine_and_Jizo_Mitsumune-sho_%28Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Shrine_Mitsumune-sho_%28Nara%29_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>三棟町　小祠内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Wayside_Shrine_Mitsumune-sho_%28Nara%29_Inside.jpg/180px-Wayside_Shrine_Mitsumune-sho_%28Nara%29_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/50/Wayside_Shrine_Mitsumune-sho_%28Nara%29_Inside.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Shrine_Mitsumune-sho_%28Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>三棟町　小祠",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wayside_Shrine_Mitsumune-sho_%28Nara%29.jpg/320px-Wayside_Shrine_Mitsumune-sho_%28Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Wayside_Shrine_Mitsumune-sho_%28Nara%29.jpg"
           }
         ]
       }
