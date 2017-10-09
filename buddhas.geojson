@@ -37,6 +37,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.8250195,
+          34.68099
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Asahi_Myoken_%28Kitamukai-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Asahi_Myoken_%28Kitamukai-cho%2C_Nara%29.jpg/320px-Asahi_Myoken_%28Kitamukai-cho%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Asahi_Myoken_%28Kitamukai-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北向町 法性山常徳寺 朝日妙見大菩薩 七面大天女 鬼子母大善神",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Asahi_Myoken_%28Kitamukai-cho%2C_Nara%29.jpg/320px-Asahi_Myoken_%28Kitamukai-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Asahi_Myoken_%28Kitamukai-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_of_Asahi_Myoken_%28Kitamukai-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北向町 法性山常徳寺 朝日妙見大菩薩 七面大天女 鬼子母大善神 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Inside_of_Asahi_Myoken_%28Kitamukai-cho%2C_Nara%29.jpg/180px-Inside_of_Asahi_Myoken_%28Kitamukai-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Inside_of_Asahi_Myoken_%28Kitamukai-cho%2C_Nara%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.813431,
           34.666542
         ]

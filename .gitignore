@@ -5,3 +5,5 @@ node_modules
 feedback.*
 login.json
 escape
+.idea
+jizo_projects_tmp.geojson

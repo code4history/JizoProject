@@ -328,7 +328,7 @@ get_target("https://commons.wikimedia.org/wiki/Category:" + target.category,old_
                     "description" : source.description,
                     "wikipedia" : source.wikipedia,
                     "monumento" : source.monumento,
-                    "refs" : source.refs
+                    "refs" : typeof source.refs == 'string' ? JSON.parse(source.refs) : source.refs
                 }
             };
             var prop = feature.properties;

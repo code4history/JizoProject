@@ -423,6 +423,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.82757733333332,
+          34.68183333333334
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Hayabusa_Shrine_%28TsunofuriShinya-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hayabusa_Jinja_Nara.jpg/320px-Hayabusa_Jinja_Nara.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hayabusa_Jinja_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 隼神社、奈良",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hayabusa_Jinja_Nara.jpg/320px-Hayabusa_Jinja_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hayabusa_Jinja_Nara.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hayabusa_Shrine_%28TsunofuriShinya-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>角振新屋町 隼神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hayabusa_Shrine_%28TsunofuriShinya-cho%2C_Nara%29.jpg/320px-Hayabusa_Shrine_%28TsunofuriShinya-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Hayabusa_Shrine_%28TsunofuriShinya-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wakiden_in_Hayabusa_Shrine_%28TsunofuriShinya-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>角振新屋町 隼神社 脇殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wakiden_in_Hayabusa_Shrine_%28TsunofuriShinya-cho%2C_Nara%29.jpg/180px-Wakiden_in_Hayabusa_Shrine_%28TsunofuriShinya-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wakiden_in_Hayabusa_Shrine_%28TsunofuriShinya-cho%2C_Nara%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.80464999999998,
           34.657167
         ]
@@ -958,7 +993,7 @@
         "type": "Point",
         "coordinates": [
           135.825486,
-          34.676772
+          34.676777666666666
         ]
       },
       "properties": {
@@ -966,8 +1001,20 @@
         "url": "https://commons.wikimedia.org/wiki/Category:MinamiShin-machi_Benzaiten_Nara",
         "title": "南新町 弁財天",
         "description": "南新町 弁財天",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg/320px-Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Benzaiten_and_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg/320px-Benzaiten_and_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg",
         "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Benzaiten_and_Jizodo_%28MinamiShin-machi,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南新町 地蔵尊と弁財天",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Benzaiten_and_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg/320px-Benzaiten_and_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/79/Benzaiten_and_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_of_Benzaiten_%28MinamiShin-machi,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南新町 弁財天 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Inside_of_Benzaiten_%28MinamiShin-machi%2C_Nara%29.jpg/180px-Inside_of_Benzaiten_%28MinamiShin-machi%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Inside_of_Benzaiten_%28MinamiShin-machi%2C_Nara%29.jpg"
+          },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg",
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良南新町の地蔵尊と弁財天",
@@ -1871,24 +1918,6 @@
         "url": "https://commons.wikimedia.org/wiki/File:Akoh_Shrine1.jpg",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Akoh_Shrine1.jpg/320px-Akoh_Shrine1.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/31/Akoh_Shrine1.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.827657,
-          34.681822
-        ]
-      },
-      "properties": {
-        "type": "小祠",
-        "url": "https://commons.wikimedia.org/wiki/File:Hayabusa_Jinja_Nara.jpg",
-        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 隼神社、奈良",
-        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 隼神社、奈良",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hayabusa_Jinja_Nara.jpg/320px-Hayabusa_Jinja_Nara.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hayabusa_Jinja_Nara.jpg"
       }
     },
     {

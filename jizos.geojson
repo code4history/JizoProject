@@ -117,8 +117,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.827585,
-          34.681704
+          135.82758,
+          34.6817825
         ]
       },
       "properties": {
@@ -126,8 +126,14 @@
         "url": "https://commons.wikimedia.org/wiki/Category:Enmei_Jizo_Nara",
         "title": "角振新屋町 延命地蔵尊",
         "description": "角振新屋町 延命地蔵尊",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Enmei_Jizouson_Nara.jpg/320px-Enmei_Jizouson_Nara.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Enmei_Jizo_%28TsunofuriShinya-cho%2C_Nara%29.jpg/320px-Enmei_Jizo_%28TsunofuriShinya-cho%2C_Nara%29.jpg",
         "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Enmei_Jizo_%28TsunofuriShinya-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>角振新屋町 延命地蔵尊",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Enmei_Jizo_%28TsunofuriShinya-cho%2C_Nara%29.jpg/320px-Enmei_Jizo_%28TsunofuriShinya-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/37/Enmei_Jizo_%28TsunofuriShinya-cho%2C_Nara%29.jpg"
+          },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Enmei_Jizouson_Nara.jpg",
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> <a href=\"https://ja.wikipedia.org/wiki/%E9%9A%BC%E7%A5%9E%E7%A4%BE_(%E5%A5%88%E8%89%AF%E5%B8%82)#.E5.BB.B6.E5.91.BD.E5.9C.B0.E8.94.B5\" class=\"extiw\" title=\"ja:隼神社 ()\">延命地蔵尊</a>、奈良",
@@ -431,8 +437,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.822481,
-          34.680123
+          135.82248033333335,
+          34.680121166666666
         ]
       },
       "properties": {
@@ -459,6 +465,24 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>三条町 今井町地蔵尊",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Imaicho_Jizo_Nara.jpg/320px-Imaicho_Jizo_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Imaicho_Jizo_Nara.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_1_of_Jizodo_%28Imaicho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>今井町 地蔵堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Inside_1_of_Jizodo_%28Imaicho%2C_Nara%29.jpg/320px-Inside_1_of_Jizodo_%28Imaicho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Inside_1_of_Jizodo_%28Imaicho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_2_of_Jizodo_%28Imaicho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>今井町 地蔵堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Inside_2_of_Jizodo_%28Imaicho%2C_Nara%29.jpg/320px-Inside_2_of_Jizodo_%28Imaicho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Inside_2_of_Jizodo_%28Imaicho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizodo_%28Imaicho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>今井町 地蔵堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jizodo_%28Imaicho%2C_Nara%29.jpg/320px-Jizodo_%28Imaicho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/58/Jizodo_%28Imaicho%2C_Nara%29.jpg"
           }
         ]
       }
@@ -1346,6 +1370,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.8255015,
+          34.6772665
+        ]
+      },
+      "properties": {
+        "type": "地蔵",
+        "url": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28MinamiUoya-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jizodo_%28MinamiUoya-cho%2C_Nara%29.jpg/180px-Jizodo_%28MinamiUoya-cho%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizodo_%28MinamiUoya-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南魚屋町 地蔵堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jizodo_%28MinamiUoya-cho%2C_Nara%29.jpg/180px-Jizodo_%28MinamiUoya-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jizodo_%28MinamiUoya-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo_Minami_Uoyacho.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良南魚屋町の地蔵",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wayside_Jizo_Minami_Uoyacho.jpg/180px-Wayside_Jizo_Minami_Uoyacho.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wayside_Jizo_Minami_Uoyacho.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.827439,
           34.675843
         ]
@@ -1377,6 +1430,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.82299266666666,
+          34.677099999999996
+        ]
+      },
+      "properties": {
+        "type": "地蔵",
+        "url": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Omori-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jizodo_%28Omori-cho%2C_Nara%29.jpg/320px-Jizodo_%28Omori-cho%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_1_of_Jizodo_%28Omori-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大森町 地蔵堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Inside_1_of_Jizodo_%28Omori-cho%2C_Nara%29.jpg/320px-Inside_1_of_Jizodo_%28Omori-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Inside_1_of_Jizodo_%28Omori-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_2_of_Jizodo_%28Omori-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大森町 地蔵堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Inside_2_of_Jizodo_%28Omori-cho%2C_Nara%29.jpg/320px-Inside_2_of_Jizodo_%28Omori-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/89/Inside_2_of_Jizodo_%28Omori-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizodo_%28Omori-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大森町 地蔵堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jizodo_%28Omori-cho%2C_Nara%29.jpg/320px-Jizodo_%28Omori-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jizodo_%28Omori-cho%2C_Nara%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.81205699999998,
           34.6853615
         ]
@@ -1399,6 +1487,47 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>芝辻町２ 地蔵堂",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jizodo_%28Shibatsuji-cho-2%29_Nara.jpg/320px-Jizodo_%28Shibatsuji-cho-2%29_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Jizodo_%28Shibatsuji-cho-2%29_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8233075,
+          34.68081225
+        ]
+      },
+      "properties": {
+        "type": "地蔵",
+        "url": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28ShimoSanjo-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg/180px-Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_1_of_Jizodo_%28ShimoSanjo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>下三条町 地蔵堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Inside_1_of_Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg/180px-Inside_1_of_Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Inside_1_of_Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_2_of_Jizodo_%28ShimoSanjo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>下三条町 地蔵堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Inside_2_of_Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg/180px-Inside_2_of_Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/32/Inside_2_of_Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_3_of_Jizodo_%28ShimoSanjo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>下三条町 地蔵堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inside_3_of_Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg/180px-Inside_3_of_Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/05/Inside_3_of_Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizodo_%28ShimoSanjo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>下三条町 地蔵堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg/180px-Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jizodo_%28ShimoSanjo-cho%2C_Nara%29.jpg"
           }
         ]
       }
@@ -2914,8 +3043,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.825486,
-          34.676772
+          135.82552133333334,
+          34.67677666666666
         ]
       },
       "properties": {
@@ -2923,8 +3052,20 @@
         "url": "https://commons.wikimedia.org/wiki/Category:MinamiShin-machi_Jizodo_Nara",
         "title": "南新町 地蔵堂",
         "description": "南新町 地蔵堂",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg/320px-Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Benzaiten_and_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg/320px-Benzaiten_and_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg",
         "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Benzaiten_and_Jizodo_%28MinamiShin-machi,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南新町 地蔵尊と弁財天",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Benzaiten_and_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg/320px-Benzaiten_and_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/79/Benzaiten_and_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_of_Jizodo_%28MinamiShin-machi,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>南新町 地蔵尊 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Inside_of_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg/180px-Inside_of_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Inside_of_Jizodo_%28MinamiShin-machi%2C_Nara%29.jpg"
+          },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo_And_Benzaiten_Minami_Shinmachi.jpg",
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良南新町の地蔵尊と弁財天",
@@ -3436,8 +3577,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8242725,
-          34.6765015
+          135.8242605,
+          34.67648625
         ]
       },
       "properties": {
@@ -3445,8 +3586,20 @@
         "url": "https://commons.wikimedia.org/wiki/Category:Omori-cho_Jizodo_Nara",
         "title": "大森町 地蔵堂",
         "description": "大森町 地蔵堂",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Omori-cho_Jizodo_Nara_Outside.jpg/180px-Omori-cho_Jizodo_Nara_Outside.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jizodo_2_%28Omori-cho%2C_Nara%29.jpg/180px-Jizodo_2_%28Omori-cho%2C_Nara%29.jpg",
         "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_of_Jizodo_2_%28Omori-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大森町 地蔵堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Inside_of_Jizodo_2_%28Omori-cho%2C_Nara%29.jpg/180px-Inside_of_Jizodo_2_%28Omori-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/23/Inside_of_Jizodo_2_%28Omori-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jizodo_2_%28Omori-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大森町 地蔵堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jizodo_2_%28Omori-cho%2C_Nara%29.jpg/180px-Jizodo_2_%28Omori-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Jizodo_2_%28Omori-cho%2C_Nara%29.jpg"
+          },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Omori-cho_Jizodo_Nara_Inside.jpg",
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>大森町 地蔵堂内部",
@@ -4574,24 +4727,6 @@
         "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良杉ヶ町の地蔵",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wayside_Jizo_In_Nara_Sugigamachi.jpg/320px-Wayside_Jizo_In_Nara_Sugigamachi.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/de/Wayside_Jizo_In_Nara_Sugigamachi.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.825486,
-          34.6773
-        ]
-      },
-      "properties": {
-        "type": "地蔵",
-        "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo_Minami_Uoyacho.jpg",
-        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良南魚屋町の地蔵",
-        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良南魚屋町の地蔵",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wayside_Jizo_Minami_Uoyacho.jpg/180px-Wayside_Jizo_Minami_Uoyacho.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wayside_Jizo_Minami_Uoyacho.jpg"
       }
     }
   ]
