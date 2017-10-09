@@ -498,6 +498,12 @@
             "description": "率川の地蔵群、奈良",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Isakawa_Jizos_Nara.jpg/135px-Isakawa_Jizos_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/00/Isakawa_Jizos_Nara.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Isakaawa_Jizos_in_Nara.jpg",
+            "description": "率川 地蔵群",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Isakaawa_Jizos_in_Nara.jpg/180px-Isakaawa_Jizos_in_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/98/Isakaawa_Jizos_in_Nara.jpg"
           }
         ]
       }
@@ -4221,24 +4227,6 @@
         "description": "半田開町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/HandaBiraki-cho_Jizos_Nara.jpg/320px-HandaBiraki-cho_Jizos_Nara.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/02/HandaBiraki-cho_Jizos_Nara.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.830519,
-          34.680992
-        ]
-      },
-      "properties": {
-        "type": "地蔵",
-        "url": "https://commons.wikimedia.org/wiki/File:Isakaawa_Jizos_in_Nara.jpg",
-        "title": "地蔵群",
-        "description": " 率川",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Isakaawa_Jizos_in_Nara.jpg/180px-Isakaawa_Jizos_in_Nara.jpg",
-        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/98/Isakaawa_Jizos_in_Nara.jpg"
       }
     },
     {
