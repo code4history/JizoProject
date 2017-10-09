@@ -423,6 +423,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.80464999999998,
+          34.657167
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Hebizuka_Shrine_%28NishiKujo-cho_2,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hebizuka_Shrine_%28NishiKujo-cho_2%2C_Nara%29.jpg/180px-Hebizuka_Shrine_%28NishiKujo-cho_2%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hebizuka_Shrine_%28NishiKujo-cho_2,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西九条町2丁目 蛇塚社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hebizuka_Shrine_%28NishiKujo-cho_2%2C_Nara%29.jpg/180px-Hebizuka_Shrine_%28NishiKujo-cho_2%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Hebizuka_Shrine_%28NishiKujo-cho_2%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Honden_of_Hebizuka_Shrine_%28NishiKujo-cho_2,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西九条町2丁目 蛇塚社 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Honden_of_Hebizuka_Shrine_%28NishiKujo-cho_2%2C_Nara%29.jpg/180px-Honden_of_Hebizuka_Shrine_%28NishiKujo-cho_2%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Honden_of_Hebizuka_Shrine_%28NishiKujo-cho_2%2C_Nara%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.829117,
           34.683217
         ]
@@ -485,6 +514,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.81221875,
+          34.65582975
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Inari_Shrine_%28HigashiKujo-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Honden_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg/180px-Honden_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Honden_of_Inari_Shrine_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 森本稲荷大明神 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Honden_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg/180px-Honden_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Honden_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inari_Shrine_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 森本稲荷大明神",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg/320px-Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/90/Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Stone_memorial_of_Inari_Shrine_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 森本稲荷大明神 石碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stone_memorial_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg/320px-Stone_memorial_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Stone_memorial_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Torii_on_midway_of_Inari_Shrine_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 森本稲荷大明神 中途の鳥居",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Torii_on_midway_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg/320px-Torii_on_midway_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Torii_on_midway_of_Inari_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.82988749999998,
           34.6761875
         ]
@@ -516,20 +586,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.59064320000002,
-          34.8760316
+          135.8190465,
+          34.65593875
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Itsukushima_Shrine_%28HigashiKujo-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Art_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg/180px-Art_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Art_of_Itsukushima_Shrine_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 厳島神社 弁財天画像",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Art_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg/180px-Art_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/54/Art_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Honden_of_Itsukushima_Shrine_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 厳島神社 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Honden_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg/320px-Honden_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/65/Honden_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_of_Itsukushima_Shrine_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 厳島神社 本殿内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Inside_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg/180px-Inside_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/1/15/Inside_of_Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 厳島神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg/320px-Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Itsukushima_Shrine_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8267065,
+          34.678777249999996
         ]
       },
       "properties": {
         "type": "小祠",
         "url": "https://commons.wikimedia.org/wiki/Category:Itsukushima-jinja_%28Kitaburo-cho,_Nara%29",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Itsukushima_Shrine_%28%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE%29_in_Sugawara_Shrine_%28%E8%8F%85%E5%8E%9F%E7%A5%9E%E7%A4%BE%29_-_panoramio.jpg/320px-Itsukushima_Shrine_%28%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE%29_in_Sugawara_Shrine_%28%E8%8F%85%E5%8E%9F%E7%A5%9E%E7%A4%BE%29_-_panoramio.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Itsukushima_Shrine_Kitaburo-cho_Nara_Chozubachi.jpg/320px-Itsukushima_Shrine_Kitaburo-cho_Nara_Chozubachi.jpg",
         "files": [
-          {
-            "url": "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_%28厳島神社%29_in_Sugawara_Shrine_%28菅原神社%29_-_panoramio.jpg",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Itsukushima_Shrine_%28%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE%29_in_Sugawara_Shrine_%28%E8%8F%85%E5%8E%9F%E7%A5%9E%E7%A4%BE%29_-_panoramio.jpg/320px-Itsukushima_Shrine_%28%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE%29_in_Sugawara_Shrine_%28%E8%8F%85%E5%8E%9F%E7%A5%9E%E7%A4%BE%29_-_panoramio.jpg",
-            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Itsukushima_Shrine_%28%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE%29_in_Sugawara_Shrine_%28%E8%8F%85%E5%8E%9F%E7%A5%9E%E7%A4%BE%29_-_panoramio.jpg"
-          },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_Kitaburo-cho_Nara_Chozubachi.jpg",
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北風呂町 厳島神社 手水鉢",
@@ -941,6 +1047,35 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>餅飯殿町 餅飯殿辨財天社",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mochiidono_Benzaiten_Shrine_%28Nara%29_2.jpg/320px-Mochiidono_Benzaiten_Shrine_%28Nara%29_2.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mochiidono_Benzaiten_Shrine_%28Nara%29_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8127445,
+          34.657793
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Motoiwashimizu_Otabisho_%28HigashiKujo-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Honden_of_Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg/180px-Honden_of_Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Honden_of_Motoiwashimizu_Otabisho_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 元石清水八幡宮御旅所 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Honden_of_Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg/180px-Honden_of_Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/75/Honden_of_Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Motoiwashimizu_Otabisho_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 元石清水八幡宮御旅所",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg/320px-Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/6/67/Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg"
           }
         ]
       }
@@ -1549,6 +1684,35 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>川上町 玉鐡稲荷神社",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tamatesu_Inari_%28Kawakami-cho%29_Nara.jpg/320px-Tamatesu_Inari_%28Kawakami-cho%29_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tamatesu_Inari_%28Kawakami-cho%29_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8030015,
+          34.657844499999996
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Tokikaze_Shrine_%28NishiKujo-cho_3,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Honden_of_Tokikaze_Shrine_%28NishiKujo-cho_3%2C_Nara%29.jpg/320px-Honden_of_Tokikaze_Shrine_%28NishiKujo-cho_3%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Honden_of_Tokikaze_Shrine_%28NishiKujo-cho_3,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西九条町3丁目 時風神社 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Honden_of_Tokikaze_Shrine_%28NishiKujo-cho_3%2C_Nara%29.jpg/320px-Honden_of_Tokikaze_Shrine_%28NishiKujo-cho_3%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Honden_of_Tokikaze_Shrine_%28NishiKujo-cho_3%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Tokikaze_Shrine_%28NishiKujo-cho_3,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西九条町3丁目 時風神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tokikaze_Shrine_%28NishiKujo-cho_3%2C_Nara%29.jpg/320px-Tokikaze_Shrine_%28NishiKujo-cho_3%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/02/Tokikaze_Shrine_%28NishiKujo-cho_3%2C_Nara%29.jpg"
           }
         ]
       }

@@ -105,6 +105,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.812743,
+          34.657861
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Daishido_%28HigashiKujo-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg/320px-Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Daishido_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 大師堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg/320px-Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Inside_of_Daishido_%28HigashiKujo-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>東九条町 大師堂内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Inside_of_Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg/320px-Inside_of_Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Inside_of_Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.81859550000001,
           34.669914
         ]
