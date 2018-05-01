@@ -66,6 +66,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.83284,
+          34.675989
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Bishamondo_%28Hotokuji,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bishamondo_%28Hotokuji%2C_Nara%29.jpg/320px-Bishamondo_%28Hotokuji%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Bishamondo_%28Hotokuji,_Nara%29_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>十輪院町 法徳寺毘沙門堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bishamondo_%28Hotokuji%2C_Nara%29_Inside.jpg/320px-Bishamondo_%28Hotokuji%2C_Nara%29_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bishamondo_%28Hotokuji%2C_Nara%29_Inside.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Bishamondo_%28Hotokuji,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>十輪院町 法徳寺毘沙門堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bishamondo_%28Hotokuji%2C_Nara%29.jpg/320px-Bishamondo_%28Hotokuji%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bishamondo_%28Hotokuji%2C_Nara%29.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Hotokuji_Bishamondo_Nara.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 法徳寺毘沙門堂、奈良",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Hotokuji_Bishamondo_Nara.jpg/320px-Hotokuji_Bishamondo_Nara.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/b/be/Hotokuji_Bishamondo_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.813431,
           34.666542
         ]
@@ -125,6 +160,35 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>西大寺南町　仏教石碑",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Buddhism_stone_Saidaiji_Minami_Nara.jpg/320px-Buddhism_stone_Saidaiji_Minami_Nara.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/da/Buddhism_stone_Saidaiji_Minami_Nara.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.785561,
+          34.680178
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/Category:Daishido_%28AmagatsujiNaka-machi,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Daishido_%28AmagatsujiNaka-machi%2C_Nara%29.jpg/320px-Daishido_%28AmagatsujiNaka-machi%2C_Nara%29.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Daishido_%28AmagatsujiNaka-machi,_Nara%29_Inside.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>尼辻中町 大師堂 内部",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Daishido_%28AmagatsujiNaka-machi%2C_Nara%29_Inside.jpg/180px-Daishido_%28AmagatsujiNaka-machi%2C_Nara%29_Inside.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Daishido_%28AmagatsujiNaka-machi%2C_Nara%29_Inside.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Daishido_%28AmagatsujiNaka-machi,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>尼辻中町 大師堂",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Daishido_%28AmagatsujiNaka-machi%2C_Nara%29.jpg/320px-Daishido_%28AmagatsujiNaka-machi%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Daishido_%28AmagatsujiNaka-machi%2C_Nara%29.jpg"
           }
         ]
       }
@@ -726,6 +790,24 @@
         "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、徳融寺北東駐車場内、石仏",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg/180px-Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg",
         "fullsize": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.776839,
+          34.694125
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/File:Nogami_Shrine_Statue_%28Nogami-cho,_NARA%29.jpg",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>野神町 野神神社 十一面観音石仏",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>野神町 野神神社 十一面観音石仏",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nogami_Shrine_Statue_%28Nogami-cho%2C_NARA%29.jpg/180px-Nogami_Shrine_Statue_%28Nogami-cho%2C_NARA%29.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/2/27/Nogami_Shrine_Statue_%28Nogami-cho%2C_NARA%29.jpg"
       }
     }
   ]
