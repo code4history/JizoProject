@@ -728,6 +728,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.82402100000002,
+          34.684579
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Katte_Shrine_%28Aburasaka-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Katte_Shrine_%28Aburasaka-cho%2C_Nara%29_Honden.jpg/180px-Katte_Shrine_%28Aburasaka-cho%2C_Nara%29_Honden.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Katte_Shrine_%28Aburasaka-cho,_Nara%29_Honden.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>油阪町 勝手神社 本殿",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Katte_Shrine_%28Aburasaka-cho%2C_Nara%29_Honden.jpg/180px-Katte_Shrine_%28Aburasaka-cho%2C_Nara%29_Honden.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/39/Katte_Shrine_%28Aburasaka-cho%2C_Nara%29_Honden.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Katte_Shrine_%28Aburasaka-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>油阪町 勝手神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Katte_Shrine_%28Aburasaka-cho%2C_Nara%29.jpg/320px-Katte_Shrine_%28Aburasaka-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Katte_Shrine_%28Aburasaka-cho%2C_Nara%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.827056,
           34.6759625
         ]
@@ -1715,6 +1744,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.823601,
+          34.6827375
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Sumiyoshi_Shrine_%28Imazushi-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sumiyoshi_Shrine_%28Imazushi-cho%2C_Nara%29_1.jpg/320px-Sumiyoshi_Shrine_%28Imazushi-cho%2C_Nara%29_1.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Sumiyoshi_Shrine_%28Imazushi-cho,_Nara%29_1.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>今辻子町 住吉神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sumiyoshi_Shrine_%28Imazushi-cho%2C_Nara%29_1.jpg/320px-Sumiyoshi_Shrine_%28Imazushi-cho%2C_Nara%29_1.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sumiyoshi_Shrine_%28Imazushi-cho%2C_Nara%29_1.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Sumiyoshi_Shrine_%28Imazushi-cho,_Nara%29_2.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>今辻子町 住吉神社",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sumiyoshi_Shrine_%28Imazushi-cho%2C_Nara%29_2.jpg/180px-Sumiyoshi_Shrine_%28Imazushi-cho%2C_Nara%29_2.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sumiyoshi_Shrine_%28Imazushi-cho%2C_Nara%29_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.82939900000002,
           34.682007
         ]
@@ -1883,6 +1941,41 @@
             "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span> 奈良、月日磐、氷室神社の元境内地。古い石灯籠。",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tsukihiiwa_toro.jpg/320px-Tsukihiiwa_toro.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Tsukihiiwa_toro.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79249,
+          34.69633233333334
+        ]
+      },
+      "properties": {
+        "type": "小祠",
+        "url": "https://commons.wikimedia.org/wiki/Category:Wayside_Shrine_%28Saki-cho,_Nara%29",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wayside_Shrine_%28Saki-cho%2C_Nara%29_From_Faraway.jpg/320px-Wayside_Shrine_%28Saki-cho%2C_Nara%29_From_Faraway.jpg",
+        "files": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Shrine_%28Saki-cho,_Nara%29_From_Faraway.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>佐紀町 小祠 遠景",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wayside_Shrine_%28Saki-cho%2C_Nara%29_From_Faraway.jpg/320px-Wayside_Shrine_%28Saki-cho%2C_Nara%29_From_Faraway.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/3/35/Wayside_Shrine_%28Saki-cho%2C_Nara%29_From_Faraway.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Shrine_%28Saki-cho,_Nara%29_Monument.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>佐紀町 小祠 石碑",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wayside_Shrine_%28Saki-cho%2C_Nara%29_Monument.jpg/180px-Wayside_Shrine_%28Saki-cho%2C_Nara%29_Monument.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/08/Wayside_Shrine_%28Saki-cho%2C_Nara%29_Monument.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Wayside_Shrine_%28Saki-cho,_Nara%29.jpg",
+            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>佐紀町 小祠",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wayside_Shrine_%28Saki-cho%2C_Nara%29.jpg/180px-Wayside_Shrine_%28Saki-cho%2C_Nara%29.jpg",
+            "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/06/Wayside_Shrine_%28Saki-cho%2C_Nara%29.jpg"
           }
         ]
       }
