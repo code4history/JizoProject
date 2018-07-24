@@ -68,6 +68,9 @@ var feedback = fb_file ? JSON.parse(fs.readFileSync(fb_file, 'utf8')).features.m
     if (item.properties.files && typeof item.properties.files === 'string') {
         item.properties.files = JSON.parse(item.properties.files);
     }
+    if (item.properties.refs && typeof item.properties.refs === 'string') {
+        item.properties.refs = JSON.parse(item.properties.refs);
+    }
     return item;
 }) : false;
 var login_info = null;
