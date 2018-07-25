@@ -7,7 +7,7 @@
         "type": "Point",
         "coordinates": [
           135.83548,
-          34.664728249999996
+          34.664728
         ]
       },
       "properties": {
@@ -1387,7 +1387,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83541100000002,
+          135.835411,
           34.664978
         ]
       },
@@ -1418,8 +1418,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83274849999998,
-          34.6562165
+          135.832748,
+          34.656216
         ]
       },
       "properties": {
@@ -1692,7 +1692,7 @@
         "type": "Point",
         "coordinates": [
           135.833832,
-          34.665881999999996
+          34.665882
         ]
       },
       "properties": {
@@ -1754,12 +1754,14 @@
         "type": "Point",
         "coordinates": [
           135.788704,
-          34.69727399999999
+          34.697274
         ]
       },
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Misasagi-cho,_Nara%29",
+        "title": "地蔵堂",
+        "description": "山陵町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jizodo_%28Misasagi-cho%2C_Nara%29.jpg/320px-Jizodo_%28Misasagi-cho%2C_Nara%29.jpg",
         "files": [
           {
@@ -1850,13 +1852,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.79412100000002,
+          135.794121,
           34.695661
         ]
       },
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Saki-cho,_Nara%29",
+        "title": "地蔵堂",
+        "description": "佐紀町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jizodo_%28Saki-cho%2C_Nara%29.jpg/320px-Jizodo_%28Saki-cho%2C_Nara%29.jpg",
         "files": [
           {
@@ -1916,7 +1920,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83522425,
+          135.835224,
           34.689329
         ]
       },
@@ -2300,7 +2304,7 @@
         "type": "Point",
         "coordinates": [
           135.828246,
-          34.689462500000005
+          34.689463
         ]
       },
       "properties": {
@@ -2774,6 +2778,8 @@
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Jizos_in_Takabatake_%28Obanatani_River%29",
+        "title": "地蔵",
+        "description": "高畑町 尾花谷川石碑裏",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jizos_in_Takabatake_%28Obanatani_River%29_Jizobon.jpg/320px-Jizos_in_Takabatake_%28Obanatani_River%29_Jizobon.jpg",
         "files": [
           {
@@ -3598,8 +3604,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8452725,
-          34.69052366666667
+          135.845272,
+          34.690524
         ]
       },
       "properties": {
@@ -4577,7 +4583,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.84365100000002,
+          135.843651,
           34.6901
         ]
       },
@@ -4609,7 +4615,7 @@
         "type": "Point",
         "coordinates": [
           135.844001,
-          34.6903665
+          34.690367
         ]
       },
       "properties": {
@@ -4865,12 +4871,14 @@
         "type": "Point",
         "coordinates": [
           135.798192,
-          34.696214000000005
+          34.696214
         ]
       },
       "properties": {
         "type": "地蔵",
         "url": "https://commons.wikimedia.org/wiki/Category:Wayside_Jizo_%28Saki-cho,_Nara%29",
+        "title": "地蔵",
+        "description": "佐紀町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Wayside_Jizo_%28Saki-cho%2C_Nara%29_1.jpg/320px-Wayside_Jizo_%28Saki-cho%2C_Nara%29_1.jpg",
         "files": [
           {
@@ -4881,7 +4889,7 @@
           },
           {
             "url": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo_%28Saki-cho,_Nara%29_2.jpg",
-            "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>佐紀町 地蔵",
+            "description": "佐紀町 地蔵",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wayside_Jizo_%28Saki-cho%2C_Nara%29_2.jpg/320px-Wayside_Jizo_%28Saki-cho%2C_Nara%29_2.jpg",
             "fullsize": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wayside_Jizo_%28Saki-cho%2C_Nara%29_2.jpg"
           },
@@ -4936,7 +4944,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.84210199999998,
+          135.842102,
           34.689879
         ]
       },
@@ -7132,8 +7140,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8452835,
-          34.6905625
+          135.845283,
+          34.690562
         ]
       },
       "properties": {
@@ -7386,13 +7394,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82402100000002,
+          135.824021,
           34.684579
         ]
       },
       "properties": {
         "type": "小祠",
         "url": "https://commons.wikimedia.org/wiki/Category:Katte_Shrine_%28Aburasaka-cho,_Nara%29",
+        "title": "勝手神社",
+        "description": "油阪町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Katte_Shrine_%28Aburasaka-cho%2C_Nara%29_Honden.jpg/180px-Katte_Shrine_%28Aburasaka-cho%2C_Nara%29_Honden.jpg",
         "files": [
           {
@@ -7446,8 +7456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8226235,
-          34.6881085
+          135.822623,
+          34.688108
         ]
       },
       "properties": {
@@ -8276,8 +8286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83586442857145,
-          34.664784142857144
+          135.835864,
+          34.664784
         ]
       },
       "properties": {
@@ -8537,12 +8547,14 @@
         "type": "Point",
         "coordinates": [
           135.823601,
-          34.6827375
+          34.682738
         ]
       },
       "properties": {
         "type": "小祠",
         "url": "https://commons.wikimedia.org/wiki/Category:Sumiyoshi_Shrine_%28Imazushi-cho,_Nara%29",
+        "title": "住吉神社",
+        "description": "今辻子町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sumiyoshi_Shrine_%28Imazushi-cho%2C_Nara%29_1.jpg/320px-Sumiyoshi_Shrine_%28Imazushi-cho%2C_Nara%29_1.jpg",
         "files": [
           {
@@ -8747,12 +8759,14 @@
         "type": "Point",
         "coordinates": [
           135.79249,
-          34.69633233333334
+          34.696332
         ]
       },
       "properties": {
         "type": "小祠",
         "url": "https://commons.wikimedia.org/wiki/Category:Wayside_Shrine_%28Saki-cho,_Nara%29",
+        "title": "小祠",
+        "description": "佐紀町",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wayside_Shrine_%28Saki-cho%2C_Nara%29_From_Faraway.jpg/320px-Wayside_Shrine_%28Saki-cho%2C_Nara%29_From_Faraway.jpg",
         "files": [
           {
