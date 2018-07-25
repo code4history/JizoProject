@@ -779,6 +779,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.822647,
+          34.688144
+        ]
+      },
+      "properties": {
+        "type": "石仏等",
+        "url": "https://commons.wikimedia.org/wiki/File:Myogo_Stone_%28Kitaichi-cho,_Nara%29.jpg",
+        "title": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北市町 名号石碑",
+        "description": "<span class=\"language ja\" title=\"\"><b>日本語:</b></span>北市町 名号石碑",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Myogo_Stone_%28Kitaichi-cho%2C_Nara%29.jpg/180px-Myogo_Stone_%28Kitaichi-cho%2C_Nara%29.jpg",
+        "fullsize": "https://upload.wikimedia.org/wikipedia/commons/9/98/Myogo_Stone_%28Kitaichi-cho%2C_Nara%29.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.827958,
           34.675922
         ]
