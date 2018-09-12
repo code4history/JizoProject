@@ -16,7 +16,7 @@
 
 # Collaboration demo with Maplat
 Code 4 NaraからUrban data challenge 2016に応募中の[Maplat](https://github.com/code4nara/Maplat)と地蔵プロジェクトをコラボレーションさせたデモを作りました。
-* https://code4nara.github.io/Maplat/?appid=jizoapp&overlay=true
+* https://s.maplat.jp/r/narajizomap/
 
 ## License
 
