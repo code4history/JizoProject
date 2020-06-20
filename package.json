@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "argv": "0.0.2",
-    "selenium-webdriver": "^2.53.3"
-  }
-}

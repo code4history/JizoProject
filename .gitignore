@@ -6,4 +6,6 @@ feedback.*
 login.json
 escape
 .idea
-jizo_projects_tmp.geojson
+pois*.geojson
+refs*.geojson
+files*.geojson

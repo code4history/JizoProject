@@ -1,0 +1,16 @@
+{
+  "name": "jizo_project_helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kohei Otsuka",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "node-fetch": "^2.6.0",
+    "urijs": "^1.19.2"
+  }
+}
