@@ -17,7 +17,7 @@
         "description": "古市町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Aburakake_Jizo_%28Furuichi-cho,_Nara%29",
@@ -107,8 +107,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83548,
-          34.664728
+          135.83543371143801,
+          34.66472542913676
         ]
       }
     },
@@ -2032,7 +2032,7 @@
         "description": "古市町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Furuichi-cho_North_Most,_NARA%29",
@@ -2062,8 +2062,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.835411,
-          34.664978
+          135.8353714813928,
+          34.66505446759375
         ]
       }
     },
@@ -2481,7 +2481,7 @@
         "description": "南紀寺町五丁",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28MinamiKidera5,_Nara%29",
@@ -2511,8 +2511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.833832,
-          34.665882
+          135.8338216475946,
+          34.66584365276317
         ]
       }
     },
@@ -12330,9 +12330,9 @@
         "description": "古市町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
-        "note": null,
+        "note": "境内に末吉大神、蛭子神社あり。",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sanpo_Kojin_Shrine",
         "files": [
           {
@@ -12410,8 +12410,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.835864,
-          34.664784
+          135.83578169169087,
+          34.66482257396001
         ]
       }
     },
@@ -13508,6 +13508,50 @@
         "coordinates": [
           135.83459623252614,
           34.671867062945864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 274,
+        "type": "地蔵",
+        "title": "古市町共同墓地内 地蔵堂",
+        "description": "古市町共同墓地内",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": true,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "files": [
+          {
+            "type": "Feature",
+            "properties": {
+              "fid": 681,
+              "poiid": 274,
+              "description": "南紀寺町地蔵堂",
+              "path": "./images/274/minamikidera_jizodo.jpg"
+            },
+            "geometry": null
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "fid": 682,
+              "poiid": 274,
+              "description": "南紀寺町地蔵堂内部",
+              "path": "./images/274/minamikidera_jizodo_inside.jpg"
+            },
+            "geometry": null
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.833139420196,
+          34.664248060080176
         ]
       }
     }
