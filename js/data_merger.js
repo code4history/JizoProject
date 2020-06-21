@@ -9,14 +9,14 @@ refs.features.map((curr) => {
     if (!refsBuffer[curr.properties.poiid]) {
         refsBuffer[curr.properties.poiid] = [];
     }
-    refsBuffer[curr.properties.poiid].push(curr);
+    refsBuffer[curr.properties.poiid].push(curr.properties);
 });
 const filesBuffer = {};
 files.features.map((curr) => {
     if (!filesBuffer[curr.properties.poiid]) {
         filesBuffer[curr.properties.poiid] = [];
     }
-    filesBuffer[curr.properties.poiid].push(curr);
+    filesBuffer[curr.properties.poiid].push(curr.properties);
 });
 pois.features.map((poi) => {
     if (refsBuffer[poi.properties.fid]) {
