@@ -9,6 +9,7 @@
   "author": "Kohei Otsuka",
   "license": "Apache-2.0",
   "dependencies": {
+    "exif": "^0.6.0",
     "fs-extra": "^9.0.1",
     "node-fetch": "^2.6.0",
     "urijs": "^1.19.2"
