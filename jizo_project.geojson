@@ -570,7 +570,7 @@
         "description": "法蓮町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Horen-cho_Jizodo_Nara",
@@ -592,8 +592,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.833061,
-          34.69663
+          135.83311100212188,
+          34.69659844153505
         ]
       }
     },
@@ -606,7 +606,7 @@
         "description": "法蓮町 (普光院北)",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara",
@@ -628,8 +628,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.829532,
-          34.691389
+          135.82948593063585,
+          34.691379265951866
         ]
       }
     },
@@ -1897,7 +1897,7 @@
         "description": "川上町 丘の中腹",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Kawakamicho,_Hill_Side%29_Nara",
@@ -1931,8 +1931,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834454,
-          34.69493
+          135.83440520162307,
+          34.6950274507515
         ]
       }
     },
@@ -2377,7 +2377,7 @@
         "description": "多聞町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Tamon-cho%29_Nara",
@@ -2405,8 +2405,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.830099,
-          34.692098
+          135.8301191441257,
+          34.69211663822191
         ]
       }
     },
@@ -3512,7 +3512,7 @@
         "description": "川上町 (奈良少年刑務所東)",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29",
@@ -3534,8 +3534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834664,
-          34.697353
+          135.83476725431223,
+          34.697237789711146
         ]
       }
     },
@@ -3548,7 +3548,7 @@
         "description": "川上町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kawakami-cho_Jizodo_Nara",
@@ -3570,8 +3570,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.835007,
-          34.696365
+          135.83494802817935,
+          34.69635432547387
         ]
       }
     },
@@ -3584,7 +3584,7 @@
         "description": "法蓮町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kawanaka_Jizo_%28Horen-cho%29_Nara",
@@ -3606,8 +3606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.829558,
-          34.691546
+          135.82950814865302,
+          34.69157440452286
         ]
       }
     },
@@ -3812,7 +3812,7 @@
         "description": "今在家町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kitamuki_Jizo_%28Imazaike-cho%29_Nara",
@@ -3840,8 +3840,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834696,
-          34.694173
+          135.83456123269832,
+          34.69418174384082
         ]
       }
     },
@@ -4076,7 +4076,7 @@
         "description": "般若寺町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Manki_Jizo_Nara",
@@ -4104,8 +4104,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834738,
-          34.69889
+          135.8347011052156,
+          34.69885399005493
         ]
       }
     },
@@ -5066,7 +5066,7 @@
         "description": "川上町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sahogawa_Jizo_Nara",
@@ -5112,8 +5112,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834197,
-          34.693953
+          135.83415928856923,
+          34.69399906669179
         ]
       }
     },
@@ -5864,7 +5864,7 @@
         "description": "興善院町",
         "wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%84%E7%A6%8F%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)#.E5.A4.95.E6.97.A5.E5.9C.B0.E8.94.B5",
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Yuhi_Jizo_Nara",
@@ -5880,8 +5880,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.835433,
-          34.696767
+          135.83550953806827,
+          34.69667649209657
         ]
       }
     },
@@ -6356,7 +6356,7 @@
         "description": "川上町 (奈良少年刑務所南)",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizo_%28South_of_Nara_Juvenile_Prison%29.jpg",
@@ -6372,8 +6372,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834397,
-          34.697083
+          135.83425926964654,
+          34.697068404441566
         ]
       }
     },
@@ -7725,7 +7725,7 @@
         "description": "法蓮町 普光院境内北端",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Horen-cho_Stone_Amida_in_Fuko-in_Nara.jpg",
@@ -7741,8 +7741,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.829457,
-          34.691349
+          135.82945361351995,
+          34.69135684574615
         ]
       }
     },
@@ -9829,7 +9829,7 @@
         "description": "西包永町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sahogawa_Tenmangu_Nara",
@@ -9864,8 +9864,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.830361,
-          34.691539
+          135.83031416648828,
+          34.69180086668361
         ]
       }
     },
@@ -10286,7 +10286,7 @@
         "description": "川上町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Tamatesu_Inari_%28Kawakami-cho%29_Nara",
@@ -10314,8 +10314,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.831914,
-          34.693415
+          135.83191930847283,
+          34.693466394430246
         ]
       }
     },
@@ -10628,7 +10628,7 @@
         "description": "川上町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Sahohime_Shrine_Nara.jpg",
@@ -10644,8 +10644,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834197,
-          34.693958
+          135.83415272415508,
+          34.69396875885307
         ]
       }
     },
