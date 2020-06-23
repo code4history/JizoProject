@@ -1902,7 +1902,7 @@
         "description": "八条1丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Hachijo_1,_Nara%29",
@@ -1944,8 +1944,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.806133,
-          34.662991
+          135.80615106140868,
+          34.66300195247887
         ]
       }
     },
@@ -2067,7 +2067,7 @@
         "description": "杏町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Karamomo-cho,_Nara%29",
@@ -2093,8 +2093,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.801787,
-          34.657967
+          135.80179568209,
+          34.6579939474629
         ]
       }
     },
@@ -2971,7 +2971,7 @@
         "description": "東九条町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_2_%28HigashiKujo-cho,_Nara%29",
@@ -2997,8 +2997,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.811927,
-          34.65926
+          135.81194704135893,
+          34.65924956225792
         ]
       }
     },
@@ -3051,8 +3051,8 @@
         "description": "杏町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
-        "need_action": null,
+        "brushup": false,
+        "need_action": "正確な位置、現地調査要",
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_2_%28Karamomo-cho,_Nara%29",
         "files": [
@@ -3077,8 +3077,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.799806,
-          34.65878
+          135.79977845377388,
+          34.658775787675
         ]
       }
     },
@@ -3091,7 +3091,7 @@
         "description": "東九条町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_3_%28HigashiKujo-cho,_Nara%29",
@@ -3117,8 +3117,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.811921,
-          34.659568
+          135.8119522071165,
+          34.6595459355638
         ]
       }
     },
@@ -3179,7 +3179,7 @@
         "description": "杏町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_3_%28Karamomo-cho,_Nara%29",
@@ -3205,8 +3205,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.800636,
-          34.658713
+          135.8006140150546,
+          34.658709926419895
         ]
       }
     },
@@ -3259,7 +3259,7 @@
         "description": "大安寺四丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_Daianji4_%28Nara%29",
@@ -3285,8 +3285,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.812668,
-          34.670107
+          135.81261245550104,
+          34.670122661461725
         ]
       }
     },
@@ -3299,7 +3299,7 @@
         "description": "大安寺四丁目 水路上",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_Daianji4_%28Nara,_On_Stream%29",
@@ -3325,8 +3325,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.81269,
-          34.672354
+          135.81267186171263,
+          34.67231859113181
         ]
       }
     },
@@ -3379,7 +3379,7 @@
         "description": "東九条町 来迎寺門前",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho,_Nara%29",
@@ -3405,8 +3405,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.818871,
-          34.658055
+          135.81893953989754,
+          34.65809274017947
         ]
       }
     },
@@ -3712,7 +3712,7 @@
         "description": "東九条町　八幡神社前北側",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizos_near_Yawata_Shrine_Higashikujo_Nara_%28North%29",
@@ -3738,8 +3738,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.813424,
-          34.666551
+          135.81343058235007,
+          34.66655182807656
         ]
       }
     },
@@ -3752,7 +3752,7 @@
         "description": "東九条町　八幡神社前南側",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizos_near_Yawata_Shrine_Higashikujo_Nara_%28South%29",
@@ -3778,8 +3778,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.813476,
-          34.666771
+          135.81341863653577,
+          34.66676253740939
         ]
       }
     },
@@ -6928,7 +6928,7 @@
         "description": "大安寺四丁目 (杉山古墳前)",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizodo_Daianji4_Sugiyama_Kofun_Mae.jpg",
@@ -6946,8 +6946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.812667,
-          34.671017
+          135.8126608844779,
+          34.67103184182323
         ]
       }
     },
@@ -7872,7 +7872,7 @@
         "description": "東九条町　八幡神社前北側",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara",
@@ -7898,8 +7898,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.813431,
-          34.666542
+          135.81343058235007,
+          34.666542002927606
         ]
       }
     },
@@ -8493,7 +8493,7 @@
         "description": "大安寺一丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Small_Temple_Daianji1_Nara",
@@ -8527,8 +8527,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.813614,
-          34.668119
+          135.81361654962123,
+          34.668133263552974
         ]
       }
     },
@@ -8541,7 +8541,7 @@
         "description": "大安寺一丁目（推古天皇社脇）",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Vairocana_Daianji1_Nara",
@@ -8591,8 +8591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.813769,
-          34.668026
+          135.81377313664638,
+          34.668044042239124
         ]
       }
     },
@@ -9234,7 +9234,7 @@
         "description": "大安寺一丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Goryo_Shrine_Daianji1_Nara",
@@ -9260,8 +9260,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.81385,
-          34.668929
+          135.81401689582992,
+          34.66888633009995
         ]
       }
     },
@@ -9559,7 +9559,7 @@
         "description": "西九条町2丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Hebizuka_Shrine_%28NishiKujo-cho_2,_Nara%29",
@@ -9585,8 +9585,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.80465,
-          34.657167
+          135.8045554880511,
+          34.65715792266287
         ]
       }
     },
@@ -9719,7 +9719,7 @@
         "description": "東九条町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Inari_Shrine_%28HigashiKujo-cho,_Nara%29",
@@ -9761,8 +9761,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.812219,
-          34.65583
+          135.812382256431,
+          34.655827914114454
         ]
       }
     },
@@ -9775,7 +9775,7 @@
         "description": "東九条町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Itsukushima_Shrine_%28HigashiKujo-cho,_Nara%29",
@@ -9817,8 +9817,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.819047,
-          34.655939
+          135.81902477489677,
+          34.65597876280245
         ]
       }
     },
@@ -10135,7 +10135,7 @@
         "description": "大安寺一丁目（推古天皇社脇）",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kompira_Daianji1_Nara",
@@ -11302,7 +11302,7 @@
         "description": "東九条町　八幡神社参道",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Small_Shrine_near_Yawata_Shrine_Higashikujo_Nara",
@@ -11320,8 +11320,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.813003,
-          34.666714
+          135.8130027930545,
+          34.66671991760648
         ]
       }
     },
@@ -11430,7 +11430,7 @@
         "description": "大安寺一丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Suiko_Empress_Shrine",
@@ -11464,8 +11464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.813669,
-          34.667956
+          135.81377184520701,
+          34.66798827886917
         ]
       }
     },
@@ -11654,7 +11654,7 @@
         "description": "西九条町3丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Tokikaze_Shrine_%28NishiKujo-cho_3,_Nara%29",
@@ -11680,8 +11680,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.803001,
-          34.657844
+          135.80300834367048,
+          34.65773049964307
         ]
       }
     },
@@ -12458,6 +12458,116 @@
         "coordinates": [
           135.8333500572832,
           34.69030274490455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 552,
+        "type": "地蔵",
+        "title": "壁に埋め込まれた地蔵",
+        "description": "西九条町2丁目",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": false,
+        "need_action": "Google StreetViewで発見。要調査。",
+        "note": null,
+        "originalCommons": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.80470012926205,
+          34.657796892821786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 553,
+        "type": "地蔵",
+        "title": "地蔵",
+        "description": "西九条古町",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": false,
+        "need_action": "Google StreetViewで発見、要調査",
+        "note": null,
+        "originalCommons": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.80613362697696,
+          34.656729815211854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 554,
+        "type": "石仏等",
+        "title": "大日如来石仏",
+        "description": "西九条町1丁目",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": false,
+        "need_action": "Google StreetViewで発見、要調査",
+        "note": null,
+        "originalCommons": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.80670444318415,
+          34.659499195758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 555,
+        "type": "地蔵",
+        "title": "地蔵群",
+        "description": "辰市町",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": false,
+        "need_action": "Google StreetViewで発見、要調査",
+        "note": null,
+        "originalCommons": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.80610908962865,
+          34.65807680587831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 556,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "佐保川/秋篠川合流地点",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": false,
+        "need_action": "Google StreetViewで発見 要調査",
+        "note": null,
+        "originalCommons": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79557611002193,
+          34.65802156694395
         ]
       }
     }
