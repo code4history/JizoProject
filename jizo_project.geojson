@@ -302,7 +302,7 @@
         "description": "四条大路一丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Enmei_Jizoson_%28ShijoOji-1,_Nara%29",
@@ -328,8 +328,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.805764,
-          34.680953
+          135.80575871453652,
+          34.68094715740136
         ]
       }
     },
@@ -1574,7 +1574,7 @@
         "description": "大宮町四丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Omiya_4_Nara",
@@ -1616,8 +1616,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.811603,
-          34.683136
+          135.81160407287658,
+          34.68313212807957
         ]
       }
     },
@@ -2467,7 +2467,7 @@
         "description": "三条川西町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28SanjoKawanishi-cho,_Nara%29",
@@ -2501,8 +2501,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.805822,
-          34.681552
+          135.8057920415623,
+          34.68154842456191
         ]
       }
     },
@@ -2571,7 +2571,7 @@
         "description": "芝辻町２",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Shibatsuji-cho-2%29_Nara",
@@ -2597,8 +2597,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.812057,
-          34.685361
+          135.81210852960422,
+          34.68536801515053
         ]
       }
     },
@@ -3480,7 +3480,7 @@
         "description": "三条川西町 (県立図書情報館そば)",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_near_prefectural_library_%28SanjoKawanishi-cho,_Nara%29",
@@ -3506,8 +3506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.806588,
-          34.677318
+          135.8066322865759,
+          34.6772643007766
         ]
       }
     },
@@ -4792,7 +4792,7 @@
         "description": "四条大路南町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Meyasu_Jizo_%28ShijoOji-Minami-cho,_Nara%29",
@@ -4818,8 +4818,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.803886,
-          34.673978
+          135.80387270785027,
+          34.6739778700918
         ]
       }
     },
@@ -10300,7 +10300,7 @@
         "description": "三条桧町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kumataka_Daimyojin_Shrine_%28SanjoHinoki-cho,_Nara%29",
@@ -10326,8 +10326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.808731,
-          34.678382
+          135.8086914928053,
+          34.678344799537534
         ]
       }
     },
@@ -10945,7 +10945,7 @@
         "description": "三条添川町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nogami_Tree_Sanjo-Soekawa_Nara",
@@ -10963,8 +10963,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.811889,
-          34.681458
+          135.81187169899275,
+          34.68148904547172
         ]
       }
     },
