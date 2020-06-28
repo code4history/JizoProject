@@ -9,3 +9,4 @@ escape
 pois*.geojson
 refs*.geojson
 files*.geojson
+images/*/description.json
