@@ -2087,6 +2087,22 @@
             "path": "./images/43/Jizodo_%28Karamomo-cho%2C_Nara%29.jpg",
             "date": "2017/09/20 16:56:54",
             "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 708,
+            "poiid": 43,
+            "description": "杏町、用水路脇の地蔵残欠。",
+            "path": "./images/43/karamomocho_jizo_stones.jpg",
+            "date": "2020/06/27 14:22:55",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 709,
+            "poiid": 43,
+            "description": "杏町、用水路脇の地蔵残欠の地蔵堂。",
+            "path": "./images/43/karamomocho_jizodo_stones.jpg",
+            "date": "2020/06/27 14:22:47",
+            "author": "Kohei Otsuka"
           }
         ]
       },
@@ -3051,9 +3067,9 @@
         "description": "杏町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": false,
-        "need_action": "正確な位置、現地調査要",
-        "note": null,
+        "brushup": true,
+        "need_action": "",
+        "note": "白塗りの地蔵様",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_2_%28Karamomo-cho,_Nara%29",
         "files": [
           {
@@ -3071,14 +3087,30 @@
             "path": "./images/65/Jizodo_2_%28Karamomo-cho%2C_Nara%29.jpg",
             "date": "2017/09/20 17:02:00",
             "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 734,
+            "poiid": 65,
+            "description": "杏町、白塗りの地蔵",
+            "path": "./images/65/karamomocho_white_jizo.jpg",
+            "date": "2020/06/27 14:26:57",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 735,
+            "poiid": 65,
+            "description": "杏町、白塗りの地蔵の地蔵堂。新調されていた。",
+            "path": "./images/65/karamomocho_white_jizodo_new.jpg",
+            "date": "2020/06/27 14:26:47",
+            "author": "Kohei Otsuka"
           }
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.79977845377388,
-          34.658775787675
+          135.79976368572173,
+          34.65878459311256
         ]
       }
     },
@@ -3198,6 +3230,22 @@
             "description": "杏町 地蔵堂",
             "path": "./images/68/Jizodo_3_%28Karamomo-cho%2C_Nara%29.jpg",
             "date": "2017/09/20 17:06:06",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 736,
+            "poiid": 68,
+            "description": "杏町、地蔵堂の中の地蔵。",
+            "path": "./images/68/karamomocho_jizo.jpg",
+            "date": "2020/06/27 14:29:44",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 737,
+            "poiid": 68,
+            "description": "杏町、地蔵堂。",
+            "path": "./images/68/karamomocho_jizodo.jpg",
+            "date": "2020/06/27 14:29:32",
             "author": "Kohei Otsuka"
           }
         ]
@@ -12470,16 +12518,34 @@
         "description": "西九条町2丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": false,
-        "need_action": "Google StreetViewで発見。要調査。",
+        "brushup": true,
+        "need_action": "",
         "note": null,
-        "originalCommons": null
+        "originalCommons": null,
+        "files": [
+          {
+            "fid": 710,
+            "poiid": 552,
+            "description": "西九条町、壁の中の地蔵様の石。",
+            "path": "./images/552/saikujo_jizo_stone_in_wall.jpg",
+            "date": "2020/06/27 14:17:59",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 711,
+            "poiid": 552,
+            "description": "西九条町、壁の中の地蔵様の石を祀った地蔵堂。",
+            "path": "./images/552/saikujo_jizodo_in_wall.jpg",
+            "date": "2020/06/27 14:17:54",
+            "author": "Kohei Otsuka"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.80470012926205,
-          34.657796892821786
+          135.80470017173593,
+          34.65781918819022
         ]
       }
     },
@@ -12488,14 +12554,48 @@
       "properties": {
         "fid": 553,
         "type": "地蔵",
-        "title": "地蔵",
+        "title": "地蔵群",
         "description": "西九条古町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": false,
-        "need_action": "Google StreetViewで発見、要調査",
+        "brushup": true,
+        "need_action": "",
         "note": null,
-        "originalCommons": null
+        "originalCommons": null,
+        "files": [
+          {
+            "fid": 712,
+            "poiid": 553,
+            "description": "西九条町、井戸寺そばの地蔵群。",
+            "path": "./images/553/saikujo_jizos.jpg",
+            "date": "2020/06/27 14:09:57",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 713,
+            "poiid": 553,
+            "description": "西九条町、井戸寺そばの地蔵群、後ろ。",
+            "path": "./images/553/saikujo_jizos_back.jpg",
+            "date": "2020/06/27 14:10:17",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 714,
+            "poiid": 553,
+            "description": "西九条町、井戸寺そばの地蔵群、向かって左半分。",
+            "path": "./images/553/saikujo_jizos_left.jpg",
+            "date": "2020/06/27 14:10:07",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 715,
+            "poiid": 553,
+            "description": "西九条町、井戸寺そばの地蔵群、向かって右半分。",
+            "path": "./images/553/saikujo_jizos_right.jpg",
+            "date": "2020/06/27 14:10:02",
+            "author": "Kohei Otsuka"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -12514,10 +12614,36 @@
         "description": "西九条町1丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": false,
-        "need_action": "Google StreetViewで発見、要調査",
+        "brushup": true,
+        "need_action": "",
         "note": null,
-        "originalCommons": null
+        "originalCommons": null,
+        "files": [
+          {
+            "fid": 716,
+            "poiid": 554,
+            "description": "西九条町、大日如来石仏拝殿",
+            "path": "./images/554/tatsuichi_dainichi_haiden.jpg",
+            "date": "2020/06/27 15:11:00",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 717,
+            "poiid": 554,
+            "description": "西九条町、大日如来石仏参道入口",
+            "path": "./images/554/tatsuichi_dainichi_sekibutsu.jpg",
+            "date": "2020/06/27 15:10:36",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 718,
+            "poiid": 554,
+            "description": "西九条町、大日如来石仏本尊",
+            "path": "./images/554/tatsuichi_dainichi_stone.jpg",
+            "date": "2020/06/27 15:11:21",
+            "author": "Kohei Otsuka"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -12536,16 +12662,50 @@
         "description": "辰市町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": false,
-        "need_action": "Google StreetViewで発見、要調査",
+        "brushup": true,
+        "need_action": "",
         "note": null,
-        "originalCommons": null
+        "originalCommons": null,
+        "files": [
+          {
+            "fid": 719,
+            "poiid": 555,
+            "description": "杏町、辰市小学校西南角の地蔵群。",
+            "path": "./images/555/tatsuichi_jizos.jpg",
+            "date": "2020/06/27 14:08:23",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 720,
+            "poiid": 555,
+            "description": "杏町、辰市小学校西南角の地蔵群、後背面。",
+            "path": "./images/555/tatsuichi_jizos_back.jpg",
+            "date": "2020/06/27 14:08:32",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 721,
+            "poiid": 555,
+            "description": "杏町、辰市小学校西南角の地蔵群、向かって左。",
+            "path": "./images/555/tatsuichi_jizos_left.jpg",
+            "date": "2020/06/27 14:08:13",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 722,
+            "poiid": 555,
+            "description": "杏町、辰市小学校西南角の地蔵群、向かって右。",
+            "path": "./images/555/tatsuichi_jizos_right.jpg",
+            "date": "2020/06/27 14:08:09",
+            "author": "Kohei Otsuka"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.80610908962865,
-          34.65807680587831
+          135.8061285051218,
+          34.65805384189302
         ]
       }
     },
@@ -12558,16 +12718,154 @@
         "description": "佐保川/秋篠川合流地点",
         "wikipedia": null,
         "monumento": null,
-        "brushup": false,
-        "need_action": "Google StreetViewで発見 要調査",
+        "brushup": true,
+        "need_action": "",
         "note": null,
-        "originalCommons": null
+        "originalCommons": null,
+        "files": [
+          {
+            "fid": 723,
+            "poiid": 556,
+            "description": "佐保川秋篠川合流地点の地蔵堂内部。",
+            "path": "./images/556/saho_akishino_jizo.jpg",
+            "date": "2020/06/27 14:37:24",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 724,
+            "poiid": 556,
+            "description": "佐保川秋篠川合流地点の地蔵堂内部向かって左。",
+            "path": "./images/556/saho_akishino_jizo_left.jpg",
+            "date": "2020/06/27 14:37:27",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 725,
+            "poiid": 556,
+            "description": "佐保川秋篠川合流地点の地蔵堂内部向かって右。",
+            "path": "./images/556/saho_akishino_jizo_right.jpg",
+            "date": "2020/06/27 14:37:30",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 726,
+            "poiid": 556,
+            "description": "佐保川秋篠川合流地点の地蔵堂。",
+            "path": "./images/556/saho_akishino_jizodo.jpg",
+            "date": "2020/06/27 14:37:13",
+            "author": "Kohei Otsuka"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.79557611002193,
           34.65802156694395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 557,
+        "type": "石仏等",
+        "title": "地蔵菩薩と掲げられた不動明王",
+        "description": "西九条町",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": true,
+        "need_action": null,
+        "note": "地蔵菩薩と掲げられているが明らかに不動明王。周辺には多くの地蔵。",
+        "originalCommons": null,
+        "files": [
+          {
+            "fid": 727,
+            "poiid": 557,
+            "description": "西九条町、地蔵菩薩と書かれた不動明王、本尊。",
+            "path": "./images/557/saikujo_fudo_or_jizo_fudo.jpg",
+            "date": "2020/06/27 14:12:41",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 728,
+            "poiid": 557,
+            "description": "西九条町、地蔵菩薩と書かれた不動明王、御堂遠景。",
+            "path": "./images/557/saikujo_fudo_or_jizo_jizodo.jpg",
+            "date": "2020/06/27 14:12:21",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 729,
+            "poiid": 557,
+            "description": "西九条町、地蔵菩薩と書かれた不動明王、堂内むかって左。",
+            "path": "./images/557/saikujo_fudo_or_jizo_left.jpg",
+            "date": "2020/06/27 14:12:48",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 730,
+            "poiid": 557,
+            "description": "西九条町、地蔵菩薩と書かれた不動明王、参道東。",
+            "path": "./images/557/saikujo_fudo_or_jizo_path_east.jpg",
+            "date": "2020/06/27 14:12:28",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 731,
+            "poiid": 557,
+            "description": "西九条町、地蔵菩薩と書かれた不動明王、参道西。",
+            "path": "./images/557/saikujo_fudo_or_jizo_path_west.jpg",
+            "date": "2020/06/27 14:12:32",
+            "author": "Kohei Otsuka"
+          },
+          {
+            "fid": 732,
+            "poiid": 557,
+            "description": "西九条町、地蔵菩薩と書かれた不動明王、堂内むかって右。",
+            "path": "./images/557/saikujo_fudo_or_jizo_right.jpg",
+            "date": "2020/06/27 14:12:45",
+            "author": "Kohei Otsuka"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8076121160955,
+          34.65676364428679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 558,
+        "type": "地蔵",
+        "title": "大日如来石仏参道地蔵群",
+        "description": "西九条町",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": true,
+        "need_action": null,
+        "note": "大日如来石仏参道の地蔵",
+        "originalCommons": null,
+        "files": [
+          {
+            "fid": 733,
+            "poiid": 558,
+            "description": "西九条町、大日如来石仏参道の地蔵群",
+            "path": "./images/558/tatsuichi_dainichi_jizo.jpg",
+            "date": "2020/06/27 15:10:46",
+            "author": "Kohei Otsuka"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.80668424229953,
+          34.65929530319516
         ]
       }
     }
