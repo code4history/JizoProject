@@ -1,0 +1,36 @@
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css">
+    <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<p id="mapid" class="ev-charger" style="height:100%; width: 100%"></p>
+
+<script type="text/html" id="popup-template">
+    <div class="ev-charger">
+        <h2><%= title %> (<%= description %>)</h2>
+        <a href="<%- encodeURIComponent(path) %>" target="_blank"><img src="<%- encodeURIComponent(small_thumbnail) %>"></a><br>
+        <% if (note) { %><b>メモ：</b> <%= note %><br><% } %>
+        <% if (!brushup) { %>位置アップデート必要<br><% } %>
+        <% if (lost) { %><b>現況:</b> 現存せず<br><% } %>
+        <% if (need_action) { %><b>アクション要:</b> <%= need_action %><br><% } %>
+    </div>
+</script>
+
+<script> MAP_CFG = {
+    latLng: [
+        34.66472542913676,
+        135.83543371143801
+    ],
+    zoom: 15,
+    minZoom: 5,
+    maxZoom: 18,
+    geoJson: './jizo_project.geojson',
+    checkProperty: 'title'
+} </script>
+
+<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+<script src="assets/geojson-popup.js"></script>
+</body>
+</html>

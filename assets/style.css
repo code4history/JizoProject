@@ -62,18 +62,11 @@ pre {
     width: 96%;
 }
 
-.ev-charger .icon-fuel {
-    background-color: #f8b; /* invert(pink) = green */
-    border-radius: 8px;
-    -webkit-filter: invert(100%);
-    filter: invert(100%);
-    padding: 4px;
-}
-
 .ev-charger .leaflet-popup-content-wrapper,
 .ev-charger .leaflet-popup-tip {
     background: green;
     color: #fff;
+    min-width: 800px;
 }
 
 .index body {
