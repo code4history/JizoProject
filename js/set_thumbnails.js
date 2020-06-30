@@ -22,6 +22,7 @@ const promises = files.features.map((curr) => {
                     kernel: sharp.kernel.nearest,
                     fit: sharp.fit.inside
                 })
+                .withMetadata()
                 .toFile(`.${mid_thumb}`)
                 .then(() => {
                     curr.properties.mid_thumbnail = mid_thumb;
@@ -44,6 +45,7 @@ const promises = files.features.map((curr) => {
                     kernel: sharp.kernel.nearest,
                     fit: sharp.fit.inside
                 })
+                .withMetadata()
                 .toFile(`.${small_thumb}`)
                 .then(() => {
                     curr.properties.small_thumbnail = small_thumb;
