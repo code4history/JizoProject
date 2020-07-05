@@ -1152,11 +1152,11 @@
         "description": "大安寺四丁目",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_in_Daianji4_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 63,
@@ -1179,15 +1179,15 @@
             "small_thumbnail": "./small_thumbs/20/Jizo_in_Daianji4_Nara.jpg"
           }
         ],
-        "path": "./images/20/Jizo_in_Daianji4_Nara_%28Inside%29.jpg",
-        "small_thumbnail": "./small_thumbs/20/Jizo_in_Daianji4_Nara_%28Inside%29.jpg",
-        "mid_thumbnail": "./mid_thumbs/20/Jizo_in_Daianji4_Nara_%28Inside%29.jpg"
+        "path": "./images/20/Jizo_in_Daianji4_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/20/Jizo_in_Daianji4_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/20/Jizo_in_Daianji4_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8135,
-          34.671682
+          135.81343896611386,
+          34.671630958969935
         ]
       }
     },
@@ -3237,7 +3237,7 @@
         "need_action": "周辺が一度工事中になっている。要再調査。",
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Shukuin-cho%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 166,
@@ -3258,11 +3258,31 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/56/Jizodo_%28Shukuin-cho%29_Nara.jpg",
             "small_thumbnail": "./small_thumbs/56/Jizodo_%28Shukuin-cho%29_Nara.jpg"
+          },
+          {
+            "fid": 757,
+            "poiid": 56,
+            "description": "宿院町 地蔵堂 再建",
+            "path": "./images/56/shukuin_new_jizodo.jpg",
+            "date": "2020/06/27 10:53:14",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/56/shukuin_new_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/56/shukuin_new_jizodo.jpg"
+          },
+          {
+            "fid": 758,
+            "poiid": 56,
+            "description": "宿院町 地蔵堂 再建 内部",
+            "path": "./images/56/shukuin_new_jizodo_inside.jpg",
+            "date": "2020/06/27 10:53:25",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/56/shukuin_new_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/56/shukuin_new_jizodo_inside.jpg"
           }
         ],
-        "path": "./images/56/Jizodo_%28Shukuin-cho%29_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/56/Jizodo_%28Shukuin-cho%29_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/56/Jizodo_%28Shukuin-cho%29_Nara_Inside.jpg"
+        "path": "./images/56/Jizodo_%28Shukuin-cho%29_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/56/Jizodo_%28Shukuin-cho%29_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/56/Jizodo_%28Shukuin-cho%29_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3551,11 +3571,11 @@
         "description": "東九条町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_1_%28HigashiKujo-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 181,
@@ -3576,17 +3596,57 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/62/Jizodo_1_%28HigashiKujo-cho%2C_Nara%29.jpg",
             "small_thumbnail": "./small_thumbs/62/Jizodo_1_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "fid": 774,
+            "poiid": 62,
+            "description": "東九条町 日露戦役記念碑脇の地蔵堂",
+            "path": "./images/62/tokujo_nichiro_jizo.jpg",
+            "date": "2020/06/27 13:54:39",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/62/tokujo_nichiro_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/62/tokujo_nichiro_jizo.jpg"
+          },
+          {
+            "fid": 775,
+            "poiid": 62,
+            "description": "東九条町 日露戦役記念碑脇の地蔵堂 門扉",
+            "path": "./images/62/tokujo_nichiro_jizo_door.jpg",
+            "date": "2020/06/27 13:55:06",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/62/tokujo_nichiro_jizo_door.jpg",
+            "small_thumbnail": "./small_thumbs/62/tokujo_nichiro_jizo_door.jpg"
+          },
+          {
+            "fid": 776,
+            "poiid": 62,
+            "description": "東九条町 日露戦役記念碑脇の地蔵堂 内部",
+            "path": "./images/62/tokujo_nichiro_jizo_inside1.jpg",
+            "date": "2020/06/27 13:55:19",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/62/tokujo_nichiro_jizo_inside1.jpg",
+            "small_thumbnail": "./small_thumbs/62/tokujo_nichiro_jizo_inside1.jpg"
+          },
+          {
+            "fid": 777,
+            "poiid": 62,
+            "description": "東九条町 日露戦役記念碑脇の地蔵堂 内部",
+            "path": "./images/62/tokujo_nichiro_jizo_inside2.jpg",
+            "date": "2020/06/27 13:55:39",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/62/tokujo_nichiro_jizo_inside2.jpg",
+            "small_thumbnail": "./small_thumbs/62/tokujo_nichiro_jizo_inside2.jpg"
           }
         ],
-        "path": "./images/62/Inside_of_Jizodo_1_%28HigashiKujo-cho%2C_Nara%29.jpg",
-        "small_thumbnail": "./small_thumbs/62/Inside_of_Jizodo_1_%28HigashiKujo-cho%2C_Nara%29.jpg",
-        "mid_thumbnail": "./mid_thumbs/62/Inside_of_Jizodo_1_%28HigashiKujo-cho%2C_Nara%29.jpg"
+        "path": "./images/62/Jizodo_1_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "small_thumbnail": "./small_thumbs/62/Jizodo_1_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "mid_thumbnail": "./mid_thumbs/62/Jizodo_1_%28HigashiKujo-cho%2C_Nara%29.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.813432,
-          34.657929
+          135.81338122077656,
+          34.65794544658002
         ]
       }
     },
@@ -3603,7 +3663,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_2_%28HigashiKujo-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 183,
@@ -3624,11 +3684,31 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/63/Jizodo_2_%28HigashiKujo-cho%2C_Nara%29.jpg",
             "small_thumbnail": "./small_thumbs/63/Jizodo_2_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "fid": 778,
+            "poiid": 63,
+            "description": "東九条町 低い地蔵堂",
+            "path": "./images/63/tokujo_jizo_low_height.jpg",
+            "date": "2020/06/27 14:02:35",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/63/tokujo_jizo_low_height.jpg",
+            "small_thumbnail": "./small_thumbs/63/tokujo_jizo_low_height.jpg"
+          },
+          {
+            "fid": 779,
+            "poiid": 63,
+            "description": "東九条町 低い地蔵堂 内部",
+            "path": "./images/63/tokujo_jizo_low_height_inside.jpg",
+            "date": "2020/06/27 14:02:42",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/63/tokujo_jizo_low_height_inside.jpg",
+            "small_thumbnail": "./small_thumbs/63/tokujo_jizo_low_height_inside.jpg"
           }
         ],
-        "path": "./images/63/Inside_of_Jizodo_2_%28HigashiKujo-cho%2C_Nara%29.jpg",
-        "small_thumbnail": "./small_thumbs/63/Inside_of_Jizodo_2_%28HigashiKujo-cho%2C_Nara%29.jpg",
-        "mid_thumbnail": "./mid_thumbs/63/Inside_of_Jizodo_2_%28HigashiKujo-cho%2C_Nara%29.jpg"
+        "path": "./images/63/Jizodo_2_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "small_thumbnail": "./small_thumbs/63/Jizodo_2_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "mid_thumbnail": "./mid_thumbs/63/Jizodo_2_%28HigashiKujo-cho%2C_Nara%29.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3767,7 +3847,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_3_%28HigashiKujo-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 189,
@@ -3788,11 +3868,31 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/66/Jizodo_3_%28HigashiKujo-cho%2C_Nara%29.jpg",
             "small_thumbnail": "./small_thumbs/66/Jizodo_3_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "fid": 780,
+            "poiid": 66,
+            "description": "東九条町 高い地蔵堂",
+            "path": "./images/66/tokujo_jizodo_high_height.jpg",
+            "date": "2020/06/27 14:04:04",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/66/tokujo_jizodo_high_height.jpg",
+            "small_thumbnail": "./small_thumbs/66/tokujo_jizodo_high_height.jpg"
+          },
+          {
+            "fid": 781,
+            "poiid": 66,
+            "description": "東九条町 高い地蔵堂 内部",
+            "path": "./images/66/tokujo_jizodo_high_height_inside.jpg",
+            "date": "2020/06/27 14:04:13",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/66/tokujo_jizodo_high_height_inside.jpg",
+            "small_thumbnail": "./small_thumbs/66/tokujo_jizodo_high_height_inside.jpg"
           }
         ],
-        "path": "./images/66/Inside_of_Jizodo_3_%28HigashiKujo-cho%2C_Nara%29.jpg",
-        "small_thumbnail": "./small_thumbs/66/Inside_of_Jizodo_3_%28HigashiKujo-cho%2C_Nara%29.jpg",
-        "mid_thumbnail": "./mid_thumbs/66/Inside_of_Jizodo_3_%28HigashiKujo-cho%2C_Nara%29.jpg"
+        "path": "./images/66/Jizodo_3_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "small_thumbnail": "./small_thumbs/66/Jizodo_3_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "mid_thumbnail": "./mid_thumbs/66/Jizodo_3_%28HigashiKujo-cho%2C_Nara%29.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3989,7 +4089,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_Daianji4_%28Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 198,
@@ -4010,11 +4110,41 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/70/Jizodo_Daianji4.jpg",
             "small_thumbnail": "./small_thumbs/70/Jizodo_Daianji4.jpg"
+          },
+          {
+            "fid": 782,
+            "poiid": 70,
+            "description": "大安寺四丁目南西の一角 地蔵堂外観",
+            "path": "./images/70/daianji_4_sw_jizodo.jpg",
+            "date": "2020/06/27 15:54:28",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/70/daianji_4_sw_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/70/daianji_4_sw_jizodo.jpg"
+          },
+          {
+            "fid": 783,
+            "poiid": 70,
+            "description": "大安寺四丁目南西の一角 地蔵堂内部向かって左",
+            "path": "./images/70/daianji_4_sw_jizodo_inside_left.jpg",
+            "date": "2020/06/27 15:54:35",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/70/daianji_4_sw_jizodo_inside_left.jpg",
+            "small_thumbnail": "./small_thumbs/70/daianji_4_sw_jizodo_inside_left.jpg"
+          },
+          {
+            "fid": 784,
+            "poiid": 70,
+            "description": "大安寺四丁目南西の一角 地蔵堂内部向かって右",
+            "path": "./images/70/daianji_4_sw_jizodo_inside_right.jpg",
+            "date": "2020/06/27 15:54:40",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/70/daianji_4_sw_jizodo_inside_right.jpg",
+            "small_thumbnail": "./small_thumbs/70/daianji_4_sw_jizodo_inside_right.jpg"
           }
         ],
-        "path": "./images/70/Jizodo_Daianji4_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/70/Jizodo_Daianji4_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/70/Jizodo_Daianji4_Inside.jpg"
+        "path": "./images/70/Jizodo_Daianji4.jpg",
+        "small_thumbnail": "./small_thumbs/70/Jizodo_Daianji4.jpg",
+        "mid_thumbnail": "./mid_thumbs/70/Jizodo_Daianji4.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -4037,7 +4167,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_Daianji4_%28Nara,_On_Stream%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 200,
@@ -4058,11 +4188,41 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/71/Jizodo_Daianji4_On_the_Stream.jpg",
             "small_thumbnail": "./small_thumbs/71/Jizodo_Daianji4_On_the_Stream.jpg"
+          },
+          {
+            "fid": 785,
+            "poiid": 71,
+            "description": "大安寺四丁目 水路上の地蔵堂",
+            "path": "./images/71/daianji_4_nw_on_stream.jpg",
+            "date": "2020/06/27 15:43:21",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/71/daianji_4_nw_on_stream.jpg",
+            "small_thumbnail": "./small_thumbs/71/daianji_4_nw_on_stream.jpg"
+          },
+          {
+            "fid": 786,
+            "poiid": 71,
+            "description": "大安寺四丁目 水路上の地蔵堂 内部",
+            "path": "./images/71/daianji_4_nw_on_stream_inside1.jpg",
+            "date": "2020/06/27 15:43:44",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/71/daianji_4_nw_on_stream_inside1.jpg",
+            "small_thumbnail": "./small_thumbs/71/daianji_4_nw_on_stream_inside1.jpg"
+          },
+          {
+            "fid": 787,
+            "poiid": 71,
+            "description": "大安寺四丁目 水路上の地蔵堂 内部",
+            "path": "./images/71/daianji_4_nw_on_stream_inside2.jpg",
+            "date": "2020/06/27 15:43:34",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/71/daianji_4_nw_on_stream_inside2.jpg",
+            "small_thumbnail": "./small_thumbs/71/daianji_4_nw_on_stream_inside2.jpg"
           }
         ],
-        "path": "./images/71/Jizodo_Daianji4_On_the_Stream_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/71/Jizodo_Daianji4_On_the_Stream_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/71/Jizodo_Daianji4_On_the_Stream_Inside.jpg"
+        "path": "./images/71/Jizodo_Daianji4_On_the_Stream.jpg",
+        "small_thumbnail": "./small_thumbs/71/Jizodo_Daianji4_On_the_Stream.jpg",
+        "mid_thumbnail": "./mid_thumbs/71/Jizodo_Daianji4_On_the_Stream.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -4133,7 +4293,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 204,
@@ -4154,11 +4314,31 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/73/Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho%2C_Nara%29.jpg",
             "small_thumbnail": "./small_thumbs/73/Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "fid": 788,
+            "poiid": 73,
+            "description": "東九条町 来迎寺門前の地蔵堂",
+            "path": "./images/73/tokujo_raigoji_jizodo.jpg",
+            "date": "2020/06/27 13:47:58",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/73/tokujo_raigoji_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/73/tokujo_raigoji_jizodo.jpg"
+          },
+          {
+            "fid": 789,
+            "poiid": 73,
+            "description": "東九条町 来迎寺門前の地蔵堂 内部",
+            "path": "./images/73/tokujo_raigoji_jizodo_inside.jpg",
+            "date": "2020/06/27 13:48:16",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/73/tokujo_raigoji_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/73/tokujo_raigoji_jizodo_inside.jpg"
           }
         ],
-        "path": "./images/73/Inside_of_Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho%2C_Nara%29.jpg",
-        "small_thumbnail": "./small_thumbs/73/Inside_of_Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho%2C_Nara%29.jpg",
-        "mid_thumbnail": "./mid_thumbs/73/Inside_of_Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho%2C_Nara%29.jpg"
+        "path": "./images/73/Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "small_thumbnail": "./small_thumbs/73/Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "mid_thumbnail": "./mid_thumbs/73/Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho%2C_Nara%29.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -4344,11 +4524,11 @@
         "description": "大安寺 墓山古墳内",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizos_in_Hakayama_Kofun_%28Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 213,
@@ -4391,15 +4571,15 @@
             "small_thumbnail": "./small_thumbs/77/Hakayama_Kofun_Nara_Jizos_Middle.jpg"
           }
         ],
-        "path": "./images/77/Hakayama_Kofun_Nara_Big_Jizo.jpg",
-        "small_thumbnail": "./small_thumbs/77/Hakayama_Kofun_Nara_Big_Jizo.jpg",
-        "mid_thumbnail": "./mid_thumbs/77/Hakayama_Kofun_Nara_Big_Jizo.jpg"
+        "path": "./images/77/Hakayama_Kofun_Nara_Jizos_Middle.jpg",
+        "small_thumbnail": "./small_thumbs/77/Hakayama_Kofun_Nara_Jizos_Middle.jpg",
+        "mid_thumbnail": "./mid_thumbs/77/Hakayama_Kofun_Nara_Jizos_Middle.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.816941,
-          34.670151
+          135.8169175057488,
+          34.67004343690885
         ]
       }
     },
@@ -4717,6 +4897,26 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/83/Nara_Kainotsuka_Jizo.jpg",
             "small_thumbnail": "./small_thumbs/83/Nara_Kainotsuka_Jizo.jpg"
+          },
+          {
+            "fid": 790,
+            "poiid": 83,
+            "description": "肘塚町 おかげ地蔵？",
+            "path": "./images/83/kainotsuka_okage_jizo.jpg",
+            "date": "2020/06/27 13:23:41",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/83/kainotsuka_okage_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/83/kainotsuka_okage_jizo.jpg"
+          },
+          {
+            "fid": 791,
+            "poiid": 83,
+            "description": "肘塚町 おかげ地蔵？ 内部",
+            "path": "./images/83/kainotsuka_okage_jizo_inside.jpg",
+            "date": "2020/06/27 13:23:53",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/83/kainotsuka_okage_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/83/kainotsuka_okage_jizo_inside.jpg"
           }
         ],
         "path": "./images/83/Nara_Kainotsuka_Jizo.jpg",
@@ -5126,11 +5326,11 @@
         "description": "紀寺町 春日自動車学校脇",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 249,
@@ -5151,17 +5351,37 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/91/Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29.jpg",
             "small_thumbnail": "./small_thumbs/91/Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29.jpg"
+          },
+          {
+            "fid": 792,
+            "poiid": 91,
+            "description": "肘塚町 春日自動車学校脇 地蔵堂",
+            "path": "./images/91/kainotsuka_kasuga_car_school_jizodo.jpg",
+            "date": "2020/06/27 13:24:59",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/91/kainotsuka_kasuga_car_school_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/91/kainotsuka_kasuga_car_school_jizodo.jpg"
+          },
+          {
+            "fid": 793,
+            "poiid": 91,
+            "description": "肘塚町 春日自動車学校脇 地蔵堂 内部",
+            "path": "./images/91/kainotsuka_kasuga_car_school_jizodo_inside.jpg",
+            "date": "2020/06/27 13:25:11",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/91/kainotsuka_kasuga_car_school_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/91/kainotsuka_kasuga_car_school_jizodo_inside.jpg"
           }
         ],
-        "path": "./images/91/Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/91/Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/91/Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29_Inside.jpg"
+        "path": "./images/91/Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29.jpg",
+        "small_thumbnail": "./small_thumbs/91/Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29.jpg",
+        "mid_thumbnail": "./mid_thumbs/91/Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.831981,
-          34.668758
+          135.83170179274697,
+          34.66886870782569
         ]
       }
     },
@@ -6144,7 +6364,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nakasuji-cho_Jizodo_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 300,
@@ -6165,11 +6385,31 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/109/Nakasuji-cho_Jizodo_Nara_Outside.jpg",
             "small_thumbnail": "./small_thumbs/109/Nakasuji-cho_Jizodo_Nara_Outside.jpg"
+          },
+          {
+            "fid": 738,
+            "poiid": 109,
+            "description": "中筋町 駐車場の奥の地蔵堂",
+            "path": "./images/109/nakasujicho_parking_jizo.jpg",
+            "date": "2020/06/27 11:10:07",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/109/nakasujicho_parking_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/109/nakasujicho_parking_jizo.jpg"
+          },
+          {
+            "fid": 739,
+            "poiid": 109,
+            "description": "中筋町 駐車場の奥の地蔵堂 内部",
+            "path": "./images/109/nakasujicho_parking_jizo_inside.jpg",
+            "date": "2020/06/27 11:10:16",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/109/nakasujicho_parking_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/109/nakasujicho_parking_jizo_inside.jpg"
           }
         ],
-        "path": "./images/109/Nakasuji-cho_Jizodo_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/109/Nakasuji-cho_Jizodo_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/109/Nakasuji-cho_Jizodo_Nara_Inside.jpg"
+        "path": "./images/109/Nakasuji-cho_Jizodo_Nara_Outside.jpg",
+        "small_thumbnail": "./small_thumbs/109/Nakasuji-cho_Jizodo_Nara_Outside.jpg",
+        "mid_thumbnail": "./mid_thumbs/109/Nakasuji-cho_Jizodo_Nara_Outside.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -7892,11 +8132,11 @@
         "description": "大安寺五丁目　指定文化財",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wooden_Jizo_Daianji5_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 386,
@@ -7939,15 +8179,15 @@
             "small_thumbnail": "./small_thumbs/140/Wooden_Jizo_Daianji5_Nara.jpg"
           }
         ],
-        "path": "./images/140/Wooden_Jizo_Daianji5_Nara_%28Inside_1%29.jpg",
-        "small_thumbnail": "./small_thumbs/140/Wooden_Jizo_Daianji5_Nara_%28Inside_1%29.jpg",
-        "mid_thumbnail": "./mid_thumbs/140/Wooden_Jizo_Daianji5_Nara_%28Inside_1%29.jpg"
+        "path": "./images/140/Wooden_Jizo_Daianji5_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/140/Wooden_Jizo_Daianji5_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/140/Wooden_Jizo_Daianji5_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.816064,
-          34.671577
+          135.81604096114165,
+          34.67166546115711
         ]
       }
     },
@@ -8200,11 +8440,11 @@
         "description": "漢国町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizo_%28Kango-cho,_Nara%29.jpg",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 634,
@@ -8215,6 +8455,16 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/146/Jizo_%28Kango-cho%2C_Nara%29.jpg",
             "small_thumbnail": "./small_thumbs/146/Jizo_%28Kango-cho%2C_Nara%29.jpg"
+          },
+          {
+            "fid": 740,
+            "poiid": 146,
+            "description": "漢国町 漢国神社 駐車場の地蔵",
+            "path": "./images/146/kango_jinja_jizo.jpg",
+            "date": "2020/06/27 11:15:07",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/146/kango_jinja_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/146/kango_jinja_jizo.jpg"
           }
         ],
         "path": "./images/146/Jizo_%28Kango-cho%2C_Nara%29.jpg",
@@ -8404,7 +8654,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizodo_Daianji4_Sugiyama_Kofun_Mae.jpg",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 638,
@@ -8415,6 +8665,36 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/152/Jizodo_Daianji4_Sugiyama_Kofun_Mae.jpg",
             "small_thumbnail": "./small_thumbs/152/Jizodo_Daianji4_Sugiyama_Kofun_Mae.jpg"
+          },
+          {
+            "fid": 741,
+            "poiid": 152,
+            "description": "大安寺四丁目 杉山古墳前 地蔵堂内部",
+            "path": "./images/152/daianji_4_w_jizodo_inside.jpg",
+            "date": "2020/06/27 15:45:18",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/152/daianji_4_w_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/152/daianji_4_w_jizodo_inside.jpg"
+          },
+          {
+            "fid": 742,
+            "poiid": 152,
+            "description": "大安寺四丁目 杉山古墳前地蔵群",
+            "path": "./images/152/daianji_4_w_jizos.jpg",
+            "date": "2020/06/27 15:45:02",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/152/daianji_4_w_jizos.jpg",
+            "small_thumbnail": "./small_thumbs/152/daianji_4_w_jizos.jpg"
+          },
+          {
+            "fid": 743,
+            "poiid": 152,
+            "description": "大安寺四丁目 杉山古墳前 新造の地蔵",
+            "path": "./images/152/daianji_4_w_new_jizo.jpg",
+            "date": "2020/06/27 15:45:07",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/152/daianji_4_w_new_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/152/daianji_4_w_new_jizo.jpg"
           }
         ],
         "path": "./images/152/Jizodo_Daianji4_Sugiyama_Kofun_Mae.jpg",
@@ -9240,7 +9520,7 @@
         "need_action": "掘出地蔵が正式名称か要確認",
         "note": "地蔵盆の写真に「掘出地蔵」の名前が見える",
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 660,
@@ -9271,6 +9551,16 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/174/horidashi_jizo.jpg",
             "small_thumbnail": "./small_thumbs/174/horidashi_jizo.jpg"
+          },
+          {
+            "fid": 744,
+            "poiid": 174,
+            "description": "中辻町 掘出地蔵？",
+            "path": "./images/174/horidashi_jizo_izodo.jpg",
+            "date": "2020/06/27 13:15:52",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/174/horidashi_jizo_izodo.jpg",
+            "small_thumbnail": "./small_thumbs/174/horidashi_jizo_izodo.jpg"
           }
         ],
         "path": "./images/174/Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg",
@@ -9678,11 +9968,11 @@
         "description": "東九条町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Daishido_%28HigashiKujo-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 413,
@@ -9703,6 +9993,46 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/183/Inside_of_Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg",
             "small_thumbnail": "./small_thumbs/183/Inside_of_Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "fid": 745,
+            "poiid": 183,
+            "description": "東九条町 大師堂",
+            "path": "./images/183/tokujo_daishido.jpg",
+            "date": "2020/06/27 13:59:59",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/183/tokujo_daishido.jpg",
+            "small_thumbnail": "./small_thumbs/183/tokujo_daishido.jpg"
+          },
+          {
+            "fid": 746,
+            "poiid": 183,
+            "description": "東九条町 大師堂内部",
+            "path": "./images/183/tokujo_daishido_jizo_inside.jpg",
+            "date": "2020/06/27 14:00:44",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/183/tokujo_daishido_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/183/tokujo_daishido_jizo_inside.jpg"
+          },
+          {
+            "fid": 747,
+            "poiid": 183,
+            "description": "東九条町 大師堂前の地蔵 向かって左",
+            "path": "./images/183/tokujo_daishido_jizo_left.jpg",
+            "date": "2020/06/27 14:00:09",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/183/tokujo_daishido_jizo_left.jpg",
+            "small_thumbnail": "./small_thumbs/183/tokujo_daishido_jizo_left.jpg"
+          },
+          {
+            "fid": 748,
+            "poiid": 183,
+            "description": "東九条町 大師堂前の地蔵 向かって右",
+            "path": "./images/183/tokujo_daishido_jizo_right.jpg",
+            "date": "2020/06/27 14:00:06",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/183/tokujo_daishido_jizo_right.jpg",
+            "small_thumbnail": "./small_thumbs/183/tokujo_daishido_jizo_right.jpg"
           }
         ],
         "path": "./images/183/Daishido_%28HigashiKujo-cho%2C_Nara%29.jpg",
@@ -9712,8 +10042,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.812743,
-          34.657861
+          135.8127914286563,
+          34.657858567837266
         ]
       }
     },
@@ -9726,11 +10056,11 @@
         "description": "大安寺一丁目 団地の中",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Gorinto-Daianji1-Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 415,
@@ -9753,15 +10083,15 @@
             "small_thumbnail": "./small_thumbs/184/Gorinto-Daianji1-Nara.jpg"
           }
         ],
-        "path": "./images/184/Gorinto-Daianji1-Nara-Inside.jpg",
-        "small_thumbnail": "./small_thumbs/184/Gorinto-Daianji1-Nara-Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/184/Gorinto-Daianji1-Nara-Inside.jpg"
+        "path": "./images/184/Gorinto-Daianji1-Nara.jpg",
+        "small_thumbnail": "./small_thumbs/184/Gorinto-Daianji1-Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/184/Gorinto-Daianji1-Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.818596,
-          34.669914
+          135.81862123997405,
+          34.66986970470087
         ]
       }
     },
@@ -10574,6 +10904,16 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/199/Kainotsuka_Myogo_sekihi_%28Nara%29.jpg",
             "small_thumbnail": "./small_thumbs/199/Kainotsuka_Myogo_sekihi_%28Nara%29.jpg"
+          },
+          {
+            "fid": 749,
+            "poiid": 199,
+            "description": "肘塚町 橋の欄干に立てかけてあった名号石碑 2020年6月なくなっているのを確認",
+            "path": "./images/199/kainotsuka_myogo_lost.jpg",
+            "date": "2020/06/27 13:28:42",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/199/kainotsuka_myogo_lost.jpg",
+            "small_thumbnail": "./small_thumbs/199/kainotsuka_myogo_lost.jpg"
           }
         ],
         "path": "./images/199/Kainotsuka_Myogo_sekihi_%28Nara%29.jpg",
@@ -12503,6 +12843,16 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/234/Nara_Kainotsuka_Kunugi_Shrine.jpg",
             "small_thumbnail": "./small_thumbs/234/Nara_Kainotsuka_Kunugi_Shrine.jpg"
+          },
+          {
+            "fid": 750,
+            "poiid": 234,
+            "description": "肘塚町 椚神社",
+            "path": "./images/234/kainotsuka_kunugi_shrine.jpg",
+            "date": "2020/06/27 13:21:23",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/234/kainotsuka_kunugi_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/234/kainotsuka_kunugi_shrine.jpg"
           }
         ],
         "path": "./images/234/Nara_Kainotsuka_Kunugi_Shrine.jpg",
@@ -12761,11 +13111,11 @@
         "description": "東九条町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Motoiwashimizu_Otabisho_%28HigashiKujo-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 544,
@@ -12786,17 +13136,37 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/239/Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg",
             "small_thumbnail": "./small_thumbs/239/Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg"
+          },
+          {
+            "fid": 751,
+            "poiid": 239,
+            "description": "東九条町 元岩清水八幡宮御旅所 本殿",
+            "path": "./images/239/tokujo_motoiwashimizu_honden.jpg",
+            "date": "2020/06/27 14:01:08",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/239/tokujo_motoiwashimizu_honden.jpg",
+            "small_thumbnail": "./small_thumbs/239/tokujo_motoiwashimizu_honden.jpg"
+          },
+          {
+            "fid": 752,
+            "poiid": 239,
+            "description": "東九条町 元岩清水八幡宮御旅所",
+            "path": "./images/239/tokujo_motoiwashimizu_torii.jpg",
+            "date": "2020/06/27 14:00:58",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/239/tokujo_motoiwashimizu_torii.jpg",
+            "small_thumbnail": "./small_thumbs/239/tokujo_motoiwashimizu_torii.jpg"
           }
         ],
-        "path": "./images/239/Honden_of_Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg",
-        "small_thumbnail": "./small_thumbs/239/Honden_of_Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg",
-        "mid_thumbnail": "./mid_thumbs/239/Honden_of_Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg"
+        "path": "./images/239/Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "small_thumbnail": "./small_thumbs/239/Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg",
+        "mid_thumbnail": "./mid_thumbs/239/Motoiwashimizu_Otabisho_%28HigashiKujo-cho%2C_Nara%29.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.812745,
-          34.657793
+          135.81278945445675,
+          34.65780903879364
         ]
       }
     },
@@ -13591,10 +13961,10 @@
         "wikipedia": null,
         "monumento": null,
         "brushup": true,
-        "need_action": null,
+        "need_action": "2020年6月現況、見当たらないが草木に隠れているためかは不明。秋などに再調査必要。",
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Small_Shrine_near_Big_Tree_Kainotsuka_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 592,
@@ -13615,11 +13985,21 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/251/Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg",
             "small_thumbnail": "./small_thumbs/251/Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg"
+          },
+          {
+            "fid": 753,
+            "poiid": 251,
+            "description": "肘塚町 野神と思われる小祠 2020年6月見当たらない",
+            "path": "./images/251/kainotsuka_maybe_nogami_202006.jpg",
+            "date": "2020/06/27 13:31:49",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/251/kainotsuka_maybe_nogami_202006.jpg",
+            "small_thumbnail": "./small_thumbs/251/kainotsuka_maybe_nogami_202006.jpg"
           }
         ],
-        "path": "./images/251/God_Tree_of_worship_Kainotsuka_Nara.jpg",
-        "small_thumbnail": "./small_thumbs/251/God_Tree_of_worship_Kainotsuka_Nara.jpg",
-        "mid_thumbnail": "./mid_thumbs/251/God_Tree_of_worship_Kainotsuka_Nara.jpg"
+        "path": "./images/251/Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/251/Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/251/Small_Shrine_near_Big_Tree_Kainotsuka_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13748,7 +14128,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Suihaku_Taishin_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 599,
@@ -13769,11 +14149,21 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/254/Suihaku_Taishin_Nara.jpg",
             "small_thumbnail": "./small_thumbs/254/Suihaku_Taishin_Nara.jpg"
+          },
+          {
+            "fid": 754,
+            "poiid": 254,
+            "description": "中筋町 駐車場の奥の塚 水白大神",
+            "path": "./images/254/suihaku_taishin_2020.jpg",
+            "date": "2020/06/27 11:07:31",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/254/suihaku_taishin_2020.jpg",
+            "small_thumbnail": "./small_thumbs/254/suihaku_taishin_2020.jpg"
           }
         ],
-        "path": "./images/254/Suihaku_Taishin_Nara_Zoom.jpg",
-        "small_thumbnail": "./small_thumbs/254/Suihaku_Taishin_Nara_Zoom.jpg",
-        "mid_thumbnail": "./mid_thumbs/254/Suihaku_Taishin_Nara_Zoom.jpg"
+        "path": "./images/254/Suihaku_Taishin_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/254/Suihaku_Taishin_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/254/Suihaku_Taishin_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -15456,6 +15846,344 @@
         "coordinates": [
           135.80668424229953,
           34.65929530319516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 559,
+        "type": "地蔵",
+        "title": "薩摩地蔵尊",
+        "description": "三条桧町",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": true,
+        "need_action": null,
+        "note": "平成20年命名",
+        "originalCommons": null,
+        "lost": false,
+        "files": [
+          {
+            "fid": 755,
+            "poiid": 559,
+            "description": "薩摩地蔵尊 地蔵堂外観",
+            "path": "./images/559/satsuma_jizoson.jpg",
+            "date": "2020/06/27 16:16:51",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/559/satsuma_jizoson.jpg",
+            "small_thumbnail": "./small_thumbs/559/satsuma_jizoson.jpg"
+          },
+          {
+            "fid": 756,
+            "poiid": 559,
+            "description": "薩摩地蔵尊 内部",
+            "path": "./images/559/satsuma_jizoson_inside.jpg",
+            "date": "2020/06/27 16:17:06",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/559/satsuma_jizoson_inside.jpg",
+            "small_thumbnail": "./small_thumbs/559/satsuma_jizoson_inside.jpg"
+          }
+        ],
+        "path": "./images/559/satsuma_jizoson.jpg",
+        "small_thumbnail": "./small_thumbs/559/satsuma_jizoson.jpg",
+        "mid_thumbnail": "./mid_thumbs/559/satsuma_jizoson.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.80897135249643,
+          34.67919674167629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 560,
+        "type": "地蔵",
+        "title": "延命子安地蔵尊",
+        "description": "南京終町一丁目",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": true,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "files": [
+          {
+            "fid": 759,
+            "poiid": 560,
+            "description": "南京終町一丁目 子安延命地蔵尊",
+            "path": "./images/560/minami_kyobate_koyasu_enmei_jizo.jpg",
+            "date": "2020/06/27 15:33:16",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/560/minami_kyobate_koyasu_enmei_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/560/minami_kyobate_koyasu_enmei_jizo.jpg"
+          },
+          {
+            "fid": 760,
+            "poiid": 560,
+            "description": "南京終町一丁目 子安延命地蔵尊 内部真ん中あたり",
+            "path": "./images/560/minami_kyobate_koyasu_enmei_jizo_center.jpg",
+            "date": "2020/06/27 15:33:46",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/560/minami_kyobate_koyasu_enmei_jizo_center.jpg",
+            "small_thumbnail": "./small_thumbs/560/minami_kyobate_koyasu_enmei_jizo_center.jpg"
+          },
+          {
+            "fid": 761,
+            "poiid": 560,
+            "description": "南京終町一丁目 子安延命地蔵尊 内部向かって左",
+            "path": "./images/560/minami_kyobate_koyasu_enmei_jizo_left.jpg",
+            "date": "2020/06/27 15:33:34",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/560/minami_kyobate_koyasu_enmei_jizo_left.jpg",
+            "small_thumbnail": "./small_thumbs/560/minami_kyobate_koyasu_enmei_jizo_left.jpg"
+          },
+          {
+            "fid": 762,
+            "poiid": 560,
+            "description": "南京終町一丁目 子安延命地蔵尊 内部向かって右",
+            "path": "./images/560/minami_kyobate_koyasu_enmei_jizo_right.jpg",
+            "date": "2020/06/27 15:33:28",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/560/minami_kyobate_koyasu_enmei_jizo_right.jpg",
+            "small_thumbnail": "./small_thumbs/560/minami_kyobate_koyasu_enmei_jizo_right.jpg"
+          }
+        ],
+        "path": "./images/560/minami_kyobate_koyasu_enmei_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/560/minami_kyobate_koyasu_enmei_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/560/minami_kyobate_koyasu_enmei_jizo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82132984177832,
+          34.66975077099327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 561,
+        "type": "小祠",
+        "title": "京終葛城野神",
+        "description": "南京終町二丁目",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": true,
+        "need_action": null,
+        "note": "祭礼時でなければ近づけない",
+        "originalCommons": null,
+        "lost": false,
+        "files": [
+          {
+            "fid": 763,
+            "poiid": 561,
+            "description": "南京終町二丁目 野神御神木",
+            "path": "./images/561/kyobate_nogami.jpg",
+            "date": "2020/06/27 15:29:58",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/561/kyobate_nogami.jpg",
+            "small_thumbnail": "./small_thumbs/561/kyobate_nogami.jpg"
+          }
+        ],
+        "path": "./images/561/kyobate_nogami.jpg",
+        "small_thumbnail": "./small_thumbs/561/kyobate_nogami.jpg",
+        "mid_thumbnail": "./mid_thumbs/561/kyobate_nogami.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82330009294498,
+          34.66803494044919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 562,
+        "type": "石仏等",
+        "title": "名号石碑",
+        "description": "杏町",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": true,
+        "need_action": null,
+        "note": "文化二年",
+        "originalCommons": null,
+        "lost": false,
+        "files": [
+          {
+            "fid": 764,
+            "poiid": 562,
+            "description": "杏町 文化2年名号石碑",
+            "path": "./images/562/karamomo_bunka_2_myogo.jpg",
+            "date": "2020/06/27 15:08:17",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/562/karamomo_bunka_2_myogo.jpg",
+            "small_thumbnail": "./small_thumbs/562/karamomo_bunka_2_myogo.jpg"
+          },
+          {
+            "fid": 765,
+            "poiid": 562,
+            "description": "杏町 文化2年名号石碑 拡大",
+            "path": "./images/562/karamomo_bunka_2_myogo_zoom.jpg",
+            "date": "2020/06/27 15:08:20",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/562/karamomo_bunka_2_myogo_zoom.jpg",
+            "small_thumbnail": "./small_thumbs/562/karamomo_bunka_2_myogo_zoom.jpg"
+          }
+        ],
+        "path": "./images/562/karamomo_bunka_2_myogo.jpg",
+        "small_thumbnail": "./small_thumbs/562/karamomo_bunka_2_myogo.jpg",
+        "mid_thumbnail": "./mid_thumbs/562/karamomo_bunka_2_myogo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8047598912728,
+          34.6591942169501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 563,
+        "type": "石仏等",
+        "title": "名号石碑の御堂",
+        "description": "南京終町",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": true,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "files": [
+          {
+            "fid": 766,
+            "poiid": 563,
+            "description": "南京終町 名号石碑の御堂 内部",
+            "path": "./images/563/minami_kyobate_myogo_sekihi.jpg",
+            "date": "2020/06/27 13:37:33",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/563/minami_kyobate_myogo_sekihi.jpg",
+            "small_thumbnail": "./small_thumbs/563/minami_kyobate_myogo_sekihi.jpg"
+          },
+          {
+            "fid": 767,
+            "poiid": 563,
+            "description": "南京終町 名号石碑の御堂",
+            "path": "./images/563/minami_kyobate_myogo_sekihi_do.jpg",
+            "date": "2020/06/27 13:37:18",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/563/minami_kyobate_myogo_sekihi_do.jpg",
+            "small_thumbnail": "./small_thumbs/563/minami_kyobate_myogo_sekihi_do.jpg"
+          }
+        ],
+        "path": "./images/563/minami_kyobate_myogo_sekihi.jpg",
+        "small_thumbnail": "./small_thumbs/563/minami_kyobate_myogo_sekihi.jpg",
+        "mid_thumbnail": "./mid_thumbs/563/minami_kyobate_myogo_sekihi.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8273684247001,
+          34.66458043995839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 564,
+        "type": "地蔵",
+        "title": "栄地蔵尊",
+        "description": "三条栄町",
+        "wikipedia": null,
+        "monumento": null,
+        "brushup": true,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "files": [
+          {
+            "fid": 768,
+            "poiid": 564,
+            "description": "三条栄町 栄地蔵尊",
+            "path": "./images/564/sanjo_sakae_jizoson.jpg",
+            "date": "2020/06/27 12:47:48",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/564/sanjo_sakae_jizoson.jpg",
+            "small_thumbnail": "./small_thumbs/564/sanjo_sakae_jizoson.jpg"
+          },
+          {
+            "fid": 769,
+            "poiid": 564,
+            "description": "三条栄町 栄地蔵尊 内部中央",
+            "path": "./images/564/sanjo_sakae_jizoson_center.jpg",
+            "date": "2020/06/27 12:48:08",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/564/sanjo_sakae_jizoson_center.jpg",
+            "small_thumbnail": "./small_thumbs/564/sanjo_sakae_jizoson_center.jpg"
+          },
+          {
+            "fid": 770,
+            "poiid": 564,
+            "description": "三条栄町 栄地蔵尊 ご利益",
+            "path": "./images/564/sanjo_sakae_jizoson_goriyaku.jpg",
+            "date": "2020/06/27 12:48:24",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/564/sanjo_sakae_jizoson_goriyaku.jpg",
+            "small_thumbnail": "./small_thumbs/564/sanjo_sakae_jizoson_goriyaku.jpg"
+          },
+          {
+            "fid": 771,
+            "poiid": 564,
+            "description": "三条栄町 栄地蔵尊 内部",
+            "path": "./images/564/sanjo_sakae_jizoson_inside.jpg",
+            "date": "2020/06/27 12:48:02",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/564/sanjo_sakae_jizoson_inside.jpg",
+            "small_thumbnail": "./small_thumbs/564/sanjo_sakae_jizoson_inside.jpg"
+          },
+          {
+            "fid": 772,
+            "poiid": 564,
+            "description": "三条栄町 栄地蔵尊 内部向かって左",
+            "path": "./images/564/sanjo_sakae_jizoson_left.jpg",
+            "date": "2020/06/27 12:48:12",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/564/sanjo_sakae_jizoson_left.jpg",
+            "small_thumbnail": "./small_thumbs/564/sanjo_sakae_jizoson_left.jpg"
+          },
+          {
+            "fid": 773,
+            "poiid": 564,
+            "description": "三条栄町 栄地蔵尊 内部向かって右",
+            "path": "./images/564/sanjo_sakae_jizoson_right.jpg",
+            "date": "2020/06/27 12:48:15",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/564/sanjo_sakae_jizoson_right.jpg",
+            "small_thumbnail": "./small_thumbs/564/sanjo_sakae_jizoson_right.jpg"
+          }
+        ],
+        "path": "./images/564/sanjo_sakae_jizoson.jpg",
+        "small_thumbnail": "./small_thumbs/564/sanjo_sakae_jizoson.jpg",
+        "mid_thumbnail": "./mid_thumbs/564/sanjo_sakae_jizoson.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.80815600807577,
+          34.68149312846629
         ]
       }
     }
