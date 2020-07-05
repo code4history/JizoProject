@@ -5,17 +5,29 @@
     <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
-<p id="mapid" class="ev-charger" style="height:100%; width: 100%"></p>
+<p id="mapid" style="height:100%; width: 100%"></p>
 
 <script type="text/html" id="popup-template">
-    <div class="ev-charger">
+    <div class="poi">
         <h2><%= title %> (<%= description %>)</h2>
-        <a href="<%- encodeURIComponent(path) %>" target="_blank"><img src="<%- encodeURIComponent(small_thumbnail) %>"></a><br>
+        <a href="<%- path %>" target="_blank"><img class="represent" src="<%- mid_thumbnail %>"></a><br>
         <% if (note) { %><b>メモ：</b> <%= note %><br><% } %>
         <% if (!brushup) { %>位置アップデート必要<br><% } %>
         <% if (lost) { %><b>現況:</b> 現存せず<br><% } %>
         <% if (need_action) { %><b>アクション要:</b> <%= need_action %><br><% } %>
-    </div>
+        <% if (files.length > 1) { %>
+        <b>画像:</b><br>
+        <div class="parent">
+            <% files.map(function(file) { %>
+            <% if (file.path != path) { %>
+                <div class="child">
+                    <div><a href="<%- file.path %>" target="_blank"><img src="<%- file.small_thumbnail %>"></a></div>
+                </div>
+            <% } %>
+            <% }) %>
+        </div>
+    <% } %>
+</div>
 </script>
 
 <script> MAP_CFG = {
