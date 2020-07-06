@@ -870,11 +870,11 @@
         "description": "三条町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Imaicho_Jizo_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 47,
@@ -937,15 +937,15 @@
             "small_thumbnail": "./small_thumbs/16/Jizodo_(Imaicho,_Nara).jpg"
           }
         ],
-        "path": "./images/16/Imaicho_Jizo_Nara_Inside_Left.jpg",
-        "small_thumbnail": "./small_thumbs/16/Imaicho_Jizo_Nara_Inside_Left.jpg",
-        "mid_thumbnail": "./mid_thumbs/16/Imaicho_Jizo_Nara_Inside_Left.jpg"
+        "path": "./images/16/Jizodo_(Imaicho,_Nara).jpg",
+        "small_thumbnail": "./small_thumbs/16/Jizodo_(Imaicho,_Nara).jpg",
+        "mid_thumbnail": "./mid_thumbs/16/Jizodo_(Imaicho,_Nara).jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.822481,
-          34.680123
+          135.8224659936283,
+          34.68008762392831
         ]
       }
     },
@@ -2408,11 +2408,11 @@
         "description": "法蓮町 空襲で亡くなった小学生を祀る",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Horen-cho%29_Nara",
-        "lost": null,
+        "lost": false,
         "refs": [
           {
             "fid": 5,
@@ -2468,15 +2468,15 @@
             "small_thumbnail": "./small_thumbs/42/Jizodo_(Horen-cho)_Nara.jpg"
           }
         ],
-        "path": "./images/42/Jizodo_(Horen-cho)_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/42/Jizodo_(Horen-cho)_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/42/Jizodo_(Horen-cho)_Nara_Inside.jpg"
+        "path": "./images/42/Jizodo_(Horen-cho)_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/42/Jizodo_(Horen-cho)_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/42/Jizodo_(Horen-cho)_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.822635,
-          34.6903
+          135.82255483260863,
+          34.69036292296275
         ]
       }
     },
@@ -3359,11 +3359,11 @@
         "description": "手貝町 転害門脇",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Tegai-cho%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 171,
@@ -3386,15 +3386,15 @@
             "small_thumbnail": "./small_thumbs/58/Jizodo_(Tegai-cho)_Nara.jpg"
           }
         ],
-        "path": "./images/58/Jizodo_(Tegai-cho)_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/58/Jizodo_(Tegai-cho)_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/58/Jizodo_(Tegai-cho)_Nara_Inside.jpg"
+        "path": "./images/58/Jizodo_(Tegai-cho)_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/58/Jizodo_(Tegai-cho)_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/58/Jizodo_(Tegai-cho)_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834961,
-          34.6917
+          135.83500808346966,
+          34.69173517959188
         ]
       }
     },
@@ -3407,11 +3407,11 @@
         "description": "手貝町 北東端",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Tegai-cho,_North_East_Most%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 173,
@@ -3444,15 +3444,15 @@
             "small_thumbnail": "./small_thumbs/59/Jizodo_(Tegai-cho,_North_East_Most)_Nara.jpg"
           }
         ],
-        "path": "./images/59/Jizodo_(Tegai-cho,_North_East_Most)_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/59/Jizodo_(Tegai-cho,_North_East_Most)_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/59/Jizodo_(Tegai-cho,_North_East_Most)_Nara_Inside.jpg"
+        "path": "./images/59/Jizodo_(Tegai-cho,_North_East_Most)_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/59/Jizodo_(Tegai-cho,_North_East_Most)_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/59/Jizodo_(Tegai-cho,_North_East_Most)_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834981,
-          34.69319
+          135.8349848866247,
+          34.69323240066945
         ]
       }
     },
@@ -3465,11 +3465,11 @@
         "description": "手貝町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Tegai-cho,_small%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 176,
@@ -3492,15 +3492,15 @@
             "small_thumbnail": "./small_thumbs/60/Jizodo_(Tegai-cho,_small)_Nara.jpg"
           }
         ],
-        "path": "./images/60/Jizodo_(Tegai-cho,_small)_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/60/Jizodo_(Tegai-cho,_small)_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/60/Jizodo_(Tegai-cho,_small)_Nara_Inside.jpg"
+        "path": "./images/60/Jizodo_(Tegai-cho,_small)_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/60/Jizodo_(Tegai-cho,_small)_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/60/Jizodo_(Tegai-cho,_small)_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834633,
-          34.692994
+          135.83458757896213,
+          34.692999672730984
         ]
       }
     },
@@ -4592,11 +4592,11 @@
         "description": "高畑町 尾花谷川石碑裏",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizos_in_Takabatake_%28Obanatani_River%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 217,
@@ -4619,15 +4619,15 @@
             "small_thumbnail": "./small_thumbs/78/Jizos_in_Takabatake_(Obanatani_River).jpg"
           }
         ],
-        "path": "./images/78/Jizos_in_Takabatake_(Obanatani_River)_Jizobon.jpg",
-        "small_thumbnail": "./small_thumbs/78/Jizos_in_Takabatake_(Obanatani_River)_Jizobon.jpg",
-        "mid_thumbnail": "./mid_thumbs/78/Jizos_in_Takabatake_(Obanatani_River)_Jizobon.jpg"
+        "path": "./images/78/Jizos_in_Takabatake_(Obanatani_River).jpg",
+        "small_thumbnail": "./small_thumbs/78/Jizos_in_Takabatake_(Obanatani_River).jpg",
+        "mid_thumbnail": "./mid_thumbs/78/Jizos_in_Takabatake_(Obanatani_River).jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.833344,
-          34.678647
+          135.83333396223793,
+          34.67854978063038
         ]
       }
     },
@@ -4640,11 +4640,11 @@
         "description": "登大路町　興福寺三重塔そば（救世観世音菩薩、出世地蔵尊、延命能師地蔵尊、水子地蔵尊）",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizos_near_Kofukuji_NoboriOji-cho_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 219,
@@ -4694,8 +4694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.830311,
-          34.68216
+          135.83030948850316,
+          34.68220256841909
         ]
       }
     },
@@ -5394,11 +5394,11 @@
         "description": "法蓮町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kitamuki_Jizo_%28Horen-cho%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 251,
@@ -5471,15 +5471,15 @@
             "small_thumbnail": "./small_thumbs/92/Kitamuki_Jizo_(Horen-cho)_Nara.jpg"
           }
         ],
-        "path": "./images/92/Kitamuki_Jizo_(Horen-cho)_Nara_Center_Left.jpg",
-        "small_thumbnail": "./small_thumbs/92/Kitamuki_Jizo_(Horen-cho)_Nara_Center_Left.jpg",
-        "mid_thumbnail": "./mid_thumbs/92/Kitamuki_Jizo_(Horen-cho)_Nara_Center_Left.jpg"
+        "path": "./images/92/Kitamuki_Jizo_(Horen-cho)_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/92/Kitamuki_Jizo_(Horen-cho)_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/92/Kitamuki_Jizo_(Horen-cho)_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.820693,
-          34.68926
+          135.82068723981936,
+          34.68927289305658
         ]
       }
     },
@@ -5964,11 +5964,11 @@
         "description": "雑司町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Mannawoshi_Jizo_%28Zoshi-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 280,
@@ -6038,8 +6038,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.845272,
-          34.690524
+          135.84527095991243,
+          34.69054330813597
         ]
       }
     },
@@ -6554,11 +6554,11 @@
         "description": "興福寺南側 菩提堂向付近",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nara_Kofukuji_South_Jizo",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 309,
@@ -6588,8 +6588,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.832421,
-          34.682118
+          135.83250282422077,
+          34.68211815025362
         ]
       }
     },
@@ -7048,11 +7048,11 @@
         "description": "西之阪町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nishinosaka-cho_Jizodo_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 336,
@@ -7102,8 +7102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.821728,
-          34.68366
+          135.82165459760682,
+          34.68362670613146
         ]
       }
     },
@@ -7314,11 +7314,11 @@
         "description": "三条町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sanjo-cho_Jizodo_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 349,
@@ -7341,15 +7341,15 @@
             "small_thumbnail": "./small_thumbs/124/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin.jpg"
           }
         ],
-        "path": "./images/124/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/124/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/124/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin_Inside.jpg"
+        "path": "./images/124/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin.jpg",
+        "small_thumbnail": "./small_thumbs/124/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin.jpg",
+        "mid_thumbnail": "./mid_thumbs/124/Nara_wayside_Jizo_In_Sugigacho_North_Of_Sugiichi_Taishin.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.823165,
-          34.67951
+          135.82319151196873,
+          34.6795413255154
         ]
       }
     },
@@ -7430,11 +7430,11 @@
         "description": "白毫寺町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Shinmei_Jizo_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 355,
@@ -7454,8 +7454,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.847747,
-          34.672692
+          135.84768738018093,
+          34.67268063084392
         ]
       }
     },
@@ -7516,11 +7516,11 @@
         "description": "雑司町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
-        "need_action": null,
+        "brushup": true,
+        "need_action": "正確な位置は現地再確認必要",
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Small_Jizodo_1_%28Zoshi-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 358,
@@ -7543,15 +7543,15 @@
             "small_thumbnail": "./small_thumbs/128/Small_Jizodo_1_(Zoshi-cho,_Nara).jpg"
           }
         ],
-        "path": "./images/128/Small_Jizodo_1_(Zoshi-cho,_Nara)_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/128/Small_Jizodo_1_(Zoshi-cho,_Nara)_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/128/Small_Jizodo_1_(Zoshi-cho,_Nara)_Inside.jpg"
+        "path": "./images/128/Small_Jizodo_1_(Zoshi-cho,_Nara).jpg",
+        "small_thumbnail": "./small_thumbs/128/Small_Jizodo_1_(Zoshi-cho,_Nara).jpg",
+        "mid_thumbnail": "./mid_thumbs/128/Small_Jizodo_1_(Zoshi-cho,_Nara).jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.843651,
-          34.6901
+          135.84367087116433,
+          34.69008148884221
         ]
       }
     },
@@ -7564,11 +7564,11 @@
         "description": "雑司町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
-        "need_action": null,
+        "brushup": true,
+        "need_action": "正確な位置は現地再確認必要",
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Small_Jizodo_2_%28Zoshi-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 360,
@@ -7591,15 +7591,15 @@
             "small_thumbnail": "./small_thumbs/129/Small_Jizodo_2_(Zoshi-cho,_Nara).jpg"
           }
         ],
-        "path": "./images/129/Small_Jizodo_2_(Zoshi-cho,_Nara)_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/129/Small_Jizodo_2_(Zoshi-cho,_Nara)_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/129/Small_Jizodo_2_(Zoshi-cho,_Nara)_Inside.jpg"
+        "path": "./images/129/Small_Jizodo_2_(Zoshi-cho,_Nara).jpg",
+        "small_thumbnail": "./small_thumbs/129/Small_Jizodo_2_(Zoshi-cho,_Nara).jpg",
+        "mid_thumbnail": "./mid_thumbs/129/Small_Jizodo_2_(Zoshi-cho,_Nara).jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.844001,
-          34.690367
+          135.84396798819904,
+          34.69033471872129
         ]
       }
     },
@@ -7612,11 +7612,11 @@
         "description": "杉ヶ町 (公園北方)",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sugiga-cho_Park_Jizodo_%28North%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 362,
@@ -7639,15 +7639,15 @@
             "small_thumbnail": "./small_thumbs/130/Nara_Wayside_Jizo_Sugigacho_Park_North.jpg"
           }
         ],
-        "path": "./images/130/Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/130/Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/130/Nara_Wayside_Jizo_Sugigacho_Park_North_Inside.jpg"
+        "path": "./images/130/Nara_Wayside_Jizo_Sugigacho_Park_North.jpg",
+        "small_thumbnail": "./small_thumbs/130/Nara_Wayside_Jizo_Sugigacho_Park_North.jpg",
+        "mid_thumbnail": "./mid_thumbs/130/Nara_Wayside_Jizo_Sugigacho_Park_North.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.821509,
-          34.679554
+          135.82154502953085,
+          34.679541325515395
         ]
       }
     },
@@ -7660,11 +7660,11 @@
         "description": "杉ヶ町 (公園南方)",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sugiga-cho_Park_Jizodo_%28South%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 364,
@@ -7687,15 +7687,15 @@
             "small_thumbnail": "./small_thumbs/131/Nara_Wayside_Jizo_Sugigacho_Park_South.jpg"
           }
         ],
-        "path": "./images/131/Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/131/Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/131/Nara_Wayside_Jizo_Sugigacho_Park_South_Inside.jpg"
+        "path": "./images/131/Nara_Wayside_Jizo_Sugigacho_Park_South.jpg",
+        "small_thumbnail": "./small_thumbs/131/Nara_Wayside_Jizo_Sugigacho_Park_South.jpg",
+        "mid_thumbnail": "./mid_thumbs/131/Nara_Wayside_Jizo_Sugigacho_Park_South.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.821662,
-          34.679512
+          135.82165163630742,
+          34.67947963334333
         ]
       }
     },
@@ -8074,11 +8074,11 @@
         "description": "雑司町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_%28Zoshi-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 383,
@@ -8118,8 +8118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.842102,
-          34.689879
+          135.8421734407937,
+          34.689837592024354
         ]
       }
     },
@@ -8574,11 +8574,11 @@
         "description": "紀寺町北端付近",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizo_Most_North_of_Kidera-cho_Nara.jpg",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 636,
@@ -8598,8 +8598,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.834519,
-          34.6748
+          135.8345757337648,
+          34.67483919500454
         ]
       }
     },
@@ -8832,11 +8832,11 @@
         "description": "雑司町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizos_Near_Small_Bridge_%28Zoshi-cho,_Nara%29.jpg",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 642,
@@ -8856,8 +8856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.841019,
-          34.689583
+          135.84102544374616,
+          34.68957299765887
         ]
       }
     },
@@ -9060,11 +9060,11 @@
         "description": "白毫寺町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji_cho_Jizos_1.jpg",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 648,
@@ -10306,11 +10306,11 @@
         "description": "三条町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Mirokudo_%28Sanjo-cho%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 426,
@@ -10333,15 +10333,15 @@
             "small_thumbnail": "./small_thumbs/189/Mirokudo_(Sanjo-cho)_Nara.jpg"
           }
         ],
-        "path": "./images/189/Mirokudo_(Sanjo-cho)_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/189/Mirokudo_(Sanjo-cho)_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/189/Mirokudo_(Sanjo-cho)_Nara_Inside.jpg"
+        "path": "./images/189/Mirokudo_(Sanjo-cho)_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/189/Mirokudo_(Sanjo-cho)_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/189/Mirokudo_(Sanjo-cho)_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.822059,
-          34.680751
+          135.82202969552426,
+          34.680712656324786
         ]
       }
     },
@@ -10513,11 +10513,11 @@
         "description": "餅飯殿町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Shoho_Rigen_Daishido_%28Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 433,
@@ -10540,15 +10540,15 @@
             "small_thumbnail": "./small_thumbs/192/Shoho_Rigen_Daishido_(Nara).jpg"
           }
         ],
-        "path": "./images/192/Mochiidono_Benzaiten_and_Shoho_Rigen_Daishido_(Nara).jpg",
-        "small_thumbnail": "./small_thumbs/192/Mochiidono_Benzaiten_and_Shoho_Rigen_Daishido_(Nara).jpg",
-        "mid_thumbnail": "./mid_thumbs/192/Mochiidono_Benzaiten_and_Shoho_Rigen_Daishido_(Nara).jpg"
+        "path": "./images/192/Shoho_Rigen_Daishido_(Nara).jpg",
+        "small_thumbnail": "./small_thumbs/192/Shoho_Rigen_Daishido_(Nara).jpg",
+        "mid_thumbnail": "./mid_thumbs/192/Shoho_Rigen_Daishido_(Nara).jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82895,
-          34.680546
+          135.8287301288505,
+          34.68058724435863
         ]
       }
     },
@@ -11975,11 +11975,11 @@
         "description": "雑司町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Hinode_Shrine_%28Zoshi-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 492,
@@ -12002,15 +12002,15 @@
             "small_thumbnail": "./small_thumbs/219/Hinode_Shrine_(Zoshi-cho,_Nara).jpg"
           }
         ],
-        "path": "./images/219/Hinode_Shrine_(Zoshi-cho,_Nara)_Hengaku.jpg",
-        "small_thumbnail": "./small_thumbs/219/Hinode_Shrine_(Zoshi-cho,_Nara)_Hengaku.jpg",
-        "mid_thumbnail": "./mid_thumbs/219/Hinode_Shrine_(Zoshi-cho,_Nara)_Hengaku.jpg"
+        "path": "./images/219/Hinode_Shrine_(Zoshi-cho,_Nara).jpg",
+        "small_thumbnail": "./small_thumbs/219/Hinode_Shrine_(Zoshi-cho,_Nara).jpg",
+        "mid_thumbnail": "./mid_thumbs/219/Hinode_Shrine_(Zoshi-cho,_Nara).jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.845283,
-          34.690562
+          135.84530550840483,
+          34.690716996975134
         ]
       }
     },
@@ -12515,11 +12515,11 @@
         "description": "三条町 小女郎大神 (移転後)",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kojoro_Taishin_Sanjo_Honmachi_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 518,
@@ -12562,15 +12562,15 @@
             "small_thumbnail": "./small_thumbs/229/Kojoro_Taishin_Sanjo_Honmachi_Nara_2.jpg"
           }
         ],
-        "path": "./images/229/Kojoro_Taishin_(Sanjo-cho,_renew)_Nara_Near.jpg",
-        "small_thumbnail": "./small_thumbs/229/Kojoro_Taishin_(Sanjo-cho,_renew)_Nara_Near.jpg",
-        "mid_thumbnail": "./mid_thumbs/229/Kojoro_Taishin_(Sanjo-cho,_renew)_Nara_Near.jpg"
+        "path": "./images/229/Kojoro_Taishin_(Sanjo-cho,_renew)_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/229/Kojoro_Taishin_(Sanjo-cho,_renew)_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/229/Kojoro_Taishin_(Sanjo-cho,_renew)_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.822065,
-          34.68067
+          135.8220148890275,
+          34.68066476439897
         ]
       }
     },
@@ -13040,11 +13040,11 @@
         "description": "餅飯殿町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Mochiidono_Benzaiten_Shrine_%28Nara%29",
-        "lost": null,
+        "lost": false,
         "refs": [
           {
             "fid": 11,
@@ -13097,8 +13097,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.828894,
-          34.680549
+          135.82871630945354,
+          34.68056613941361
         ]
       }
     },
@@ -13685,11 +13685,11 @@
         "description": "高天町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:RyuCho_Taishin_Shrine_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 577,
@@ -13739,8 +13739,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.825473,
-          34.684867
+          135.8255783192438,
+          34.684850332961744
         ]
       }
     },
@@ -14808,11 +14808,11 @@
         "description": "西之阪町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nishinosaka-cho_Hakuryu_Taishin_Nara.jpg",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 670,
@@ -14832,8 +14832,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.822006,
-          34.683267
+          135.82200403092997,
+          34.68328295099536
         ]
       }
     },

@@ -29,7 +29,7 @@ h1,h2 {
     border-radius: 6px;
     min-width: 400px !important;
     max-width: 600px !important;
-    max-height: 400px;
+    max-height: 300px;
     overflow: auto;
 }
 

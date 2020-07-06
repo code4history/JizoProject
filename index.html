@@ -43,11 +43,20 @@
     icon: (point, latlng) => {
         const props = point.properties;
         let iconUrl = './assets/hotoke.png';
-        if (props.type === '地蔵')　iconUrl = './assets/jizo.png';
-        else if (props.type === '小祠') iconUrl = './assets/jinja.png';
+        let width = 43;
+        let height = 48;
+        if (props.type === '地蔵') {
+            iconUrl = './assets/jizo.png';
+            width = 35;
+        } else if (props.type === '小祠') {
+            iconUrl = './assets/jinja.png';
+            width = 52;
+        }
         return L.marker(latlng, {
             icon: L.icon({
-                iconUrl: iconUrl
+                iconUrl: iconUrl,
+                iconSize: [width, height],
+                iconAnchor: [width / 2, height]
             })
         });
     }
