@@ -2023,6 +2023,9 @@ module.exports = function (WIN, superagent, lodashish, VERSION) {
 
       L.geoJson(geoData, {
         pointToLayer: function ( point, latlng) {
+          if (CFG.icon && typeof CFG.icon === 'function') {
+            return CFG.icon( point, latlng );
+          }
           if (CFG.icon === 'default') {
             return L.marker(latlng);
           }

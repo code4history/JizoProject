@@ -39,7 +39,18 @@
     minZoom: 5,
     maxZoom: 18,
     geoJson: './jizo_project.geojson',
-    checkProperty: 'title'
+    checkProperty: 'title',
+    icon: (point, latlng) => {
+        const props = point.properties;
+        let iconUrl = './assets/hotoke.png';
+        if (props.type === '地蔵')　iconUrl = './assets/jizo.png';
+        else if (props.type === '小祠') iconUrl = './assets/jinja.png';
+        return L.marker(latlng, {
+            icon: L.icon({
+                iconUrl: iconUrl
+            })
+        });
+    }
 } </script>
 
 <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
