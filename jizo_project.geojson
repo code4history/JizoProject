@@ -3049,11 +3049,11 @@
         "description": "芝辻町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Shibatsuji-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 156,
@@ -3096,15 +3096,15 @@
             "small_thumbnail": "./small_thumbs/53/Jizodo_(Shibatsuji-cho,_Nara).jpg"
           }
         ],
-        "path": "./images/53/Jizodo_(Shibatsuji-cho,_Nara)_Headless_Jizo.jpg",
-        "small_thumbnail": "./small_thumbs/53/Jizodo_(Shibatsuji-cho,_Nara)_Headless_Jizo.jpg",
-        "mid_thumbnail": "./mid_thumbs/53/Jizodo_(Shibatsuji-cho,_Nara)_Headless_Jizo.jpg"
+        "path": "./images/53/Jizodo_(Shibatsuji-cho,_Nara).jpg",
+        "small_thumbnail": "./small_thumbs/53/Jizodo_(Shibatsuji-cho,_Nara).jpg",
+        "mid_thumbnail": "./mid_thumbs/53/Jizodo_(Shibatsuji-cho,_Nara).jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.835224,
-          34.689329
+          135.83519612597811,
+          34.68936257960344
         ]
       }
     },
@@ -3727,11 +3727,11 @@
         "description": "法蓮町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_2_%28Horen-cho%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 185,
@@ -3754,15 +3754,15 @@
             "small_thumbnail": "./small_thumbs/64/Jizodo_2_(Horen-cho)_Nara.jpg"
           }
         ],
-        "path": "./images/64/Jizodo_2_(Horen-cho)_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/64/Jizodo_2_(Horen-cho)_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/64/Jizodo_2_(Horen-cho)_Nara_Inside.jpg"
+        "path": "./images/64/Jizodo_2_(Horen-cho)_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/64/Jizodo_2_(Horen-cho)_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/64/Jizodo_2_(Horen-cho)_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.828246,
-          34.689463
+          135.82816205292522,
+          34.6894137130663
         ]
       }
     },
@@ -3911,11 +3911,11 @@
         "description": "法蓮町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_3_%28Horen-cho%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 191,
@@ -3948,15 +3948,15 @@
             "small_thumbnail": "./small_thumbs/67/Jizodo_3_(Horen-cho)_Nara.jpg"
           }
         ],
-        "path": "./images/67/Jizodo_3_(Horen-cho)_Nara_Inside1.jpg",
-        "small_thumbnail": "./small_thumbs/67/Jizodo_3_(Horen-cho)_Nara_Inside1.jpg",
-        "mid_thumbnail": "./mid_thumbs/67/Jizodo_3_(Horen-cho)_Nara_Inside1.jpg"
+        "path": "./images/67/Jizodo_3_(Horen-cho)_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/67/Jizodo_3_(Horen-cho)_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/67/Jizodo_3_(Horen-cho)_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.827301,
-          34.6893
+          135.82732055036035,
+          34.68931266357353
         ]
       }
     },
@@ -4037,11 +4037,11 @@
         "description": "法蓮町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_4_%28Horen-cho%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 196,
@@ -4064,15 +4064,15 @@
             "small_thumbnail": "./small_thumbs/69/Jizodo_4_(Horen-cho)_Nara.jpg"
           }
         ],
-        "path": "./images/69/Jizodo_4_(Horen-cho)_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/69/Jizodo_4_(Horen-cho)_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/69/Jizodo_4_(Horen-cho)_Nara_Inside.jpg"
+        "path": "./images/69/Jizodo_4_(Horen-cho)_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/69/Jizodo_4_(Horen-cho)_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/69/Jizodo_4_(Horen-cho)_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.826026,
-          34.688675
+          135.82591294606996,
+          34.68866902816618
         ]
       }
     },
@@ -5656,11 +5656,11 @@
         "description": "西笹鉾町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Komori_Jizo_%28NishiSasaboko-cho%29_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 266,
@@ -5683,15 +5683,15 @@
             "small_thumbnail": "./small_thumbs/96/Komori_Jizo_(NishiSasaboko-cho)_Nara_Outside.jpg"
           }
         ],
-        "path": "./images/96/Komori_Jizo_(NishiSasaboko-cho)_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/96/Komori_Jizo_(NishiSasaboko-cho)_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/96/Komori_Jizo_(NishiSasaboko-cho)_Nara_Inside.jpg"
+        "path": "./images/96/Komori_Jizo_(NishiSasaboko-cho)_Nara_Outside.jpg",
+        "small_thumbnail": "./small_thumbs/96/Komori_Jizo_(NishiSasaboko-cho)_Nara_Outside.jpg",
+        "mid_thumbnail": "./mid_thumbs/96/Komori_Jizo_(NishiSasaboko-cho)_Nara_Outside.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.830581,
-          34.690464
+          135.83057649899422,
+          34.69041364999158
         ]
       }
     },
@@ -7958,11 +7958,11 @@
         "description": "佐紀町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wayside_Jizo_%28Saki-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 377,
@@ -7995,15 +7995,15 @@
             "small_thumbnail": "./small_thumbs/137/Wayside_Jizo_(Saki-cho,_Nara)_From_Faraway.jpg"
           }
         ],
-        "path": "./images/137/Wayside_Jizo_(Saki-cho,_Nara)_1.jpg",
-        "small_thumbnail": "./small_thumbs/137/Wayside_Jizo_(Saki-cho,_Nara)_1.jpg",
-        "mid_thumbnail": "./mid_thumbs/137/Wayside_Jizo_(Saki-cho,_Nara)_1.jpg"
+        "path": "./images/137/Wayside_Jizo_(Saki-cho,_Nara)_From_Faraway.jpg",
+        "small_thumbnail": "./small_thumbs/137/Wayside_Jizo_(Saki-cho,_Nara)_From_Faraway.jpg",
+        "mid_thumbnail": "./mid_thumbs/137/Wayside_Jizo_(Saki-cho,_Nara)_From_Faraway.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.798192,
-          34.696214
+          135.79819962611538,
+          34.696115169906165
         ]
       }
     },
@@ -8794,11 +8794,11 @@
         "description": "雑司町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizos_Near_House_%28Zoshi-cho,_Nara%29.jpg",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 641,
@@ -8818,8 +8818,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.838014,
-          34.689444
+          135.83797185056764,
+          34.689476209478
         ]
       }
     },
