@@ -4476,11 +4476,11 @@
         "description": "西大寺小坊町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_Saidaiji_Kobo_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 211,
@@ -4503,15 +4503,15 @@
             "small_thumbnail": "./small_thumbs/76/Jizodo_Saidaiji_Kobo_Nara.jpg"
           }
         ],
-        "path": "./images/76/Jizodo_Saidaiji_Kobo_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/76/Jizodo_Saidaiji_Kobo_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/76/Jizodo_Saidaiji_Kobo_Nara_Inside.jpg"
+        "path": "./images/76/Jizodo_Saidaiji_Kobo_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/76/Jizodo_Saidaiji_Kobo_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/76/Jizodo_Saidaiji_Kobo_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.780456,
-          34.695025
+          135.78047769317976,
+          34.69499608399826
         ]
       }
     },
@@ -5800,11 +5800,11 @@
         "description": "西大寺小坊町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Koyasu_Jizo_Saidaiji_Kobo_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 272,
@@ -5827,15 +5827,15 @@
             "small_thumbnail": "./small_thumbs/99/Koyasu_Jizo_Saidaiji_Kobo_Nara.jpg"
           }
         ],
-        "path": "./images/99/Koyasu_Jizo_Saidaiji_Kobo_Nara_Inside.jpg",
-        "small_thumbnail": "./small_thumbs/99/Koyasu_Jizo_Saidaiji_Kobo_Nara_Inside.jpg",
-        "mid_thumbnail": "./mid_thumbs/99/Koyasu_Jizo_Saidaiji_Kobo_Nara_Inside.jpg"
+        "path": "./images/99/Koyasu_Jizo_Saidaiji_Kobo_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/99/Koyasu_Jizo_Saidaiji_Kobo_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/99/Koyasu_Jizo_Saidaiji_Kobo_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.779861,
-          34.695266
+          135.77982985285152,
+          34.69527267612454
         ]
       }
     },
@@ -9440,11 +9440,11 @@
         "description": "西大寺小坊町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Several_Buddhas_Saidaiji_Kobo_Nara_%28Jizo%29.jpg",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 658,
@@ -9464,8 +9464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.779878,
-          34.695228
+          135.77983087226983,
+          34.695243759718245
         ]
       }
     },
@@ -9862,11 +9862,11 @@
         "description": "西大寺南町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Buddhism_stone_Saidaiji_Minami_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 408,
@@ -9899,15 +9899,15 @@
             "small_thumbnail": "./small_thumbs/181/Buddhism_stone_Saidaiji_Minami_Nara.jpg"
           }
         ],
-        "path": "./images/181/Buddhism_stone_Saidaiji_Minami_Nara_(body).jpg",
-        "small_thumbnail": "./small_thumbs/181/Buddhism_stone_Saidaiji_Minami_Nara_(body).jpg",
-        "mid_thumbnail": "./mid_thumbs/181/Buddhism_stone_Saidaiji_Minami_Nara_(body).jpg"
+        "path": "./images/181/Buddhism_stone_Saidaiji_Minami_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/181/Buddhism_stone_Saidaiji_Minami_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/181/Buddhism_stone_Saidaiji_Minami_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.781107,
-          34.693919
+          135.7810888344493,
+          34.693877552775255
         ]
       }
     },
@@ -10445,11 +10445,11 @@
         "description": "西大寺小坊町（三宝大荒神、大聖不動明王、観世音菩薩、地蔵大菩薩）",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Several_Buddhas_Saidaiji_Kobo_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 1,
@@ -10492,15 +10492,15 @@
             "small_thumbnail": "./small_thumbs/191/Several_Buddhas_Saidaiji_Kobo_Nara.jpg"
           }
         ],
-        "path": "./images/191/Several_Buddhas_Saidaiji_Kobo_Nara_(Fudo).jpg",
-        "small_thumbnail": "./small_thumbs/191/Several_Buddhas_Saidaiji_Kobo_Nara_(Fudo).jpg",
-        "mid_thumbnail": "./mid_thumbs/191/Several_Buddhas_Saidaiji_Kobo_Nara_(Fudo).jpg"
+        "path": "./images/191/Several_Buddhas_Saidaiji_Kobo_Nara.jpg",
+        "small_thumbnail": "./small_thumbs/191/Several_Buddhas_Saidaiji_Kobo_Nara.jpg",
+        "mid_thumbnail": "./mid_thumbs/191/Several_Buddhas_Saidaiji_Kobo_Nara.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.779878,
-          34.69522
+          135.77983240139727,
+          34.695215262380415
         ]
       }
     },
@@ -10561,11 +10561,11 @@
         "description": "西大寺小坊町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Shugyo_Daishi_Saidaiji_Kobo_Nara",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 435,
@@ -10585,8 +10585,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.779861,
-          34.695294
+          135.77984616354428,
+          34.69528902017581
         ]
       }
     },
@@ -14558,11 +14558,11 @@
         "description": "佐紀町",
         "wikipedia": null,
         "monumento": null,
-        "brushup": null,
+        "brushup": true,
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wayside_Shrine_%28Saki-cho,_Nara%29",
-        "lost": null,
+        "lost": false,
         "files": [
           {
             "fid": 620,
@@ -14595,15 +14595,15 @@
             "small_thumbnail": "./small_thumbs/262/Wayside_Shrine_(Saki-cho,_Nara).jpg"
           }
         ],
-        "path": "./images/262/Wayside_Shrine_(Saki-cho,_Nara)_From_Faraway.jpg",
-        "small_thumbnail": "./small_thumbs/262/Wayside_Shrine_(Saki-cho,_Nara)_From_Faraway.jpg",
-        "mid_thumbnail": "./mid_thumbs/262/Wayside_Shrine_(Saki-cho,_Nara)_From_Faraway.jpg"
+        "path": "./images/262/Wayside_Shrine_(Saki-cho,_Nara).jpg",
+        "small_thumbnail": "./small_thumbs/262/Wayside_Shrine_(Saki-cho,_Nara).jpg",
+        "mid_thumbnail": "./mid_thumbs/262/Wayside_Shrine_(Saki-cho,_Nara).jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.79249,
-          34.696332
+          135.79260267069665,
+          34.69633893896788
         ]
       }
     },
