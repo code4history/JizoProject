@@ -20,6 +20,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Aburakake_Jizo_%28Furuichi-cho,_Nara%29",
+        "lost": false,
         "address": "古市町",
         "files": [
           {
@@ -127,6 +128,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Araike_Jizo_Nara",
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -164,6 +166,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Enmei_Jizo_%28Kawanoue-cho%29_Nara",
+        "lost": false,
         "address": "川之上町",
         "refs": [
           {
@@ -234,6 +237,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Enmei_Jizo_%28Tsubai-cho%29_Nara",
+        "lost": false,
         "address": "椿井町",
         "files": [
           {
@@ -311,6 +315,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Enmei_Jizo_Nara",
+        "lost": false,
         "address": "角振新屋町",
         "files": [
           {
@@ -358,6 +363,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Enmei_Jizoson_%28ShijoOji-1,_Nara%29",
+        "lost": null,
         "address": "四条大路一丁目",
         "files": [
           {
@@ -405,6 +411,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Fukutoku_Enmei_Jizo_%28Nara%29",
+        "lost": false,
         "address": "今市町",
         "files": [
           {
@@ -472,6 +479,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:HigashiKidera-cho_1_Jizodo_Nara",
+        "lost": null,
         "address": "東紀寺町一丁目",
         "files": [
           {
@@ -519,6 +527,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:HigashiKidera-cho_2_%28East%29_Jizodo_Nara",
+        "lost": null,
         "address": "東紀寺町二丁目",
         "files": [
           {
@@ -556,6 +565,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:HigashiKidera-cho_2_%28South%29_Jizodo_Nara",
+        "lost": null,
         "address": "東紀寺町二丁目",
         "files": [
           {
@@ -603,6 +613,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:HigashiKitsuji-cho_Jizodo_Nara",
+        "lost": false,
         "address": "東木辻町",
         "files": [
           {
@@ -660,6 +671,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:HigashimukiKita-machi_Jizodo_Nara",
+        "lost": false,
         "address": "東向北町",
         "files": [
           {
@@ -717,6 +729,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Hirakinoshiba_Jizo_Nara",
+        "lost": null,
         "address": "芝辻町一丁目",
         "files": [
           {
@@ -764,6 +777,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Horen-cho_Jizodo_Nara",
+        "lost": null,
         "address": "法蓮町",
         "files": [
           {
@@ -811,6 +825,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Horen-cho_Jizos_%28North_of_Fuko-in%29_Nara",
+        "lost": false,
         "address": "法蓮町",
         "files": [
           {
@@ -858,6 +873,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Imaicho_Jizo_Nara",
+        "lost": false,
         "address": "三条町",
         "files": [
           {
@@ -945,6 +961,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Isagawa_Jizo_Nara",
+        "lost": false,
         "address": "登大路町",
         "files": [
           {
@@ -1002,6 +1019,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_%28MinamiKido-cho%29_Nara",
+        "lost": false,
         "address": "南城戸町",
         "files": [
           {
@@ -1069,6 +1087,7 @@
         "need_action": null,
         "note": "野神さんの木の根元",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_%28Shibatsujicho-3%29_Nara",
+        "lost": false,
         "address": "芝辻町三丁目",
         "files": [
           {
@@ -1136,6 +1155,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_in_Daianji4_Nara",
+        "lost": false,
         "address": "大安寺四丁目",
         "files": [
           {
@@ -1183,6 +1203,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_in_Wall_%28Takamikado-cho%29_Nara",
+        "lost": false,
         "address": "鳴川町",
         "files": [
           {
@@ -1270,6 +1291,7 @@
         "need_action": null,
         "note": "元興寺町地蔵尊との記載あり",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_in_Wall_Gangouji-Cho_Nara",
+        "lost": false,
         "address": "元興寺町",
         "files": [
           {
@@ -1337,6 +1359,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Kasugano_Nara",
+        "lost": null,
         "address": "春日野町",
         "files": [
           {
@@ -1384,6 +1407,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Kidera_Nara_1",
+        "lost": false,
         "address": "紀寺町",
         "files": [
           {
@@ -1441,6 +1465,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Kidera_Nara_2",
+        "lost": false,
         "address": "紀寺町",
         "files": [
           {
@@ -1498,6 +1523,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Kidera_Nara_3",
+        "lost": null,
         "address": "紀寺町",
         "files": [
           {
@@ -1545,6 +1571,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Minami-Kidera_3_Nara_1",
+        "lost": null,
         "address": "南紀寺町三丁目",
         "files": [
           {
@@ -1592,6 +1619,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Minami-Kidera_3_Nara_2",
+        "lost": null,
         "address": "南紀寺町三丁目",
         "files": [
           {
@@ -1639,6 +1667,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Minami-Kyobate_Nara",
+        "lost": false,
         "address": "南京終町",
         "files": [
           {
@@ -1696,6 +1725,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Nijo-Oji-Minami_4_Nara",
+        "lost": false,
         "address": "二条大路南四丁目",
         "files": [
           {
@@ -1743,6 +1773,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Nijo-oji-Minami_5_Nara",
+        "lost": false,
         "address": "二条大路南五丁目",
         "files": [
           {
@@ -1800,6 +1831,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Ogawa-cho_Nara",
+        "lost": false,
         "address": "小川町",
         "files": [
           {
@@ -1867,6 +1899,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Omiya_4_Nara",
+        "lost": false,
         "address": "大宮町四丁目",
         "files": [
           {
@@ -1934,6 +1967,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Teramachi_Nara",
+        "lost": null,
         "address": "小川町",
         "files": [
           {
@@ -1981,6 +2015,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Yokoi-2-chome_Nara",
+        "lost": false,
         "address": "横井二丁目",
         "files": [
           {
@@ -2048,6 +2083,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28AmagatsujiKita-machi,_Nara%29",
+        "lost": false,
         "address": "尼辻北町",
         "files": [
           {
@@ -2095,6 +2131,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28AmagatsujiMinami-machi,_Nara%29",
+        "lost": false,
         "address": "尼辻南町",
         "files": [
           {
@@ -2162,6 +2199,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Furuichi-cho_North_Most,_NARA%29",
+        "lost": null,
         "address": "古市町",
         "files": [
           {
@@ -2209,6 +2247,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Furuichi-cho,_Nara%29",
+        "lost": false,
         "address": "古市町",
         "files": [
           {
@@ -2256,6 +2295,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Hachijo_1,_Nara%29",
+        "lost": false,
         "address": "八条一丁目",
         "files": [
           {
@@ -2323,6 +2363,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Hatanaka-cho%29_Nara",
+        "lost": null,
         "address": "畑中町",
         "files": [
           {
@@ -2370,6 +2411,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Horen-cho%29_Nara",
+        "lost": false,
         "address": "法蓮町",
         "refs": [
           {
@@ -2450,6 +2492,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Karamomo-cho,_Nara%29",
+        "lost": false,
         "address": "杏町",
         "files": [
           {
@@ -2517,6 +2560,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Kashiwagi-cho,_Nara%29",
+        "lost": false,
         "address": "柏木町",
         "files": [
           {
@@ -2584,6 +2628,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Kawakamicho,_Hill_Side%29_Nara",
+        "lost": false,
         "address": "川上町",
         "files": [
           {
@@ -2651,6 +2696,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28MinamiKidera5,_Nara%29",
+        "lost": null,
         "address": "南紀寺町五丁目",
         "files": [
           {
@@ -2698,6 +2744,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28MinamiUoya-cho,_Nara%29",
+        "lost": false,
         "address": "南魚屋町",
         "files": [
           {
@@ -2745,6 +2792,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Misasagi-cho,_Nara%29",
+        "lost": false,
         "address": "山陵町",
         "files": [
           {
@@ -2792,6 +2840,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28NishiKistuji-cho,_Nishiki_Ichiba%29_Nara",
+        "lost": null,
         "address": "西木辻町",
         "files": [
           {
@@ -2839,6 +2888,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Omori-cho,_Nara%29",
+        "lost": null,
         "address": "大森町",
         "files": [
           {
@@ -2896,6 +2946,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Saki-cho,_Nara%29",
+        "lost": false,
         "address": "佐紀町",
         "files": [
           {
@@ -2943,6 +2994,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28SanjoKawanishi-cho,_Nara%29",
+        "lost": null,
         "address": "四条大路一丁目",
         "files": [
           {
@@ -3000,6 +3052,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Shibatsuji-cho,_Nara%29",
+        "lost": false,
         "address": "芝辻町",
         "files": [
           {
@@ -3067,6 +3120,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Shibatsuji-cho-2%29_Nara",
+        "lost": null,
         "address": "芝辻町二丁目",
         "files": [
           {
@@ -3114,6 +3168,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28ShimoSanjo-cho,_Nara%29",
+        "lost": null,
         "address": "三条町",
         "files": [
           {
@@ -3181,6 +3236,7 @@
         "need_action": "周辺が一度工事中になっている。要再調査。",
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Shukuin-cho%29_Nara",
+        "lost": false,
         "address": "坊屋敷町",
         "files": [
           {
@@ -3248,6 +3304,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Tamon-cho%29_Nara",
+        "lost": null,
         "address": "多門町",
         "files": [
           {
@@ -3305,6 +3362,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Tegai-cho%29_Nara",
+        "lost": false,
         "address": "雑司町",
         "files": [
           {
@@ -3352,6 +3410,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Tegai-cho,_North_East_Most%29_Nara",
+        "lost": false,
         "address": "手貝町",
         "files": [
           {
@@ -3409,6 +3468,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Tegai-cho,_small%29_Nara",
+        "lost": false,
         "address": "手貝町",
         "files": [
           {
@@ -3456,6 +3516,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Tsubai-cho%29_Nara",
+        "lost": false,
         "address": "椿井町",
         "files": [
           {
@@ -3513,6 +3574,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_1_%28HigashiKujo-cho,_Nara%29",
+        "lost": false,
         "address": "東九条町",
         "files": [
           {
@@ -3600,6 +3662,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_2_%28HigashiKujo-cho,_Nara%29",
+        "lost": false,
         "address": "東九条町",
         "files": [
           {
@@ -3667,6 +3730,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_2_%28Horen-cho%29_Nara",
+        "lost": false,
         "address": "法蓮町",
         "files": [
           {
@@ -3714,6 +3778,7 @@
         "need_action": "",
         "note": "白塗りの地蔵様",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_2_%28Karamomo-cho,_Nara%29",
+        "lost": false,
         "address": "杏町",
         "files": [
           {
@@ -3781,6 +3846,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_3_%28HigashiKujo-cho,_Nara%29",
+        "lost": false,
         "address": "東九条町",
         "files": [
           {
@@ -3848,6 +3914,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_3_%28Horen-cho%29_Nara",
+        "lost": false,
         "address": "法蓮町",
         "files": [
           {
@@ -3905,6 +3972,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_3_%28Karamomo-cho,_Nara%29",
+        "lost": false,
         "address": "杏町",
         "files": [
           {
@@ -3972,6 +4040,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_4_%28Horen-cho%29_Nara",
+        "lost": false,
         "address": "法蓮町",
         "files": [
           {
@@ -4019,6 +4088,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_Daianji4_%28Nara%29",
+        "lost": false,
         "address": "大安寺四丁目",
         "files": [
           {
@@ -4096,6 +4166,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_Daianji4_%28Nara,_On_Stream%29",
+        "lost": false,
         "address": "大安寺四丁目",
         "files": [
           {
@@ -4173,6 +4244,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_in_Emperor_Sudo_Shrine_%28Nara_Kodono%29",
+        "lost": false,
         "address": "神殿町",
         "files": [
           {
@@ -4220,6 +4292,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_in_front_of_Raigo-ji_%28HigashiKujo-cho,_Nara%29",
+        "lost": false,
         "address": "東九条町",
         "files": [
           {
@@ -4287,6 +4360,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_near_Gangouji_Shotoin_Nara",
+        "lost": false,
         "address": "西新屋町",
         "refs": [
           {
@@ -4357,6 +4431,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_near_prefectural_library_%28SanjoKawanishi-cho,_Nara%29",
+        "lost": null,
         "address": "四条大路南町",
         "files": [
           {
@@ -4404,6 +4479,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_Saidaiji_Kobo_Nara",
+        "lost": false,
         "address": "西大寺小坊町",
         "files": [
           {
@@ -4451,6 +4527,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizos_in_Hakayama_Kofun_%28Nara%29",
+        "lost": false,
         "address": "大安寺五丁目",
         "files": [
           {
@@ -4518,6 +4595,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizos_in_Takabatake_%28Obanatani_River%29",
+        "lost": false,
         "address": "高畑町",
         "files": [
           {
@@ -4565,6 +4643,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizos_near_Kofukuji_NoboriOji-cho_Nara",
+        "lost": false,
         "address": "登大路町",
         "files": [
           {
@@ -4632,6 +4711,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizos_near_Yawata_Shrine_Higashikujo_Nara_%28North%29",
+        "lost": null,
         "address": "東九条町",
         "files": [
           {
@@ -4679,6 +4759,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizos_near_Yawata_Shrine_Higashikujo_Nara_%28South%29",
+        "lost": null,
         "address": "東九条町",
         "files": [
           {
@@ -4726,6 +4807,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jufuku_Jizo_Nara",
+        "lost": false,
         "address": "花芝町",
         "files": [
           {
@@ -4783,6 +4865,7 @@
         "need_action": null,
         "note": "Googleなどでは「おかげ灯篭地蔵尊」と記されている、正式名称かは不明。",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kainotsuka-cho_Jizo_%28Near_Big_Stone_Light%29_Nara",
+        "lost": false,
         "address": "肘塚町",
         "files": [
           {
@@ -4860,6 +4943,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kainotsuka-cho_Jizo_%28With_Myogo%29_Nara",
+        "lost": false,
         "address": "肘塚町",
         "files": [
           {
@@ -4907,6 +4991,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kangiji_Jizo_Nara",
+        "lost": false,
         "address": "二条町一丁目",
         "files": [
           {
@@ -4974,6 +5059,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kawakami-cho_Jizodo_%28East_of_Nara_Juvenile_Prison%29",
+        "lost": null,
         "address": "川上町",
         "files": [
           {
@@ -5021,6 +5107,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kawakami-cho_Jizodo_Nara",
+        "lost": null,
         "address": "川上町",
         "files": [
           {
@@ -5068,6 +5155,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kawanaka_Jizo_%28Horen-cho%29_Nara",
+        "lost": null,
         "address": "法蓮町",
         "files": [
           {
@@ -5115,6 +5203,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kawanaka_Jizo_Nara",
+        "lost": false,
         "address": "川久保町",
         "files": [
           {
@@ -5182,6 +5271,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kawarado-cho_Jizodo_Nara",
+        "lost": false,
         "address": "瓦堂町",
         "files": [
           {
@@ -5239,6 +5329,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kidera-cho_Jizodo_%28Near_Kasuga_Driving_School%29",
+        "lost": false,
         "address": "肘塚町",
         "files": [
           {
@@ -5306,6 +5397,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kitamuki_Jizo_%28Horen-cho%29_Nara",
+        "lost": false,
         "address": "法蓮町",
         "files": [
           {
@@ -5403,6 +5495,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kitamuki_Jizo_%28Imazaike-cho%29_Nara",
+        "lost": null,
         "address": "今在家町",
         "files": [
           {
@@ -5460,6 +5553,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kitamuki_Jizo_Nara",
+        "lost": false,
         "address": "西大寺国見町一丁目",
         "files": [
           {
@@ -5507,6 +5601,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kodakara_Jizo_Nara",
+        "lost": null,
         "address": "西木辻町",
         "files": [
           {
@@ -5564,6 +5659,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Komori_Jizo_%28NishiSasaboko-cho%29_Nara",
+        "lost": false,
         "address": "西笹鉾町",
         "files": [
           {
@@ -5611,6 +5707,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Komori_Jizo_%28Takabatake-cho%29_Nara",
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -5658,6 +5755,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Koyasu_Jizo_NishiKitsuji",
+        "lost": null,
         "address": "西木辻町",
         "files": [
           {
@@ -5705,6 +5803,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Koyasu_Jizo_Saidaiji_Kobo_Nara",
+        "lost": false,
         "address": "西大寺小坊町",
         "files": [
           {
@@ -5752,6 +5851,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Manki_Jizo_Nara",
+        "lost": false,
         "address": "般若寺町",
         "files": [
           {
@@ -5809,6 +5909,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:ManNaoshi_Jizo_Nara",
+        "lost": false,
         "address": "杉ヶ町",
         "files": [
           {
@@ -5866,6 +5967,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Mannawoshi_Jizo_%28Zoshi-cho,_Nara%29",
+        "lost": false,
         "address": "雑司町",
         "files": [
           {
@@ -5953,6 +6055,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Meyasu_Jizo_%28ShijoOji-Minami-cho,_Nara%29",
+        "lost": null,
         "address": "四条大路南町",
         "files": [
           {
@@ -6000,6 +6103,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:MinamiKyobate-cho_%28Fukudera%29_Jizo_Nara",
+        "lost": false,
         "address": "南京終町五丁目",
         "files": [
           {
@@ -6037,6 +6141,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:MinamiKyobate-cho_1_Jizodo_Nara",
+        "lost": null,
         "address": "南京終町一丁目",
         "files": [
           {
@@ -6084,6 +6189,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:MinamiKyobate-cho_Jizodo_Nara",
+        "lost": false,
         "address": "南京終町",
         "files": [
           {
@@ -6131,6 +6237,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:MinamiNagai-cho_Jizo_near_Taishi-michi",
+        "lost": false,
         "address": "南永井町",
         "files": [
           {
@@ -6198,6 +6305,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:MinamiShin-machi_Jizodo_Nara",
+        "lost": false,
         "address": "南新町",
         "files": [
           {
@@ -6255,6 +6363,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nakasuji-cho_Jizodo_Nara",
+        "lost": false,
         "address": "中筋町",
         "files": [
           {
@@ -6322,6 +6431,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nara_Ganrin-in_Jizodo",
+        "lost": false,
         "address": "元林院町",
         "files": [
           {
@@ -6389,6 +6499,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nara_Jizo_%28Kidera-cho,_Near_Hoju-ji%29",
+        "lost": false,
         "address": "紀寺町",
         "files": [
           {
@@ -6446,6 +6557,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nara_Kofukuji_South_Jizo",
+        "lost": false,
         "address": "登大路町",
         "files": [
           {
@@ -6493,6 +6605,7 @@
         "need_action": "写真によいものがない。アップデートすべき。",
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nataedaguchi_Jizo_Nara",
+        "lost": false,
         "address": "紀寺町",
         "files": [
           {
@@ -6560,6 +6673,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:NishiKidera-cho_Jizo_%28Nara%29",
+        "lost": false,
         "address": "西紀寺町",
         "files": [
           {
@@ -6607,6 +6721,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_%28Kawaramachi%29_Jizodo_Nara",
+        "lost": null,
         "address": "西木辻町",
         "files": [
           {
@@ -6654,6 +6769,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_%28Watamachi%29_Jizodo_Nara",
+        "lost": false,
         "address": "西木辻町",
         "files": [
           {
@@ -6711,6 +6827,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo_%28Empty%29_Nara",
+        "lost": false,
         "address": "西木辻町",
         "files": [
           {
@@ -6758,6 +6875,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_North%29_Nara",
+        "lost": false,
         "address": "西木辻町",
         "files": [
           {
@@ -6835,6 +6953,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:NishiKitsuji-cho_Jizodo_%28Under_Sakurai_Line_South%29_Nara",
+        "lost": false,
         "address": "西木辻町",
         "files": [
           {
@@ -6932,6 +7051,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nishinosaka-cho_Jizodo_Nara",
+        "lost": false,
         "address": "油阪町",
         "files": [
           {
@@ -6999,6 +7119,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:NishiShinya-cho_Jizodo_Nara",
+        "lost": false,
         "address": "中新屋町",
         "files": [
           {
@@ -7056,6 +7177,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Omori-cho_Jizodo_Nara",
+        "lost": false,
         "address": "大森町",
         "files": [
           {
@@ -7123,6 +7245,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sahogawa_Jizo_Nara",
+        "lost": null,
         "address": "川上町",
         "refs": [
           {
@@ -7194,6 +7317,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sanjo-cho_Jizodo_Nara",
+        "lost": false,
         "address": "三条町",
         "files": [
           {
@@ -7241,6 +7365,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sawara_Jizo_Nara",
+        "lost": false,
         "address": "紀寺町",
         "files": [
           {
@@ -7308,6 +7433,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Shinmei_Jizo_Nara",
+        "lost": false,
         "address": "白毫寺町",
         "files": [
           {
@@ -7345,6 +7471,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Shinroku_Jizo_Nara",
+        "lost": false,
         "address": "高畑町",
         "files": [
           {
@@ -7392,6 +7519,7 @@
         "need_action": "正確な位置は現地再確認必要",
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Small_Jizodo_1_%28Zoshi-cho,_Nara%29",
+        "lost": false,
         "address": "雑司町",
         "files": [
           {
@@ -7439,6 +7567,7 @@
         "need_action": "正確な位置は現地再確認必要",
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Small_Jizodo_2_%28Zoshi-cho,_Nara%29",
+        "lost": false,
         "address": "雑司町",
         "files": [
           {
@@ -7486,6 +7615,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sugiga-cho_Park_Jizodo_%28North%29_Nara",
+        "lost": false,
         "address": "杉ヶ町",
         "files": [
           {
@@ -7533,6 +7663,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sugiga-cho_Park_Jizodo_%28South%29_Nara",
+        "lost": false,
         "address": "杉ヶ町",
         "files": [
           {
@@ -7580,6 +7711,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sukehigiri_Jizo_Saidaiji-Kita_1_Nara",
+        "lost": false,
         "address": "西大寺北町一丁目",
         "files": [
           {
@@ -7637,6 +7769,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Takabatake-cho_%28Fuku-in_north%29_Jizo_Nara",
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -7684,6 +7817,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Takabatake-cho_%28Kakuya-dera_west%29_Jizo_Nara",
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -7731,6 +7865,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Tsubaki_Jizo_Nara",
+        "lost": false,
         "address": "高畑町",
         "files": [
           {
@@ -7788,6 +7923,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Tsumegaki_Jizo_Nara",
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -7825,6 +7961,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wayside_Jizo_%28Saki-cho,_Nara%29",
+        "lost": false,
         "address": "佐紀町",
         "files": [
           {
@@ -7882,6 +8019,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wayside_Jizo_Mitsumune-sho_%28Nara%29",
+        "lost": false,
         "address": "三棟町",
         "files": [
           {
@@ -7939,6 +8077,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wayside_Jizos_%28Zoshi-cho,_Nara%29",
+        "lost": false,
         "address": "雑司町",
         "files": [
           {
@@ -7996,6 +8135,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wooden_Jizo_Daianji5_Nara",
+        "lost": false,
         "address": "大安寺四丁目",
         "files": [
           {
@@ -8063,6 +8203,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Yanagi_Jizo_Nara",
+        "lost": false,
         "address": "高畑町",
         "files": [
           {
@@ -8120,6 +8261,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Yoroi_Jizo_Nara",
+        "lost": null,
         "address": "紀寺町",
         "files": [
           {
@@ -8177,6 +8319,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Yuhi_Jizo_Nara",
+        "lost": null,
         "address": "川上町",
         "files": [
           {
@@ -8214,6 +8357,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Zoshi-cho_Jizo_%28Nara%29",
+        "lost": false,
         "address": "雑司町",
         "files": [
           {
@@ -8261,6 +8405,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:HandaBiraki-cho_Jizos_Nara.jpg",
+        "lost": false,
         "address": "半田開町",
         "files": [
           {
@@ -8298,6 +8443,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizo_%28Kango-cho,_Nara%29.jpg",
+        "lost": false,
         "address": "漢国町",
         "files": [
           {
@@ -8345,6 +8491,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizo_%28NishiKitsuji,_Seiten-mae%29_Nara.jpg",
+        "lost": null,
         "address": "西木辻町",
         "files": [
           {
@@ -8382,6 +8529,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizo_in_NishiShinya-cho_front_of_Koshindo.jpg",
+        "lost": false,
         "address": "西新屋町",
         "files": [
           {
@@ -8429,6 +8577,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizo_Most_North_of_Kidera-cho_Nara.jpg",
+        "lost": false,
         "address": "紀寺町",
         "files": [
           {
@@ -8466,6 +8615,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizo_of_north_of_Nara_Womans_Univ.jpg",
+        "lost": null,
         "address": "北魚屋東町",
         "files": [
           {
@@ -8503,6 +8653,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizodo_Daianji4_Sugiyama_Kofun_Mae.jpg",
+        "lost": false,
         "address": "大安寺四丁目",
         "files": [
           {
@@ -8570,6 +8721,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizodo_Takabatake-cho_%28Godo_Chosha%29_Nara.jpg",
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -8607,6 +8759,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizos_%28Kitaichi-cho,_Nara%29.jpg",
+        "lost": null,
         "address": "北市町",
         "files": [
           {
@@ -8644,6 +8797,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizos_Near_House_%28Zoshi-cho,_Nara%29.jpg",
+        "lost": false,
         "address": "雑司町",
         "files": [
           {
@@ -8681,6 +8835,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Jizos_Near_Small_Bridge_%28Zoshi-cho,_Nara%29.jpg",
+        "lost": false,
         "address": "雑司町",
         "files": [
           {
@@ -8718,6 +8873,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo_%28Block_Wall%29_Nara.jpg",
+        "lost": null,
         "address": "肘塚町",
         "files": [
           {
@@ -8755,6 +8911,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo_%28Kaisho-mae%29_Nara.jpg",
+        "lost": null,
         "address": "肘塚町",
         "files": [
           {
@@ -8792,6 +8949,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Jizo_%28Kaisho-west%29_Nara.jpg",
+        "lost": null,
         "address": "肘塚町",
         "files": [
           {
@@ -8829,6 +8987,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Kawakami-cho_Jizo_%28South_of_Nara_Juvenile_Prison%29.jpg",
+        "lost": null,
         "address": "川上町",
         "files": [
           {
@@ -8866,6 +9025,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:KitaHandaNishi-machi_Jizodo_Nara.jpg",
+        "lost": null,
         "address": "半田横町",
         "files": [
           {
@@ -8903,6 +9063,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji_cho_Jizos_1.jpg",
+        "lost": false,
         "address": "白毫寺町",
         "files": [
           {
@@ -8940,6 +9101,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji_cho_Jizos_2.jpg",
+        "lost": null,
         "address": "白毫寺町",
         "files": [
           {
@@ -8977,6 +9139,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji_cho_Jizos_3.jpg",
+        "lost": null,
         "address": "白毫寺町",
         "files": [
           {
@@ -9014,6 +9177,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji_cho_Notogawa_Jizos_1.jpg",
+        "lost": null,
         "address": "白毫寺町",
         "files": [
           {
@@ -9051,6 +9215,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Byakugoji_cho_Notogawa_Jizos_2.jpg",
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -9088,6 +9253,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Hanazono_cho_Jizos_in_Wall.jpg",
+        "lost": null,
         "address": "花園町",
         "files": [
           {
@@ -9125,6 +9291,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Irie_KyuKyo_Jizo.jpg",
+        "lost": false,
         "address": "水門町",
         "files": [
           {
@@ -9162,6 +9329,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Kidera_Jizo_in_Mansion.jpg",
+        "lost": null,
         "address": "紀寺町",
         "files": [
           {
@@ -9199,6 +9367,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake_Jizo_near_Araike.jpg",
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -9236,6 +9405,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Takabatake_Nokisaki_Jizo.jpg",
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -9273,6 +9443,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Several_Buddhas_Saidaiji_Kobo_Nara_%28Jizo%29.jpg",
+        "lost": false,
         "address": "西大寺小坊町",
         "files": [
           {
@@ -9310,6 +9481,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Shibatsuji-cho_Jizodo_Nara.jpg",
+        "lost": null,
         "address": "芝辻町",
         "files": [
           {
@@ -9347,6 +9519,7 @@
         "need_action": "掘出地蔵が正式名称か要確認",
         "note": "地蔵盆の写真に「掘出地蔵」の名前が見える",
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo_In_Nara_Near_Asuka_JInja.jpg",
+        "lost": false,
         "address": "中辻町",
         "files": [
           {
@@ -9414,6 +9587,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo_In_Nara_Near_Zuto.jpg",
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -9451,6 +9625,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Wayside_Jizo_In_Nara_Sugigamachi.jpg",
+        "lost": null,
         "address": "大森町",
         "files": [
           {
@@ -9488,6 +9663,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Amida_in_Nara_Kyobate_Jizo",
+        "lost": false,
         "address": "北京終町",
         "files": [
           {
@@ -9535,6 +9711,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Asahi_Myoken_%28Kitamukai-cho,_Nara%29",
+        "lost": null,
         "address": "北向町",
         "files": [
           {
@@ -9582,6 +9759,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Bishamondo_%28Hotokuji,_Nara%29",
+        "lost": false,
         "address": "十輪院町",
         "files": [
           {
@@ -9639,6 +9817,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Buddhism_stone_near_Yawata_Shrine_Higashikujo_Nara",
+        "lost": null,
         "address": "東九条町",
         "files": [
           {
@@ -9686,6 +9865,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Buddhism_stone_Saidaiji_Minami_Nara",
+        "lost": false,
         "address": "西大寺芝町一丁目",
         "files": [
           {
@@ -9743,6 +9923,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Daishido_%28AmagatsujiNaka-machi,_Nara%29",
+        "lost": false,
         "address": "尼辻中町",
         "files": [
           {
@@ -9790,6 +9971,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Daishido_%28HigashiKujo-cho,_Nara%29",
+        "lost": false,
         "address": "東九条町",
         "files": [
           {
@@ -9877,6 +10059,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Gorinto-Daianji1-Nara",
+        "lost": false,
         "address": "大安寺一丁目",
         "files": [
           {
@@ -9924,6 +10107,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Incised_Stupa_Kidera",
+        "lost": false,
         "address": "紀寺町",
         "files": [
           {
@@ -9971,6 +10155,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kobo_Well_With_Amida_Nara",
+        "lost": false,
         "address": "二条町一丁目",
         "files": [
           {
@@ -10028,6 +10213,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Koshindo_%28NishiShinya-cho%29_Nara",
+        "lost": null,
         "address": "西新屋町",
         "files": [
           {
@@ -10075,6 +10261,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:MinamiKainotsuka_Small_Temple_%28Nara%29",
+        "lost": null,
         "address": "南肘塚町",
         "files": [
           {
@@ -10122,6 +10309,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Mirokudo_%28Sanjo-cho%29_Nara",
+        "lost": false,
         "address": "三条町",
         "files": [
           {
@@ -10169,6 +10357,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Seiten-do_%28NishiKitsuji-cho%29_Nara",
+        "lost": false,
         "address": "西木辻町",
         "refs": [
           {
@@ -10259,6 +10448,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Several_Buddhas_Saidaiji_Kobo_Nara",
+        "lost": false,
         "address": "西大寺小坊町",
         "files": [
           {
@@ -10326,6 +10516,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Shoho_Rigen_Daishido_%28Nara%29",
+        "lost": false,
         "address": "餅飯殿町",
         "files": [
           {
@@ -10373,6 +10564,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Shugyo_Daishi_Saidaiji_Kobo_Nara",
+        "lost": false,
         "address": "西大寺小坊町",
         "files": [
           {
@@ -10410,6 +10602,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Small_Temple_Daianji1_Nara",
+        "lost": false,
         "address": "大安寺一丁目",
         "files": [
           {
@@ -10467,6 +10660,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Vairocana_Daianji1_Nara",
+        "lost": false,
         "address": "大安寺一丁目",
         "files": [
           {
@@ -10544,6 +10738,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wayside_Amidado_%28Sugigacho,_Nara%29",
+        "lost": null,
         "address": "杉ヶ町",
         "files": [
           {
@@ -10591,6 +10786,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Yakushido,_Tanjo-ji_%28Nara%29",
+        "lost": false,
         "address": "三棟町",
         "files": [
           {
@@ -10658,6 +10854,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Horen-cho_Stone_Amida_in_Fuko-in_Nara.jpg",
+        "lost": null,
         "address": "法蓮町",
         "files": [
           {
@@ -10743,6 +10940,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Kainotsuka-cho_Stoper_Relief_Nara.jpg",
+        "lost": null,
         "address": "肘塚町",
         "files": [
           {
@@ -10780,6 +10978,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Myogo_Stone_%28Kitaichi-cho,_Nara%29.jpg",
+        "lost": null,
         "address": "北市町",
         "files": [
           {
@@ -10817,6 +11016,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Stone_Budda_NW_of_Tokuyu-ji.jpg",
+        "lost": null,
         "address": "鳴川町",
         "files": [
           {
@@ -10854,6 +11054,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nogami_Shrine_Statue_%28Nogami-cho,_NARA%29.jpg",
+        "lost": false,
         "address": "西大寺野神町一丁目",
         "files": [
           {
@@ -10891,6 +11092,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Akachi_Shrine_Nara",
+        "lost": false,
         "address": "白毫寺町",
         "files": [
           {
@@ -10938,6 +11140,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Aoi-Jinja_KitaNagai_Nara",
+        "lost": false,
         "address": "横井二丁目",
         "files": [
           {
@@ -11025,6 +11228,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Benzaiten_%28Kidera-cho%29_Nara",
+        "lost": false,
         "address": "紀寺町",
         "refs": [
           {
@@ -11105,6 +11309,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Benzaiten_%28Suimon-cho,_Nara%29",
+        "lost": null,
         "address": "水門町",
         "files": [
           {
@@ -11142,6 +11347,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Benzaiten_Ogawa-cho_Nara",
+        "lost": null,
         "address": "小川町",
         "files": [
           {
@@ -11189,6 +11395,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Daifuku_Inari_Mochiido-cho_Nara",
+        "lost": false,
         "address": "餅飯殿町",
         "files": [
           {
@@ -11236,6 +11443,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Fuku_Shrine_Nara",
+        "lost": false,
         "address": "南魚屋町",
         "files": [
           {
@@ -11293,6 +11501,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Goryo_Shrine_Daianji1_Nara",
+        "lost": false,
         "address": "大安寺一丁目",
         "files": [
           {
@@ -11340,6 +11549,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Hachioji_Shrine_%28Noincho%29_Nara",
+        "lost": null,
         "address": "納院町",
         "files": [
           {
@@ -11377,6 +11587,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:HachiojiShinomuro_Shrine_Nara",
+        "lost": false,
         "address": "元林院町",
         "files": [
           {
@@ -11434,6 +11645,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Hakusan_Shrine_%28Gangouji-cho%29_Nara",
+        "lost": false,
         "address": "元興寺町",
         "refs": [
           {
@@ -11514,6 +11726,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Hakusan_Shrine_Nara",
+        "lost": false,
         "address": "川之上突抜町",
         "files": [
           {
@@ -11621,6 +11834,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Hayabusa_Shrine_%28TsunofuriShinya-cho,_Nara%29",
+        "lost": false,
         "address": "角振新屋町",
         "files": [
           {
@@ -11678,6 +11892,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Hebizuka_Shrine_%28NishiKujo-cho_2,_Nara%29",
+        "lost": false,
         "address": "西九条町二丁目",
         "files": [
           {
@@ -11725,6 +11940,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Higashimuki_Benzaiten_Nara",
+        "lost": null,
         "address": "東向中町",
         "files": [
           {
@@ -11762,6 +11978,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Hinode_Shrine_%28Zoshi-cho,_Nara%29",
+        "lost": false,
         "address": "川上町",
         "files": [
           {
@@ -11809,6 +12026,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Igami_Shrine_Nara",
+        "lost": false,
         "address": "川之上突抜町",
         "files": [
           {
@@ -11866,6 +12084,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Inari_Shrine_%28HigashiKujo-cho,_Nara%29",
+        "lost": false,
         "address": "東九条町",
         "files": [
           {
@@ -11933,6 +12152,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Itsukushima_Shrine_%28HigashiKujo-cho,_Nara%29",
+        "lost": false,
         "address": "東九条町",
         "files": [
           {
@@ -12000,6 +12220,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Itsukushima-jinja_%28Kitaburo-cho,_Nara%29",
+        "lost": false,
         "address": "北風呂町",
         "files": [
           {
@@ -12067,6 +12288,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kainotsuka-cho_Hachi-o_Small_Shrine_Nara",
+        "lost": null,
         "address": "肘塚町",
         "files": [
           {
@@ -12114,6 +12336,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:KasugaWakamiya_Shrine_%28Nakatsuji-cho%29_Nara",
+        "lost": null,
         "address": "中辻町",
         "files": [
           {
@@ -12151,6 +12374,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Katte_Shrine_%28Aburasaka-cho,_Nara%29",
+        "lost": false,
         "address": "油阪町",
         "files": [
           {
@@ -12198,6 +12422,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kinpachi_Daimyojin_Nara",
+        "lost": false,
         "address": "南城戸町",
         "files": [
           {
@@ -12245,6 +12470,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kitaichi_Ebisu_%28Kitaichi-cho,_Nara%29",
+        "lost": false,
         "address": "北市町",
         "files": [
           {
@@ -12292,6 +12518,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kojoro_Taishin_Sanjo_Honmachi_Nara",
+        "lost": false,
         "address": "三条町",
         "files": [
           {
@@ -12359,6 +12586,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kompira_Daianji1_Nara",
+        "lost": false,
         "address": "大安寺一丁目",
         "files": [
           {
@@ -12416,6 +12644,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Koshinden_Teramachi_Nara",
+        "lost": null,
         "address": "寺町",
         "files": [
           {
@@ -12463,6 +12692,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kotai_Jingu_%28Wakido-cho%29_Nara",
+        "lost": false,
         "address": "脇戸町",
         "refs": [
           {
@@ -12553,6 +12783,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kumataka_Daimyojin_Shrine_%28SanjoHinoki-cho,_Nara%29",
+        "lost": false,
         "address": "三条桧町",
         "files": [
           {
@@ -12600,6 +12831,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Kunugi_Shrine_Nara",
+        "lost": false,
         "address": "肘塚町",
         "files": [
           {
@@ -12647,6 +12879,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Minamiichi_Inari_Nara",
+        "lost": false,
         "address": "南市町",
         "files": [
           {
@@ -12694,6 +12927,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:MinamiShin-machi_Benzaiten_Nara",
+        "lost": false,
         "address": "南新町",
         "files": [
           {
@@ -12751,6 +12985,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Misome_Shrine_Nara",
+        "lost": false,
         "address": "西御門町",
         "files": [
           {
@@ -12808,6 +13043,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Mochiidono_Benzaiten_Shrine_%28Nara%29",
+        "lost": false,
         "address": "餅飯殿町",
         "refs": [
           {
@@ -12878,6 +13114,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Motoiwashimizu_Otabisho_%28HigashiKujo-cho,_Nara%29",
+        "lost": false,
         "address": "東九条町",
         "files": [
           {
@@ -12945,6 +13182,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nakasuji_Shrine_Nara",
+        "lost": false,
         "address": "中筋町",
         "files": [
           {
@@ -13022,6 +13260,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nara_Tsubai_Ichiba_Gosha_Inari",
+        "lost": null,
         "address": "椿井町",
         "files": [
           {
@@ -13069,6 +13308,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nara_Tsubai_Ichina_Rikimatsu_Inari",
+        "lost": false,
         "address": "椿井町",
         "files": [
           {
@@ -13126,6 +13366,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nishiyama-Inari_Shrine_%28Nara%29",
+        "lost": false,
         "address": "南永井町",
         "files": [
           {
@@ -13273,6 +13514,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nogami_Shrine_%28Nogami-cho,_NARA%29",
+        "lost": false,
         "address": "西大寺野神町一丁目",
         "files": [
           {
@@ -13340,6 +13582,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nogami_Tree_Sanjo-Soekawa_Nara",
+        "lost": null,
         "address": "三条添川町",
         "files": [
           {
@@ -13377,6 +13620,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Old_Isagawa-Awa_Shrine_%28NishiJodo-cho,_Nara%29",
+        "lost": false,
         "address": "西城戸町",
         "files": [
           {
@@ -13444,6 +13688,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:RyuCho_Taishin_Shrine_Nara",
+        "lost": false,
         "address": "高天市町",
         "files": [
           {
@@ -13511,6 +13756,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sahogawa_Tenmangu_Nara",
+        "lost": false,
         "address": "西包永町",
         "refs": [
           {
@@ -13571,6 +13817,7 @@
         "need_action": null,
         "note": "境内に末吉大神、蛭子神社あり。",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sanpo_Kojin_Shrine",
+        "lost": false,
         "address": "古市町",
         "files": [
           {
@@ -13668,6 +13915,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Shirachi_Shrine_Nara",
+        "lost": false,
         "address": "春日野町",
         "files": [
           {
@@ -13715,6 +13963,7 @@
         "need_action": "2020年6月現況、見当たらないが草木に隠れているためかは不明。秋などに再調査必要。",
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Small_Shrine_near_Big_Tree_Kainotsuka_Nara",
+        "lost": false,
         "address": "肘塚町",
         "files": [
           {
@@ -13772,6 +14021,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Small_Shrine_near_Yawata_Shrine_Higashikujo_Nara",
+        "lost": null,
         "address": "東九条町",
         "files": [
           {
@@ -13809,6 +14059,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sugiichi_Taishin_Sugiga-cho_Nara",
+        "lost": false,
         "address": "杉ヶ町",
         "files": [
           {
@@ -13876,6 +14127,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Suihaku_Taishin_Nara",
+        "lost": false,
         "address": "中筋町",
         "files": [
           {
@@ -13933,6 +14185,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Suiko_Empress_Shrine",
+        "lost": false,
         "address": "大安寺一丁目",
         "files": [
           {
@@ -13990,6 +14243,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Sumiyoshi_Shrine_%28Imazushi-cho,_Nara%29",
+        "lost": false,
         "address": "今辻子町",
         "files": [
           {
@@ -14037,6 +14291,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Tajikarao-Jinja_%28Nara%29",
+        "lost": null,
         "address": "登大路町",
         "files": [
           {
@@ -14074,6 +14329,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Tamataki_Inari_Nara",
+        "lost": false,
         "address": "西木辻町",
         "files": [
           {
@@ -14131,6 +14387,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Tamatesu_Inari_%28Kawakami-cho%29_Nara",
+        "lost": false,
         "address": "川上町",
         "files": [
           {
@@ -14188,6 +14445,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Tokikaze_Shrine_%28NishiKujo-cho_3,_Nara%29",
+        "lost": false,
         "address": "西九条町三丁目",
         "files": [
           {
@@ -14235,6 +14493,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Tsukihi-iwa",
+        "lost": false,
         "address": "春日野町",
         "files": [
           {
@@ -14302,6 +14561,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wayside_Shrine_%28Saki-cho,_Nara%29",
+        "lost": false,
         "address": "佐紀町",
         "files": [
           {
@@ -14359,6 +14619,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wayside_Shrine_in_Minami-Kidera_3_Nara",
+        "lost": null,
         "address": "南紀寺町三丁目",
         "files": [
           {
@@ -14406,6 +14667,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Wayside_Shrine_Mitsumune-sho_%28Nara%29",
+        "lost": false,
         "address": "三棟町",
         "files": [
           {
@@ -14463,6 +14725,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Yoshimine_Daimyojin_%28MinamiHnadaNaka-machi%29_Nara",
+        "lost": false,
         "address": "南半田中町",
         "files": [
           {
@@ -14510,6 +14773,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nara_Hyoshi_Shrine.jpg",
+        "lost": null,
         "address": "登大路町",
         "files": [
           {
@@ -14547,6 +14811,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Nishinosaka-cho_Hakuryu_Taishin_Nara.jpg",
+        "lost": false,
         "address": "西之阪町",
         "files": [
           {
@@ -14584,6 +14849,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Sahohime_Shrine_Nara.jpg",
+        "lost": null,
         "address": "川上町",
         "files": [
           {
@@ -14621,6 +14887,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Small_Shrines_in_Imaichi_Nara.jpg",
+        "lost": false,
         "address": "今市町",
         "files": [
           {
@@ -14658,6 +14925,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Tsukihi_Jinja_Nara.jpg",
+        "lost": null,
         "address": "下三条町",
         "files": [
           {
@@ -14695,6 +14963,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/File:Wayside_Shrine_In_Nara_NishiKitsuji.jpg",
+        "lost": null,
         "address": "西木辻町",
         "files": [
           {
@@ -14732,6 +15001,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "西城戸町",
         "files": [
           {
@@ -14799,6 +15069,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": null,
         "address": "紀寺町",
         "files": [
           {
@@ -14846,6 +15117,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": null,
         "address": "古市町",
         "files": [
           {
@@ -14893,6 +15165,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "中辻町",
         "files": [
           {
@@ -14950,6 +15223,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "登大路町",
         "files": [
           {
@@ -15007,6 +15281,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "登大路町",
         "files": [
           {
@@ -15054,6 +15329,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": null,
         "address": "高畑町",
         "files": [
           {
@@ -15091,6 +15367,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "東笹鉾町",
         "files": [
           {
@@ -15148,6 +15425,7 @@
         "need_action": "",
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "西九条町",
         "files": [
           {
@@ -15195,6 +15473,7 @@
         "need_action": "",
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "西九条町",
         "files": [
           {
@@ -15262,6 +15541,7 @@
         "need_action": "",
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "西九条町一丁目",
         "files": [
           {
@@ -15319,6 +15599,7 @@
         "need_action": "",
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "杏町",
         "files": [
           {
@@ -15386,6 +15667,7 @@
         "need_action": "",
         "note": null,
         "originalCommons": null,
+        "lost": null,
         "address": "西九条町五丁目",
         "files": [
           {
@@ -15453,6 +15735,7 @@
         "need_action": null,
         "note": "地蔵菩薩と掲げられているが明らかに不動明王。周辺には多くの地蔵。",
         "originalCommons": null,
+        "lost": false,
         "address": "西九条町",
         "files": [
           {
@@ -15540,6 +15823,7 @@
         "need_action": null,
         "note": "大日如来石仏参道の地蔵",
         "originalCommons": null,
+        "lost": null,
         "address": "西九条町一丁目",
         "files": [
           {
@@ -15577,6 +15861,7 @@
         "need_action": null,
         "note": "平成20年命名",
         "originalCommons": null,
+        "lost": false,
         "address": "三条桧町",
         "files": [
           {
@@ -15624,6 +15909,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "南京終町一丁目",
         "files": [
           {
@@ -15691,6 +15977,7 @@
         "need_action": null,
         "note": "祭礼時でなければ近づけない",
         "originalCommons": null,
+        "lost": false,
         "address": "南京終町二丁目",
         "files": [
           {
@@ -15728,6 +16015,7 @@
         "need_action": null,
         "note": "文化二年",
         "originalCommons": null,
+        "lost": false,
         "address": "杏町",
         "files": [
           {
@@ -15775,6 +16063,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "南京終町",
         "files": [
           {
@@ -15822,6 +16111,7 @@
         "need_action": null,
         "note": null,
         "originalCommons": null,
+        "lost": false,
         "address": "三条栄町",
         "files": [
           {
@@ -15909,7 +16199,12 @@
         "need_action": "Google Street Viewで発見。祖先の碑の南西、要調査。",
         "note": null,
         "originalCommons": null,
-        "address": "横井二丁目"
+        "lost": false,
+        "address": "横井二丁目",
+        "files": [],
+        "path": null,
+        "small_thumbnail": null,
+        "mid_thumbnail": null
       },
       "geometry": {
         "type": "Point",
@@ -15931,7 +16226,12 @@
         "need_action": "Google StreetViewで発見。要現地調査。",
         "note": null,
         "originalCommons": null,
-        "address": "山陵町"
+        "lost": false,
+        "address": "山陵町",
+        "files": [],
+        "path": null,
+        "small_thumbnail": null,
+        "mid_thumbnail": null
       },
       "geometry": {
         "type": "Point",

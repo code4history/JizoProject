@@ -9,10 +9,10 @@
 
 <script type="text/html" id="popup-template">
     <div class="poi">
-        <h2><%= title %> (<%= description %>)</h2>
+        <h2><%= title %> (<%= address %>)</h2>
         <a href="<%- path %>" target="_blank"><img class="represent" src="<%- mid_thumbnail %>"></a><br>
+        <% if (description) { %><b>記述：</b> <%= description %><br><% } %>
         <% if (note) { %><b>メモ：</b> <%= note %><br><% } %>
-        <% if (!brushup) { %>位置アップデート必要<br><% } %>
         <% if (lost) { %><b>現況:</b> 現存せず<br><% } %>
         <% if (need_action) { %><b>アクション要:</b> <%= need_action %><br><% } %>
         <% if (files.length > 1) { %>
@@ -37,7 +37,7 @@
     ],
     zoom: 15,
     minZoom: 5,
-    maxZoom: 18,
+    maxZoom: 20,
     geoJson: './jizo_project.geojson',
     checkProperty: 'title',
     icon: (point, latlng) => {
@@ -52,6 +52,10 @@
             iconUrl = './assets/jinja.png';
             width = 52;
         }
+
+        if (props.lost) iconUrl = iconUrl.replace('.png', '_sepia.png');
+        else if (props.need_action) iconUrl = iconUrl.replace('.png', '_surprise.png');
+
         return L.marker(latlng, {
             icon: L.icon({
                 iconUrl: iconUrl,
