@@ -33,7 +33,9 @@ pois.features.map((poi) => {
         poi.properties.small_thumbnail = primary.small_thumbnail;
         poi.properties.mid_thumbnail = primary.mid_thumbnail;
     }
+    if (!poi.properties.lost) delete poi.properties.lost;
     delete poi.properties.primary_image;
+    delete poi.properties.brushup;
 });
 fs.writeJsonSync('../jizo_project.geojson', pois, {
     spaces: '  '
