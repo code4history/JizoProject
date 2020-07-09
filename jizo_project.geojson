@@ -16240,6 +16240,372 @@
           34.699004470011396
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 568,
+        "type": "地蔵",
+        "title": "延命地蔵尊",
+        "description": "雑司町",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "雑司町",
+        "files": [
+          {
+            "fid": 794,
+            "poiid": 568,
+            "description": "雑司町 延命地蔵尊",
+            "path": "./images/568/zoshicho_enmei_jizo.jpg",
+            "date": "2018/09/21 15:25:52",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/568/zoshicho_enmei_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/568/zoshicho_enmei_jizo.jpg"
+          }
+        ],
+        "path": "./images/568/zoshicho_enmei_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/568/zoshicho_enmei_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/568/zoshicho_enmei_jizo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83586048866528,
+          34.69325457587535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 569,
+        "type": "小祠",
+        "title": "上之段八幡神社",
+        "description": "雑司町",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "雑司町",
+        "files": [
+          {
+            "fid": 795,
+            "poiid": 569,
+            "description": "雑司町 上之段八幡神社 本殿",
+            "path": "./images/569/uenodan_hachiman_honden.jpg",
+            "date": "2018/09/21 15:26:58",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/569/uenodan_hachiman_honden.jpg",
+            "small_thumbnail": "./small_thumbs/569/uenodan_hachiman_honden.jpg"
+          },
+          {
+            "fid": 796,
+            "poiid": 569,
+            "description": "雑司町 上之段八幡神社 境内",
+            "path": "./images/569/uenodan_hachiman_keidai.jpg",
+            "date": "2018/09/21 15:27:24",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/569/uenodan_hachiman_keidai.jpg",
+            "small_thumbnail": "./small_thumbs/569/uenodan_hachiman_keidai.jpg"
+          },
+          {
+            "fid": 797,
+            "poiid": 569,
+            "description": "雑司町 上之段八幡神社 鳥居",
+            "path": "./images/569/uenodan_hachiman_torii.jpg",
+            "date": "2018/09/21 15:26:46",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/569/uenodan_hachiman_torii.jpg",
+            "small_thumbnail": "./small_thumbs/569/uenodan_hachiman_torii.jpg"
+          }
+        ],
+        "path": "./images/569/uenodan_hachiman_torii.jpg",
+        "small_thumbnail": "./small_thumbs/569/uenodan_hachiman_torii.jpg",
+        "mid_thumbnail": "./mid_thumbs/569/uenodan_hachiman_torii.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83605765290423,
+          34.6931576857205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 570,
+        "type": "地蔵",
+        "title": "大小の地蔵堂",
+        "description": "雑司町",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "雑司町",
+        "files": [
+          {
+            "fid": 798,
+            "poiid": 570,
+            "description": "雑司町 大小の地蔵堂",
+            "path": "./images/570/zoshicho_daisho_jizodo.jpg",
+            "date": "2018/09/21 16:08:14",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/570/zoshicho_daisho_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/570/zoshicho_daisho_jizodo.jpg"
+          },
+          {
+            "fid": 799,
+            "poiid": 570,
+            "description": "雑司町 大小の地蔵堂 大の内部",
+            "path": "./images/570/zoshicho_daisho_jizodo_inside_big1.jpg",
+            "date": "2018/09/21 16:08:43",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/570/zoshicho_daisho_jizodo_inside_big1.jpg",
+            "small_thumbnail": "./small_thumbs/570/zoshicho_daisho_jizodo_inside_big1.jpg"
+          },
+          {
+            "fid": 800,
+            "poiid": 570,
+            "description": "雑司町 大小の地蔵堂 大の内部",
+            "path": "./images/570/zoshicho_daisho_jizodo_inside_big2.jpg",
+            "date": "2018/09/21 16:08:30",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/570/zoshicho_daisho_jizodo_inside_big2.jpg",
+            "small_thumbnail": "./small_thumbs/570/zoshicho_daisho_jizodo_inside_big2.jpg"
+          },
+          {
+            "fid": 801,
+            "poiid": 570,
+            "description": "雑司町 大小の地蔵堂 小の内部",
+            "path": "./images/570/zoshicho_daisho_jizodo_inside_small.jpg",
+            "date": "2018/09/21 16:08:20",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/570/zoshicho_daisho_jizodo_inside_small.jpg",
+            "small_thumbnail": "./small_thumbs/570/zoshicho_daisho_jizodo_inside_small.jpg"
+          }
+        ],
+        "path": "./images/570/zoshicho_daisho_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/570/zoshicho_daisho_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/570/zoshicho_daisho_jizodo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8368554625522,
+          34.692793327553396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 571,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "雑司町",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "雑司町",
+        "files": [
+          {
+            "fid": 802,
+            "poiid": 571,
+            "description": "雑司町 地蔵堂",
+            "path": "./images/571/zoshicho_jizodo.jpg",
+            "date": "2018/09/21 15:29:16",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/571/zoshicho_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/571/zoshicho_jizodo.jpg"
+          },
+          {
+            "fid": 803,
+            "poiid": 571,
+            "description": "雑司町 地蔵堂 内部",
+            "path": "./images/571/zoshicho_jizodo_inside.jpg",
+            "date": "2018/09/21 15:29:26",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/571/zoshicho_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/571/zoshicho_jizodo_inside.jpg"
+          }
+        ],
+        "path": "./images/571/zoshicho_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/571/zoshicho_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/571/zoshicho_jizodo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8376547976488,
+          34.69325488943553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 572,
+        "type": "小祠",
+        "title": "八坂神社",
+        "description": "雑司町 扁額などはないが近所の方への聞き込みで八坂神社、祇園さんとのこと",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "雑司町",
+        "files": [
+          {
+            "fid": 804,
+            "poiid": 572,
+            "description": "雑司町 八坂神社",
+            "path": "./images/572/zoshicho_yasaka_shrine.jpg",
+            "date": "2018/09/21 15:45:13",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/572/zoshicho_yasaka_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/572/zoshicho_yasaka_shrine.jpg"
+          },
+          {
+            "fid": 805,
+            "poiid": 572,
+            "description": "雑司町 八坂神社 本殿",
+            "path": "./images/572/zoshicho_yasaka_shrine_honden.jpg",
+            "date": "2018/09/21 15:45:40",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/572/zoshicho_yasaka_shrine_honden.jpg",
+            "small_thumbnail": "./small_thumbs/572/zoshicho_yasaka_shrine_honden.jpg"
+          }
+        ],
+        "path": "./images/572/zoshicho_yasaka_shrine.jpg",
+        "small_thumbnail": "./small_thumbs/572/zoshicho_yasaka_shrine.jpg",
+        "mid_thumbnail": "./mid_thumbs/572/zoshicho_yasaka_shrine.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83634291180323,
+          34.69415542939317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 573,
+        "type": "地蔵",
+        "title": "個人宅の地蔵堂？",
+        "description": "雑司町 敷地の奥の方にある地蔵堂、近づけない",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": "Google StreetViewによると2015年まで手前に民家あり、個宅内の地蔵堂であった模様",
+        "originalCommons": null,
+        "lost": false,
+        "address": "雑司町",
+        "files": [
+          {
+            "fid": 806,
+            "poiid": 573,
+            "description": "雑司町 敷地奥の地蔵堂",
+            "path": "./images/573/zoshicho_kotaku_jizo.jpg",
+            "date": "2018/09/21 15:49:25",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/573/zoshicho_kotaku_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/573/zoshicho_kotaku_jizo.jpg"
+          }
+        ],
+        "path": "./images/573/zoshicho_kotaku_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/573/zoshicho_kotaku_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/573/zoshicho_kotaku_jizo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83563662907474,
+          34.69397889674046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 574,
+        "type": "地蔵",
+        "title": "しあわせ地蔵尊",
+        "description": "手貝町",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "手貝町",
+        "files": [
+          {
+            "fid": 807,
+            "poiid": 574,
+            "description": "手貝町 しあわせ地蔵尊",
+            "path": "./images/574/tegaicho_shiawase_jizo.jpg",
+            "date": "2017/06/17 12:31:07",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/574/tegaicho_shiawase_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/574/tegaicho_shiawase_jizo.jpg"
+          },
+          {
+            "fid": 808,
+            "poiid": 574,
+            "description": "手貝町 しあわせ地蔵尊 向かって右の本尊",
+            "path": "./images/574/tegaicho_shiawase_jizo_honzon.jpg",
+            "date": "2017/06/17 12:31:48",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/574/tegaicho_shiawase_jizo_honzon.jpg",
+            "small_thumbnail": "./small_thumbs/574/tegaicho_shiawase_jizo_honzon.jpg"
+          },
+          {
+            "fid": 809,
+            "poiid": 574,
+            "description": "手貝町 しあわせ地蔵尊 本尊近影",
+            "path": "./images/574/tegaicho_shiawase_jizo_inside.jpg",
+            "date": "2017/06/17 12:31:36",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/574/tegaicho_shiawase_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/574/tegaicho_shiawase_jizo_inside.jpg"
+          },
+          {
+            "fid": 810,
+            "poiid": 574,
+            "description": "手貝町 しあわせ地蔵尊 向かって左の地蔵群",
+            "path": "./images/574/tegaicho_shiawase_jizo_waki.jpg",
+            "date": "2017/06/17 12:31:40",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/574/tegaicho_shiawase_jizo_waki.jpg",
+            "small_thumbnail": "./small_thumbs/574/tegaicho_shiawase_jizo_waki.jpg"
+          }
+        ],
+        "path": "./images/574/tegaicho_shiawase_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/574/tegaicho_shiawase_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/574/tegaicho_shiawase_jizo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83514390915832,
+          34.692480705713265
+        ]
+      }
     }
   ]
 }
