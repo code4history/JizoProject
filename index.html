@@ -1,28 +1,32 @@
+<!DOCTYPE html>
 <html lang="ja">
 <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css">
-    <link rel="stylesheet" href="assets/style.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="./assets/L.Control.Locate.min.css" />
+    <link rel="stylesheet" href="./assets/style.css" />
 </head>
 <body>
-<p id="mapid" style="height:100%; width: 100%"></p>
+<div id="mapid"></div>
 
 <script type="text/html" id="popup-template">
     <div class="poi">
         <h2><%= title %> (<%= address %>)</h2>
         <a href="<%- path %>" target="_blank"><img class="represent" src="<%- mid_thumbnail %>"></a><br>
-        <% if (description) { %><b>記述：</b> <%= description %><br><% } %>
-        <% if (note) { %><b>メモ：</b> <%= note %><br><% } %>
+        <% if (description) { %><b>記述:</b> <%= description %><br><% } %>
+        <% if (note) { %><b>メモ:</b> <%= note %><br><% } %>
         <% if (lost) { %><b>現況:</b> 現存せず<br><% } %>
         <% if (need_action) { %><b>アクション要:</b> <%= need_action %><br><% } %>
         <% if (files.length > 1) { %>
-        <b>画像:</b><br>
+        <b>その他の画像:</b><br>
         <div class="parent">
             <% files.map(function(file) { %>
             <% if (file.path != path) { %>
-                <div class="child">
-                    <div><a href="<%- file.path %>" target="_blank"><img src="<%- file.small_thumbnail %>"></a></div>
-                </div>
+            <div class="child">
+                <div><a href="<%- file.path %>" target="_blank"><img src="<%- file.small_thumbnail %>"></a></div>
+            </div>
             <% } %>
             <% }) %>
         </div>
@@ -38,6 +42,7 @@
     zoom: 15,
     minZoom: 5,
     maxZoom: 20,
+    maxNativeZoom: 19,
     geoJson: './jizo_project.geojson',
     checkProperty: 'title',
     icon: (point, latlng) => {
@@ -66,7 +71,8 @@
     }
 } </script>
 
-<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
-<script src="assets/geojson-popup.js"></script>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet-src.js"></script>
+<script src="./assets/L.Control.Locate.js"></script>
+<script src="./assets/geojson-popup.js"></script>
 </body>
 </html>
