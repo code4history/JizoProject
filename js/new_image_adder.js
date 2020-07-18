@@ -77,6 +77,7 @@ const promises = fileNew.map((curr) => {
         new Promise((resolve) => {
             try {
                 fs.statSync(`.${mid_thumb}`);
+                resolve();
             } catch (e) {
                 fs.ensureFileSync(`.${mid_thumb}`);
                 sharp(`.${path}`)
@@ -95,6 +96,7 @@ const promises = fileNew.map((curr) => {
         new Promise((resolve) => {
             try {
                 fs.statSync(`.${small_thumb}`);
+                resolve();
             } catch (e) {
                 fs.ensureFileSync(`.${small_thumb}`);
                 sharp(`.${path}`)

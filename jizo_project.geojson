@@ -7445,6 +7445,26 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/126/Nara_Byakugoji_cho_Shinmei_Jizo.jpg",
             "small_thumbnail": "./small_thumbs/126/Nara_Byakugoji_cho_Shinmei_Jizo.jpg"
+          },
+          {
+            "fid": 812,
+            "poiid": 126,
+            "description": "白毫寺町 神明地蔵そばの陶器の地蔵",
+            "path": "./images/126/byakugojicho_funny_shinmei_jizo.jpg",
+            "date": "2018/09/21 13:42:20",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/126/byakugojicho_funny_shinmei_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/126/byakugojicho_funny_shinmei_jizo.jpg"
+          },
+          {
+            "fid": 813,
+            "poiid": 126,
+            "description": "白毫寺町 神明地蔵",
+            "path": "./images/126/byakugojicho_shinmei_jizo.jpg",
+            "date": "2018/09/21 13:42:07",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/126/byakugojicho_shinmei_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/126/byakugojicho_shinmei_jizo.jpg"
           }
         ],
         "path": "./images/126/Nara_Byakugoji_cho_Shinmei_Jizo.jpg",
@@ -7493,11 +7513,41 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/127/Shinroku_Jizo_Nara.jpg",
             "small_thumbnail": "./small_thumbs/127/Shinroku_Jizo_Nara.jpg"
+          },
+          {
+            "fid": 814,
+            "poiid": 127,
+            "description": "高畑町 親ろく地蔵",
+            "path": "./images/127/shinroku_jizo.jpg",
+            "date": "2018/09/21 13:31:48",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/127/shinroku_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/127/shinroku_jizo.jpg"
+          },
+          {
+            "fid": 815,
+            "poiid": 127,
+            "description": "親ろく地蔵 内部",
+            "path": "./images/127/shinroku_jizo_inside.jpg",
+            "date": "2018/09/21 13:31:57",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/127/shinroku_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/127/shinroku_jizo_inside.jpg"
+          },
+          {
+            "fid": 816,
+            "poiid": 127,
+            "description": "親ろく地蔵 脇の地蔵",
+            "path": "./images/127/shinroku_jizo_side.jpg",
+            "date": "2018/09/21 13:32:03",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/127/shinroku_jizo_side.jpg",
+            "small_thumbnail": "./small_thumbs/127/shinroku_jizo_side.jpg"
           }
         ],
-        "path": "./images/127/Shinroku_Jizo_Nara.jpg",
-        "small_thumbnail": "./small_thumbs/127/Shinroku_Jizo_Nara.jpg",
-        "mid_thumbnail": "./mid_thumbs/127/Shinroku_Jizo_Nara.jpg"
+        "path": "./images/127/shinroku_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/127/shinroku_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/127/shinroku_jizo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -8923,6 +8973,16 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/158/Kainotsuka-cho_Jizo_(Kaisho-mae)_Nara.jpg",
             "small_thumbnail": "./small_thumbs/158/Kainotsuka-cho_Jizo_(Kaisho-mae)_Nara.jpg"
+          },
+          {
+            "fid": 817,
+            "poiid": 158,
+            "description": "肘塚町 会所前の地蔵 地蔵盆",
+            "path": "./images/158/kainotsukacho_jizobon.jpg",
+            "date": "2019/07/23 10:59:53",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/158/kainotsukacho_jizobon.jpg",
+            "small_thumbnail": "./small_thumbs/158/kainotsukacho_jizobon.jpg"
           }
         ],
         "path": "./images/158/Kainotsuka-cho_Jizo_(Kaisho-mae)_Nara.jpg",
@@ -8961,6 +9021,16 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/159/Kainotsuka-cho_Jizo_(Kaisho-west)_Nara.jpg",
             "small_thumbnail": "./small_thumbs/159/Kainotsuka-cho_Jizo_(Kaisho-west)_Nara.jpg"
+          },
+          {
+            "fid": 818,
+            "poiid": 159,
+            "description": "肘塚の地蔵群",
+            "path": "./images/159/kainotsuka_jizogun.jpg",
+            "date": "2019/07/23 10:58:08",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/159/kainotsuka_jizogun.jpg",
+            "small_thumbnail": "./small_thumbs/159/kainotsuka_jizogun.jpg"
           }
         ],
         "path": "./images/159/Kainotsuka-cho_Jizo_(Kaisho-west)_Nara.jpg",
@@ -9075,6 +9145,26 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/162/Nara_Byakugoji_cho_Jizos_1.jpg",
             "small_thumbnail": "./small_thumbs/162/Nara_Byakugoji_cho_Jizos_1.jpg"
+          },
+          {
+            "fid": 819,
+            "poiid": 162,
+            "description": "白毫寺町の地蔵群に混ざった陶器のユーモラスな地蔵",
+            "path": "./images/162/byakugojicho_funny_jizos.jpg",
+            "date": "2018/09/21 13:40:36",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/162/byakugojicho_funny_jizos.jpg",
+            "small_thumbnail": "./small_thumbs/162/byakugojicho_funny_jizos.jpg"
+          },
+          {
+            "fid": 820,
+            "poiid": 162,
+            "description": "白毫寺町の地蔵群",
+            "path": "./images/162/byakugojicho_jizos.jpg",
+            "date": "2018/09/21 13:40:12",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/162/byakugojicho_jizos.jpg",
+            "small_thumbnail": "./small_thumbs/162/byakugojicho_jizos.jpg"
           }
         ],
         "path": "./images/162/Nara_Byakugoji_cho_Jizos_1.jpg",
@@ -11114,11 +11204,21 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/204/Akachi_Shrine_Nara2.jpg",
             "small_thumbnail": "./small_thumbs/204/Akachi_Shrine_Nara2.jpg"
+          },
+          {
+            "fid": 821,
+            "poiid": 204,
+            "description": "新調された赤乳神社",
+            "path": "./images/204/new_akachi_shrine.jpg",
+            "date": "2018/09/21 13:34:52",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/204/new_akachi_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/204/new_akachi_shrine.jpg"
           }
         ],
-        "path": "./images/204/Akachi_Shrine_Nara2.jpg",
-        "small_thumbnail": "./small_thumbs/204/Akachi_Shrine_Nara2.jpg",
-        "mid_thumbnail": "./mid_thumbs/204/Akachi_Shrine_Nara2.jpg"
+        "path": "./images/204/new_akachi_shrine.jpg",
+        "small_thumbnail": "./small_thumbs/204/new_akachi_shrine.jpg",
+        "mid_thumbnail": "./mid_thumbs/204/new_akachi_shrine.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13937,11 +14037,21 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/250/Shirachi_Shrine_Nara2.jpg",
             "small_thumbnail": "./small_thumbs/250/Shirachi_Shrine_Nara2.jpg"
+          },
+          {
+            "fid": 822,
+            "poiid": 250,
+            "description": "新調された白乳神社",
+            "path": "./images/250/new_shirachi_shrine.jpg",
+            "date": "2018/09/21 13:26:29",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/250/new_shirachi_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/250/new_shirachi_shrine.jpg"
           }
         ],
-        "path": "./images/250/Shirachi_Shrine_Nara2.jpg",
-        "small_thumbnail": "./small_thumbs/250/Shirachi_Shrine_Nara2.jpg",
-        "mid_thumbnail": "./mid_thumbs/250/Shirachi_Shrine_Nara2.jpg"
+        "path": "./images/250/new_shirachi_shrine.jpg",
+        "small_thumbnail": "./small_thumbs/250/new_shirachi_shrine.jpg",
+        "mid_thumbnail": "./mid_thumbs/250/new_shirachi_shrine.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -16604,6 +16714,198 @@
         "coordinates": [
           135.83514390915832,
           34.692480705713265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 575,
+        "type": "地蔵",
+        "title": "小さな地蔵堂",
+        "description": "肘塚町 ",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "肘塚町",
+        "files": [
+          {
+            "fid": 811,
+            "poiid": 575,
+            "description": "肘塚町 小さな地蔵堂",
+            "path": "./images/575/small_jizodo.jpg",
+            "date": "2019/07/23 10:32:20",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/575/small_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/575/small_jizodo.jpg"
+          },
+          {
+            "fid": 823,
+            "poiid": 575,
+            "description": null,
+            "path": "./images/575/small_jizodo.jpg",
+            "date": "2019/07/23 10:32:20",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/575/small_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/575/small_jizodo.jpg"
+          }
+        ],
+        "path": "./images/575/small_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/575/small_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/575/small_jizodo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83057357751377,
+          34.67010198777182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 576,
+        "type": "地蔵",
+        "title": "中尾谷地蔵尊",
+        "description": "白毫寺町の地蔵群",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "白毫寺町",
+        "files": [
+          {
+            "fid": 824,
+            "poiid": 576,
+            "description": "中尾谷地蔵尊",
+            "path": "./images/576/nakaotani_jizoson.jpg",
+            "date": "2018/09/21 13:37:58",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/576/nakaotani_jizoson.jpg",
+            "small_thumbnail": "./small_thumbs/576/nakaotani_jizoson.jpg"
+          },
+          {
+            "fid": 825,
+            "poiid": 576,
+            "description": "中尾谷地蔵尊 左半分",
+            "path": "./images/576/nakaotani_jizoson_left.jpg",
+            "date": "2018/09/21 13:38:07",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/576/nakaotani_jizoson_left.jpg",
+            "small_thumbnail": "./small_thumbs/576/nakaotani_jizoson_left.jpg"
+          },
+          {
+            "fid": 826,
+            "poiid": 576,
+            "description": "中尾谷地蔵尊 右半分",
+            "path": "./images/576/nakaotani_jizoson_right.jpg",
+            "date": "2018/09/21 13:38:13",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/576/nakaotani_jizoson_right.jpg",
+            "small_thumbnail": "./small_thumbs/576/nakaotani_jizoson_right.jpg"
+          }
+        ],
+        "path": "./images/576/nakaotani_jizoson.jpg",
+        "small_thumbnail": "./small_thumbs/576/nakaotani_jizoson.jpg",
+        "mid_thumbnail": "./mid_thumbs/576/nakaotani_jizoson.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84900727879847,
+          34.67290193428538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 577,
+        "type": "小祠",
+        "title": "住吉神社",
+        "description": "高畑町の住吉神社",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "高畑町",
+        "files": [
+          {
+            "fid": 827,
+            "poiid": 577,
+            "description": "高畑町 住吉神社",
+            "path": "./images/577/takabatake_sumiyoshi_shrine.jpg",
+            "date": "2018/09/21 13:28:51",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/577/takabatake_sumiyoshi_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/577/takabatake_sumiyoshi_shrine.jpg"
+          },
+          {
+            "fid": 828,
+            "poiid": 577,
+            "description": "高畑町 住吉神社 祀られている石",
+            "path": "./images/577/takabatake_sumiyoshi_stone.jpg",
+            "date": "2018/09/21 13:29:01",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/577/takabatake_sumiyoshi_stone.jpg",
+            "small_thumbnail": "./small_thumbs/577/takabatake_sumiyoshi_stone.jpg"
+          }
+        ],
+        "path": "./images/577/takabatake_sumiyoshi_shrine.jpg",
+        "small_thumbnail": "./small_thumbs/577/takabatake_sumiyoshi_shrine.jpg",
+        "mid_thumbnail": "./mid_thumbs/577/takabatake_sumiyoshi_shrine.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.851567,
+          34.67592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 578,
+        "type": "地蔵",
+        "title": "地蔵",
+        "description": "高畑町 新しめの地蔵",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "高畑町",
+        "files": [
+          {
+            "fid": 829,
+            "poiid": 578,
+            "description": "高畑町 新しめの地蔵",
+            "path": "./images/578/takabatake_jizo.jpg",
+            "date": "2018/09/21 13:20:46",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/578/takabatake_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/578/takabatake_jizo.jpg"
+          }
+        ],
+        "path": "./images/578/takabatake_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/578/takabatake_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/578/takabatake_jizo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84725053914525,
+          34.677231182069605
         ]
       }
     }
