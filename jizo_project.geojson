@@ -3442,6 +3442,46 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/59/Jizodo_(Tegai-cho,_North_East_Most)_Nara.jpg",
             "small_thumbnail": "./small_thumbs/59/Jizodo_(Tegai-cho,_North_East_Most)_Nara.jpg"
+          },
+          {
+            "fid": 841,
+            "poiid": 59,
+            "description": "手貝町地蔵堂",
+            "path": "./images/59/tegaicho_jizodo.jpg",
+            "date": "2018/09/21 15:24:21",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/59/tegaicho_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/59/tegaicho_jizodo.jpg"
+          },
+          {
+            "fid": 842,
+            "poiid": 59,
+            "description": "手貝町地蔵堂 内部中央",
+            "path": "./images/59/tegaicho_jizodo_inside_center.jpg",
+            "date": "2018/09/21 15:24:34",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/59/tegaicho_jizodo_inside_center.jpg",
+            "small_thumbnail": "./small_thumbs/59/tegaicho_jizodo_inside_center.jpg"
+          },
+          {
+            "fid": 843,
+            "poiid": 59,
+            "description": "手貝町地蔵堂 内部向かって左",
+            "path": "./images/59/tegaicho_jizodo_inside_left.jpg",
+            "date": "2018/09/21 15:24:41",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/59/tegaicho_jizodo_inside_left.jpg",
+            "small_thumbnail": "./small_thumbs/59/tegaicho_jizodo_inside_left.jpg"
+          },
+          {
+            "fid": 844,
+            "poiid": 59,
+            "description": "手貝町地蔵堂 内部向かって右",
+            "path": "./images/59/tegaicho_jizodo_inside_right.jpg",
+            "date": "2018/09/21 15:24:37",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/59/tegaicho_jizodo_inside_right.jpg",
+            "small_thumbnail": "./small_thumbs/59/tegaicho_jizodo_inside_right.jpg"
           }
         ],
         "path": "./images/59/Jizodo_(Tegai-cho,_North_East_Most)_Nara.jpg",
@@ -16906,6 +16946,256 @@
         "coordinates": [
           135.84725053914525,
           34.677231182069605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 579,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "押上町会所前の地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "押上町",
+        "files": [
+          {
+            "fid": 830,
+            "poiid": 579,
+            "description": "押上町会所前 地蔵堂",
+            "path": "./images/579/oshiagecho_kaisho_jizodo.jpg",
+            "date": "2017/06/17 12:36:09",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/579/oshiagecho_kaisho_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/579/oshiagecho_kaisho_jizodo.jpg"
+          },
+          {
+            "fid": 831,
+            "poiid": 579,
+            "description": "押上町会所前 地蔵堂 内部",
+            "path": "./images/579/oshiagecho_kaisho_jizodo_inside1.jpg",
+            "date": "2017/06/17 12:36:17",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/579/oshiagecho_kaisho_jizodo_inside1.jpg",
+            "small_thumbnail": "./small_thumbs/579/oshiagecho_kaisho_jizodo_inside1.jpg"
+          },
+          {
+            "fid": 832,
+            "poiid": 579,
+            "description": "押上町会所前 地蔵堂 内部",
+            "path": "./images/579/oshiagecho_kaisho_jizodo_inside2.jpg",
+            "date": "2017/06/17 12:36:26",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/579/oshiagecho_kaisho_jizodo_inside2.jpg",
+            "small_thumbnail": "./small_thumbs/579/oshiagecho_kaisho_jizodo_inside2.jpg"
+          }
+        ],
+        "path": "./images/579/oshiagecho_kaisho_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/579/oshiagecho_kaisho_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/579/oshiagecho_kaisho_jizodo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83477651832573,
+          34.68834853082706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 580,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "北山十八間戸下の地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "東之阪町",
+        "files": [
+          {
+            "fid": 833,
+            "poiid": 580,
+            "description": "北山十八間戸下の地蔵堂",
+            "path": "./images/580/under_kitayama_18_jizo.jpg",
+            "date": "2017/06/17 12:21:59",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/580/under_kitayama_18_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/580/under_kitayama_18_jizo.jpg"
+          },
+          {
+            "fid": 834,
+            "poiid": 580,
+            "description": "北山十八間戸下の地蔵堂 内部",
+            "path": "./images/580/under_kitayama_18_jizo_inside.jpg",
+            "date": "2017/06/17 12:22:06",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/580/under_kitayama_18_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/580/under_kitayama_18_jizo_inside.jpg"
+          }
+        ],
+        "path": "./images/580/under_kitayama_18_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/580/under_kitayama_18_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/580/under_kitayama_18_jizo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.835330642754,
+          34.696368315778805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 581,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "東之阪町 児童遊園南の地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "東之阪町",
+        "files": [
+          {
+            "fid": 835,
+            "poiid": 581,
+            "description": "東之阪町 児童遊園南の地蔵堂",
+            "path": "./images/581/higashinosaka_jido_yuen_south_jizo.jpg",
+            "date": "2017/06/17 11:54:31",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/581/higashinosaka_jido_yuen_south_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/581/higashinosaka_jido_yuen_south_jizo.jpg"
+          },
+          {
+            "fid": 836,
+            "poiid": 581,
+            "description": "東之阪町 児童遊園南の地蔵堂内部",
+            "path": "./images/581/higashinosaka_jido_yuen_south_jizo_inside.jpg",
+            "date": "2017/06/17 11:54:39",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/581/higashinosaka_jido_yuen_south_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/581/higashinosaka_jido_yuen_south_jizo_inside.jpg"
+          }
+        ],
+        "path": "./images/581/higashinosaka_jido_yuen_south_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/581/higashinosaka_jido_yuen_south_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/581/higashinosaka_jido_yuen_south_jizo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83637039445463,
+          34.69591200241732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 582,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "川上町 東之阪町境界の地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "川上町",
+        "files": [
+          {
+            "fid": 837,
+            "poiid": 582,
+            "description": "川上町 東之阪町境界近くの地蔵堂",
+            "path": "./images/582/kawakamicho_jizo_on_border.jpg",
+            "date": "2017/06/17 11:55:57",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/582/kawakamicho_jizo_on_border.jpg",
+            "small_thumbnail": "./small_thumbs/582/kawakamicho_jizo_on_border.jpg"
+          },
+          {
+            "fid": 838,
+            "poiid": 582,
+            "description": "川上町 東之阪町境界近くの地蔵堂内部",
+            "path": "./images/582/kawakamicho_jizo_on_border_inside.jpg",
+            "date": "2017/06/17 11:56:02",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/582/kawakamicho_jizo_on_border_inside.jpg",
+            "small_thumbnail": "./small_thumbs/582/kawakamicho_jizo_on_border_inside.jpg"
+          }
+        ],
+        "path": "./images/582/kawakamicho_jizo_on_border.jpg",
+        "small_thumbnail": "./small_thumbs/582/kawakamicho_jizo_on_border.jpg",
+        "mid_thumbnail": "./mid_thumbs/582/kawakamicho_jizo_on_border.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83678664640232,
+          34.69655603889959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 583,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "川上町 大通り沿いの地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "川上町",
+        "files": [
+          {
+            "fid": 839,
+            "poiid": 583,
+            "description": "川上町 大通り沿いの地蔵",
+            "path": "./images/583/kawakamicho_jizo_on_odori.jpg",
+            "date": "2017/06/17 11:52:42",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/583/kawakamicho_jizo_on_odori.jpg",
+            "small_thumbnail": "./small_thumbs/583/kawakamicho_jizo_on_odori.jpg"
+          },
+          {
+            "fid": 840,
+            "poiid": 583,
+            "description": "川上町 大通り沿いの地蔵内部",
+            "path": "./images/583/kawakamicho_jizo_on_odori_inside.jpg",
+            "date": "2017/06/17 11:52:57",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/583/kawakamicho_jizo_on_odori_inside.jpg",
+            "small_thumbnail": "./small_thumbs/583/kawakamicho_jizo_on_odori_inside.jpg"
+          }
+        ],
+        "path": "./images/583/kawakamicho_jizo_on_odori.jpg",
+        "small_thumbnail": "./small_thumbs/583/kawakamicho_jizo_on_odori.jpg",
+        "mid_thumbnail": "./mid_thumbs/583/kawakamicho_jizo_on_odori.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8365723732478,
+          34.695328610784244
         ]
       }
     }
