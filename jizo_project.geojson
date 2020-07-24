@@ -17198,6 +17198,1172 @@
           34.695328610784244
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 584,
+        "type": "地蔵",
+        "title": "児川地蔵尊",
+        "description": "奈良阪町",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "奈良阪町",
+        "files": [
+          {
+            "fid": 845,
+            "poiid": 584,
+            "description": "児川地蔵尊 奈良阪町",
+            "path": "./images/584/kogawa_jizoson.jpg",
+            "date": "2017/06/17 12:15:32",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/584/kogawa_jizoson.jpg",
+            "small_thumbnail": "./small_thumbs/584/kogawa_jizoson.jpg"
+          },
+          {
+            "fid": 846,
+            "poiid": 584,
+            "description": "児川地蔵尊内部 奈良阪町",
+            "path": "./images/584/kogawa_jizoson_inside.jpg",
+            "date": "2017/06/17 12:15:48",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/584/kogawa_jizoson_inside.jpg",
+            "small_thumbnail": "./small_thumbs/584/kogawa_jizoson_inside.jpg"
+          }
+        ],
+        "path": "./images/584/kogawa_jizoson.jpg",
+        "small_thumbnail": "./small_thumbs/584/kogawa_jizoson.jpg",
+        "mid_thumbnail": "./mid_thumbs/584/kogawa_jizoson.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83519364844219,
+          34.70166627626771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 585,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "奈良阪町",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "奈良阪町",
+        "files": [
+          {
+            "fid": 847,
+            "poiid": 585,
+            "description": "奈良阪町 地蔵堂",
+            "path": "./images/585/jizodo_narasakacho.jpg",
+            "date": "2017/06/17 12:11:42",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/585/jizodo_narasakacho.jpg",
+            "small_thumbnail": "./small_thumbs/585/jizodo_narasakacho.jpg"
+          },
+          {
+            "fid": 848,
+            "poiid": 585,
+            "description": "奈良阪町 地蔵堂 内部向かって左",
+            "path": "./images/585/jizodo_narasakacho_inside_left.jpg",
+            "date": "2017/06/17 12:12:04",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/585/jizodo_narasakacho_inside_left.jpg",
+            "small_thumbnail": "./small_thumbs/585/jizodo_narasakacho_inside_left.jpg"
+          },
+          {
+            "fid": 849,
+            "poiid": 585,
+            "description": "奈良阪町 地蔵堂 内部向かって右手前",
+            "path": "./images/585/jizodo_narasakacho_inside_right1.jpg",
+            "date": "2017/06/17 12:11:54",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/585/jizodo_narasakacho_inside_right1.jpg",
+            "small_thumbnail": "./small_thumbs/585/jizodo_narasakacho_inside_right1.jpg"
+          },
+          {
+            "fid": 850,
+            "poiid": 585,
+            "description": "奈良阪町 地蔵堂 内部向かって右奥",
+            "path": "./images/585/jizodo_narasakacho_inside_right2.jpg",
+            "date": "2017/06/17 12:12:13",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/585/jizodo_narasakacho_inside_right2.jpg",
+            "small_thumbnail": "./small_thumbs/585/jizodo_narasakacho_inside_right2.jpg"
+          }
+        ],
+        "path": "./images/585/jizodo_narasakacho.jpg",
+        "small_thumbnail": "./small_thumbs/585/jizodo_narasakacho.jpg",
+        "mid_thumbnail": "./mid_thumbs/585/jizodo_narasakacho.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83439627129343,
+          34.70239112755573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 586,
+        "type": "地蔵",
+        "title": "立江地蔵尊",
+        "description": "立江墓地の入り口の地蔵尊",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "奈良阪町",
+        "files": [
+          {
+            "fid": 851,
+            "poiid": 586,
+            "description": "奈良阪町 立江地蔵尊",
+            "path": "./images/586/tatsue_jizoson.jpg",
+            "date": "2017/06/17 12:13:34",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/586/tatsue_jizoson.jpg",
+            "small_thumbnail": "./small_thumbs/586/tatsue_jizoson.jpg"
+          },
+          {
+            "fid": 852,
+            "poiid": 586,
+            "description": "奈良阪町 立江地蔵尊 内部",
+            "path": "./images/586/tatsue_jizoson_inside.jpg",
+            "date": "2017/06/17 12:13:46",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/586/tatsue_jizoson_inside.jpg",
+            "small_thumbnail": "./small_thumbs/586/tatsue_jizoson_inside.jpg"
+          },
+          {
+            "fid": 853,
+            "poiid": 586,
+            "description": "奈良阪町 立江地蔵尊 扁額",
+            "path": "./images/586/tatsue_jizoson_sign.jpg",
+            "date": "2017/06/17 12:13:58",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/586/tatsue_jizoson_sign.jpg",
+            "small_thumbnail": "./small_thumbs/586/tatsue_jizoson_sign.jpg"
+          }
+        ],
+        "path": "./images/586/tatsue_jizoson.jpg",
+        "small_thumbnail": "./small_thumbs/586/tatsue_jizoson.jpg",
+        "mid_thumbnail": "./mid_thumbs/586/tatsue_jizoson.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83531307938077,
+          34.70225756479765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 587,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "奈良阪町 立江墓地の入り口",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "奈良阪町",
+        "files": [
+          {
+            "fid": 854,
+            "poiid": 587,
+            "description": "奈良阪町 立江墓地入り口の地蔵堂",
+            "path": "./images/587/narasaka_tatsue_entrance_jizo.jpg",
+            "date": "2017/06/17 12:14:15",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/587/narasaka_tatsue_entrance_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/587/narasaka_tatsue_entrance_jizo.jpg"
+          },
+          {
+            "fid": 855,
+            "poiid": 587,
+            "description": "奈良阪町 立江墓地入り口の地蔵堂内部",
+            "path": "./images/587/narasaka_tatsue_entrance_jizo_inside.jpg",
+            "date": "2017/06/17 12:14:20",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/587/narasaka_tatsue_entrance_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/587/narasaka_tatsue_entrance_jizo_inside.jpg"
+          }
+        ],
+        "path": "./images/587/narasaka_tatsue_entrance_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/587/narasaka_tatsue_entrance_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/587/narasaka_tatsue_entrance_jizo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83537147759705,
+          34.70222110573703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 588,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "奈良阪町 奈良豆比古神社東方の地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "奈良阪町",
+        "files": [
+          {
+            "fid": 856,
+            "poiid": 588,
+            "description": "奈良阪町 奈良豆比古神社東方の地蔵堂",
+            "path": "./images/588/jizo_near_narazuhiko_shrine.jpg",
+            "date": "2017/06/17 12:04:54",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/588/jizo_near_narazuhiko_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/588/jizo_near_narazuhiko_shrine.jpg"
+          },
+          {
+            "fid": 857,
+            "poiid": 588,
+            "description": "奈良阪町 奈良豆比古神社東方の地蔵堂 　地蔵台座",
+            "path": "./images/588/jizo_near_narazuhiko_shrine_basestone.jpg",
+            "date": "2017/06/17 12:05:25",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/588/jizo_near_narazuhiko_shrine_basestone.jpg",
+            "small_thumbnail": "./small_thumbs/588/jizo_near_narazuhiko_shrine_basestone.jpg"
+          },
+          {
+            "fid": 858,
+            "poiid": 588,
+            "description": "奈良阪町 奈良豆比古神社東方の地蔵堂 顔白塗りの地蔵",
+            "path": "./images/588/jizo_near_narazuhiko_shrine_inside.jpg",
+            "date": "2017/06/17 12:05:11",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/588/jizo_near_narazuhiko_shrine_inside.jpg",
+            "small_thumbnail": "./small_thumbs/588/jizo_near_narazuhiko_shrine_inside.jpg"
+          },
+          {
+            "fid": 859,
+            "poiid": 588,
+            "description": "奈良阪町 奈良豆比古神社東方の地蔵堂 二月堂と書かれた石灯籠",
+            "path": "./images/588/jizo_near_narazuhiko_shrine_light.jpg",
+            "date": "2017/06/17 12:04:47",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/588/jizo_near_narazuhiko_shrine_light.jpg",
+            "small_thumbnail": "./small_thumbs/588/jizo_near_narazuhiko_shrine_light.jpg"
+          }
+        ],
+        "path": "./images/588/jizo_near_narazuhiko_shrine.jpg",
+        "small_thumbnail": "./small_thumbs/588/jizo_near_narazuhiko_shrine.jpg",
+        "mid_thumbnail": "./mid_thumbs/588/jizo_near_narazuhiko_shrine.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83473173172385,
+          34.70484395122013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 589,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "黒髪稲荷神社裏の地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "奈良阪町",
+        "files": [
+          {
+            "fid": 860,
+            "poiid": 589,
+            "description": "奈良阪町 黒髪稲荷神社裏の地蔵堂",
+            "path": "./images/589/kurokami_inari_jizo.jpg",
+            "date": "2017/05/03 16:51:14",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/589/kurokami_inari_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/589/kurokami_inari_jizo.jpg"
+          },
+          {
+            "fid": 861,
+            "poiid": 589,
+            "description": "奈良阪町 黒髪稲荷神社裏の地蔵堂内部",
+            "path": "./images/589/kurokami_inari_jizo_inside.jpg",
+            "date": "2017/05/03 16:51:25",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/589/kurokami_inari_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/589/kurokami_inari_jizo_inside.jpg"
+          }
+        ],
+        "path": "./images/589/kurokami_inari_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/589/kurokami_inari_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/589/kurokami_inari_jizo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82566,
+          34.7017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 590,
+        "type": "小祠",
+        "title": "黒住大明神ほか",
+        "description": "黒髪稲荷裏の石塚数基",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "奈良阪町",
+        "files": [
+          {
+            "fid": 862,
+            "poiid": 590,
+            "description": "奈良阪町 豊国大明神",
+            "path": "./images/590/hokoku_1.jpg",
+            "date": "2017/05/03 16:52:00",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/590/hokoku_1.jpg",
+            "small_thumbnail": "./small_thumbs/590/hokoku_1.jpg"
+          },
+          {
+            "fid": 863,
+            "poiid": 590,
+            "description": "奈良阪町 豊国大明神",
+            "path": "./images/590/hokoku_2.jpg",
+            "date": "2017/05/03 16:53:01",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/590/hokoku_2.jpg",
+            "small_thumbnail": "./small_thumbs/590/hokoku_2.jpg"
+          },
+          {
+            "fid": 864,
+            "poiid": 590,
+            "description": "奈良阪町 黒住大明神",
+            "path": "./images/590/kurozumi_daimyojin_1.jpg",
+            "date": "2017/05/03 16:52:18",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/590/kurozumi_daimyojin_1.jpg",
+            "small_thumbnail": "./small_thumbs/590/kurozumi_daimyojin_1.jpg"
+          },
+          {
+            "fid": 865,
+            "poiid": 590,
+            "description": "奈良阪町 黒住大明神",
+            "path": "./images/590/kurozumi_daimyojin_2.jpg",
+            "date": "2017/05/03 16:52:54",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/590/kurozumi_daimyojin_2.jpg",
+            "small_thumbnail": "./small_thumbs/590/kurozumi_daimyojin_2.jpg"
+          },
+          {
+            "fid": 866,
+            "poiid": 590,
+            "description": "奈良阪町 黒住大明神他",
+            "path": "./images/590/kurozumi_daimyojin_etc.jpg",
+            "date": "2017/05/03 16:53:12",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/590/kurozumi_daimyojin_etc.jpg",
+            "small_thumbnail": "./small_thumbs/590/kurozumi_daimyojin_etc.jpg"
+          },
+          {
+            "fid": 867,
+            "poiid": 590,
+            "description": "奈良阪町 石母?",
+            "path": "./images/590/sekimo_1.jpg",
+            "date": "2017/05/03 16:52:08",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/590/sekimo_1.jpg",
+            "small_thumbnail": "./small_thumbs/590/sekimo_1.jpg"
+          },
+          {
+            "fid": 868,
+            "poiid": 590,
+            "description": "奈良阪町 石母?",
+            "path": "./images/590/sekimo_2.jpg",
+            "date": "2017/05/03 16:52:46",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/590/sekimo_2.jpg",
+            "small_thumbnail": "./small_thumbs/590/sekimo_2.jpg"
+          },
+          {
+            "fid": 869,
+            "poiid": 590,
+            "description": "奈良阪町 石を祀った祠",
+            "path": "./images/590/stone_shrine.jpg",
+            "date": "2017/05/03 16:51:37",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/590/stone_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/590/stone_shrine.jpg"
+          }
+        ],
+        "path": "./images/590/kurozumi_daimyojin_etc.jpg",
+        "small_thumbnail": "./small_thumbs/590/kurozumi_daimyojin_etc.jpg",
+        "mid_thumbnail": "./mid_thumbs/590/kurozumi_daimyojin_etc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.825701,
+          34.70172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 591,
+        "type": "小祠",
+        "title": "黒髪山稲荷神社",
+        "description": "奈良阪町 黒髪山稲荷神社と境内の石塚",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "奈良阪町",
+        "files": [
+          {
+            "fid": 870,
+            "poiid": 591,
+            "description": "堀内園造翁",
+            "path": "./images/591/horiuchi_enzo.jpg",
+            "date": "2017/05/03 17:00:17",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/horiuchi_enzo.jpg",
+            "small_thumbnail": "./small_thumbs/591/horiuchi_enzo.jpg"
+          },
+          {
+            "fid": 871,
+            "poiid": 591,
+            "description": "黒髪山稲荷 拝殿",
+            "path": "./images/591/kurokamiyama_inari_haiden.jpg",
+            "date": "2017/05/03 16:55:03",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/kurokamiyama_inari_haiden.jpg",
+            "small_thumbnail": "./small_thumbs/591/kurokamiyama_inari_haiden.jpg"
+          },
+          {
+            "fid": 872,
+            "poiid": 591,
+            "description": "黒髪山稲荷 本殿",
+            "path": "./images/591/kurokamiyama_inari_honden.jpg",
+            "date": "2017/05/03 16:56:02",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/kurokamiyama_inari_honden.jpg",
+            "small_thumbnail": "./small_thumbs/591/kurokamiyama_inari_honden.jpg"
+          },
+          {
+            "fid": 873,
+            "poiid": 591,
+            "description": "黒髪山稲荷 向かって左の狐",
+            "path": "./images/591/kurokamiyama_inari_left_fox.jpg",
+            "date": "2017/05/03 16:56:18",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/kurokamiyama_inari_left_fox.jpg",
+            "small_thumbnail": "./small_thumbs/591/kurokamiyama_inari_left_fox.jpg"
+          },
+          {
+            "fid": 874,
+            "poiid": 591,
+            "description": "黒髪山稲荷 向かって右の狐",
+            "path": "./images/591/kurokamiyama_inari_right_fox.jpg",
+            "date": "2017/05/03 16:56:09",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/kurokamiyama_inari_right_fox.jpg",
+            "small_thumbnail": "./small_thumbs/591/kurokamiyama_inari_right_fox.jpg"
+          },
+          {
+            "fid": 875,
+            "poiid": 591,
+            "description": "黒髪山稲荷 鳥居",
+            "path": "./images/591/kurokamiyama_inari_torii.jpg",
+            "date": "2017/05/03 16:54:22",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/kurokamiyama_inari_torii.jpg",
+            "small_thumbnail": "./small_thumbs/591/kurokamiyama_inari_torii.jpg"
+          },
+          {
+            "fid": 876,
+            "poiid": 591,
+            "description": "黒丸?大明神",
+            "path": "./images/591/kuromaru.jpg",
+            "date": "2017/05/03 17:00:44",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/kuromaru.jpg",
+            "small_thumbnail": "./small_thumbs/591/kuromaru.jpg"
+          },
+          {
+            "fid": 877,
+            "poiid": 591,
+            "description": "黒富大明神",
+            "path": "./images/591/kurotomi.jpg",
+            "date": "2017/05/03 17:01:26",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/kurotomi.jpg",
+            "small_thumbnail": "./small_thumbs/591/kurotomi.jpg"
+          },
+          {
+            "fid": 878,
+            "poiid": 591,
+            "description": "白瀧大神 台座上中央",
+            "path": "./images/591/shirataki_center.jpg",
+            "date": "2017/05/03 16:57:41",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_center.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_center.jpg"
+          },
+          {
+            "fid": 879,
+            "poiid": 591,
+            "description": "白瀧大神 台座上左 朝日大神",
+            "path": "./images/591/shirataki_left2_asahi.jpg",
+            "date": "2017/05/03 16:58:08",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_left2_asahi.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_left2_asahi.jpg"
+          },
+          {
+            "fid": 880,
+            "poiid": 591,
+            "description": "白瀧大神 台座上左 力松大神",
+            "path": "./images/591/shirataki_left_rikimatsu.jpg",
+            "date": "2017/05/03 16:58:21",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_left_rikimatsu.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_left_rikimatsu.jpg"
+          },
+          {
+            "fid": 881,
+            "poiid": 591,
+            "description": "白瀧大神 台座下左 末廣大神",
+            "path": "./images/591/shirataki_mostleft2_suehiro.jpg",
+            "date": "2017/05/03 16:57:08",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_mostleft2_suehiro.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_mostleft2_suehiro.jpg"
+          },
+          {
+            "fid": 882,
+            "poiid": 591,
+            "description": "白瀧大神 台座下左 白吉大明神",
+            "path": "./images/591/shirataki_mostleft_shirayoshi.jpg",
+            "date": "2017/05/03 16:57:13",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_mostleft_shirayoshi.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_mostleft_shirayoshi.jpg"
+          },
+          {
+            "fid": 883,
+            "poiid": 591,
+            "description": "白瀧大神 台座下右 豊丸大神",
+            "path": "./images/591/shirataki_mostright2_toyomaru.jpg",
+            "date": "2017/05/03 16:57:18",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_mostright2_toyomaru.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_mostright2_toyomaru.jpg"
+          },
+          {
+            "fid": 884,
+            "poiid": 591,
+            "description": "白瀧大神 台座下右 豊川大明神",
+            "path": "./images/591/shirataki_mostright_toyokawa.jpg",
+            "date": "2017/05/03 16:57:34",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_mostright_toyokawa.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_mostright_toyokawa.jpg"
+          },
+          {
+            "fid": 885,
+            "poiid": 591,
+            "description": "白瀧大神 台座上右 黒髪大神",
+            "path": "./images/591/shirataki_right2_kurokami.jpg",
+            "date": "2017/05/03 16:58:38",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_right2_kurokami.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_right2_kurokami.jpg"
+          },
+          {
+            "fid": 886,
+            "poiid": 591,
+            "description": "白瀧大神 台座上右 松野大神",
+            "path": "./images/591/shirataki_right3_matsuno.jpg",
+            "date": "2017/05/03 16:58:06",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_right3_matsuno.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_right3_matsuno.jpg"
+          },
+          {
+            "fid": 887,
+            "poiid": 591,
+            "description": "白瀧大神 台座上右 藤高大神",
+            "path": "./images/591/shirataki_right_fujitaka.jpg",
+            "date": "2017/05/03 16:57:48",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_right_fujitaka.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_right_fujitaka.jpg"
+          },
+          {
+            "fid": 888,
+            "poiid": 591,
+            "description": "白瀧大神 石塚群 鳥居",
+            "path": "./images/591/shirataki_torii.jpg",
+            "date": "2017/05/03 16:56:32",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shirataki_torii.jpg",
+            "small_thumbnail": "./small_thumbs/591/shirataki_torii.jpg"
+          },
+          {
+            "fid": 889,
+            "poiid": 591,
+            "description": "白瀧大神 白瀧講台座",
+            "path": "./images/591/shiratakiko_basement.jpg",
+            "date": "2017/05/03 16:58:00",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shiratakiko_basement.jpg",
+            "small_thumbnail": "./small_thumbs/591/shiratakiko_basement.jpg"
+          },
+          {
+            "fid": 890,
+            "poiid": 591,
+            "description": "白瀧大神 石塚群 全貌",
+            "path": "./images/591/shiratakis_1.jpg",
+            "date": "2017/05/03 16:59:30",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shiratakis_1.jpg",
+            "small_thumbnail": "./small_thumbs/591/shiratakis_1.jpg"
+          },
+          {
+            "fid": 891,
+            "poiid": 591,
+            "description": "白瀧大神 石塚群 全貌",
+            "path": "./images/591/shiratakis_2.jpg",
+            "date": "2017/05/03 16:56:57",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/shiratakis_2.jpg",
+            "small_thumbnail": "./small_thumbs/591/shiratakis_2.jpg"
+          },
+          {
+            "fid": 892,
+            "poiid": 591,
+            "description": "僧名蓮正?霊神",
+            "path": "./images/591/somei_renjo.jpg",
+            "date": "2017/05/03 17:02:23",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/somei_renjo.jpg",
+            "small_thumbnail": "./small_thumbs/591/somei_renjo.jpg"
+          },
+          {
+            "fid": 893,
+            "poiid": 591,
+            "description": "高松大神",
+            "path": "./images/591/takamatsu.jpg",
+            "date": "2017/05/03 17:01:17",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/takamatsu.jpg",
+            "small_thumbnail": "./small_thumbs/591/takamatsu.jpg"
+          },
+          {
+            "fid": 894,
+            "poiid": 591,
+            "description": "天一大神",
+            "path": "./images/591/tenichi.jpg",
+            "date": "2017/05/03 17:00:09",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/tenichi.jpg",
+            "small_thumbnail": "./small_thumbs/591/tenichi.jpg"
+          },
+          {
+            "fid": 895,
+            "poiid": 591,
+            "description": "吉高大明神 尺用?大明神",
+            "path": "./images/591/yoshitaka_daimyojin.jpg",
+            "date": "2017/05/03 17:00:27",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/yoshitaka_daimyojin.jpg",
+            "small_thumbnail": "./small_thumbs/591/yoshitaka_daimyojin.jpg"
+          },
+          {
+            "fid": 896,
+            "poiid": 591,
+            "description": "吉高大明神 尺用?大明神",
+            "path": "./images/591/yoshitaka_daimyojin2.jpg",
+            "date": "2017/05/03 17:01:55",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/yoshitaka_daimyojin2.jpg",
+            "small_thumbnail": "./small_thumbs/591/yoshitaka_daimyojin2.jpg"
+          },
+          {
+            "fid": 897,
+            "poiid": 591,
+            "description": "吉高大明神 尺用?大明神",
+            "path": "./images/591/yoshitaka_daimyojin3.jpg",
+            "date": "2017/05/03 17:00:35",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/591/yoshitaka_daimyojin3.jpg",
+            "small_thumbnail": "./small_thumbs/591/yoshitaka_daimyojin3.jpg"
+          }
+        ],
+        "path": "./images/591/kurokamiyama_inari_torii.jpg",
+        "small_thumbnail": "./small_thumbs/591/kurokamiyama_inari_torii.jpg",
+        "mid_thumbnail": "./mid_thumbs/591/kurokamiyama_inari_torii.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.825772,
+          34.701773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 592,
+        "type": "地蔵",
+        "title": "地蔵群",
+        "description": "彩色された地蔵群",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "法蓮佐保山１丁目",
+        "files": [
+          {
+            "fid": 898,
+            "poiid": 592,
+            "description": "法蓮佐保山 彩色地蔵群",
+            "path": "./images/592/horen_sahoyama_colored_jizos.jpg",
+            "date": "2017/05/03 16:44:25",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/592/horen_sahoyama_colored_jizos.jpg",
+            "small_thumbnail": "./small_thumbs/592/horen_sahoyama_colored_jizos.jpg"
+          },
+          {
+            "fid": 899,
+            "poiid": 592,
+            "description": "法蓮佐保山 彩色地蔵群にかぶせられた屋根",
+            "path": "./images/592/horen_sahoyama_colored_jizos_roof.jpg",
+            "date": "2017/05/03 16:44:08",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/592/horen_sahoyama_colored_jizos_roof.jpg",
+            "small_thumbnail": "./small_thumbs/592/horen_sahoyama_colored_jizos_roof.jpg"
+          }
+        ],
+        "path": "./images/592/horen_sahoyama_colored_jizos.jpg",
+        "small_thumbnail": "./small_thumbs/592/horen_sahoyama_colored_jizos.jpg",
+        "mid_thumbnail": "./mid_thumbs/592/horen_sahoyama_colored_jizos.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82477768989452,
+          34.697402592682884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 593,
+        "type": "石仏等",
+        "title": "浮彫五輪塔",
+        "description": "藤原不比等公碑裏にある浮彫五輪塔",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "法蓮佐保山４丁目",
+        "files": [
+          {
+            "fid": 900,
+            "poiid": 593,
+            "description": "藤原不比等公碑裏にある浮彫五輪塔",
+            "path": "./images/593/horen_sahoyama_relief_gorinto_fuhito.jpg",
+            "date": "2017/12/22 15:20:09",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/593/horen_sahoyama_relief_gorinto_fuhito.jpg",
+            "small_thumbnail": "./small_thumbs/593/horen_sahoyama_relief_gorinto_fuhito.jpg"
+          }
+        ],
+        "path": "./images/593/horen_sahoyama_relief_gorinto_fuhito.jpg",
+        "small_thumbnail": "./small_thumbs/593/horen_sahoyama_relief_gorinto_fuhito.jpg",
+        "mid_thumbnail": "./mid_thumbs/593/horen_sahoyama_relief_gorinto_fuhito.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8269344721383,
+          34.69422860312026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 594,
+        "type": "石仏等",
+        "title": "浮彫五輪塔",
+        "description": "法蓮町 浮彫五輪塔",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "法蓮町",
+        "files": [
+          {
+            "fid": 901,
+            "poiid": 594,
+            "description": "法蓮町 浮彫五輪塔",
+            "path": "./images/594/horencho_relief_gorinto.jpg",
+            "date": "2019/11/22 09:54:37",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/594/horencho_relief_gorinto.jpg",
+            "small_thumbnail": "./small_thumbs/594/horencho_relief_gorinto.jpg"
+          }
+        ],
+        "path": "./images/594/horencho_relief_gorinto.jpg",
+        "small_thumbnail": "./small_thumbs/594/horencho_relief_gorinto.jpg",
+        "mid_thumbnail": "./mid_thumbs/594/horencho_relief_gorinto.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82509383061432,
+          34.693460358050025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 595,
+        "type": "小祠",
+        "title": "睡神社",
+        "description": "春日野町 睡神社",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "春日野町",
+        "files": [
+          {
+            "fid": 902,
+            "poiid": 595,
+            "description": "春日野町 睡神社 本殿",
+            "path": "./images/595/nemuri_shrine_honden.jpg",
+            "date": "2020/02/21 17:41:03",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/595/nemuri_shrine_honden.jpg",
+            "small_thumbnail": "./small_thumbs/595/nemuri_shrine_honden.jpg"
+          },
+          {
+            "fid": 903,
+            "poiid": 595,
+            "description": "春日野町 睡神社 境内",
+            "path": "./images/595/nemuri_shrine_keidai.jpg",
+            "date": "2020/02/21 17:39:22",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/595/nemuri_shrine_keidai.jpg",
+            "small_thumbnail": "./small_thumbs/595/nemuri_shrine_keidai.jpg"
+          },
+          {
+            "fid": 904,
+            "poiid": 595,
+            "description": "春日野町 睡神社 鳥居",
+            "path": "./images/595/nemuri_shrine_torii.jpg",
+            "date": "2020/02/21 17:38:59",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/595/nemuri_shrine_torii.jpg",
+            "small_thumbnail": "./small_thumbs/595/nemuri_shrine_torii.jpg"
+          }
+        ],
+        "path": "./images/595/nemuri_shrine_torii.jpg",
+        "small_thumbnail": "./small_thumbs/595/nemuri_shrine_torii.jpg",
+        "mid_thumbnail": "./mid_thumbs/595/nemuri_shrine_torii.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84080251171255,
+          34.685009191644774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 596,
+        "type": "地蔵",
+        "title": "地蔵群",
+        "description": "春日野町 睡神社境内の地蔵",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "春日野町",
+        "files": [
+          {
+            "fid": 905,
+            "poiid": 596,
+            "description": "春日野町 睡神社境内の地蔵",
+            "path": "./images/596/jizos_in_nemuri_shirine1.jpg",
+            "date": "2020/02/21 17:40:55",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/596/jizos_in_nemuri_shirine1.jpg",
+            "small_thumbnail": "./small_thumbs/596/jizos_in_nemuri_shirine1.jpg"
+          },
+          {
+            "fid": 906,
+            "poiid": 596,
+            "description": "春日野町 睡神社境内の地蔵",
+            "path": "./images/596/jizos_in_nemuri_shirine2.jpg",
+            "date": "2020/02/21 17:40:01",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/596/jizos_in_nemuri_shirine2.jpg",
+            "small_thumbnail": "./small_thumbs/596/jizos_in_nemuri_shirine2.jpg"
+          },
+          {
+            "fid": 907,
+            "poiid": 596,
+            "description": "春日野町 睡神社境内の地蔵",
+            "path": "./images/596/jizos_in_nemuri_shirine3.jpg",
+            "date": "2020/02/21 17:40:51",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/596/jizos_in_nemuri_shirine3.jpg",
+            "small_thumbnail": "./small_thumbs/596/jizos_in_nemuri_shirine3.jpg"
+          },
+          {
+            "fid": 908,
+            "poiid": 596,
+            "description": "春日野町 睡神社境内の地蔵",
+            "path": "./images/596/jizos_in_nemuri_shirine4.jpg",
+            "date": "2020/02/21 17:40:48",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/596/jizos_in_nemuri_shirine4.jpg",
+            "small_thumbnail": "./small_thumbs/596/jizos_in_nemuri_shirine4.jpg"
+          }
+        ],
+        "path": "./images/596/jizos_in_nemuri_shirine1.jpg",
+        "small_thumbnail": "./small_thumbs/596/jizos_in_nemuri_shirine1.jpg",
+        "mid_thumbnail": "./mid_thumbs/596/jizos_in_nemuri_shirine1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84075333426728,
+          34.68496586491881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 597,
+        "type": "小祠",
+        "title": "浮雲神社",
+        "description": "春日野町 浮雲神社",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "春日野町",
+        "files": [
+          {
+            "fid": 909,
+            "poiid": 597,
+            "description": "春日野町 浮雲神社",
+            "path": "./images/597/ukigumo_shrine.jpg",
+            "date": "2020/02/21 17:49:43",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/597/ukigumo_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/597/ukigumo_shrine.jpg"
+          },
+          {
+            "fid": 910,
+            "poiid": 597,
+            "description": "春日野町 浮雲神社 鳥居",
+            "path": "./images/597/ukigumo_shrine_torii.jpg",
+            "date": "2020/02/21 17:49:37",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/597/ukigumo_shrine_torii.jpg",
+            "small_thumbnail": "./small_thumbs/597/ukigumo_shrine_torii.jpg"
+          }
+        ],
+        "path": "./images/597/ukigumo_shrine_torii.jpg",
+        "small_thumbnail": "./small_thumbs/597/ukigumo_shrine_torii.jpg",
+        "mid_thumbnail": "./mid_thumbs/597/ukigumo_shrine_torii.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8447648087338,
+          34.68308546316618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 598,
+        "type": "小祠",
+        "title": "天神社",
+        "description": "春日野町 天神社",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "春日野町",
+        "files": [
+          {
+            "fid": 911,
+            "poiid": 598,
+            "description": "春日野町 天神社",
+            "path": "./images/598/kasugano_tenjin.jpg",
+            "date": "2020/02/21 17:50:58",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/598/kasugano_tenjin.jpg",
+            "small_thumbnail": "./small_thumbs/598/kasugano_tenjin.jpg"
+          }
+        ],
+        "path": "./images/598/kasugano_tenjin.jpg",
+        "small_thumbnail": "./small_thumbs/598/kasugano_tenjin.jpg",
+        "mid_thumbnail": "./mid_thumbs/598/kasugano_tenjin.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.844929904443,
+          34.683642944637235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 599,
+        "type": "小祠",
+        "title": "聖明神社",
+        "description": "春日野町 聖明神社",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "春日野町",
+        "files": [
+          {
+            "fid": 912,
+            "poiid": 599,
+            "description": "春日野町 聖明神社",
+            "path": "./images/599/kasugano_seimei_shrine.jpg",
+            "date": "2020/02/21 17:52:12",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/599/kasugano_seimei_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/599/kasugano_seimei_shrine.jpg"
+          }
+        ],
+        "path": "./images/599/kasugano_seimei_shrine.jpg",
+        "small_thumbnail": "./small_thumbs/599/kasugano_seimei_shrine.jpg",
+        "mid_thumbnail": "./mid_thumbs/599/kasugano_seimei_shrine.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.845727,
+          34.683508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 600,
+        "type": "小祠",
+        "title": "愛宕神社",
+        "description": "春日野町 愛宕神社",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "春日野町",
+        "files": [
+          {
+            "fid": 913,
+            "poiid": 600,
+            "description": "春日野町 愛宕神社",
+            "path": "./images/600/kasugano_atago_shrine.jpg",
+            "date": "2020/02/21 17:51:54",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/600/kasugano_atago_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/600/kasugano_atago_shrine.jpg"
+          }
+        ],
+        "path": "./images/600/kasugano_atago_shrine.jpg",
+        "small_thumbnail": "./small_thumbs/600/kasugano_atago_shrine.jpg",
+        "mid_thumbnail": "./mid_thumbs/600/kasugano_atago_shrine.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84570269286914,
+          34.683541847239766
+        ]
+      }
     }
   ]
 }
