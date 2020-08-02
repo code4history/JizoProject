@@ -6,7 +6,7 @@ feedback.*
 login.json
 escape
 .idea
-pois*.geojson
-refs*.geojson
-files*.geojson
+pois_*.geojson
+refs_*.geojson
+files_*.geojson
 images/*/description.json

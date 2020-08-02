@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "refs",
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "poiid": 248, "type": "web", "title": "佐保川天満宮　佐保川地蔵尊", "editor": null, "publisher": "ならリビング.com", "published": null, "page": null, "url": "http:\/\/www.naraliving.com\/sneaker\/nara_01.html" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 2, "poiid": 123, "type": "book", "title": "奈良市史: 社寺編", "editor": "奈良市史編集審議会", "publisher": "吉川弘文館", "published": "1985", "page": "51", "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 3, "poiid": 123, "type": "web", "title": "佐保川天満宮　佐保川地蔵尊", "editor": null, "publisher": "ならリビング.com", "published": null, "page": null, "url": "http:\/\/www.naraliving.com\/sneaker\/nara_01.html" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 4, "poiid": 3, "type": "book", "title": "奈良市史: 社寺編", "editor": "奈良市史編集審議会", "publisher": "吉川弘文館", "published": "1985", "page": "119", "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 5, "poiid": 42, "type": "web", "title": "佐保と戦争 -奈良市法蓮町の空襲-", "editor": null, "publisher": "奈良市佐保小学校", "published": null, "page": null, "url": "http:\/\/www.naracity.ed.jp\/ele01\/index.cfm\/68,12731,c,html\/12731\/20140530-150823.pdf" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 6, "poiid": 74, "type": "book", "title": "奈良市史: 社寺編", "editor": "奈良市史編集審議会", "publisher": "吉川弘文館", "published": "1985", "page": "160", "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 7, "poiid": 190, "type": "book", "title": "奈良市史: 社寺編", "editor": "奈良市史編集審議会", "publisher": "吉川弘文館", "published": "1985", "page": "165", "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 8, "poiid": 206, "type": "book", "title": "奈良市史: 社寺編", "editor": "奈良市史編集審議会", "publisher": "吉川弘文館", "published": "1985", "page": "88", "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 9, "poiid": 214, "type": "book", "title": "奈良市史: 社寺編", "editor": "奈良市史編集審議会", "publisher": "吉川弘文館", "published": "1985", "page": "146", "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 10, "poiid": 232, "type": "book", "title": "奈良市史: 社寺編", "editor": "奈良市史編集審議会", "publisher": "吉川弘文館", "published": "1985", "page": "145", "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 11, "poiid": 238, "type": "book", "title": "奈良市史: 社寺編", "editor": "奈良市史編集審議会", "publisher": "吉川弘文館", "published": "1985", "page": "184", "url": null }, "geometry": null }
+]
+}
