@@ -19604,6 +19604,168 @@
           34.67050039755208
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 617,
+        "type": "地蔵",
+        "title": "蛭池地蔵尊",
+        "description": "押熊町 蛭池地蔵尊",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": "ブログ記事で発見。要現地調査。",
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "押熊町",
+        "files": [],
+        "path": null,
+        "small_thumbnail": null,
+        "mid_thumbnail": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76817502240894,
+          34.716933105795825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 618,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "東九条町 地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": "Google StreetViewで発見。要現地調査。",
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "東九条町",
+        "files": [],
+        "path": null,
+        "small_thumbnail": null,
+        "mid_thumbnail": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.81930736232255,
+          34.66245802630265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 619,
+        "type": "地蔵",
+        "title": "地蔵群",
+        "description": "八島町 大通り脇の地蔵群",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": "Google StreetViewで発見。要現地調査。",
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "八島町",
+        "files": [],
+        "path": null,
+        "small_thumbnail": null,
+        "mid_thumbnail": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83979031981843,
+          34.645010887005704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 620,
+        "type": "石仏等",
+        "title": "薬師瑠璃光如来 石仏",
+        "description": "白毫寺町 薬師瑠璃光如来",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": "以前一度伺ったが、記録がないため要再調査。",
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "白毫寺町",
+        "files": [],
+        "path": null,
+        "small_thumbnail": null,
+        "mid_thumbnail": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8495752663763,
+          34.67084480686879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 621,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "南永井町 池の土手下の地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": "Google StreetViewで発見。要現地調査。",
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "南永井町",
+        "files": [],
+        "path": null,
+        "small_thumbnail": null,
+        "mid_thumbnail": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8275737128649,
+          34.6491563950206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 622,
+        "type": "小祠",
+        "title": "豊川大神",
+        "description": "今市町",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": "Google StreetViewで発見。要現地調査。",
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "今市町",
+        "files": [],
+        "path": null,
+        "small_thumbnail": null,
+        "mid_thumbnail": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82167547878046,
+          34.64569723436718
+        ]
+      }
     }
   ]
 }
