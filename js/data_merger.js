@@ -5,11 +5,24 @@ const files = fs.readJsonSync('../files.geojson');
 const refs = fs.readJsonSync('../refs.geojson');
 
 const refsBuffer = {};
+const refDefaultBuffer = {};
 refs.features.map((curr) => {
-    if (!refsBuffer[curr.properties.poiid]) {
-        refsBuffer[curr.properties.poiid] = [];
+    let ref = curr.properties;
+    if (refDefaultBuffer[ref.title]) {
+        const refDefault = refDefaultBuffer[ref.title];
+        ref = Object.keys(ref).reduce((prev, curr) => {
+            if (curr === 'description' || curr === 'note') return prev;
+            prev[curr] = prev[curr] == null ? refDefault[curr] : prev[curr];
+            return prev;
+        }, ref);
+    } else {
+        refDefaultBuffer[ref.title] = ref;
     }
-    refsBuffer[curr.properties.poiid].push(curr.properties);
+
+    if (!refsBuffer[ref.poiid]) {
+        refsBuffer[ref.poiid] = [];
+    }
+    refsBuffer[ref.poiid].push(ref);
 });
 const filesBuffer = {};
 files.features.map((curr) => {
