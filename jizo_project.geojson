@@ -737,12 +737,12 @@
       "properties": {
         "fid": 12,
         "type": "地蔵",
-        "title": "地蔵堂",
+        "title": "東向北地蔵尊",
         "description": "東向北町",
         "wikipedia": null,
         "monumento": null,
         "need_action": null,
-        "note": null,
+        "note": "きたまちまっぷ お地蔵さんに「東向北地蔵」あり 現地では名称なし",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:HigashimukiKita-machi_Jizodo_Nara",
         "lost": false,
         "address": "東向北町",
@@ -750,7 +750,7 @@
           {
             "fid": 38,
             "poiid": 12,
-            "description": "東向北町 地蔵堂 地蔵盆",
+            "description": "東向北地蔵尊 地蔵盆",
             "path": "./images/12/HigashimukiKita-machi_Jizodo_Nara_Jizobon.jpg",
             "date": "2018/07/23 13:59:00",
             "author": "Yasushi Fukunaga",
@@ -760,7 +760,7 @@
           {
             "fid": 39,
             "poiid": 12,
-            "description": "東向北町 地蔵堂",
+            "description": "東向北地蔵尊",
             "path": "./images/12/Nara_Higashimuki_KIta_Jizo.jpg",
             "date": "2015/05/24 17:55:25",
             "author": "Kohei Otsuka",
@@ -770,7 +770,7 @@
           {
             "fid": 40,
             "poiid": 12,
-            "description": "奈良、東向北商店街、中ほど東側の地蔵",
+            "description": "奈良、東向北商店街、中ほど東側の東向北地蔵尊",
             "path": "./images/12/Nara_Higashimuki-KIta_Dori_EastSide_Jizo.jpg",
             "date": "2016/07/17 10:01:08",
             "author": "Kohei Otsuka",
@@ -3362,12 +3362,12 @@
       "properties": {
         "fid": 56,
         "type": "地蔵",
-        "title": "地蔵堂",
+        "title": "柿の木地蔵尊",
         "description": "宿院町",
         "wikipedia": null,
         "monumento": null,
         "need_action": "",
-        "note": "2016年から2020年の間に再建されている。",
+        "note": "2016年から2020年の間に再建されている。きたまちまっぷ お地蔵さんに「柿の木地蔵」あり 現地では名称なし",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Shukuin-cho%29_Nara",
         "lost": false,
         "address": "坊屋敷町",
@@ -3375,7 +3375,7 @@
           {
             "fid": 166,
             "poiid": 56,
-            "description": "宿院町 地蔵堂 内部",
+            "description": "宿院町 柿の木地蔵尊 内部",
             "path": "./images/56/Jizodo_(Shukuin-cho)_Nara_Inside.jpg",
             "date": "2016/11/04 14:31:20",
             "author": "Kohei Otsuka",
@@ -3385,7 +3385,7 @@
           {
             "fid": 167,
             "poiid": 56,
-            "description": "宿院町 地蔵堂",
+            "description": "宿院町 柿の木地蔵尊",
             "path": "./images/56/Jizodo_(Shukuin-cho)_Nara.jpg",
             "date": "2016/11/04 14:31:12",
             "author": "Kohei Otsuka",
@@ -3395,7 +3395,7 @@
           {
             "fid": 757,
             "poiid": 56,
-            "description": "宿院町 地蔵堂 再建",
+            "description": "宿院町 柿の木地蔵尊 再建",
             "path": "./images/56/shukuin_new_jizodo.jpg",
             "date": "2020/06/27 10:53:14",
             "author": "Kohei Otsuka",
@@ -3405,7 +3405,7 @@
           {
             "fid": 758,
             "poiid": 56,
-            "description": "宿院町 地蔵堂 再建 内部",
+            "description": "宿院町 柿の木地蔵尊 再建 内部",
             "path": "./images/56/shukuin_new_jizodo_inside.jpg",
             "date": "2020/06/27 10:53:25",
             "author": "Kohei Otsuka",
@@ -3469,6 +3469,36 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/57/Jizodo_(Tamon-cho)_Nara.jpg",
             "small_thumbnail": "./small_thumbs/57/Jizodo_(Tamon-cho)_Nara.jpg"
+          },
+          {
+            "fid": 915,
+            "poiid": 57,
+            "description": "多門町 町入り口付近の地蔵堂 内部左側",
+            "path": "./images/57/tamoncho_jizodo_2020_left.jpg",
+            "date": "2020/08/08 17:55:26",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/57/tamoncho_jizodo_2020_left.jpg",
+            "small_thumbnail": "./small_thumbs/57/tamoncho_jizodo_2020_left.jpg"
+          },
+          {
+            "fid": 916,
+            "poiid": 57,
+            "description": "多門町 町入り口付近の地蔵堂 内部右側",
+            "path": "./images/57/tamoncho_jizodo_2020_right.jpg",
+            "date": "2020/08/08 17:55:29",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/57/tamoncho_jizodo_2020_right.jpg",
+            "small_thumbnail": "./small_thumbs/57/tamoncho_jizodo_2020_right.jpg"
+          },
+          {
+            "fid": 940,
+            "poiid": 57,
+            "description": "多門町 町入り口付近の地蔵堂",
+            "path": "./images/57/tamoncho_jizodo_2020.jpg",
+            "date": "2020/08/08 17:55:20",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/57/tamoncho_jizodo_2020.jpg",
+            "small_thumbnail": "./small_thumbs/57/tamoncho_jizodo_2020.jpg"
           }
         ],
         "path": "./images/57/Jizodo_(Tamon-cho)_Nara.jpg",
@@ -3488,12 +3518,12 @@
       "properties": {
         "fid": 58,
         "type": "地蔵",
-        "title": "地蔵",
+        "title": "大門地蔵尊",
         "description": "手貝町 転害門脇",
         "wikipedia": null,
         "monumento": null,
         "need_action": null,
-        "note": null,
+        "note": "きたまちまっぷ お地蔵さんに「大門地蔵」あり 現地では名称なし",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizodo_%28Tegai-cho%29_Nara",
         "lost": false,
         "address": "雑司町",
@@ -3501,7 +3531,7 @@
           {
             "fid": 171,
             "poiid": 58,
-            "description": "手貝町 転害門脇の地蔵 内部",
+            "description": "手貝町 転害門脇の大門地蔵 内部",
             "path": "./images/58/Jizodo_(Tegai-cho)_Nara_Inside.jpg",
             "date": "2016/11/04 14:41:12",
             "author": "Kohei Otsuka",
@@ -3511,7 +3541,7 @@
           {
             "fid": 172,
             "poiid": 58,
-            "description": "手貝町 転害門脇の地蔵",
+            "description": "手貝町 転害門脇の大門地蔵",
             "path": "./images/58/Jizodo_(Tegai-cho)_Nara.jpg",
             "date": "2016/11/04 14:41:06",
             "author": "Kohei Otsuka",
@@ -5365,6 +5395,26 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/88/Kawanaka_Jizo_(Horen-cho)_Nara_Outside.jpg",
             "small_thumbnail": "./small_thumbs/88/Kawanaka_Jizo_(Horen-cho)_Nara_Outside.jpg"
+          },
+          {
+            "fid": 934,
+            "poiid": 88,
+            "description": "川中地蔵尊",
+            "path": "./images/88/kawanaka_jizo_2020.jpg",
+            "date": "2020/08/08 17:54:06",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/88/kawanaka_jizo_2020.jpg",
+            "small_thumbnail": "./small_thumbs/88/kawanaka_jizo_2020.jpg"
+          },
+          {
+            "fid": 935,
+            "poiid": 88,
+            "description": "川中地蔵尊脇の埋もれた南無阿弥陀仏石碑",
+            "path": "./images/88/kawanaka_jizo_amida.jpg",
+            "date": "2020/08/08 17:54:11",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/88/kawanaka_jizo_amida.jpg",
+            "small_thumbnail": "./small_thumbs/88/kawanaka_jizo_amida.jpg"
           }
         ],
         "path": "./images/88/Kawanaka_Jizo_(Horen-cho)_Nara_Outside.jpg",
@@ -5433,6 +5483,46 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/89/kawanakaj_jizo_right.jpg",
             "small_thumbnail": "./small_thumbs/89/kawanakaj_jizo_right.jpg"
+          },
+          {
+            "fid": 936,
+            "poiid": 89,
+            "description": "川久保町 川中地蔵尊",
+            "path": "./images/89/kawanaka_jizo_2020.jpg",
+            "date": "2020/08/08 18:28:18",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/89/kawanaka_jizo_2020.jpg",
+            "small_thumbnail": "./small_thumbs/89/kawanaka_jizo_2020.jpg"
+          },
+          {
+            "fid": 937,
+            "poiid": 89,
+            "description": "川久保町 川中地蔵尊",
+            "path": "./images/89/kawanaka_jizo_2020_2.jpg",
+            "date": "2020/08/08 18:28:36",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/89/kawanaka_jizo_2020_2.jpg",
+            "small_thumbnail": "./small_thumbs/89/kawanaka_jizo_2020_2.jpg"
+          },
+          {
+            "fid": 938,
+            "poiid": 89,
+            "description": "川久保町 川中地蔵尊 内部",
+            "path": "./images/89/kawanaka_jizo_2020_inside.jpg",
+            "date": "2020/08/08 18:28:28",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/89/kawanaka_jizo_2020_inside.jpg",
+            "small_thumbnail": "./small_thumbs/89/kawanaka_jizo_2020_inside.jpg"
+          },
+          {
+            "fid": 939,
+            "poiid": 89,
+            "description": "川久保町 川中地蔵尊 脇の五輪塔など",
+            "path": "./images/89/kawanaka_jizo_2020_waki.jpg",
+            "date": "2020/08/08 18:28:45",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/89/kawanaka_jizo_2020_waki.jpg",
+            "small_thumbnail": "./small_thumbs/89/kawanaka_jizo_2020_waki.jpg"
           }
         ],
         "path": "./images/89/kawanaka_jizo.jpg",
@@ -9516,25 +9606,35 @@
       "properties": {
         "fid": 161,
         "type": "地蔵",
-        "title": "地蔵堂",
-        "description": "北半田西町",
+        "title": "笑顔地蔵尊",
+        "description": "北半田西町 笑顔地蔵",
         "wikipedia": null,
         "monumento": null,
         "need_action": null,
-        "note": null,
+        "note": "きたまちまっぷ お地蔵さんに「笑顔地蔵」あり 現地では名称なし",
         "originalCommons": "https://commons.wikimedia.org/wiki/File:KitaHandaNishi-machi_Jizodo_Nara.jpg",
-        "lost": null,
+        "lost": false,
         "address": "半田横町",
         "files": [
           {
             "fid": 647,
             "poiid": 161,
-            "description": "地蔵堂 北半田西町",
+            "description": "半田横町 笑顔地蔵尊",
             "path": "./images/161/KitaHandaNishi-machi_Jizodo_Nara.jpg",
             "date": "2016/08/19 14:55:21",
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/161/KitaHandaNishi-machi_Jizodo_Nara.jpg",
             "small_thumbnail": "./small_thumbs/161/KitaHandaNishi-machi_Jizodo_Nara.jpg"
+          },
+          {
+            "fid": 914,
+            "poiid": 161,
+            "description": "半田横町 笑顔地蔵尊",
+            "path": "./images/161/handa_yokomachi_egao_jizo.jpg",
+            "date": "2020/08/08 18:35:55",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/161/handa_yokomachi_egao_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/161/handa_yokomachi_egao_jizo.jpg"
           }
         ],
         "path": "./images/161/KitaHandaNishi-machi_Jizodo_Nara.jpg",
@@ -19764,6 +19864,372 @@
         "coordinates": [
           135.82167547878046,
           34.64569723436718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 623,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "西御門町 見初社脇の地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": "見初社脇のため、近くで確認できていない。取材する手段を検討要。",
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "西御門町",
+        "files": [
+          {
+            "fid": 917,
+            "poiid": 623,
+            "description": "見初社脇の地蔵、門から",
+            "path": "./images/623/misome_jizo_from_gate.jpg",
+            "date": "2020/08/08 17:26:54",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/623/misome_jizo_from_gate.jpg",
+            "small_thumbnail": "./small_thumbs/623/misome_jizo_from_gate.jpg"
+          },
+          {
+            "fid": 918,
+            "poiid": 623,
+            "description": "見初社脇の地蔵、隣のセブンイレブンから",
+            "path": "./images/623/misome_jizo_from_seven.jpg",
+            "date": "2020/08/08 17:26:04",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/623/misome_jizo_from_seven.jpg",
+            "small_thumbnail": "./small_thumbs/623/misome_jizo_from_seven.jpg"
+          }
+        ],
+        "path": "./images/623/misome_jizo_from_gate.jpg",
+        "small_thumbnail": "./small_thumbs/623/misome_jizo_from_gate.jpg",
+        "mid_thumbnail": "./mid_thumbs/623/misome_jizo_from_gate.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82708899706702,
+          34.68462509152534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 624,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "内侍原町 林業会館脇の小さい地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "内侍原町",
+        "files": [
+          {
+            "fid": 919,
+            "poiid": 624,
+            "description": "林業会館脇の小さい地蔵堂",
+            "path": "./images/624/nashihara_small_jizodo.jpg",
+            "date": "2020/08/08 17:31:59",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/624/nashihara_small_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/624/nashihara_small_jizodo.jpg"
+          },
+          {
+            "fid": 920,
+            "poiid": 624,
+            "description": "林業会館脇の小さい地蔵堂 内部",
+            "path": "./images/624/nashihara_small_jizodo_inside.jpg",
+            "date": "2020/08/08 17:32:06",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/624/nashihara_small_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/624/nashihara_small_jizodo_inside.jpg"
+          }
+        ],
+        "path": "./images/624/nashihara_small_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/624/nashihara_small_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/624/nashihara_small_jizodo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8262120817532,
+          34.686026814540156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 625,
+        "type": "地蔵",
+        "title": "地蔵群",
+        "description": "法蓮町 壁に入った地蔵群",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "法蓮町",
+        "files": [
+          {
+            "fid": 921,
+            "poiid": 625,
+            "description": "法蓮町 壁の中の地蔵群",
+            "path": "./images/625/horencho_wall_jizos.jpg",
+            "date": "2020/08/08 17:51:29",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/625/horencho_wall_jizos.jpg",
+            "small_thumbnail": "./small_thumbs/625/horencho_wall_jizos.jpg"
+          },
+          {
+            "fid": 922,
+            "poiid": 625,
+            "description": "法蓮町 壁の中の地蔵群 左から",
+            "path": "./images/625/horencho_wall_jizos_left.jpg",
+            "date": "2020/08/08 17:51:37",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/625/horencho_wall_jizos_left.jpg",
+            "small_thumbnail": "./small_thumbs/625/horencho_wall_jizos_left.jpg"
+          },
+          {
+            "fid": 923,
+            "poiid": 625,
+            "description": "法蓮町 壁の中の地蔵群 右から",
+            "path": "./images/625/horencho_wall_jizos_right.jpg",
+            "date": "2020/08/08 17:51:42",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/625/horencho_wall_jizos_right.jpg",
+            "small_thumbnail": "./small_thumbs/625/horencho_wall_jizos_right.jpg"
+          }
+        ],
+        "path": "./images/625/horencho_wall_jizos.jpg",
+        "small_thumbnail": "./small_thumbs/625/horencho_wall_jizos.jpg",
+        "mid_thumbnail": "./mid_thumbs/625/horencho_wall_jizos.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82812447987234,
+          34.69181681043616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 626,
+        "type": "地蔵",
+        "title": "地蔵群",
+        "description": "多門町 住宅軒先の地蔵群",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "多門町",
+        "files": [
+          {
+            "fid": 924,
+            "poiid": 626,
+            "description": "多門町 軒先の地蔵群",
+            "path": "./images/626/tamoncho_jizos.jpg",
+            "date": "2020/08/08 18:00:35",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/626/tamoncho_jizos.jpg",
+            "small_thumbnail": "./small_thumbs/626/tamoncho_jizos.jpg"
+          },
+          {
+            "fid": 925,
+            "poiid": 626,
+            "description": "多門町 軒先の地蔵群",
+            "path": "./images/626/tamoncho_jizos2.jpg",
+            "date": "2020/08/08 18:00:42",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/626/tamoncho_jizos2.jpg",
+            "small_thumbnail": "./small_thumbs/626/tamoncho_jizos2.jpg"
+          }
+        ],
+        "path": "./images/626/tamoncho_jizos.jpg",
+        "small_thumbnail": "./small_thumbs/626/tamoncho_jizos.jpg",
+        "mid_thumbnail": "./mid_thumbs/626/tamoncho_jizos.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83154234867237,
+          34.6931987847617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 627,
+        "type": "地蔵",
+        "title": "地蔵群",
+        "description": "川上町 佐保川河畔の地蔵群",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "川上町",
+        "files": [
+          {
+            "fid": 926,
+            "poiid": 627,
+            "description": "川上町 佐保川脇の地蔵群",
+            "path": "./images/627/sahogawa_waki_jizos.jpg",
+            "date": "2020/08/08 18:05:06",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/627/sahogawa_waki_jizos.jpg",
+            "small_thumbnail": "./small_thumbs/627/sahogawa_waki_jizos.jpg"
+          },
+          {
+            "fid": 927,
+            "poiid": 627,
+            "description": "川上町 佐保川脇の地蔵群 中央付近",
+            "path": "./images/627/sahogawa_waki_jizos_center.jpg",
+            "date": "2020/08/08 18:05:42",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/627/sahogawa_waki_jizos_center.jpg",
+            "small_thumbnail": "./small_thumbs/627/sahogawa_waki_jizos_center.jpg"
+          },
+          {
+            "fid": 928,
+            "poiid": 627,
+            "description": "川上町 佐保川脇の地蔵群 左から",
+            "path": "./images/627/sahogawa_waki_jizos_left.jpg",
+            "date": "2020/08/08 18:05:25",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/627/sahogawa_waki_jizos_left.jpg",
+            "small_thumbnail": "./small_thumbs/627/sahogawa_waki_jizos_left.jpg"
+          },
+          {
+            "fid": 929,
+            "poiid": 627,
+            "description": "川上町 佐保川脇の地蔵群 右から",
+            "path": "./images/627/sahogawa_waki_jizos_right.jpg",
+            "date": "2020/08/08 18:05:35",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/627/sahogawa_waki_jizos_right.jpg",
+            "small_thumbnail": "./small_thumbs/627/sahogawa_waki_jizos_right.jpg"
+          }
+        ],
+        "path": "./images/627/sahogawa_waki_jizos.jpg",
+        "small_thumbnail": "./small_thumbs/627/sahogawa_waki_jizos.jpg",
+        "mid_thumbnail": "./mid_thumbs/627/sahogawa_waki_jizos.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8330108259497,
+          34.69349236868022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 628,
+        "type": "地蔵",
+        "title": "失われた地蔵堂",
+        "description": "川上町 若草公民館斜向かいの地蔵堂 数年前まであったが撤去された",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": true,
+        "address": "川上町",
+        "files": [
+          {
+            "fid": 930,
+            "poiid": 628,
+            "description": "若草公民館斜向かいの地蔵堂、撤去されている",
+            "path": "./images/628/wakakusa_kominkan_jizodo_lost.jpg",
+            "date": "2020/08/08 18:15:13",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/628/wakakusa_kominkan_jizodo_lost.jpg",
+            "small_thumbnail": "./small_thumbs/628/wakakusa_kominkan_jizodo_lost.jpg"
+          }
+        ],
+        "path": "./images/628/wakakusa_kominkan_jizodo_lost.jpg",
+        "small_thumbnail": "./small_thumbs/628/wakakusa_kominkan_jizodo_lost.jpg",
+        "mid_thumbnail": "./mid_thumbs/628/wakakusa_kominkan_jizodo_lost.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83239319695244,
+          34.692160653094525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 629,
+        "type": "地蔵",
+        "title": "延命地蔵尊",
+        "description": "北半田中町 延命地蔵尊",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "北半田中町",
+        "files": [
+          {
+            "fid": 931,
+            "poiid": 629,
+            "description": "北半田中町 延命地蔵尊",
+            "path": "./images/629/kitahanda_nakamachi_enmei_jizo.jpg",
+            "date": "2020/08/08 18:30:56",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/629/kitahanda_nakamachi_enmei_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/629/kitahanda_nakamachi_enmei_jizo.jpg"
+          },
+          {
+            "fid": 932,
+            "poiid": 629,
+            "description": "北半田中町 延命地蔵尊 内部",
+            "path": "./images/629/kitahanda_nakamachi_enmei_jizo_inside.jpg",
+            "date": "2020/08/08 18:31:45",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/629/kitahanda_nakamachi_enmei_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/629/kitahanda_nakamachi_enmei_jizo_inside.jpg"
+          },
+          {
+            "fid": 933,
+            "poiid": 629,
+            "description": "北半田中町 延命地蔵尊 内部",
+            "path": "./images/629/kitahanda_nakamachi_enmei_jizo_inside2.jpg",
+            "date": "2020/08/08 18:31:58",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/629/kitahanda_nakamachi_enmei_jizo_inside2.jpg",
+            "small_thumbnail": "./small_thumbs/629/kitahanda_nakamachi_enmei_jizo_inside2.jpg"
+          }
+        ],
+        "path": "./images/629/kitahanda_nakamachi_enmei_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/629/kitahanda_nakamachi_enmei_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/629/kitahanda_nakamachi_enmei_jizo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83223752483013,
+          34.6881417051328
         ]
       }
     }
