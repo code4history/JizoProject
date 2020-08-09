@@ -660,6 +660,26 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/10/Jizodo_HigashiKidera-cho_2.jpg",
             "small_thumbnail": "./small_thumbs/10/Jizodo_HigashiKidera-cho_2.jpg"
+          },
+          {
+            "fid": 941,
+            "poiid": 10,
+            "description": "東紀寺町2丁目地蔵堂 新調",
+            "path": "./images/10/higashikidera2_jizodo_new.jpg",
+            "date": "2020/08/09 10:44:28",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/10/higashikidera2_jizodo_new.jpg",
+            "small_thumbnail": "./small_thumbs/10/higashikidera2_jizodo_new.jpg"
+          },
+          {
+            "fid": 973,
+            "poiid": 10,
+            "description": "東紀寺町2丁目地蔵堂 新調 内部",
+            "path": "./images/10/higashikidera2_jizodo_new_inside.jpg",
+            "date": "2020/08/09 10:44:33",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/10/higashikidera2_jizodo_new_inside.jpg",
+            "small_thumbnail": "./small_thumbs/10/higashikidera2_jizodo_new_inside.jpg"
           }
         ],
         "path": "./images/10/Jizodo_HigashiKidera-cho_2.jpg",
@@ -1473,12 +1493,12 @@
       "properties": {
         "fid": 24,
         "type": "地蔵",
-        "title": "地蔵堂",
-        "description": "紀寺町",
+        "title": "光好地蔵大菩薩",
+        "description": "紀寺町 光好地蔵大菩薩",
         "wikipedia": null,
         "monumento": null,
         "need_action": null,
-        "note": null,
+        "note": "地蔵堂内に光好地蔵大菩薩の名前あり",
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Jizo_Kidera_Nara_1",
         "lost": false,
         "address": "紀寺町",
@@ -1527,6 +1547,36 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/24/Nara_Kidera_cho_Jizo_1.jpg",
             "small_thumbnail": "./small_thumbs/24/Nara_Kidera_cho_Jizo_1.jpg"
+          },
+          {
+            "fid": 950,
+            "poiid": 24,
+            "description": "紀寺町 地蔵堂",
+            "path": "./images/24/kideracho_jizodo_2020.jpg",
+            "date": "2020/08/09 11:11:05",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/24/kideracho_jizodo_2020.jpg",
+            "small_thumbnail": "./small_thumbs/24/kideracho_jizodo_2020.jpg"
+          },
+          {
+            "fid": 951,
+            "poiid": 24,
+            "description": "紀寺町 地蔵堂 内部左側",
+            "path": "./images/24/kideracho_jizodo_2020_left.jpg",
+            "date": "2020/08/09 11:11:28",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/24/kideracho_jizodo_2020_left.jpg",
+            "small_thumbnail": "./small_thumbs/24/kideracho_jizodo_2020_left.jpg"
+          },
+          {
+            "fid": 952,
+            "poiid": 24,
+            "description": "紀寺町 地蔵堂 内部右側",
+            "path": "./images/24/kideracho_jizodo_2020_right.jpg",
+            "date": "2020/08/09 11:11:19",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/24/kideracho_jizodo_2020_right.jpg",
+            "small_thumbnail": "./small_thumbs/24/kideracho_jizodo_2020_right.jpg"
           }
         ],
         "path": "./images/24/Nara_Kidera_cho_Jizo_1.jpg",
@@ -1600,6 +1650,46 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/25/Nara_Kidera_cho_Jizo_2.jpg",
             "small_thumbnail": "./small_thumbs/25/Nara_Kidera_cho_Jizo_2.jpg"
+          },
+          {
+            "fid": 953,
+            "poiid": 25,
+            "description": "紀寺町 公園の地蔵堂",
+            "path": "./images/25/kideracho_park_jizodo.jpg",
+            "date": "2020/08/09 11:12:55",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/25/kideracho_park_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/25/kideracho_park_jizodo.jpg"
+          },
+          {
+            "fid": 954,
+            "poiid": 25,
+            "description": "紀寺町 公園の地蔵堂 内部左側",
+            "path": "./images/25/kideracho_park_jizodo_left.jpg",
+            "date": "2020/08/09 11:13:14",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/25/kideracho_park_jizodo_left.jpg",
+            "small_thumbnail": "./small_thumbs/25/kideracho_park_jizodo_left.jpg"
+          },
+          {
+            "fid": 955,
+            "poiid": 25,
+            "description": "紀寺町 公園の地蔵堂 内部右側",
+            "path": "./images/25/kideracho_park_jizodo_right.jpg",
+            "date": "2020/08/09 11:13:05",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/25/kideracho_park_jizodo_right.jpg",
+            "small_thumbnail": "./small_thumbs/25/kideracho_park_jizodo_right.jpg"
+          },
+          {
+            "fid": 956,
+            "poiid": 25,
+            "description": "紀寺町 公園の地蔵堂 内部下段",
+            "path": "./images/25/kideracho_park_jizodo_under.jpg",
+            "date": "2020/08/09 11:13:20",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/25/kideracho_park_jizodo_under.jpg",
+            "small_thumbnail": "./small_thumbs/25/kideracho_park_jizodo_under.jpg"
           }
         ],
         "path": "./images/25/Nara_Kidera_cho_Jizo_2.jpg",
@@ -3363,7 +3453,7 @@
         "fid": 56,
         "type": "地蔵",
         "title": "柿の木地蔵尊",
-        "description": "宿院町",
+        "description": "坊屋敷町",
         "wikipedia": null,
         "monumento": null,
         "need_action": "",
@@ -3413,9 +3503,9 @@
             "small_thumbnail": "./small_thumbs/56/shukuin_new_jizodo_inside.jpg"
           }
         ],
-        "path": "./images/56/Jizodo_(Shukuin-cho)_Nara.jpg",
-        "small_thumbnail": "./small_thumbs/56/Jizodo_(Shukuin-cho)_Nara.jpg",
-        "mid_thumbnail": "./mid_thumbs/56/Jizodo_(Shukuin-cho)_Nara.jpg"
+        "path": "./images/56/Jizodo_(Shukuin-cho)_Nara_Inside.jpg",
+        "small_thumbnail": "./small_thumbs/56/Jizodo_(Shukuin-cho)_Nara_Inside.jpg",
+        "mid_thumbnail": "./mid_thumbs/56/Jizodo_(Shukuin-cho)_Nara_Inside.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -6839,6 +6929,36 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/111/Nara_Kidera_cho_Jizo_4.jpg",
             "small_thumbnail": "./small_thumbs/111/Nara_Kidera_cho_Jizo_4.jpg"
+          },
+          {
+            "fid": 942,
+            "poiid": 111,
+            "description": "紀寺町 石塔つきの地蔵堂",
+            "path": "./images/111/kideracho_iizodo_with_stopa.jpg",
+            "date": "2020/08/09 11:17:07",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/111/kideracho_iizodo_with_stopa.jpg",
+            "small_thumbnail": "./small_thumbs/111/kideracho_iizodo_with_stopa.jpg"
+          },
+          {
+            "fid": 943,
+            "poiid": 111,
+            "description": "紀寺町 石塔つきの地蔵堂 内部左側",
+            "path": "./images/111/kideracho_iizodo_with_stopa_left.jpg",
+            "date": "2020/08/09 11:17:33",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/111/kideracho_iizodo_with_stopa_left.jpg",
+            "small_thumbnail": "./small_thumbs/111/kideracho_iizodo_with_stopa_left.jpg"
+          },
+          {
+            "fid": 944,
+            "poiid": 111,
+            "description": "紀寺町 石塔つきの地蔵堂 内部右側",
+            "path": "./images/111/kideracho_iizodo_with_stopa_right.jpg",
+            "date": "2020/08/09 11:17:24",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/111/kideracho_iizodo_with_stopa_right.jpg",
+            "small_thumbnail": "./small_thumbs/111/kideracho_iizodo_with_stopa_right.jpg"
           }
         ],
         "path": "./images/111/Nara_Kidera_cho_Jizo_4.jpg",
@@ -6910,7 +7030,7 @@
         "description": "紀寺町",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "写真によいものがない。アップデートすべき。",
+        "need_action": null,
         "note": null,
         "originalCommons": "https://commons.wikimedia.org/wiki/Category:Nataedaguchi_Jizo_Nara",
         "lost": false,
@@ -6970,6 +7090,46 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/113/Nataedaguchi_Jizo_Nara4.jpg",
             "small_thumbnail": "./small_thumbs/113/Nataedaguchi_Jizo_Nara4.jpg"
+          },
+          {
+            "fid": 945,
+            "poiid": 113,
+            "description": "鉈枝口地蔵尊 入り口から",
+            "path": "./images/113/nataedaguchi_jizo_entrance.jpg",
+            "date": "2020/08/09 11:38:16",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/113/nataedaguchi_jizo_entrance.jpg",
+            "small_thumbnail": "./small_thumbs/113/nataedaguchi_jizo_entrance.jpg"
+          },
+          {
+            "fid": 946,
+            "poiid": 113,
+            "description": "鉈枝口地蔵尊 内部",
+            "path": "./images/113/nataedaguchi_jizo_inside.jpg",
+            "date": "2020/08/09 11:38:29",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/113/nataedaguchi_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/113/nataedaguchi_jizo_inside.jpg"
+          },
+          {
+            "fid": 947,
+            "poiid": 113,
+            "description": "鉈枝口地蔵尊 脇の地蔵群左側",
+            "path": "./images/113/nataedaguchi_jizo_waki_left.jpg",
+            "date": "2020/08/09 11:38:42",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/113/nataedaguchi_jizo_waki_left.jpg",
+            "small_thumbnail": "./small_thumbs/113/nataedaguchi_jizo_waki_left.jpg"
+          },
+          {
+            "fid": 948,
+            "poiid": 113,
+            "description": "鉈枝口地蔵尊 脇の地蔵群右側",
+            "path": "./images/113/nataedaguchi_jizo_waki_right.jpg",
+            "date": "2020/08/09 11:38:46",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/113/nataedaguchi_jizo_waki_right.jpg",
+            "small_thumbnail": "./small_thumbs/113/nataedaguchi_jizo_waki_right.jpg"
           }
         ],
         "path": "./images/113/Nataedaguchi_Jizo_Nara3.jpg",
@@ -10049,6 +10209,16 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/169/Nara_Kidera_Jizo_in_Mansion.jpg",
             "small_thumbnail": "./small_thumbs/169/Nara_Kidera_Jizo_in_Mansion.jpg"
+          },
+          {
+            "fid": 949,
+            "poiid": 169,
+            "description": "紀寺町 マンション基礎の地蔵",
+            "path": "./images/169/kidera_mansion_jizo_2020.jpg",
+            "date": "2020/08/09 11:05:11",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/169/kidera_mansion_jizo_2020.jpg",
+            "small_thumbnail": "./small_thumbs/169/kidera_mansion_jizo_2020.jpg"
           }
         ],
         "path": "./images/169/Nara_Kidera_Jizo_in_Mansion.jpg",
@@ -19501,10 +19671,10 @@
         "fid": 612,
         "type": "地蔵",
         "title": "地蔵堂",
-        "description": "高畑町 地蔵堂？",
+        "description": "高畑本薬師町 地蔵堂",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ29番、現地調査要だがこんなところにあるか？Google StreetViewでも見つからない。",
+        "need_action": null,
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19524,16 +19694,67 @@
             "note": "29番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 957,
+            "poiid": 612,
+            "description": "高畑本薬師町 地蔵堂",
+            "path": "./images/612/takabatake_honyakushi_jizodo.jpg",
+            "date": "2020/08/09 11:48:52",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/612/takabatake_honyakushi_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/612/takabatake_honyakushi_jizodo.jpg"
+          },
+          {
+            "fid": 958,
+            "poiid": 612,
+            "description": "高畑本薬師町 地蔵堂 内部",
+            "path": "./images/612/takabatake_honyakushi_jizodo_inside.jpg",
+            "date": "2020/08/09 11:49:02",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/612/takabatake_honyakushi_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/612/takabatake_honyakushi_jizodo_inside.jpg"
+          },
+          {
+            "fid": 959,
+            "poiid": 612,
+            "description": "高畑本薬師町 地蔵堂 本尊",
+            "path": "./images/612/takabatake_honyakushi_jizodo_inside_center.jpg",
+            "date": "2020/08/09 11:49:06",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/612/takabatake_honyakushi_jizodo_inside_center.jpg",
+            "small_thumbnail": "./small_thumbs/612/takabatake_honyakushi_jizodo_inside_center.jpg"
+          },
+          {
+            "fid": 960,
+            "poiid": 612,
+            "description": "高畑本薬師町 地蔵堂 内部左側",
+            "path": "./images/612/takabatake_honyakushi_jizodo_inside_left.jpg",
+            "date": "2020/08/09 11:49:11",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/612/takabatake_honyakushi_jizodo_inside_left.jpg",
+            "small_thumbnail": "./small_thumbs/612/takabatake_honyakushi_jizodo_inside_left.jpg"
+          },
+          {
+            "fid": 961,
+            "poiid": 612,
+            "description": "高畑本薬師町 地蔵堂 内部右側",
+            "path": "./images/612/takabatake_honyakushi_jizodo_inside_right.jpg",
+            "date": "2020/08/09 11:49:15",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/612/takabatake_honyakushi_jizodo_inside_right.jpg",
+            "small_thumbnail": "./small_thumbs/612/takabatake_honyakushi_jizodo_inside_right.jpg"
+          }
+        ],
+        "path": "./images/612/takabatake_honyakushi_jizodo_inside_center.jpg",
+        "small_thumbnail": "./small_thumbs/612/takabatake_honyakushi_jizodo_inside_center.jpg",
+        "mid_thumbnail": "./mid_thumbs/612/takabatake_honyakushi_jizodo_inside_center.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.84285622243337,
-          34.67591551246779
+          135.84232953259038,
+          34.67580500493541
         ]
       }
     },
@@ -19546,7 +19767,7 @@
         "description": "十輪院町 軒先の地蔵",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ4番、要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19566,10 +19787,21 @@
             "note": "4番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 962,
+            "poiid": 613,
+            "description": "十輪院町 軒先の地蔵",
+            "path": "./images/613/jurin-in_cho_nokisaki_jizo.jpg",
+            "date": "2020/08/09 11:30:43",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/613/jurin-in_cho_nokisaki_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/613/jurin-in_cho_nokisaki_jizo.jpg"
+          }
+        ],
+        "path": "./images/613/jurin-in_cho_nokisaki_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/613/jurin-in_cho_nokisaki_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/613/jurin-in_cho_nokisaki_jizo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19588,7 +19820,7 @@
         "description": "紀寺新町 小さい地蔵堂",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ15番、要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19608,10 +19840,31 @@
             "note": "15番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 963,
+            "poiid": 614,
+            "description": "紀寺町 小さな地蔵堂",
+            "path": "./images/614/kideracho_small_jizodo.jpg",
+            "date": "2020/08/09 11:07:49",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/614/kideracho_small_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/614/kideracho_small_jizodo.jpg"
+          },
+          {
+            "fid": 964,
+            "poiid": 614,
+            "description": "紀寺町 小さな地蔵堂 内部",
+            "path": "./images/614/kideracho_small_jizodo_inside.jpg",
+            "date": "2020/08/09 11:07:59",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/614/kideracho_small_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/614/kideracho_small_jizodo_inside.jpg"
+          }
+        ],
+        "path": "./images/614/kideracho_small_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/614/kideracho_small_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/614/kideracho_small_jizodo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19630,7 +19883,7 @@
         "description": "東紀寺町三丁目 団地の中の地蔵堂",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ24番。要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19650,10 +19903,31 @@
             "note": "24番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 965,
+            "poiid": 615,
+            "description": "東紀寺町3丁目地蔵堂",
+            "path": "./images/615/higashikideracho3_jizodo.jpg",
+            "date": "2020/08/09 10:46:30",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/615/higashikideracho3_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/615/higashikideracho3_jizodo.jpg"
+          },
+          {
+            "fid": 966,
+            "poiid": 615,
+            "description": "東紀寺町3丁目地蔵堂 内部",
+            "path": "./images/615/higashikideracho3_jizodo_inside.jpg",
+            "date": "2020/08/09 10:46:41",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/615/higashikideracho3_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/615/higashikideracho3_jizodo_inside.jpg"
+          }
+        ],
+        "path": "./images/615/higashikideracho3_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/615/higashikideracho3_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/615/higashikideracho3_jizodo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19668,11 +19942,11 @@
       "properties": {
         "fid": 616,
         "type": "地蔵",
-        "title": "URの地蔵堂",
-        "description": "東紀寺町一丁目 URの地蔵堂",
+        "title": "紀寺団地のお地蔵さん/桜地蔵",
+        "description": "東紀寺町一丁目 紀寺団地のお地蔵さん/桜地蔵",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップE番、要現地調査、位置修正必要。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19692,16 +19966,57 @@
             "note": "E番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 967,
+            "poiid": 616,
+            "description": "紀寺団地地蔵",
+            "path": "./images/616/kideradanchi_jizo.jpg",
+            "date": "2020/08/09 10:57:00",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/616/kideradanchi_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/616/kideradanchi_jizo.jpg"
+          },
+          {
+            "fid": 968,
+            "poiid": 616,
+            "description": "紀寺団地地蔵と桜地蔵",
+            "path": "./images/616/kideradanchi_sakura_jizo.jpg",
+            "date": "2020/08/09 10:57:22",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/616/kideradanchi_sakura_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/616/kideradanchi_sakura_jizo.jpg"
+          },
+          {
+            "fid": 969,
+            "poiid": 616,
+            "description": "紀寺団地地蔵と桜地蔵の地蔵堂",
+            "path": "./images/616/kideradanchi_sakura_jizodo.jpg",
+            "date": "2020/08/09 10:56:18",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/616/kideradanchi_sakura_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/616/kideradanchi_sakura_jizodo.jpg"
+          },
+          {
+            "fid": 970,
+            "poiid": 616,
+            "description": "桜地蔵",
+            "path": "./images/616/sakura_jizo.jpg",
+            "date": "2020/08/09 10:57:10",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/616/sakura_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/616/sakura_jizo.jpg"
+          }
+        ],
+        "path": "./images/616/kideradanchi_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/616/kideradanchi_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/616/kideradanchi_jizo.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.83664554529216,
-          34.67050039755208
+          135.83576878935907,
+          34.670352469669396
         ]
       }
     },
@@ -20230,6 +20545,54 @@
         "coordinates": [
           135.83223752483013,
           34.6881417051328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 630,
+        "type": "地蔵",
+        "title": "紀寺町 駐車場脇の地蔵堂",
+        "description": null,
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "紀寺町",
+        "files": [
+          {
+            "fid": 971,
+            "poiid": 630,
+            "description": "紀寺町 駐車場脇の地蔵堂",
+            "path": "./images/630/kideracho_near_carpark.jpg",
+            "date": "2020/08/09 11:32:22",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/630/kideracho_near_carpark.jpg",
+            "small_thumbnail": "./small_thumbs/630/kideracho_near_carpark.jpg"
+          },
+          {
+            "fid": 972,
+            "poiid": 630,
+            "description": "紀寺町 駐車場脇の地蔵堂 内部",
+            "path": "./images/630/kideracho_near_carpark_inside.jpg",
+            "date": "2020/08/09 11:32:27",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/630/kideracho_near_carpark_inside.jpg",
+            "small_thumbnail": "./small_thumbs/630/kideracho_near_carpark_inside.jpg"
+          }
+        ],
+        "path": "./images/630/kideracho_near_carpark.jpg",
+        "small_thumbnail": "./small_thumbs/630/kideracho_near_carpark.jpg",
+        "mid_thumbnail": "./mid_thumbs/630/kideracho_near_carpark.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83426331999502,
+          34.675908465132586
         ]
       }
     }
