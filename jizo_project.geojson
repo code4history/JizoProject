@@ -17165,19 +17165,40 @@
       "properties": {
         "fid": 565,
         "type": "地蔵",
-        "title": "地蔵堂？",
-        "description": "横井町",
+        "title": "地蔵堂",
+        "description": "横井二丁目 地蔵堂",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "Google Street Viewで発見。祖先の碑の南西、要調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
         "address": "横井二丁目",
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 974,
+            "poiid": 565,
+            "description": "横井二丁目 地蔵堂",
+            "path": "./images/565/yokoi2_jizodo.jpg",
+            "date": "2020/08/09 14:15:38",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/565/yokoi2_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/565/yokoi2_jizodo.jpg"
+          },
+          {
+            "fid": 975,
+            "poiid": 565,
+            "description": "横井二丁目 地蔵堂 内部",
+            "path": "./images/565/yokoi2_jizodo_inside.jpg",
+            "date": "2020/08/09 14:15:51",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/565/yokoi2_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/565/yokoi2_jizodo_inside.jpg"
+          }
+        ],
+        "path": "./images/565/yokoi2_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/565/yokoi2_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/565/yokoi2_jizodo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19227,7 +19248,7 @@
         "description": "白毫寺町、浮彫りの地蔵",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ38番、StreetViewで見えないがおそらくここ。現地調査必要。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19247,10 +19268,30 @@
             "note": "38番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 976,
+            "poiid": 601,
+            "description": "白毫寺町 路地の地蔵",
+            "path": "./images/601/byakugoji_jizo_in_smallroad.jpg",
+            "date": "2020/08/09 12:17:45",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/601/byakugoji_jizo_in_smallroad.jpg",
+            "small_thumbnail": "./small_thumbs/601/byakugoji_jizo_in_smallroad.jpg"
+          },
+          {
+            "fid": 977,
+            "poiid": 601,
+            "path": "./images/601/byakugoji_jizo_in_smallroad_zoom.jpg",
+            "date": "2020/08/09 12:17:50",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/601/byakugoji_jizo_in_smallroad_zoom.jpg",
+            "small_thumbnail": "./small_thumbs/601/byakugoji_jizo_in_smallroad_zoom.jpg"
+          }
+        ],
+        "path": "./images/601/byakugoji_jizo_in_smallroad.jpg",
+        "small_thumbnail": "./small_thumbs/601/byakugoji_jizo_in_smallroad.jpg",
+        "mid_thumbnail": "./mid_thumbs/601/byakugoji_jizo_in_smallroad.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19266,10 +19307,10 @@
         "fid": 602,
         "type": "地蔵",
         "title": "仲良し地蔵尊",
-        "description": null,
+        "description": "白毫寺町 仲良し地蔵尊",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ39番。要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19289,10 +19330,31 @@
             "note": "39番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 978,
+            "poiid": 602,
+            "description": "白毫寺町 仲良し地蔵尊",
+            "path": "./images/602/byakugoji_nakayoshi_jizo.jpg",
+            "date": "2020/08/09 12:07:34",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/602/byakugoji_nakayoshi_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/602/byakugoji_nakayoshi_jizo.jpg"
+          },
+          {
+            "fid": 979,
+            "poiid": 602,
+            "description": "白毫寺町 仲良し地蔵尊 内部",
+            "path": "./images/602/byakugoji_nakayoshi_jizo_inside.jpg",
+            "date": "2020/08/09 12:07:41",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/602/byakugoji_nakayoshi_jizo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/602/byakugoji_nakayoshi_jizo_inside.jpg"
+          }
+        ],
+        "path": "./images/602/byakugoji_nakayoshi_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/602/byakugoji_nakayoshi_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/602/byakugoji_nakayoshi_jizo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19306,12 +19368,12 @@
       "type": "Feature",
       "properties": {
         "fid": 603,
-        "type": "地蔵",
-        "title": "地蔵",
-        "description": "白毫寺町 地蔵2体",
+        "type": "石仏等",
+        "title": "浮彫五輪塔など",
+        "description": "白毫寺町 浮彫五輪塔と名号石碑",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ40番。要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19331,10 +19393,21 @@
             "note": "40番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 980,
+            "poiid": 603,
+            "description": "白毫寺町 浮彫五輪塔と名号石碑",
+            "path": "./images/603/byakugoji_relief_stupa_myogo.jpg",
+            "date": "2020/08/09 12:15:25",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/603/byakugoji_relief_stupa_myogo.jpg",
+            "small_thumbnail": "./small_thumbs/603/byakugoji_relief_stupa_myogo.jpg"
+          }
+        ],
+        "path": "./images/603/byakugoji_relief_stupa_myogo.jpg",
+        "small_thumbnail": "./small_thumbs/603/byakugoji_relief_stupa_myogo.jpg",
+        "mid_thumbnail": "./mid_thumbs/603/byakugoji_relief_stupa_myogo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19349,11 +19422,11 @@
       "properties": {
         "fid": 604,
         "type": "地蔵",
-        "title": "地蔵群",
-        "description": "白毫寺町 墓地脇の地蔵群",
+        "title": "地蔵、石仏群",
+        "description": "白毫寺町 墓地脇の地蔵、石仏群",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ42番。要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19373,16 +19446,57 @@
             "note": "42番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 981,
+            "poiid": 604,
+            "description": "白毫寺町 墓地そばの地蔵、石仏群",
+            "path": "./images/604/byakugoji_jizos_side_of_tombs.jpg",
+            "date": "2020/08/09 12:35:53",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/604/byakugoji_jizos_side_of_tombs.jpg",
+            "small_thumbnail": "./small_thumbs/604/byakugoji_jizos_side_of_tombs.jpg"
+          },
+          {
+            "fid": 982,
+            "poiid": 604,
+            "description": "白毫寺町 墓地そばの地蔵、石仏群 奥",
+            "path": "./images/604/byakugoji_jizos_side_of_tombs_far.jpg",
+            "date": "2020/08/09 12:35:31",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/604/byakugoji_jizos_side_of_tombs_far.jpg",
+            "small_thumbnail": "./small_thumbs/604/byakugoji_jizos_side_of_tombs_far.jpg"
+          },
+          {
+            "fid": 983,
+            "poiid": 604,
+            "description": "白毫寺町 墓地そばの地蔵、石仏群 手前",
+            "path": "./images/604/byakugoji_jizos_side_of_tombs_near.jpg",
+            "date": "2020/08/09 12:35:22",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/604/byakugoji_jizos_side_of_tombs_near.jpg",
+            "small_thumbnail": "./small_thumbs/604/byakugoji_jizos_side_of_tombs_near.jpg"
+          },
+          {
+            "fid": 984,
+            "poiid": 604,
+            "description": "白毫寺町 墓地そばの三界万霊塔",
+            "path": "./images/604/byakugoji_sankaibanrei_side_of_tombs.jpg",
+            "date": "2020/08/09 12:35:40",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/604/byakugoji_sankaibanrei_side_of_tombs.jpg",
+            "small_thumbnail": "./small_thumbs/604/byakugoji_sankaibanrei_side_of_tombs.jpg"
+          }
+        ],
+        "path": "./images/604/byakugoji_jizos_side_of_tombs.jpg",
+        "small_thumbnail": "./small_thumbs/604/byakugoji_jizos_side_of_tombs.jpg",
+        "mid_thumbnail": "./mid_thumbs/604/byakugoji_jizos_side_of_tombs.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.84835386057173,
-          34.669386246373456
+          135.84834316708103,
+          34.66939916936628
         ]
       }
     },
@@ -19395,7 +19509,7 @@
         "description": "白毫寺町 火葬場入口の地蔵",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ43番、要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19415,10 +19529,31 @@
             "note": "43番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 985,
+            "poiid": 605,
+            "description": "白毫寺町 火葬場入り口の地蔵",
+            "path": "./images/605/byakugoji_kasoba_entrance_jizo.jpg",
+            "date": "2020/08/09 12:37:41",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/605/byakugoji_kasoba_entrance_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/605/byakugoji_kasoba_entrance_jizo.jpg"
+          },
+          {
+            "fid": 986,
+            "poiid": 605,
+            "description": "白毫寺町 火葬場入り口の地蔵 拡大",
+            "path": "./images/605/byakugoji_kasoba_entrance_jizo_zoom.jpg",
+            "date": "2020/08/09 12:37:49",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/605/byakugoji_kasoba_entrance_jizo_zoom.jpg",
+            "small_thumbnail": "./small_thumbs/605/byakugoji_kasoba_entrance_jizo_zoom.jpg"
+          }
+        ],
+        "path": "./images/605/byakugoji_kasoba_entrance_jizo.jpg",
+        "small_thumbnail": "./small_thumbs/605/byakugoji_kasoba_entrance_jizo.jpg",
+        "mid_thumbnail": "./mid_thumbs/605/byakugoji_kasoba_entrance_jizo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19437,7 +19572,7 @@
         "description": "白毫寺町 幹線道路脇の地蔵",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ44番。要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19457,10 +19592,41 @@
             "note": "44番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 987,
+            "poiid": 606,
+            "description": "白毫寺町 幹線道路脇 地蔵",
+            "path": "./images/606/byakugojicho_jizo_side_of_road.jpg",
+            "date": "2020/08/09 12:40:55",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/606/byakugojicho_jizo_side_of_road.jpg",
+            "small_thumbnail": "./small_thumbs/606/byakugojicho_jizo_side_of_road.jpg"
+          },
+          {
+            "fid": 988,
+            "poiid": 606,
+            "description": "白毫寺町 幹線道路脇 地蔵 拡大",
+            "path": "./images/606/byakugojicho_jizo_side_of_road_zoom.jpg",
+            "date": "2020/08/09 12:41:15",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/606/byakugojicho_jizo_side_of_road_zoom.jpg",
+            "small_thumbnail": "./small_thumbs/606/byakugojicho_jizo_side_of_road_zoom.jpg"
+          },
+          {
+            "fid": 989,
+            "poiid": 606,
+            "description": "白毫寺町 幹線道路脇 名号石碑",
+            "path": "./images/606/byakugojicho_myogo_side_of_road.jpg",
+            "date": "2020/08/09 12:41:26",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/606/byakugojicho_myogo_side_of_road.jpg",
+            "small_thumbnail": "./small_thumbs/606/byakugojicho_myogo_side_of_road.jpg"
+          }
+        ],
+        "path": "./images/606/byakugojicho_jizo_side_of_road.jpg",
+        "small_thumbnail": "./small_thumbs/606/byakugojicho_jizo_side_of_road.jpg",
+        "mid_thumbnail": "./mid_thumbs/606/byakugojicho_jizo_side_of_road.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19479,7 +19645,7 @@
         "description": "白毫寺町 高円高校裏の地蔵",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ45番、要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19499,10 +19665,31 @@
             "note": "45番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 990,
+            "poiid": 607,
+            "description": "白毫寺町 高円高校裏の地蔵",
+            "path": "./images/607/byakugoji_jizo_back_of_takamado_hs.jpg",
+            "date": "2020/08/09 12:47:35",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/607/byakugoji_jizo_back_of_takamado_hs.jpg",
+            "small_thumbnail": "./small_thumbs/607/byakugoji_jizo_back_of_takamado_hs.jpg"
+          },
+          {
+            "fid": 991,
+            "poiid": 607,
+            "description": "白毫寺町 高円高校裏の地蔵 拡大",
+            "path": "./images/607/byakugoji_jizo_back_of_takamado_hs_zoom.jpg",
+            "date": "2020/08/09 12:47:46",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/607/byakugoji_jizo_back_of_takamado_hs_zoom.jpg",
+            "small_thumbnail": "./small_thumbs/607/byakugoji_jizo_back_of_takamado_hs_zoom.jpg"
+          }
+        ],
+        "path": "./images/607/byakugoji_jizo_back_of_takamado_hs.jpg",
+        "small_thumbnail": "./small_thumbs/607/byakugoji_jizo_back_of_takamado_hs.jpg",
+        "mid_thumbnail": "./mid_thumbs/607/byakugoji_jizo_back_of_takamado_hs.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19518,24 +19705,35 @@
         "fid": 608,
         "type": "地蔵",
         "title": "地蔵",
-        "description": "白毫寺町 浮彫りの地蔵",
+        "description": "白毫寺町 駐車場隅の浮彫りの地蔵",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ41番。要現地調査。Google StreetViewでは見つからない。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
         "address": "白毫寺町",
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 992,
+            "poiid": 608,
+            "description": "白毫寺町 駐車場隅の地蔵",
+            "path": "./images/608/byakugoji_jizo_in_park.jpg",
+            "date": "2020/08/09 12:22:00",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/608/byakugoji_jizo_in_park.jpg",
+            "small_thumbnail": "./small_thumbs/608/byakugoji_jizo_in_park.jpg"
+          }
+        ],
+        "path": "./images/608/byakugoji_jizo_in_park.jpg",
+        "small_thumbnail": "./small_thumbs/608/byakugoji_jizo_in_park.jpg",
+        "mid_thumbnail": "./mid_thumbs/608/byakugoji_jizo_in_park.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8469888382338,
-          34.67000892544025
+          135.8469632490892,
+          34.670120443645054
         ]
       }
     },
@@ -19590,7 +19788,7 @@
         "description": "高畑町 国際研修館脇の地蔵",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ49番、要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19610,10 +19808,31 @@
             "note": "49番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 993,
+            "poiid": 610,
+            "description": "高畑町 国際研修館脇の地蔵",
+            "path": "./images/610/takabatake_kokusaikenshukan_jizo_1.jpg",
+            "date": "2020/08/09 13:06:55",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/610/takabatake_kokusaikenshukan_jizo_1.jpg",
+            "small_thumbnail": "./small_thumbs/610/takabatake_kokusaikenshukan_jizo_1.jpg"
+          },
+          {
+            "fid": 994,
+            "poiid": 610,
+            "description": "高畑町 国際研修館脇の地蔵",
+            "path": "./images/610/takabatake_kokusaikenshukan_jizo_2.jpg",
+            "date": "2020/08/09 13:07:00",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/610/takabatake_kokusaikenshukan_jizo_2.jpg",
+            "small_thumbnail": "./small_thumbs/610/takabatake_kokusaikenshukan_jizo_2.jpg"
+          }
+        ],
+        "path": "./images/610/takabatake_kokusaikenshukan_jizo_1.jpg",
+        "small_thumbnail": "./small_thumbs/610/takabatake_kokusaikenshukan_jizo_1.jpg",
+        "mid_thumbnail": "./mid_thumbs/610/takabatake_kokusaikenshukan_jizo_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19629,10 +19848,10 @@
         "fid": 611,
         "type": "地蔵",
         "title": "地蔵堂",
-        "description": "白毫寺町 大通りを東に入ったところの地蔵堂",
+        "description": "白毫寺町南限近く 大通りを東に入ったところの地蔵堂",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "飛鳥地蔵マップ50番、要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
@@ -19652,10 +19871,41 @@
             "note": "50番"
           }
         ],
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 995,
+            "poiid": 611,
+            "description": "白毫寺町南限近く 大通り東側の地蔵堂 隣の浮彫り五輪塔",
+            "path": "./images/611/byakugoji_relief_stupa_by_southmost_jizodo.jpg",
+            "date": "2020/08/09 13:00:37",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/611/byakugoji_relief_stupa_by_southmost_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/611/byakugoji_relief_stupa_by_southmost_jizodo.jpg"
+          },
+          {
+            "fid": 996,
+            "poiid": 611,
+            "description": "白毫寺町南限近く 大通り東側の地蔵堂",
+            "path": "./images/611/byakugoji_southmost_jizodo.jpg",
+            "date": "2020/08/09 13:00:22",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/611/byakugoji_southmost_jizodo.jpg",
+            "small_thumbnail": "./small_thumbs/611/byakugoji_southmost_jizodo.jpg"
+          },
+          {
+            "fid": 997,
+            "poiid": 611,
+            "description": "白毫寺町南限近く 大通り東側の地蔵堂 内部",
+            "path": "./images/611/byakugoji_southmost_jizodo_inside.jpg",
+            "date": "2020/08/09 13:00:30",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/611/byakugoji_southmost_jizodo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/611/byakugoji_southmost_jizodo_inside.jpg"
+          }
+        ],
+        "path": "./images/611/byakugoji_relief_stupa_by_southmost_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/611/byakugoji_relief_stupa_by_southmost_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/611/byakugoji_relief_stupa_by_southmost_jizodo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -20110,15 +20360,46 @@
         "description": "白毫寺町 薬師瑠璃光如来",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "以前一度伺ったが、記録がないため要再調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
         "address": "白毫寺町",
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 998,
+            "poiid": 620,
+            "description": "白毫寺町 薬師瑠璃光如来",
+            "path": "./images/620/byakugoji_ruriko_yakushi.jpg",
+            "date": "2020/08/09 12:10:25",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/620/byakugoji_ruriko_yakushi.jpg",
+            "small_thumbnail": "./small_thumbs/620/byakugoji_ruriko_yakushi.jpg"
+          },
+          {
+            "fid": 999,
+            "poiid": 620,
+            "description": "白毫寺町 薬師瑠璃光如来 本尊",
+            "path": "./images/620/byakugoji_ruriko_yakushi_honzon.jpg",
+            "date": "2020/08/09 12:10:48",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/620/byakugoji_ruriko_yakushi_honzon.jpg",
+            "small_thumbnail": "./small_thumbs/620/byakugoji_ruriko_yakushi_honzon.jpg"
+          },
+          {
+            "fid": 1000,
+            "poiid": 620,
+            "description": "白毫寺町 薬師瑠璃光如来 庚申？",
+            "path": "./images/620/byakugoji_ruriko_yakushi_koshin.jpg",
+            "date": "2020/08/09 12:11:01",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/620/byakugoji_ruriko_yakushi_koshin.jpg",
+            "small_thumbnail": "./small_thumbs/620/byakugoji_ruriko_yakushi_koshin.jpg"
+          }
+        ],
+        "path": "./images/620/byakugoji_ruriko_yakushi.jpg",
+        "small_thumbnail": "./small_thumbs/620/byakugoji_ruriko_yakushi.jpg",
+        "mid_thumbnail": "./mid_thumbs/620/byakugoji_ruriko_yakushi.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -20137,15 +20418,56 @@
         "description": "南永井町 池の土手下の地蔵堂",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "Google StreetViewで発見。要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
         "address": "南永井町",
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 1001,
+            "poiid": 621,
+            "description": "南永井町 池の土手下の地蔵堂",
+            "path": "./images/621/minaminagai_jizodo_under_pond.jpg",
+            "date": "2020/08/09 14:26:26",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/621/minaminagai_jizodo_under_pond.jpg",
+            "small_thumbnail": "./small_thumbs/621/minaminagai_jizodo_under_pond.jpg"
+          },
+          {
+            "fid": 1002,
+            "poiid": 621,
+            "description": "南永井町 池の土手下の地蔵堂 内部中央",
+            "path": "./images/621/minaminagai_jizodo_under_pond_inside_center.jpg",
+            "date": "2020/08/09 14:26:50",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/621/minaminagai_jizodo_under_pond_inside_center.jpg",
+            "small_thumbnail": "./small_thumbs/621/minaminagai_jizodo_under_pond_inside_center.jpg"
+          },
+          {
+            "fid": 1003,
+            "poiid": 621,
+            "description": "南永井町 池の土手下の地蔵堂 内部左",
+            "path": "./images/621/minaminagai_jizodo_under_pond_inside_left.jpg",
+            "date": "2020/08/09 14:26:55",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/621/minaminagai_jizodo_under_pond_inside_left.jpg",
+            "small_thumbnail": "./small_thumbs/621/minaminagai_jizodo_under_pond_inside_left.jpg"
+          },
+          {
+            "fid": 1004,
+            "poiid": 621,
+            "description": "南永井町 池の土手下の地蔵堂 内部右",
+            "path": "./images/621/minaminagai_jizodo_under_pond_inside_right.jpg",
+            "date": "2020/08/09 14:26:38",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/621/minaminagai_jizodo_under_pond_inside_right.jpg",
+            "small_thumbnail": "./small_thumbs/621/minaminagai_jizodo_under_pond_inside_right.jpg"
+          }
+        ],
+        "path": "./images/621/minaminagai_jizodo_under_pond.jpg",
+        "small_thumbnail": "./small_thumbs/621/minaminagai_jizodo_under_pond.jpg",
+        "mid_thumbnail": "./mid_thumbs/621/minaminagai_jizodo_under_pond.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -20593,6 +20915,354 @@
         "coordinates": [
           135.83426331999502,
           34.675908465132586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 631,
+        "type": "石仏等",
+        "title": "名号石碑など群",
+        "description": "白毫寺町 ブロック塀の向こう、名号石碑など多数",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "白毫寺町",
+        "files": [
+          {
+            "fid": 1005,
+            "poiid": 631,
+            "description": "白毫寺町 名号石碑など群",
+            "path": "./images/631/byakugoji_myogo_stones.jpg",
+            "date": "2020/08/09 12:03:50",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/631/byakugoji_myogo_stones.jpg",
+            "small_thumbnail": "./small_thumbs/631/byakugoji_myogo_stones.jpg"
+          }
+        ],
+        "path": "./images/631/byakugoji_myogo_stones.jpg",
+        "small_thumbnail": "./small_thumbs/631/byakugoji_myogo_stones.jpg",
+        "mid_thumbnail": "./mid_thumbs/631/byakugoji_myogo_stones.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84739758619017,
+          34.67245019774163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 632,
+        "type": "石仏等",
+        "title": "名号石碑など",
+        "description": "白毫寺町 大量の名号石碑や浮彫り五輪塔など",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "白毫寺町",
+        "files": [
+          {
+            "fid": 1006,
+            "poiid": 632,
+            "description": "白毫寺町 多数の名号石碑、浮彫り五輪塔など",
+            "path": "./images/632/byakugoji_many_stones_1.jpg",
+            "date": "2020/08/09 12:16:47",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/632/byakugoji_many_stones_1.jpg",
+            "small_thumbnail": "./small_thumbs/632/byakugoji_many_stones_1.jpg"
+          },
+          {
+            "fid": 1007,
+            "poiid": 632,
+            "description": "白毫寺町 多数の名号石碑、浮彫り五輪塔など",
+            "path": "./images/632/byakugoji_many_stones_2.jpg",
+            "date": "2020/08/09 12:17:21",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/632/byakugoji_many_stones_2.jpg",
+            "small_thumbnail": "./small_thumbs/632/byakugoji_many_stones_2.jpg"
+          }
+        ],
+        "path": "./images/632/byakugoji_many_stones_1.jpg",
+        "small_thumbnail": "./small_thumbs/632/byakugoji_many_stones_1.jpg",
+        "mid_thumbnail": "./mid_thumbs/632/byakugoji_many_stones_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84755822889036,
+          34.670573989808425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 633,
+        "type": "地蔵",
+        "title": "火葬場入り口の地蔵群",
+        "description": "白毫寺町 火葬場入り口の地蔵群",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "白毫寺町",
+        "files": [
+          {
+            "fid": 1008,
+            "poiid": 633,
+            "description": "白毫寺町 火葬場入り口の地蔵群",
+            "path": "./images/633/byakugoji_kasoba_entrance_jizos.jpg",
+            "date": "2020/08/09 12:38:54",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/633/byakugoji_kasoba_entrance_jizos.jpg",
+            "small_thumbnail": "./small_thumbs/633/byakugoji_kasoba_entrance_jizos.jpg"
+          },
+          {
+            "fid": 1009,
+            "poiid": 633,
+            "description": "白毫寺町 火葬場入り口の六字名号",
+            "path": "./images/633/byakugoji_kasoba_entrance_jizos_amida.jpg",
+            "date": "2020/08/09 12:39:01",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/633/byakugoji_kasoba_entrance_jizos_amida.jpg",
+            "small_thumbnail": "./small_thumbs/633/byakugoji_kasoba_entrance_jizos_amida.jpg"
+          },
+          {
+            "fid": 1010,
+            "poiid": 633,
+            "description": "白毫寺町 火葬場入り口の地蔵群 中央",
+            "path": "./images/633/byakugoji_kasoba_entrance_jizos_center.jpg",
+            "date": "2020/08/09 12:39:13",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/633/byakugoji_kasoba_entrance_jizos_center.jpg",
+            "small_thumbnail": "./small_thumbs/633/byakugoji_kasoba_entrance_jizos_center.jpg"
+          },
+          {
+            "fid": 1011,
+            "poiid": 633,
+            "description": "白毫寺町 火葬場入り口の地蔵群 向かって左",
+            "path": "./images/633/byakugoji_kasoba_entrance_jizos_left.jpg",
+            "date": "2020/08/09 12:39:18",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/633/byakugoji_kasoba_entrance_jizos_left.jpg",
+            "small_thumbnail": "./small_thumbs/633/byakugoji_kasoba_entrance_jizos_left.jpg"
+          },
+          {
+            "fid": 1012,
+            "poiid": 633,
+            "description": "白毫寺町 火葬場入り口の地蔵群 向かって右",
+            "path": "./images/633/byakugoji_kasoba_entrance_jizos_right.jpg",
+            "date": "2020/08/09 12:39:06",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/633/byakugoji_kasoba_entrance_jizos_right.jpg",
+            "small_thumbnail": "./small_thumbs/633/byakugoji_kasoba_entrance_jizos_right.jpg"
+          }
+        ],
+        "path": "./images/633/byakugoji_kasoba_entrance_jizos.jpg",
+        "small_thumbnail": "./small_thumbs/633/byakugoji_kasoba_entrance_jizos.jpg",
+        "mid_thumbnail": "./mid_thumbs/633/byakugoji_kasoba_entrance_jizos.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8490117871389,
+          34.66881072052717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 634,
+        "type": "地蔵",
+        "title": "六地蔵",
+        "description": "白毫寺町 高円高校脇の六地蔵",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "白毫寺町",
+        "files": [
+          {
+            "fid": 1013,
+            "poiid": 634,
+            "description": "白毫寺町 高円高校そばの六地蔵",
+            "path": "./images/634/rokujizo_near_takamado_hs.jpg",
+            "date": "2020/08/09 12:44:33",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/634/rokujizo_near_takamado_hs.jpg",
+            "small_thumbnail": "./small_thumbs/634/rokujizo_near_takamado_hs.jpg"
+          }
+        ],
+        "path": "./images/634/rokujizo_near_takamado_hs.jpg",
+        "small_thumbnail": "./small_thumbs/634/rokujizo_near_takamado_hs.jpg",
+        "mid_thumbnail": "./mid_thumbs/634/rokujizo_near_takamado_hs.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8471255923824,
+          34.66880177331959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 635,
+        "type": "地蔵",
+        "title": "地蔵堂",
+        "description": "藤原町 十六橋脇の地蔵堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "藤原町",
+        "files": [
+          {
+            "fid": 1014,
+            "poiid": 635,
+            "description": "藤原町 十六橋脇の地蔵堂",
+            "path": "./images/635/fujiwaracho_jizodo_near_juroku_bridge.jpg",
+            "date": "2020/08/09 13:46:59",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge.jpg",
+            "small_thumbnail": "./small_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge.jpg"
+          },
+          {
+            "fid": 1015,
+            "poiid": 635,
+            "description": "藤原町 十六橋脇の地蔵堂 内部奥左手",
+            "path": "./images/635/fujiwaracho_jizodo_near_juroku_bridge_inside_far_left.jpg",
+            "date": "2020/08/09 13:47:17",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge_inside_far_left.jpg",
+            "small_thumbnail": "./small_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge_inside_far_left.jpg"
+          },
+          {
+            "fid": 1016,
+            "poiid": 635,
+            "description": "藤原町 十六橋脇の地蔵堂 内部奥右手",
+            "path": "./images/635/fujiwaracho_jizodo_near_juroku_bridge_inside_far_right.jpg",
+            "date": "2020/08/09 13:47:11",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge_inside_far_right.jpg",
+            "small_thumbnail": "./small_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge_inside_far_right.jpg"
+          },
+          {
+            "fid": 1017,
+            "poiid": 635,
+            "description": "藤原町 十六橋脇の地蔵堂 内部手前左手",
+            "path": "./images/635/fujiwaracho_jizodo_near_juroku_bridge_inside_near_left.jpg",
+            "date": "2020/08/09 13:47:30",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge_inside_near_left.jpg",
+            "small_thumbnail": "./small_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge_inside_near_left.jpg"
+          },
+          {
+            "fid": 1018,
+            "poiid": 635,
+            "description": "藤原町 十六橋脇の地蔵堂 内部手前右手",
+            "path": "./images/635/fujiwaracho_jizodo_near_juroku_bridge_inside_near_right.jpg",
+            "date": "2020/08/09 13:47:24",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge_inside_near_right.jpg",
+            "small_thumbnail": "./small_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge_inside_near_right.jpg"
+          }
+        ],
+        "path": "./images/635/fujiwaracho_jizodo_near_juroku_bridge.jpg",
+        "small_thumbnail": "./small_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge.jpg",
+        "mid_thumbnail": "./mid_thumbs/635/fujiwaracho_jizodo_near_juroku_bridge.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84054650490435,
+          34.65215244359406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 636,
+        "type": "地蔵",
+        "title": "種子石碑のお堂",
+        "description": "横井五丁目 民家軒先種子石碑のお堂",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "横井五丁目",
+        "files": [
+          {
+            "fid": 1019,
+            "poiid": 636,
+            "description": "横井五丁目 民家軒先 種子石碑のお堂",
+            "path": "./images/636/yokoi5_shuji_stone.jpg",
+            "date": "2020/08/09 14:09:13",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/636/yokoi5_shuji_stone.jpg",
+            "small_thumbnail": "./small_thumbs/636/yokoi5_shuji_stone.jpg"
+          },
+          {
+            "fid": 1020,
+            "poiid": 636,
+            "description": "横井五丁目 民家軒先 種子石碑のお堂 内部",
+            "path": "./images/636/yokoi5_shuji_stone_inside_1.jpg",
+            "date": "2020/08/09 14:09:51",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/636/yokoi5_shuji_stone_inside_1.jpg",
+            "small_thumbnail": "./small_thumbs/636/yokoi5_shuji_stone_inside_1.jpg"
+          },
+          {
+            "fid": 1021,
+            "poiid": 636,
+            "description": "横井五丁目 民家軒先 種子石碑のお堂 内部",
+            "path": "./images/636/yokoi5_shuji_stone_inside_2.jpg",
+            "date": "2020/08/09 14:10:14",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/636/yokoi5_shuji_stone_inside_2.jpg",
+            "small_thumbnail": "./small_thumbs/636/yokoi5_shuji_stone_inside_2.jpg"
+          },
+          {
+            "fid": 1022,
+            "poiid": 636,
+            "description": "横井五丁目 民家軒先 種子石碑のお堂 内部",
+            "path": "./images/636/yokoi5_shuji_stone_inside_3.jpg",
+            "date": "2020/08/09 14:10:00",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/636/yokoi5_shuji_stone_inside_3.jpg",
+            "small_thumbnail": "./small_thumbs/636/yokoi5_shuji_stone_inside_3.jpg"
+          }
+        ],
+        "path": "./images/636/yokoi5_shuji_stone.jpg",
+        "small_thumbnail": "./small_thumbs/636/yokoi5_shuji_stone.jpg",
+        "mid_thumbnail": "./mid_thumbs/636/yokoi5_shuji_stone.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83143938088705,
+          34.65077153164621
         ]
       }
     }

@@ -5,7 +5,9 @@ const sharp = require('sharp');
 const files = fs.readJsonSync('../files.geojson');
 const new_files = Object.assign({}, files);
 new_files.features = [];
+let largestFileFid = 0;
 const fileBuffer = files.features.reduce((prev, curr) => {
+    if (curr.properties.fid > largestFileFid) largestFileFid = curr.properties.fid;
     prev[curr.properties.path] = 1;
     return prev;
 }, {});
@@ -28,15 +30,15 @@ folders.map((folder) => {
         if (image == 'description.json') return;
         const imagePath = `${folderPath}/${image}`;
         if (fileBuffer[imagePath]) return;
+        largestFileFid = largestFileFid + 1;
         fileNew.push({
+            fid: largestFileFid,
             path: imagePath,
             description: description[image],
             poiid: parseInt(folder)
         });
     });
 });
-
-console.log(fileNew);
 
 const promises = fileNew.map((curr) => {
     const path = curr.path;
@@ -56,7 +58,7 @@ const promises = fileNew.map((curr) => {
                         resolve({
                             "type": "Feature",
                             "properties": {
-                                "fid": null,
+                                "fid": curr.fid,
                                 "poiid": curr.poiid,
                                 "description": curr.description,
                                 "path": curr.path,
@@ -116,8 +118,14 @@ const promises = fileNew.map((curr) => {
 });
 
 Promise.all(promises).then((features) => {
-    new_files.features = features.map(feature => feature[0]);
-    fs.writeJsonSync('../files_new.geojson', new_files, {
+    features.map((feature) => {
+        files.features.push(feature[0]);
+    });
+    fs.writeJsonSync('../files.geojson', files, {
         spaces: '  '
     });
+    //new_files.features = features.map(feature => feature[0]);
+    //fs.writeJsonSync('../files_new.geojson', new_files, {
+    //    spaces: '  '
+    //});
 });
