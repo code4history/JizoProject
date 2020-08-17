@@ -481,6 +481,56 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/7/Fukutoku_Enmei_Jizo_(Nara).jpg",
             "small_thumbnail": "./small_thumbs/7/Fukutoku_Enmei_Jizo_(Nara).jpg"
+          },
+          {
+            "fid": 1034,
+            "poiid": 7,
+            "description": "今市町 福徳延命地蔵尊",
+            "path": "./images/7/imaichi_fukutoku_enmei_jizo.jpg",
+            "date": "2020/08/09 14:54:31",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/7/imaichi_fukutoku_enmei_jizo.jpg",
+            "small_thumbnail": "./small_thumbs/7/imaichi_fukutoku_enmei_jizo.jpg"
+          },
+          {
+            "fid": 1035,
+            "poiid": 7,
+            "description": "今市町 福徳延命地蔵尊 お堂",
+            "path": "./images/7/imaichi_fukutoku_enmei_jizo_odo.jpg",
+            "date": "2020/08/09 14:54:41",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/7/imaichi_fukutoku_enmei_jizo_odo.jpg",
+            "small_thumbnail": "./small_thumbs/7/imaichi_fukutoku_enmei_jizo_odo.jpg"
+          },
+          {
+            "fid": 1036,
+            "poiid": 7,
+            "description": "今市町 福徳延命地蔵尊 お堂内部",
+            "path": "./images/7/imaichi_fukutoku_enmei_jizo_odo_inside.jpg",
+            "date": "2020/08/09 14:55:09",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/7/imaichi_fukutoku_enmei_jizo_odo_inside.jpg",
+            "small_thumbnail": "./small_thumbs/7/imaichi_fukutoku_enmei_jizo_odo_inside.jpg"
+          },
+          {
+            "fid": 1037,
+            "poiid": 7,
+            "description": "今市町 福徳延命地蔵尊 脇の祠",
+            "path": "./images/7/imaichi_fukutoku_enmei_jizo_shrine.jpg",
+            "date": "2020/08/09 14:54:47",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/7/imaichi_fukutoku_enmei_jizo_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/7/imaichi_fukutoku_enmei_jizo_shrine.jpg"
+          },
+          {
+            "fid": 1038,
+            "poiid": 7,
+            "description": "今市町 福徳延命地蔵尊 脇の祠内部 白蛇神か",
+            "path": "./images/7/imaichi_fukutoku_enmei_jizo_shrine_inside.jpg",
+            "date": "2020/08/09 14:54:57",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/7/imaichi_fukutoku_enmei_jizo_shrine_inside.jpg",
+            "small_thumbnail": "./small_thumbs/7/imaichi_fukutoku_enmei_jizo_shrine_inside.jpg"
           }
         ],
         "path": "./images/7/Fukutoku_Enmei_Jizo_(Nara).jpg",
@@ -15857,6 +15907,16 @@
             "author": "Kohei Otsuka",
             "mid_thumbnail": "./mid_thumbs/269/Small_Shrines_in_Imaichi_Nara.jpg",
             "small_thumbnail": "./small_thumbs/269/Small_Shrines_in_Imaichi_Nara.jpg"
+          },
+          {
+            "fid": 1023,
+            "poiid": 269,
+            "description": "今市町 小祠",
+            "path": "./images/269/imaichi_small_shrine.jpg",
+            "date": "2020/08/09 14:52:43",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/269/imaichi_small_shrine.jpg",
+            "small_thumbnail": "./small_thumbs/269/imaichi_small_shrine.jpg"
           }
         ],
         "path": "./images/269/Small_Shrines_in_Imaichi_Nara.jpg",
@@ -19282,6 +19342,7 @@
           {
             "fid": 977,
             "poiid": 601,
+            "description": "白毫寺町 路地の地蔵 拡大",
             "path": "./images/601/byakugoji_jizo_in_smallroad_zoom.jpg",
             "date": "2020/08/09 12:17:50",
             "author": "Kohei Otsuka",
@@ -19903,9 +19964,9 @@
             "small_thumbnail": "./small_thumbs/611/byakugoji_southmost_jizodo_inside.jpg"
           }
         ],
-        "path": "./images/611/byakugoji_relief_stupa_by_southmost_jizodo.jpg",
-        "small_thumbnail": "./small_thumbs/611/byakugoji_relief_stupa_by_southmost_jizodo.jpg",
-        "mid_thumbnail": "./mid_thumbs/611/byakugoji_relief_stupa_by_southmost_jizodo.jpg"
+        "path": "./images/611/byakugoji_southmost_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/611/byakugoji_southmost_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/611/byakugoji_southmost_jizodo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19996,9 +20057,9 @@
             "small_thumbnail": "./small_thumbs/612/takabatake_honyakushi_jizodo_inside_right.jpg"
           }
         ],
-        "path": "./images/612/takabatake_honyakushi_jizodo_inside_center.jpg",
-        "small_thumbnail": "./small_thumbs/612/takabatake_honyakushi_jizodo_inside_center.jpg",
-        "mid_thumbnail": "./mid_thumbs/612/takabatake_honyakushi_jizodo_inside_center.jpg"
+        "path": "./images/612/takabatake_honyakushi_jizodo.jpg",
+        "small_thumbnail": "./small_thumbs/612/takabatake_honyakushi_jizodo.jpg",
+        "mid_thumbnail": "./mid_thumbs/612/takabatake_honyakushi_jizodo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -20483,24 +20544,85 @@
         "fid": 622,
         "type": "小祠",
         "title": "豊川大神",
-        "description": "今市町",
+        "description": "今市町 稲荷の石塚群",
         "wikipedia": null,
         "monumento": null,
-        "need_action": "Google StreetViewで発見。要現地調査。",
+        "need_action": "",
         "note": null,
         "originalCommons": null,
         "lost": false,
         "address": "今市町",
-        "files": [],
-        "path": null,
-        "small_thumbnail": null,
-        "mid_thumbnail": null
+        "files": [
+          {
+            "fid": 1024,
+            "poiid": 622,
+            "description": "今市町 豊川大神 石塚群",
+            "path": "./images/622/Iimaichi_toyokawa_stones_1.jpg",
+            "date": "2020/08/09 14:43:45",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/622/Iimaichi_toyokawa_stones_1.jpg",
+            "small_thumbnail": "./small_thumbs/622/Iimaichi_toyokawa_stones_1.jpg"
+          },
+          {
+            "fid": 1025,
+            "poiid": 622,
+            "description": "今市町 豊川大神 左の狐",
+            "path": "./images/622/imaichi_toyokawa_fox_left.jpg",
+            "date": "2020/08/09 14:43:35",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/622/imaichi_toyokawa_fox_left.jpg",
+            "small_thumbnail": "./small_thumbs/622/imaichi_toyokawa_fox_left.jpg"
+          },
+          {
+            "fid": 1026,
+            "poiid": 622,
+            "description": "今市町 豊川大神 右の狐",
+            "path": "./images/622/imaichi_toyokawa_fox_right.jpg",
+            "date": "2020/08/09 14:43:33",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/622/imaichi_toyokawa_fox_right.jpg",
+            "small_thumbnail": "./small_thumbs/622/imaichi_toyokawa_fox_right.jpg"
+          },
+          {
+            "fid": 1027,
+            "poiid": 622,
+            "description": "今市町 豊川大神 石塚群",
+            "path": "./images/622/imaichi_toyokawa_stones_2.jpg",
+            "date": "2020/08/09 14:43:58",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/622/imaichi_toyokawa_stones_2.jpg",
+            "small_thumbnail": "./small_thumbs/622/imaichi_toyokawa_stones_2.jpg"
+          },
+          {
+            "fid": 1028,
+            "poiid": 622,
+            "description": "今市町 豊川大神 一の鳥居",
+            "path": "./images/622/imaichi_toyokawa_torii_1.jpg",
+            "date": "2020/08/09 14:43:12",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/622/imaichi_toyokawa_torii_1.jpg",
+            "small_thumbnail": "./small_thumbs/622/imaichi_toyokawa_torii_1.jpg"
+          },
+          {
+            "fid": 1029,
+            "poiid": 622,
+            "description": "今市町 豊川大神 二の鳥居",
+            "path": "./images/622/imaichi_toyokawa_torii_2.jpg",
+            "date": "2020/08/09 14:43:27",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/622/imaichi_toyokawa_torii_2.jpg",
+            "small_thumbnail": "./small_thumbs/622/imaichi_toyokawa_torii_2.jpg"
+          }
+        ],
+        "path": "./images/622/imaichi_toyokawa_torii_1.jpg",
+        "small_thumbnail": "./small_thumbs/622/imaichi_toyokawa_torii_1.jpg",
+        "mid_thumbnail": "./mid_thumbs/622/imaichi_toyokawa_torii_1.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.82167547878046,
-          34.64569723436718
+          135.821825143284,
+          34.64564557257678
         ]
       }
     },
@@ -21263,6 +21385,74 @@
         "coordinates": [
           135.83143938088705,
           34.65077153164621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 637,
+        "type": "地蔵",
+        "title": "地蔵群",
+        "description": "今市町 ガマ池脇の地蔵群",
+        "wikipedia": null,
+        "monumento": null,
+        "need_action": null,
+        "note": null,
+        "originalCommons": null,
+        "lost": false,
+        "address": "今市町",
+        "files": [
+          {
+            "fid": 1030,
+            "poiid": 637,
+            "description": "今市町 ガマ池脇の地蔵群",
+            "path": "./images/637/imaichi_gamaike_jizos.jpg",
+            "date": "2020/08/09 14:44:43",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/637/imaichi_gamaike_jizos.jpg",
+            "small_thumbnail": "./small_thumbs/637/imaichi_gamaike_jizos.jpg"
+          },
+          {
+            "fid": 1031,
+            "poiid": 637,
+            "description": "今市町 ガマ池脇の内側の地蔵群",
+            "path": "./images/637/imaichi_gamaike_jizos_inside.jpg",
+            "date": "2020/08/09 14:44:58",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/637/imaichi_gamaike_jizos_inside.jpg",
+            "small_thumbnail": "./small_thumbs/637/imaichi_gamaike_jizos_inside.jpg"
+          },
+          {
+            "fid": 1032,
+            "poiid": 637,
+            "description": "今市町 ガマ池脇の外側の地蔵群",
+            "path": "./images/637/imaichi_gamaike_jizos_outside.jpg",
+            "date": "2020/08/09 14:44:51",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/637/imaichi_gamaike_jizos_outside.jpg",
+            "small_thumbnail": "./small_thumbs/637/imaichi_gamaike_jizos_outside.jpg"
+          },
+          {
+            "fid": 1033,
+            "poiid": 637,
+            "description": "今市町 ガマ池脇の地蔵群 浮彫り五輪塔",
+            "path": "./images/637/imaichi_gamaike_jizos_reliefs.jpg",
+            "date": "2020/08/09 14:44:47",
+            "author": "Kohei Otsuka",
+            "mid_thumbnail": "./mid_thumbs/637/imaichi_gamaike_jizos_reliefs.jpg",
+            "small_thumbnail": "./small_thumbs/637/imaichi_gamaike_jizos_reliefs.jpg"
+          }
+        ],
+        "path": "./images/637/imaichi_gamaike_jizos.jpg",
+        "small_thumbnail": "./small_thumbs/637/imaichi_gamaike_jizos.jpg",
+        "mid_thumbnail": "./mid_thumbs/637/imaichi_gamaike_jizos.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82159167019745,
+          34.64563042691521
         ]
       }
     }
