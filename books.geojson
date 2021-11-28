@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "name": "refs",
+  "features": [
+    { "type": "Feature", "properties": { "fid": 1, "type": "web", "title": "佐保川天満宮　佐保川地蔵尊", "editor": null, "publisher": "ならリビング.com", "published_at": null, "url": "http:\/\/www.naraliving.com\/sneaker\/nara_01.html" }, "geometry": null },
+    { "type": "Feature", "properties": { "fid": 2, "type": "book", "title": "奈良市史: 社寺編", "editor": "奈良市史編集審議会", "publisher": "吉川弘文館", "published_at": "1985", "url": null }, "geometry": null },
+    { "type": "Feature", "properties": { "fid": 3, "type": "web", "title": "佐保と戦争 -奈良市法蓮町の空襲-", "editor": null, "publisher": "奈良市佐保小学校", "published_at": null, "url": "http:\/\/www.naracity.ed.jp\/ele01\/index.cfm\/68,12731,c,html\/12731\/20140530-150823.pdf" }, "geometry": null },
+    { "type": "Feature", "properties": { "fid": 4, "type": "leaflet", "title": "飛鳥地蔵マップ", "editor": "奈良教育大学地理学研究室", "publisher": "奈良県公民館連絡協議会", "published_at": "2019", "url": null }, "geometry": null },
+    { "type": "Feature", "properties": { "fid": 5, "type": "web", "title": "ウィキぺディア", "editor": "ウィキメディア財団", "publisher": "ウィキメディア財団", "published_at": null, "url": "https://ja.wikipedia.org/" }, "geometry": null },
+    { "type": "Feature", "properties": { "fid": 6, "type": "web", "title": "Monumento", "editor": "株式会社まちクエスト", "publisher": "株式会社まちクエスト", "published_at": null, "url": "https://monumen.to/" }, "geometry": null },
+    { "type": "Feature", "properties": { "fid": 7, "type": "web", "title": "ウィキメディアコモンズ", "editor": "ウィキメディア財団", "publisher": "ウィキメディア財団", "published_at": null, "url": "https://commons.wikimedia.org/" }, "geometry": null }
+  ]
+}

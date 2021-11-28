@@ -2,7 +2,7 @@ const fs = require('fs-extra');
 const fetch = require('node-fetch');
 
 const pois = fs.readJsonSync('../pois.geojson');
-const files = fs.readJsonSync('../files.geojson');
+const files = fs.readJsonSync('../images.geojson');
 
 const filesBuffer = {};
 files.features.map((curr) => {

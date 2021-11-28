@@ -1,7 +1,7 @@
 const fs = require('fs-extra');
 
 const pois = fs.readJsonSync('../pois.geojson');
-const files = fs.readJsonSync('../files.geojson');
+const files = fs.readJsonSync('../images.geojson');
 const refs = fs.readJsonSync('../refs.geojson');
 
 const refsBuffer = {};

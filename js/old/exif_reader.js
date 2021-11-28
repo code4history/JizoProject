@@ -1,7 +1,7 @@
 const ExifImage = require('exif').ExifImage;
 const fs = require('fs-extra');
 
-const files = fs.readJsonSync('../files.geojson');
+const files = fs.readJsonSync('../images.geojson');
 
 const promises = files.features.map((curr) => {
     return new Promise((resolve, reject) => {

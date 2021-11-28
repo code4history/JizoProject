@@ -2,7 +2,7 @@ const ExifImage = require('exif').ExifImage;
 const fs = require('fs-extra');
 const sharp = require('sharp');
 
-const files = fs.readJsonSync('../files.geojson');
+const files = fs.readJsonSync('../images.geojson');
 const new_files = Object.assign({}, files);
 new_files.features = [];
 let largestFileFid = 0;
@@ -121,7 +121,7 @@ Promise.all(promises).then((features) => {
     features.map((feature) => {
         files.features.push(feature[0]);
     });
-    fs.writeJsonSync('../files.geojson', files, {
+    fs.writeJsonSync('../images.geojson', files, {
         spaces: '  '
     });
     //new_files.features = features.map(feature => feature[0]);

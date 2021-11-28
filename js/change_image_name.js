@@ -11,7 +11,7 @@ function replacer(path) {
     return path;
 }
 
-const files = fs.readJsonSync('../files.geojson');
+const files = fs.readJsonSync('../images.geojson');
 files.features.map((curr) => {
     const path = curr.properties.path;
     const mid_thumb = curr.properties.mid_thumbnail;

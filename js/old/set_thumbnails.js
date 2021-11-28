@@ -2,7 +2,7 @@ const ExifImage = require('exif').ExifImage;
 const fs = require('fs-extra');
 const sharp = require('sharp');
 
-const files = fs.readJsonSync('../files.geojson');
+const files = fs.readJsonSync('../images.geojson');
 const promises = files.features.map((curr) => {
     const path = curr.properties.path;
     const mid_thumb = path.replace('./images', './mid_thumbs');
