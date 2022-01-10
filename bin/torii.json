@@ -1,0 +1,131 @@
+{
+  "version": "1.0.0",
+  "xlsx_file": "jizo_project.xlsx",
+  "geojson_file": "jizo_project.geojson",
+  "tables": {
+    "pois": {
+      "attrs": [
+        ["fid", "ID", "n"],
+        ["type", "種別", "s"],
+        ["title", "名称", "s"],
+        ["description", "説明", "s"],
+        ["brushup", "ブラッシュアップ", "b"],
+        ["need_action", "要アクション", "s"],
+        ["note", "ノート", "s"],
+        ["originalCommons", "元コモンズ情報", "s"],
+        ["lost", "消失フラグ", "b"],
+        ["primary_image", "優先画像ID", "n"],
+        ["address", "住所", "s"],
+        ["monumento", "monumen.to", "s"],
+        ["wikipedia", "ウィキペディア", "s"],
+        ["longitude", "経度", "n"],
+        ["latitude", "緯度", "n"]
+      ],
+      "merge": {
+        "images": {
+          "link": {
+            "fid": "poi"
+          },
+          "multiple": true
+        },
+        "books": {
+          "target": "refs",
+          "link": {
+            "fid": "poi"
+          },
+          "multiple": true
+        }
+      },
+      "image_sort": {
+        "priority_key": "primary_image",
+        "priority_prefix": "PRIM."
+      }
+    },
+    "images": {
+      "thumbnails": [
+        ["mid_thumbs", 800],
+        ["small_thumbs", 200]
+      ],
+      "defaults": {
+        "poi": "poi.fid",
+        "shooting_date": "info.shooting_date",
+        "shooter": "info.shooter",
+        "description": "poi.name"
+      },
+      "attrs": [
+        ["fid", "ID", "n"],
+        ["poi", "地物ID", "n"],
+        ["description", "説明", "s"],
+        ["path", "画像パス", "s"],
+        ["shooting_date", "撮影日", "s"],
+        ["shooter", "撮影者", "s"],
+        ["mid_thumbs", "中サイズサムネイル", "s"],
+        ["small_thumbs", "小サイズサムネイル", "s"]
+      ],
+      "merge": {
+        "poi": {
+          "delete": true
+        },
+        "fid": {
+          "delete": true
+        }
+      }
+    },
+    "refs": {
+      "attrs": [
+        ["fid", "ID", "n"],
+        ["poi", "地物ID", "n"],
+        ["book", "書籍ID", "n"],
+        ["description", "説明", "s"],
+        ["anchor", "情報アンカ", "s"]
+      ],
+      "merge": {
+        "book_": {
+          "target": "books",
+          "link": {
+            "book": "fid"
+          },
+          "delete": true
+        },
+        "book": {
+          "delete": true
+        },
+        "type": {
+          "copy": "book_.type"
+        },
+        "title": {
+          "copy": "book_.title"
+        },
+        "editor": {
+          "copy": "book_.editor"
+        },
+        "publisher": {
+          "copy": "book_.publisher"
+        },
+        "published_at": {
+          "copy": "book_.published_at"
+        },
+        "url": {
+          "copy": "book_.url"
+        },
+        "poi": {
+          "delete": true
+        },
+        "fid": {
+          "delete": true
+        }
+      }
+    },
+    "books": {
+      "attrs": [
+        ["fid", "ID", "n"],
+        ["type", "種別", "s"],
+        ["title", "書籍名", "s"],
+        ["editor", "著者", "s"],
+        ["publisher", "出版社", "s"],
+        ["published_at", "出版年", "s"],
+        ["url", "URL", "s"]
+      ]
+    }
+  }
+}

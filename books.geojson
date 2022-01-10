@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "refs",
+  "name": "books",
   "features": [
     { "type": "Feature", "properties": { "fid": 1, "type": "web", "title": "佐保川天満宮　佐保川地蔵尊", "editor": null, "publisher": "ならリビング.com", "published_at": null, "url": "http:\/\/www.naraliving.com\/sneaker\/nara_01.html" }, "geometry": null },
     { "type": "Feature", "properties": { "fid": 2, "type": "book", "title": "奈良市史: 社寺編", "editor": "奈良市史編集審議会", "publisher": "吉川弘文館", "published_at": "1985", "url": null }, "geometry": null },

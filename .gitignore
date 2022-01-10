@@ -10,3 +10,6 @@ pois_*.geojson
 refs_*.geojson
 files_*.geojson
 images/*/description.json
+bin/qgis2Xlsx_*
+bin/xlsx2Qgis_*
+bin/torii_local.json
