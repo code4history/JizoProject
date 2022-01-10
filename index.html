@@ -16,18 +16,18 @@
 <script type="text/html" id="popup-template">
     <div class="poi">
         <h2><%= title %> (<%= address %>)</h2>
-        <a href="<%- path %>" target="_blank"><img class="represent" src="<%- mid_thumbnail %>" title="<%= files.reduce((prev, file) => { return path === file.path ? file.description : prev }, null) %>"></a><br>
+        <a href="<%- path %>" target="_blank"><img class="represent" src="<%- mid_thumbs %>" title="<%= images.reduce((prev, image) => { return path === image.path ? image.description : prev }, null) %>"></a><br>
         <% if (description) { %><b>記述:</b> <%= description %><br><% } %>
         <% if (note) { %><b>メモ:</b> <%= note %><br><% } %>
         <% if (lost) { %><b>現況:</b> 現存せず<br><% } %>
         <% if (need_action) { %><b>アクション要:</b> <%= need_action %><br><% } %>
-        <% if (files.length > 1) { %>
+        <% if (images.length > 1) { %>
         <b>その他の画像:</b><br>
         <div class="parent">
-            <% files.map(function(file) { %>
-            <% if (file.path != path) { %>
+            <% images.map(function(image) { %>
+            <% if (image.path != path) { %>
             <div class="child">
-                <div><a href="<%- file.path %>" target="_blank"><img src="<%- file.small_thumbnail %>" title="<%= file.description %>"></a></div>
+                <div><a href="<%- image.path %>" target="_blank"><img src="<%- image.small_thumbs %>" title="<%= image.description %>"></a></div>
             </div>
             <% } %>
             <% }) %>
