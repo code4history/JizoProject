@@ -1,20 +1,50 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Manifest -->
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
-    <link rel="stylesheet" href="./assets/L.Control.Locate.min.css" />
-    <link rel="stylesheet" href="./assets/style.css" />
-</head>
-<body>
-<div id="mapid"></div>
-
-<a href="https://github.com/code4history/JizoProject/wiki"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 500" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
-
-<script type="text/html" id="popup-template">
-    <div class="poi">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css">
+    <link rel="stylesheet" href="assets/L.Control.Locate.min.css">
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="icon" type="image/png" sizes="196x196" href="icons/favicon-196.png">
+    <link rel="apple-touch-icon" href="icons/apple-icon-180.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2048-2732.jpg" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2732-2048.jpg" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1668-2388.jpg" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2388-1668.jpg" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1536-2048.jpg" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2048-1536.jpg" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1668-2224.jpg" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2224-1668.jpg" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1620-2160.jpg" media="(device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2160-1620.jpg" media="(device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1284-2778.jpg" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2778-1284.jpg" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1170-2532.jpg" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2532-1170.jpg" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1125-2436.jpg" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2436-1125.jpg" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1242-2688.jpg" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2688-1242.jpg" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-828-1792.jpg" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1792-828.jpg" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1242-2208.jpg" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2208-1242.jpg" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-750-1334.jpg" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1334-750.jpg" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-640-1136.jpg" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1136-640.jpg" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+  </head>
+  <body>
+    <div id="mapid"></div>
+    <a class="github-fork-ribbon" href="https://github.com/code4history/JizoProject/wiki" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
+    <script type="text/html" id="popup-template">
+      <div class="poi">
         <h2><%= title %> (<%= address %>)</h2>
         <a href="<%- path %>" target="_blank"><img class="represent" src="<%- mid_thumbs %>" title="<%= images.reduce((prev, image) => { return path === image.path ? image.description : prev }, null) %>"></a><br>
         <% if (description) { %><b>記述:</b> <%= description %><br><% } %>
@@ -24,57 +54,65 @@
         <% if (images.length > 1) { %>
         <b>その他の画像:</b><br>
         <div class="parent">
-            <% images.map(function(image) { %>
-            <% if (image.path != path) { %>
-            <div class="child">
-                <div><a href="<%- image.path %>" target="_blank"><img src="<%- image.small_thumbs %>" title="<%= image.description %>"></a></div>
-            </div>
-            <% } %>
-            <% }) %>
+          <% images.map(function(image) { %>
+          <% if (image.path != path) { %>
+          <div class="child">
+            <div><a href="<%- image.path %>" target="_blank"><img src="<%- image.small_thumbs %>" title="<%= image.description %>"></a></div>
+          </div>
+          <% } %>
+          <% }) %>
         </div>
         <% } %>
-    </div>
-</script>
-
-<script> MAP_CFG = {
-    latLng: [
-        34.66472542913676,
-        135.83543371143801
-    ],
-    zoom: 15,
-    minZoom: 5,
-    maxZoom: 20,
-    maxNativeZoom: 19,
-    geoJson: './jizo_project.geojson',
-    checkProperty: 'title',
-    icon: (point, latlng) => {
-        const props = point.properties;
-        let iconUrl = './assets/hotoke.png';
-        let width = 43;
-        let height = 48;
-        if (props.type === '地蔵') {
+      </div>
+    </script>
+    <script>
+      window.addEventListener('load', function() {
+        if ('serviceWorker' in navigator) {
+          navigator.serviceWorker.register("sw.js")
+                  .then(function(registration) {
+                    console.log("sw registed.");
+                  }).catch(function(error) {
+            console.warn("sw error.", error);
+          });
+        }
+      });
+      MAP_CFG = {
+        latLng: [
+          34.66472542913676,
+          135.83543371143801
+        ],
+        zoom: 15,
+        minZoom: 5,
+        maxZoom: 20,
+        maxNativeZoom: 19,
+        geoJson: './jizo_project.geojson',
+        checkProperty: 'title',
+        icon: (point, latlng) => {
+          const props = point.properties;
+          let iconUrl = './assets/hotoke.png';
+          let width = 43;
+          let height = 48;
+          if (props.type === '地蔵') {
             iconUrl = './assets/jizo.png';
             width = 35;
-        } else if (props.type === '小祠') {
+          } else if (props.type === '小祠') {
             iconUrl = './assets/jinja.png';
             width = 52;
-        }
-
-        if (props.lost) iconUrl = iconUrl.replace('.png', '_sepia.png');
-        else if (props.need_action) iconUrl = iconUrl.replace('.png', '_surprise.png');
-
-        return L.marker(latlng, {
+          }
+          if (props.lost) iconUrl = iconUrl.replace('.png', '_sepia.png');
+          else if (props.need_action) iconUrl = iconUrl.replace('.png', '_surprise.png');
+          return L.marker(latlng, {
             icon: L.icon({
-                iconUrl: iconUrl,
-                iconSize: [width, height],
-                iconAnchor: [width / 2, height]
+              iconUrl: iconUrl,
+              iconSize: [width, height],
+              iconAnchor: [width / 2, height]
             })
-        });
-    }
-} </script>
-
-<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet-src.js"></script>
-<script src="./assets/L.Control.Locate.js"></script>
-<script src="./assets/geojson-popup.js"></script>
-</body>
+          });
+        }
+      }
+    </script>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet-src.js"></script>
+    <script src="assets/L.Control.Locate.js"></script>
+    <script src="assets/geojson-popup.js"></script>
+  </body>
 </html>
