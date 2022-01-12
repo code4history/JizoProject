@@ -31,10 +31,23 @@ img.represent {
 
 .leaflet-popup-content {
     border-radius: 6px;
-    min-width: 300px !important;
-    max-width: 400px !important;
-    max-height: 200px;
+    min-width: 400px !important;
+    max-width: 500px !important;
+    max-height: 600px;
     overflow: auto;
+}
+
+@media screen and (max-width: 600px) {
+    .leaflet-popup-content {
+        min-width: 300px !important;
+        max-width: 400px !important;
+    }
+}
+
+@media screen and (max-height: 700px) {
+    .leaflet-popup-content {
+        max-height: 400px;
+    }
 }
 
 .parent {

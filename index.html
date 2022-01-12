@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css">
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/L.Control.Locate.min.css">
     <link rel="stylesheet" href="assets/style.css">
     <link rel="icon" type="image/png" sizes="196x196" href="icons/favicon-196.png">
@@ -42,29 +43,17 @@
   </head>
   <body>
     <div id="mapid"></div>
+    <div id="modalbase"></div>
     <a class="github-fork-ribbon" href="https://github.com/code4history/JizoProject/wiki" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
-    <script type="text/html" id="popup-template">
-      <div class="poi">
-        <h2><%= title %> (<%= address %>)</h2>
-        <a href="<%- path %>" target="_blank"><img class="represent" src="<%- mid_thumbs %>" title="<%= images.reduce((prev, image) => { return path === image.path ? image.description : prev }, null) %>"></a><br>
-        <% if (description) { %><b>記述:</b> <%= description %><br><% } %>
-        <% if (note) { %><b>メモ:</b> <%= note %><br><% } %>
-        <% if (lost) { %><b>現況:</b> 現存せず<br><% } %>
-        <% if (need_action) { %><b>アクション要:</b> <%= need_action %><br><% } %>
-        <% if (images.length > 1) { %>
-        <b>その他の画像:</b><br>
-        <div class="parent">
-          <% images.map(function(image) { %>
-          <% if (image.path != path) { %>
-          <div class="child">
-            <div><a href="<%- image.path %>" target="_blank"><img src="<%- image.small_thumbs %>" title="<%= image.description %>"></a></div>
-          </div>
-          <% } %>
-          <% }) %>
-        </div>
-        <% } %>
-      </div>
-    </script>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet-src.js"></script>
+    <script src="assets/L.Control.Locate.js"></script>
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js"></script>
+    <script src="assets/leaflet-mapbox-gl.js"></script>
+    <script src="https://unpkg.com/quyuanjs@0.0.7/dist/quyuan.min.js"></script>
+    <script src="assets/popup_template.js"></script>
+    <script src="assets/icon_template.js"></script>
+    <script src="assets/twitter_Intent_url.js"></script>
+    <script src="assets/oms.min.js"></script>
     <script>
       window.addEventListener('load', function() {
         if ('serviceWorker' in navigator) {
@@ -76,43 +65,202 @@
           });
         }
       });
-      MAP_CFG = {
-        latLng: [
-          34.66472542913676,
-          135.83543371143801
-        ],
-        zoom: 15,
-        minZoom: 5,
-        maxZoom: 20,
-        maxNativeZoom: 19,
-        geoJson: './jizo_project.geojson',
-        checkProperty: 'title',
-        icon: (point, latlng) => {
-          const props = point.properties;
-          let iconUrl = './assets/hotoke.png';
-          let width = 43;
-          let height = 48;
-          if (props.type === '地蔵') {
-            iconUrl = './assets/jizo.png';
-            width = 35;
-          } else if (props.type === '小祠') {
-            iconUrl = './assets/jinja.png';
-            width = 52;
-          }
-          if (props.lost) iconUrl = iconUrl.replace('.png', '_sepia.png');
-          else if (props.need_action) iconUrl = iconUrl.replace('.png', '_surprise.png');
-          return L.marker(latlng, {
-            icon: L.icon({
-              iconUrl: iconUrl,
-              iconSize: [width, height],
-              iconAnchor: [width / 2, height]
-            })
+      const accessToken =
+        "pk.eyJ1IjoicmVraXNoaWtva3VkbyIsImEiOiJjazRoMmF3dncwODU2M2ttdzI2aDVqYXVwIn0.8Hb9sekgjfck6Setxk5uVg";
+      const style = "mapbox://styles/moritoru/ck4s6w8bd0sb51cpp9vn7ztty";
+      const latLng = [34.66472542913676, 135.83543371143801];
+      const zoom = 15;
+      const minZoom = 5;
+      const maxZoom = 21;
+      const twitInit = `\n==\n* 上下の==の間を消して説明を投稿してください、その外は修正しないでください\n* 添付された写真はCreative Commons 4.0 BY-SAの条件で誰でも使えるオープンデータになることを了承されたものとみなします\n==\n`;
+      const hashTags = ['奈良地蔵'];
+      const geoJson = "jizo_project.geojson";
+      const mymap = L.map("mapid", {
+        maxZoom: maxZoom,
+      }).setView(latLng, zoom);
+      const roundDec = (val, level) => {
+        const powVal = Math.pow(10, level);
+        return Math.round(val * powVal) / powVal;
+      };
+      L.mapboxGL({
+        accessToken: accessToken,
+        style: style,
+        maxZoom: maxZoom,
+        minZoom: minZoom,
+      }).addTo(mymap);
+      L.control
+        .locate({
+          icon: "fa fa-crosshairs",
+        })
+        .addTo(mymap);
+      // see here: https://github.com/Fallstop/OverlappingMarkerSpiderfier-Leaflet#construction
+      const oms = new OverlappingMarkerSpiderfier(mymap, L, {
+        keepSpiderfied: true,
+      });
+      let lastClickedMarker = null;
+      let lastClickedMarkerOriginalPopupContent = null;
+      let lastClickedMarkerOriginalLatlng = null;
+      let isEditingMarker = false;
+      let spiderfyStatus = false;
+      fetch(geoJson)
+        .then(async (data) => data.json())
+        .then((geojson) => {
+          return Quyuan.templateExtractor({
+            geojson,
+            templates: {
+              pin: iconTemplate,
+              html: popupHtmlTemplate,
+            },
+            options: {
+              nunjucks: true,
+            }
           });
+        })
+        .then((geojson) => {
+          Quyuan.setUpModalForViewer("modalbase");
+          geojson.features.forEach((feature) => {
+            if (feature.geometry) {
+              const icons = feature.result.pin.split(',');
+              const iconUrl = icons[0];
+              const width = parseInt(icons[1]);
+              const height = parseInt(icons[2]);
+              const iconOptions = {
+                iconUrl,
+                iconSize: [width, height],
+                iconAnchor: [width / 2, height],
+                popupAnchor: [0, -1 * height],
+              };
+              // source file coordinates are ordered by lnglat, but should be latlng.
+              const marker = L.marker(feature.geometry.coordinates.reverse(), {
+                icon: L.icon(iconOptions),
+              }).bindPopup(feature.result.html);
+              marker.on("click", (e) => {
+                if (!isEditingMarker) {
+                  lastClickedMarker = e.sourceTarget;
+                  lastClickedMarkerOriginalLatlng = e.latlng;
+                }
+                const slideCount = document.querySelectorAll(
+                  ":scope .swiper .swiper-slide"
+                ).length;
+                Quyuan.createSwiper({
+                  loop: slideCount > 1
+                });
+              });
+              marker.addTo(mymap);
+              oms.addMarker(marker);
+            }
+          });
+        });
+      oms.addListener("spiderfy", (markers) => {
+        spiderfyStatus = true;
+        mymap.closePopup();
+      });
+      oms.addListener("unspiderfy", (markers) => {
+        setTimeout(() => {
+          spiderfyStatus = false;
+        }, 100)
+      });
+      const hiddenMarkers = () => {
+        mymap.eachLayer((layer) => {
+          if (layer.options.icon instanceof L.Icon) {
+            layer._hiddenForApplyPoi = true;
+            layer.getElement().style.visibility = "hidden";
+          }
+        });
+      };
+      const visibleMarkers = () => {
+        mymap.eachLayer((layer) => {
+          if (layer._hiddenForApplyPoi) {
+            layer._hiddenForApplyPoi = false;
+            layer.getElement().style.visibility = "visible";
+          }
+        });
+      };
+      let newMarker = null;
+      const removeNewMarker = () => {
+        if (newMarker) {
+          mymap.removeLayer(newMarker);
+          newMarker = null;
         }
-      }
+      };
+      const prepareEditMarker = (poiId) => {
+        const ok = window.confirm("POIの修正提案を行いますか？");
+        if (!ok) return;
+        const proposeMovingPosition =
+          window.confirm("POIの位置も修正しますか？");
+        lastClickedMarker.closePopup();
+        if (!proposeMovingPosition) {
+          const text = `POI ID: ${poiId} ${twitInit}`;
+          const href = createTwitterIntentUrl({
+            text,
+            //url: "https://code4history.dev/TatebayashiStones/",
+            hashtags: hashTags,
+          });
+          window.open(href, "_blank", "noreferrer");
+        } else {
+          oms.unspiderfy();
+          hiddenMarkers();
+          lastClickedMarkerOriginalPopupContent = lastClickedMarker
+            .getPopup()
+            .getContent();
+          lastClickedMarker.getElement().style.visibility = "visible";
+          oms.removeMarker(lastClickedMarker);
+          lastClickedMarker.dragging.enable();
+          lastClickedMarker.on("dragend", () => {
+            const latlng = lastClickedMarker.getLatLng();
+            const text =
+              `POI ID: ${poiId}\n` + `緯度:${roundDec(latlng.lat,7)}, 経度:${roundDec(latlng.lng,7)} ${twitInit}`;
+            const href = createTwitterIntentUrl({
+              text,
+              //url: "https://code4history.dev/TatebayashiStones/",
+              hashtags: hashTags,
+            });
+            const aTag = `<a href="${href}" target="_blank" rel="noreferrer" onclick="proposeEditedMarker();">Twitterで投稿する</a>`;
+            const content = `POI ID: ${poiId}, 緯度:${roundDec(latlng.lat,7)}, 経度:${roundDec(latlng.lng,7)}<br>${aTag}`;
+            lastClickedMarker.setPopupContent(content);
+          });
+          isEditingMarker = true;
+        }
+      };
+      const proposeEditedMarker = () => {
+        lastClickedMarker.closePopup();
+        lastClickedMarker.dragging.disable();
+        lastClickedMarker.setPopupContent(
+          lastClickedMarkerOriginalPopupContent
+        );
+        lastClickedMarker.setLatLng(lastClickedMarkerOriginalLatlng);
+        isEditingMarker = false;
+        oms.addMarker(lastClickedMarker);
+        visibleMarkers();
+      };
+      mymap.on("click", (e) => {
+        if (spiderfyStatus) return;
+        const ok = window.confirm(
+          "POIの新規申請を行いますか？\nOKをクリックすると、マーカーが生成されるので任意の地点にドラッグして動かし、マーカーをクリックしたのち申請してください。"
+        );
+        if (!ok) return;
+        hiddenMarkers();
+        const createContent = (latlng) => {
+          const text = `緯度:${roundDec(latlng.lat,7)}, 経度:${roundDec(latlng.lng,7)} ${twitInit}`;
+          const href = createTwitterIntentUrl({
+            text,
+            //url: "https://code4history.dev/TatebayashiStones/",
+            hashtags: hashTags,
+          });
+          const aTag = `<a href="${href}" target="_blank" rel="noreferrer" onclick="visibleMarkers();removeNewMarker();">Twitterで投稿する</a>`;
+          const content = `緯度:${roundDec(latlng.lat,7)}, 経度:${roundDec(latlng.lng,7)} ${aTag}`;
+          return content;
+        };
+        newMarker = L.marker(e.latlng, {
+          draggable: true,
+        }).bindPopup(createContent(e.latlng));
+        newMarker.on("dragend", () => {
+          const newLatlng = newMarker.getLatLng();
+          const newContent = createContent(newLatlng);
+          newMarker.setPopupContent(newContent);
+        });
+        newMarker.addTo(mymap);
+      });
     </script>
-    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet-src.js"></script>
-    <script src="assets/L.Control.Locate.js"></script>
-    <script src="assets/geojson-popup.js"></script>
   </body>
 </html>
