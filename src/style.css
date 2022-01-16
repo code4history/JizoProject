@@ -1,86 +1,224 @@
 html, body {
-    height: 100%;
-    padding: 0;
-    margin: 0;
-}
-
-#mapid {
-    position: absolute;
-    width: 100%;
-    height: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
 }
 
 h1,h2 {
-    font-weight: 400;
-    margin: .6em 0;
+  font-weight: 400;
+  margin: .6em 0;
 }
 
 img.represent {
-    max-width: 100%;
-    max-height: 400px;
+  max-width: 100%;
+  max-height: 400px;
 }
 
 .leaflet-popup-content {
-    margin: 9px;
+  margin: 9px;
 }
 
 .leaflet-popup-content-wrapper {
-    border-radius: 6px;
-    min-width: auto;
+  border-radius: 6px;
+  min-width: auto;
 }
 
 .leaflet-popup-content {
-    border-radius: 6px;
-    min-width: 400px !important;
-    max-width: 500px !important;
-    max-height: 600px;
-    overflow: auto;
+  border-radius: 6px;
+  min-width: 400px !important;
+  max-width: 500px !important;
+  max-height: 600px;
+  overflow: auto;
 }
 
 @media screen and (max-width: 600px) {
-    .leaflet-popup-content {
-        min-width: 300px !important;
-        max-width: 400px !important;
-    }
+  .leaflet-popup-content {
+    min-width: 300px !important;
+    max-width: 400px !important;
+  }
 }
 
 @media screen and (max-height: 700px) {
-    .leaflet-popup-content {
-        max-height: 400px;
-    }
+  .leaflet-popup-content {
+    max-height: 400px;
+  }
 }
 
 .parent {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .child {
-    width: calc(50% - 10px);
-    margin: 5px;
+  width: calc(50% - 10px);
+  margin: 5px;
 }
 
 .child:before {
-    content:"";
-    display: block;
-    padding-top: 100%;
+  content:"";
+  display: block;
+  padding-top: 100%;
 }
 
 .child div {
-    margin-top: -100%;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    box-sizing: border-box;
+  margin-top: -100%;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
 }
 
 .child div img {
-    max-height: 100%;
-    max-width: 100%;
+  max-height: 100%;
+  max-width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+}
+
+#poipane {
+  z-index: 200;
+  position: fixed;
+  text-align: left;
+}
+
+#poipane .poipane-content-wrapper {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 9px;
+  margin-top: 23px;
+  line-height: 1.4;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: calc(100% - 32px);
+}
+
+#poipane .poipane-content {
+}
+
+#poipane .poipane-close-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 4px 4px 0 0;
+  border: none;
+  text-align: center;
+  width: 18px;
+  height: 14px;
+  font: 16px/14px Tahoma, Verdana, sans-serif;
+  color: #c3c3c3;
+  text-decoration: none;
+  font-weight: bold;
+  background: transparent;
+}
+
+#mapid {
+  z-index: 100;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+#container {
+  height: 100%;
+  width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+  #poipane {
     top: 0;
+    bottom: 0;
+    width: 30%;
+    height: 100%;
+    margin-right: 30px;
+  }
+  .open #poipane {
+    left: 0;
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, .5);
+  }
+
+  .open #mapid {
+    left: 30%;
+  }
+
+  .close #poipane {
+    left: -30%;
+  }
+
+  .close #mapid {
+    left: 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #poipane {
     left: 0;
     right: 0;
+    width: 100%;
+    height: 50%;
+    margin-top:30px;
+  }
+
+  .open #poipane {
     bottom: 0;
-    margin: 0;
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, .5);
+  }
+
+  .open #mapid {
+    bottom: 50%;
+  }
+
+  .close #poipane {
+    bottom: -50%;
+  }
+
+  .close #mapid {
+    bottom: 0;
+  }
+}
+
+.transition div {
+  transition: 0.5s all ease;
+}
+
+.hide {
+  display: none;
+}
+
+.report-form {
+  left: 0;
+  right: 0;
+}
+
+.text-report {
+  width: 80%;
+  height: 80px;
+}
+
+.red {
+  color: red;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 5%;
+  text-align: center;
+  cursor: pointer;
+  padding: 6px 6px;
+  background: #999999;
+  color: #000000;
+  line-height: 1em;
+  opacity: 1;
+  transition: .3s;
+  box-shadow: 2px 2px 3px #666666;
+}
+.button:hover {
+  box-shadow: none;
+  opacity: 0.8;
 }

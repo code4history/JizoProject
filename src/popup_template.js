@@ -6,7 +6,8 @@ popupHtmlTemplate += `<h2>{{ title }} (`;
 popupHtmlTemplate += `{{ address }}`;
 popupHtmlTemplate += `)</h2>`;
 
-popupHtmlTemplate += `<a href="javascript:void(0)" onclick="prepareEditMarker({{ fid }});">修正提案をする</a><br>`;
+popupHtmlTemplate += `<a class="report-link" href="javascript:void(0)" onclick="prepareEditMarker({{ fid }}, '{{ title }}');">修正提案をする</a><br>`;
+popupHtmlTemplate += `<div class="report-form"></div>`;
 
 popupHtmlTemplate += `{% if type %} <b>種別:</b> {{ type }} <br> {% endif %}`;
 
