@@ -45,7 +45,7 @@ workbox.precaching.precacheAndRoute([
   {'revision':'20220116', 'url':'src/leaflet-mapbox-gl.js'},
   {'revision':'20220113', 'url':'https://unpkg.com/quyuanjs@0.0.7/dist/quyuan.min.js'},
   {'revision':'2022011602', 'url':'src/popup_template.js'},
-  {'revision':'20220116', 'url':'src/icon_template.js'},
+  {'revision':'2022011602', 'url':'src/icon_template.js'},
   {'revision':'20220116', 'url':'src/twitter_Intent_url.js'},
   {'revision':'20220116', 'url':'src/oms.min.js'},
   {'revision':'20220116', 'url':'src/L.Control.Locate.js'},
@@ -61,14 +61,14 @@ workbox.precaching.precacheAndRoute([
   // other
   {'revision':'20220113', 'url':'manifest.json'},
   // image
-  {'revision':'20220116', 'url':'assets/hotoke.png'},
-  {'revision':'20220116', 'url':'assets/hotoke_sepia.png'},
-  {'revision':'20220116', 'url':'assets/hotoke_surprise.png'},
-  {'revision':'20220116', 'url':'assets/jinja.png'},
-  {'revision':'20220116', 'url':'assets/jinja_sepia.png'},
-  {'revision':'20220116', 'url':'assets/jinja_surprise.png'},
-  {'revision':'20220116', 'url':'assets/jizo.png'},
-  {'revision':'20220116', 'url':'assets/jizo_sepia.png'},
-  {'revision':'20220116', 'url':'assets/jizo_surprise.png'},
-  {'revision':'20220116', 'url':'assets/new.png'}
+  {'revision':'2022011602', 'url':'assets/hotoke.png'},
+  {'revision':'2022011602', 'url':'assets/hotoke_sepia.png'},
+  {'revision':'2022011602', 'url':'assets/hotoke_surprise.png'},
+  {'revision':'2022011602', 'url':'assets/jinja.png'},
+  {'revision':'2022011602', 'url':'assets/jinja_sepia.png'},
+  {'revision':'2022011602', 'url':'assets/jinja_surprise.png'},
+  {'revision':'2022011602', 'url':'assets/jizo.png'},
+  {'revision':'2022011602', 'url':'assets/jizo_sepia.png'},
+  {'revision':'2022011602', 'url':'assets/jizo_surprise.png'},
+  {'revision':'2022011602', 'url':'assets/new.png'}
 ]);
