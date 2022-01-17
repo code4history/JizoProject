@@ -50,7 +50,7 @@
         "poi": "poi.fid",
         "shooting_date": "info.shooting_date",
         "shooter": "info.shooter",
-        "description": "poi.name"
+        "description": "poi.title"
       },
       "attrs": [
         ["fid", "ID", "n"],
