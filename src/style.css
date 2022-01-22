@@ -222,3 +222,17 @@ img.represent {
   box-shadow: none;
   opacity: 0.8;
 }
+
+.slider-caption {
+  padding: 5px;
+  margin: 0;
+  line-height: 1.5em;
+  background: #000000;
+  color: #ffffff;
+  font-size: 0.6rem;
+  font-weight: 700;
+}
+
+.swiper-slide img.viewer {
+  height: calc(100% - 10px - 1.5rem);
+}

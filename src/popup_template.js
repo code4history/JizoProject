@@ -17,6 +17,7 @@ popupHtmlTemplate += `{% if images.length > 0 %}
       {%- for image in images %}
           <div class="swiper-slide">
             <img src="{{ image.mid_thumbs | safe }}" onclick="Quyuan.openViewer('{{ image.path | safe }}');" class="viewer">
+            <p class="slider-caption">{{ image.description }}</p>
           </div>
       {% endfor %}
       </div>
@@ -28,6 +29,7 @@ popupHtmlTemplate += `{% if images.length > 0 %}
 
 popupHtmlTemplate += `{% if description %}         <b>記述:</b> {{ description | nl2br | safe }}<br> {% endif %}`;
 popupHtmlTemplate += `{% if note %}        <b>メモ:</b> {{ note | nl2br | safe }}<br> {% endif %}`;
+popupHtmlTemplate += `<b>最終現地調査日:</b> {%if brushup %} {{ surveyed }} {% else %} 未調査 {% endif %}<br>`;
 popupHtmlTemplate += `{% if lost %}        <b>現況:</b> 現存せず<br> {% endif %}`;
 popupHtmlTemplate += `{% if need_action %}        <b>アクション要:</b> {{ need_action | nl2br | safe }}<br> {% endif %}`;
 

@@ -12,12 +12,10 @@
         ["brushup", "ブラッシュアップ", "b"],
         ["need_action", "要アクション", "s"],
         ["note", "ノート", "s"],
-        ["originalCommons", "元コモンズ情報", "s"],
+        ["surveyed", "調査日", "s"],
         ["lost", "消失フラグ", "b"],
         ["primary_image", "優先画像ID", "n"],
         ["address", "住所", "s"],
-        ["monumento", "monumen.to", "s"],
-        ["wikipedia", "ウィキペディア", "s"],
         ["longitude", "経度", "n"],
         ["latitude", "緯度", "n"]
       ],

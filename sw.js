@@ -44,7 +44,7 @@ workbox.precaching.precacheAndRoute([
   {'revision':'20220113', 'url':'https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js'},
   {'revision':'20220116', 'url':'src/leaflet-mapbox-gl.js'},
   {'revision':'20220113', 'url':'https://unpkg.com/quyuanjs@0.0.7/dist/quyuan.min.js'},
-  {'revision':'2022011603', 'url':'src/popup_template.js'},
+  {'revision':'20220123', 'url':'src/popup_template.js'},
   {'revision':'2022011602', 'url':'src/icon_template.js'},
   {'revision':'20220116', 'url':'src/twitter_Intent_url.js'},
   {'revision':'20220116', 'url':'src/oms.min.js'},
@@ -57,7 +57,7 @@ workbox.precaching.precacheAndRoute([
   {'revision':'20220113', 'url':'https://unpkg.com/leaflet@1.6.0/dist/leaflet.css'},
   {'revision':'20220113', 'url':'https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css'},
   {'revision':'20220116', 'url':'src/L.Control.Locate.min.css'},
-  {'revision':'2022011602', 'url':'src/style.css'},
+  {'revision':'20220123', 'url':'src/style.css'},
   // other
   {'revision':'20220113', 'url':'manifest.json'},
   // image
