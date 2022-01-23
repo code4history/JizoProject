@@ -44,7 +44,7 @@ workbox.precaching.precacheAndRoute([
   {'revision':'20220113', 'url':'https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js'},
   {'revision':'20220116', 'url':'src/leaflet-mapbox-gl.js'},
   {'revision':'20220113', 'url':'https://unpkg.com/quyuanjs@0.0.7/dist/quyuan.min.js'},
-  {'revision':'20220123', 'url':'src/popup_template.js'},
+  {'revision':'20220124', 'url':'src/popup_template.js'},
   {'revision':'2022011602', 'url':'src/icon_template.js'},
   {'revision':'20220116', 'url':'src/twitter_Intent_url.js'},
   {'revision':'20220116', 'url':'src/oms.min.js'},

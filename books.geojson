@@ -8,6 +8,7 @@
 {"type":"Feature","properties":{"fid":4,"type":"leaflet","title":"飛鳥地蔵マップ","editor":"奈良教育大学地理学研究室","publisher":"奈良県公民館連絡協議会","published_at":"2019","url":null},"geometry":null},
 {"type":"Feature","properties":{"fid":5,"type":"web","title":"ウィキぺディア","editor":"ウィキメディア財団","publisher":"ウィキメディア財団","published_at":null,"url":"https://ja.wikipedia.org/"},"geometry":null},
 {"type":"Feature","properties":{"fid":6,"type":"web","title":"Monumento","editor":"株式会社まちクエスト","publisher":"株式会社まちクエスト","published_at":null,"url":"https://monumen.to/"},"geometry":null},
-{"type":"Feature","properties":{"fid":7,"type":"web","title":"ウィキメディアコモンズ","editor":"ウィキメディア財団","publisher":"ウィキメディア財団","published_at":null,"url":"https://commons.wikimedia.org/"},"geometry":null}
+{"type":"Feature","properties":{"fid":7,"type":"web","title":"ウィキメディアコモンズ","editor":"ウィキメディア財団","publisher":"ウィキメディア財団","published_at":null,"url":"https://commons.wikimedia.org/"},"geometry":null},
+{"type":"Feature","properties":{"fid":8,"type":"book","title":"奈良市石造物調査報告書","editor":"奈良市石造物調査会","publisher":"奈良市教育委員会","published_at":"1989","url":null},"geometry":null}
 ]
 }

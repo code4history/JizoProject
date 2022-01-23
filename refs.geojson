@@ -354,6 +354,7 @@
 {"type":"Feature","properties":{"fid":351,"poi":268,"book":7,"description":"","anchor":"https://commons.wikimedia.org/wiki/File:Sahohime_Shrine_Nara.jpg"},"geometry":null},
 {"type":"Feature","properties":{"fid":352,"poi":269,"book":7,"description":"","anchor":"https://commons.wikimedia.org/wiki/File:Small_Shrines_in_Imaichi_Nara.jpg"},"geometry":null},
 {"type":"Feature","properties":{"fid":353,"poi":270,"book":7,"description":"","anchor":"https://commons.wikimedia.org/wiki/File:Tsukihi_Jinja_Nara.jpg"},"geometry":null},
-{"type":"Feature","properties":{"fid":354,"poi":271,"book":7,"description":"","anchor":"https://commons.wikimedia.org/wiki/File:Wayside_Shrine_In_Nara_NishiKitsuji.jpg"},"geometry":null}
+{"type":"Feature","properties":{"fid":354,"poi":271,"book":7,"description":"","anchor":"https://commons.wikimedia.org/wiki/File:Wayside_Shrine_In_Nara_NishiKitsuji.jpg"},"geometry":null},
+{"type":"Feature","properties":{"fid":355,"poi":136,"book":8,"description":null,"anchor":"飛鳥地区-343 52ページ"},"geometry":null}
 ]
 }
