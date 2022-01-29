@@ -18,7 +18,7 @@
 Code 4 NaraからUrban data challenge 2016に応募中の[Maplat](https://github.com/code4nara/Maplat)と地蔵プロジェクトをコラボレーションさせたデモを作りました。
 * https://s.maplat.jp/r/narajizomap/
 
-## License
+## License 
 
 * Data: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
 * Helper Tools: MIT
