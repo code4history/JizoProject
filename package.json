@@ -4,6 +4,7 @@
   "description": "奈良市内の地蔵、祠など調査収集プロジェクト",
   "main": "index.js",
   "dependencies": {
+    "quyuanjs": "github:code4history/Quyuan#vite-legacy"
   },
   "scripts": {
     "assets": "pwa-asset-generator ./icons/icon_original.png ./icons --background \"#ffffff\" --manifest manifest.json --index index.html --favicon",

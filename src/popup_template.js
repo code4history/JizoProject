@@ -12,19 +12,11 @@ popupHtmlTemplate += `<div class="report-form"></div>`;
 popupHtmlTemplate += `{% if type %} <b>種別:</b> {{ type }} <br> {% endif %}`;
 
 popupHtmlTemplate += `{% if images.length > 0 %}
-  <div class="swiper swiper-images">
-    <div class="swiper-wrapper">
-      {%- for image in images %}
-          <div class="swiper-slide">
-            <img src="{{ image.mid_thumbs | safe }}" onclick="Quyuan.openViewer('{{ image.path | safe }}');" class="viewer">
-            <p class="slider-caption">{{ image.description }}</p>
-          </div>
-      {% endfor %}
-      </div>
-      <div class="swiper-button-next"></div>
-      <div class="swiper-button-prev"></div>
-      <div class="swiper-pagination"></div>
-    </div>
+  <qy-swiper style='height: 300px'>
+    {% for image in images %}
+      <qy-swiper-slide imageUrl="{{ image.path | safe }}" thumbnailUrl="{{ image.mid_thumbs | safe }}" imageType="image" caption="{{ image.description }}"></qy-swiper-slide>
+    {% endfor %}
+  </qy-swiper>
 {% endif %}`;
 
 popupHtmlTemplate += `{% if era %}<b>年代:</b> {{ era }}<br>{% endif %}`;
