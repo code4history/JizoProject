@@ -9,7 +9,6 @@ const main = async () =>{
       });
     }
   });
-  const {Quyuan} = await import('./quyuen.es.js')
   const accessToken =
     "pk.eyJ1IjoicmVraXNoaWtva3VkbyIsImEiOiJjazRoMmF3dncwODU2M2ttdzI2aDVqYXVwIn0.8Hb9sekgjfck6Setxk5uVg";
   const style = "mapbox://styles/moritoru/ck4s6w8bd0sb51cpp9vn7ztty";
