@@ -15,7 +15,6 @@ const latLng = [34.66472542913676, 135.83543371143801];
 const zoom = 15;
 const minZoom = 5;
 const maxZoom = 21;
-const twitInit = `\n==\n* 上下の==の間を消して説明を投稿してください、その外は修正しないでください\n* 添付された写真はCreative Commons 4.0 BY-SAの条件で誰でも使えるオープンデータになることを了承されたものとみなします\n==\n`;
 const hashTags = ['奈良地蔵'];
 const geoJson = "jizo_project.geojson";
 const mymap = L.map("mapid", {
@@ -59,9 +58,6 @@ fetch(geoJson)
       templates: {
         pin: iconTemplate,
         html: popupHtmlTemplate,
-      },
-      options: {
-        nunjucks: true,
       }
     });
   })
