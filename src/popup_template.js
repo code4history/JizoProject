@@ -3,7 +3,10 @@ let popupHtmlTemplate = "";
 popupHtmlTemplate += `<div class="poi">`;
 
 popupHtmlTemplate += `<h2>{{ title }} (`;
-popupHtmlTemplate += `{{ address }}`;
+popupHtmlTemplate += `{{ area }}`;
+popupHtmlTemplate += "{% if oaza %} / {{ oaza }} {% endif %}";
+popupHtmlTemplate += "{% if koaza %} / {{ koaza }} {% endif %}";
+popupHtmlTemplate += "{% if detail_place %} / {{ detail_place }} {% endif %}";
 popupHtmlTemplate += `)</h2>`;
 
 popupHtmlTemplate += `<a class="report-link" href="javascript:void(0)" onclick="prepareEditMarker({{ fid }}, '{{ title }}');">修正提案をする</a><br>`;

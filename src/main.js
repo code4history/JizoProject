@@ -86,7 +86,7 @@ fetch(geoJson)
         });
         marker.html = feature.result.html;
         marker.name = feature.properties.name;
-        marker.addTo(feature.properties.need_action ? nonconfirmed : confirmed);
+        marker.addTo(feature.properties.confirmed ? confirmed : nonconfirmed);
         oms.addMarker(marker);
       }
     });
@@ -114,7 +114,7 @@ fetch(geoJson)
     oms.addListener("click", preparePoiPane);
     layerControl = L.control.layers(null, {
       "現況確認済み": confirmed,
-      "要確認事項あり(情報募集中)": nonconfirmed,
+      "未確認(情報募集中)": nonconfirmed,
       "新規報告ピン表示": newEditMarker
     }, {
       position: "bottomright"
