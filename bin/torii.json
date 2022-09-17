@@ -24,7 +24,7 @@
         ["confirmed", "現況確認済み", "b"],
         ["primary_image", "優先画像ID", "n"],
         ["height", "総高", "n"],
-        ["statue_height", "像高", "n"],
+        ["partial_height", "部分高", "n"],
         ["width", "幅", "n"],
         ["depth", "厚さ", "n"],
         ["shape", "形状", "s"],
