@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "xlsx_file": "jizo_project.xlsx",
   "geojson_file": "jizo_project.geojson",
   "tables": {
