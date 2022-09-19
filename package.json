@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/code4history/JizoProject#readme",
   "dependencies": {
-    "quyuanjs": "github:code4history/Quyuan#vite-legacy"
+    "@turf/boolean-point-in-polygon": "^6.5.0"
   },
   "devDependencies": {
     "pwa-asset-generator": "^6.0.5"
