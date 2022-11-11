@@ -36,6 +36,11 @@ L.control
     icon: "fa fa-crosshairs",
   })
   .addTo(mymap);
+L.control
+  .attribution({
+    prefix: `石造文化財アイコン: © 2022 T.N.K.Japan, Code for History, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>`
+  })
+  .addTo(mymap);
 // see here: https://github.com/Fallstop/OverlappingMarkerSpiderfier-Leaflet#construction
 const oms = new OverlappingMarkerSpiderfier(mymap, L, {
   keepSpiderfied: true,
