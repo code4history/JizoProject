@@ -4,7 +4,7 @@
   "description": "奈良市内の地蔵、祠など調査収集プロジェクト",
   "main": "index.js",
   "scripts": {
-    "assets": "pwa-asset-generator ./icons/icon_original.png ./icons --background \"#ffffff\" --manifest manifest.json --index index.html --favicon",
+    "assets": "pwa-asset-generator ./icons/icon_original.png ./icons --background \\\"#ffffff\\\" --manifest manifest.json --index index_.html --favicon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
