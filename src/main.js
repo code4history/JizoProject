@@ -1,9 +1,9 @@
 window.addEventListener('load', function() {
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register("sw.js")
-        .then(function(registration) {
-          console.log("sw registed.");
-        }).catch(function(error) {
+      .then(function(registration) {
+        console.log("sw registed.");
+      }).catch(function(error) {
       console.warn("sw error.", error);
     });
   }
@@ -42,15 +42,15 @@ async function main() {
     transformRequest
   }).addTo(mymap);
   L.control
-      .locate({
-        icon: "fa fa-crosshairs",
-      })
-      .addTo(mymap);
+    .locate({
+      icon: "fa fa-crosshairs",
+    })
+    .addTo(mymap);
   L.control
-      .attribution({
-        prefix: `石造文化財アイコン: © 2022 T.N.K.Japan, Code for History, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>`
-      })
-      .addTo(mymap);
+    .attribution({
+      prefix: `石造文化財アイコン: © 2022 T.N.K.Japan, Code for History, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>`
+    })
+    .addTo(mymap);
 // see here: https://github.com/Fallstop/OverlappingMarkerSpiderfier-Leaflet#construction
   const oms = new OverlappingMarkerSpiderfier(mymap, L, {
     keepSpiderfied: true,
@@ -65,83 +65,6 @@ async function main() {
   let currentTwitSubmitter;
   let currentTwitCanceller;
 
-  fetch(geoBuf).then(async (response) => {
-    const confirmed = L.layerGroup([]);
-    const nonconfirmed = L.layerGroup([]);
-    const container = document.querySelector('#container');
-    const pane = container.querySelector("#poipane");
-    const close_button = pane.querySelector(".poipane-close-button");
-    close_button.addEventListener("click", closePoiPane);
-
-    for await (let feature of flatgeobuf.deserialize(response.body)) {
-      feature = Quyuan.templateExtractor({
-        geojson: feature,
-        templates: {
-          pin: iconTemplate,
-          html: popupHtmlTemplate,
-        }
-      });
-      if (feature.geometry) {
-        const icons = feature.result.pin.split(',');
-        const iconUrl = icons[0];
-        const width = parseInt(icons[1]);
-        const height = parseInt(icons[2]);
-        const iconOptions = {
-          iconUrl,
-          iconSize: [width, height],
-          iconAnchor: [width / 2, height],
-          popupAnchor: [0, -1 * height],
-        };
-        // source file coordinates are ordered by lnglat, but should be latlng.
-        const marker = L.marker(feature.geometry.coordinates.reverse(), {
-          icon: L.icon(iconOptions),
-        });
-        marker.html = feature.result.html;
-        marker.name = feature.properties.name;
-        marker.addTo(feature.properties.confirmed ? confirmed : nonconfirmed);
-        oms.addMarker(marker);
-      }
-    }
-    newEditMarker = L.marker(latLng, {
-      icon: L.icon({
-        iconUrl: './assets/new.png',
-        iconSize: [32, 44],
-        iconAnchor: [16, 44],
-        popupAnchor: [0, -44]
-      })
-    });
-
-    newEditMarker.addEventListener('remove', () => {
-      newEditMarker.setLatLng(mymap.getCenter());
-    });
-    newEditMarker.once("click", () => {
-      preparePoiPane();
-    });
-
-    mymap.on('moveend',() => {
-      if (!mymap.hasLayer(newEditMarker)) {
-        newEditMarker.setLatLng(mymap.getCenter());
-      }
-    });
-    oms.addListener("click", preparePoiPane);
-    layerControl = L.control.layers(null, {
-      "現況確認済み": confirmed,
-      "未確認(情報募集中)": nonconfirmed,
-      "新規報告ピン表示": newEditMarker
-    }, {
-      position: "bottomright"
-    }).addTo(mymap);
-    confirmed.addTo(mymap);
-  });
-  oms.addListener("spiderfy", (markers) => {
-    spiderfyStatus = true;
-    mymap.closePopup();
-  });
-  oms.addListener("unspiderfy", (markers) => {
-    setTimeout(() => {
-      spiderfyStatus = false;
-    }, 100)
-  });
   const hiddenMarkers = () => {
     mymap.eachLayer((layer) => {
       if (layer.options.icon instanceof L.Icon) {
@@ -324,5 +247,85 @@ async function main() {
       prepareEditMarker();
     }
   };
+
+  const confirmed = L.layerGroup([]);
+  const nonconfirmed = L.layerGroup([]);
+  const container = document.querySelector('#container');
+  const pane = container.querySelector("#poipane");
+  const close_button = pane.querySelector(".poipane-close-button");
+  close_button.addEventListener("click", closePoiPane);
+
+  newEditMarker = L.marker(latLng, {
+    icon: L.icon({
+      iconUrl: './assets/new.png',
+      iconSize: [32, 44],
+      iconAnchor: [16, 44],
+      popupAnchor: [0, -44]
+    })
+  });
+
+  newEditMarker.addEventListener('remove', () => {
+    newEditMarker.setLatLng(mymap.getCenter());
+  });
+  newEditMarker.once("click", () => {
+    preparePoiPane();
+  });
+
+  mymap.on('moveend',() => {
+    if (!mymap.hasLayer(newEditMarker)) {
+      newEditMarker.setLatLng(mymap.getCenter());
+    }
+  });
+  oms.addListener("click", preparePoiPane);
+  layerControl = L.control.layers(null, {
+    "現況確認済み": confirmed,
+    "未確認(情報募集中)": nonconfirmed,
+    "新規報告ピン表示": newEditMarker
+  }, {
+    position: "bottomright"
+  }).addTo(mymap);
+  confirmed.addTo(mymap);
+
+  oms.addListener("spiderfy", (markers) => {
+    spiderfyStatus = true;
+    mymap.closePopup();
+  });
+  oms.addListener("unspiderfy", (markers) => {
+    setTimeout(() => {
+      spiderfyStatus = false;
+    }, 100)
+  });
+
+  fetch(geoBuf).then(async (response) => {
+    for await (let feature of flatgeobuf.deserialize(response.body)) {
+      feature = Quyuan.templateExtractor({
+        geojson: feature,
+        templates: {
+          pin: iconTemplate,
+          html: popupHtmlTemplate,
+        }
+      });
+      if (feature.geometry) {
+        const icons = feature.result.pin.split(',');
+        const iconUrl = icons[0];
+        const width = parseInt(icons[1]);
+        const height = parseInt(icons[2]);
+        const iconOptions = {
+          iconUrl,
+          iconSize: [width, height],
+          iconAnchor: [width / 2, height],
+          popupAnchor: [0, -1 * height],
+        };
+        // source file coordinates are ordered by lnglat, but should be latlng.
+        const marker = L.marker(feature.geometry.coordinates.reverse(), {
+          icon: L.icon(iconOptions),
+        });
+        marker.html = feature.result.html;
+        marker.name = feature.properties.name;
+        marker.addTo(feature.properties.confirmed ? confirmed : nonconfirmed);
+        oms.addMarker(marker);
+      }
+    }
+  });
 }
 main();
