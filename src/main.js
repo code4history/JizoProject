@@ -203,9 +203,9 @@ async function main() {
       let count = 0;
       const intervalID = setInterval(() => {
         mymap.invalidateSize();
-        count += 1000;
+        count += 50;
         if (count > 600) clearInterval(intervalID);
-      }, 500);
+      }, 50);
     }, 100);
     poi_content.innerHTML = "";
     if (isEditingMarker) proposeEditedMarker();
@@ -244,9 +244,9 @@ async function main() {
         if (marker) {
           mymap.panTo(marker.getLatLng());
         }
-        count += 1000;
+        count += 50;
         if (count > 600) clearInterval(intervalID);
-      }, 500);
+      }, 50);
     }, 100);
 
     if (!isEditingMarker) {
