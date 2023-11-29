@@ -17,7 +17,7 @@ popupHtmlTemplate += `{% if type %} <b>種別:</b> {{ type }} <br> {% endif %}`;
 popupHtmlTemplate += `{% if images.length > 0 %}
   <qy-swiper style='height: 300px'>
     {% for image in images %}
-      <qy-swiper-slide imageUrl="{{ image.path | replace("./", "https://raw.githubusercontent.com/code4history/JizoProject/master/") |safe }}" thumbnailUrl="{{ image.mid_thumbs | replace("./", "https://raw.githubusercontent.com/code4history/JizoProject/master/") | safe }}" imageType="image" caption="{{ image.description }}"></qy-swiper-slide>
+      <qy-swiper-slide imageUrl="{{ image.path | safe }}" thumbnailUrl="{{ image.mid_thumbs | safe }}" imageType="image" caption="{{ image.description }}"></qy-swiper-slide>
     {% endfor %}
   </qy-swiper>
 {% endif %}`;
