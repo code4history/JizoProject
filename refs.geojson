@@ -357,6 +357,23 @@
 {"type":"Feature","properties":{"fid":354,"poi":271,"book":7,"description":"","note":null,"anchor":"https://commons.wikimedia.org/wiki/File:Wayside_Shrine_In_Nara_NishiKitsuji.jpg"},"geometry":null},
 {"type":"Feature","properties":{"fid":355,"poi":136,"book":8,"description":null,"note":null,"anchor":"飛鳥地区-343 52ページ"},"geometry":null},
 {"type":"Feature","properties":{"fid":356,"poi":175,"book":8,"description":null,"note":null,"anchor":"飛鳥-344 52ページ"},"geometry":null},
-{"type":"Feature","properties":{"fid":357,"poi":97,"book":8,"description":null,"note":null,"anchor":"飛鳥-345 52ページ"},"geometry":null}
+{"type":"Feature","properties":{"fid":357,"poi":97,"book":8,"description":null,"note":null,"anchor":"飛鳥-345 52ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":358,"poi":938,"book":8,"description":null,"note":null,"anchor":"鼓阪-1 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":359,"poi":939,"book":8,"description":null,"note":null,"anchor":"鼓阪-2 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":360,"poi":940,"book":8,"description":null,"note":null,"anchor":"鼓阪-3  72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":361,"poi":941,"book":8,"description":null,"note":null,"anchor":"鼓阪-4 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":362,"poi":942,"book":8,"description":null,"note":null,"anchor":"鼓阪-5 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":363,"poi":943,"book":8,"description":null,"note":null,"anchor":"鼓阪-5 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":364,"poi":579,"book":8,"description":null,"note":null,"anchor":"鼓阪-7 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":365,"poi":89,"book":8,"description":null,"note":null,"anchor":"鼓阪-8 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":366,"poi":944,"book":8,"description":null,"note":null,"anchor":"鼓阪-9 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":367,"poi":945,"book":8,"description":null,"note":null,"anchor":"鼓阪-10 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":368,"poi":946,"book":8,"description":null,"note":null,"anchor":"鼓阪-11 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":369,"poi":53,"book":8,"description":null,"note":null,"anchor":"鼓阪-12 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":370,"poi":947,"book":8,"description":null,"note":null,"anchor":"鼓阪-13 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":371,"poi":948,"book":8,"description":null,"note":null,"anchor":"鼓阪-14 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":372,"poi":949,"book":8,"description":null,"note":null,"anchor":"鼓阪-15 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":373,"poi":950,"book":8,"description":null,"note":null,"anchor":"鼓阪-16 72ページ"},"geometry":null},
+{"type":"Feature","properties":{"fid":374,"poi":951,"book":8,"description":null,"note":null,"anchor":"鼓阪-17 72ページ"},"geometry":null}
 ]
 }
