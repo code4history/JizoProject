@@ -394,6 +394,8 @@
 {"type":"Feature","properties":{"fid":391,"poi":144,"book":8,"description":null,"note":null,"anchor":"鼓阪-34 73"},"geometry":null},
 {"type":"Feature","properties":{"fid":392,"poi":964,"book":8,"description":null,"note":null,"anchor":"鼓阪-35 73"},"geometry":null},
 {"type":"Feature","properties":{"fid":393,"poi":58,"book":8,"description":null,"note":null,"anchor":"鼓阪-36 73"},"geometry":null},
-{"type":"Feature","properties":{"fid":394,"poi":858,"book":8,"description":null,"note":null,"anchor":"鼓阪-37,38 74"},"geometry":null}
+{"type":"Feature","properties":{"fid":394,"poi":858,"book":8,"description":null,"note":null,"anchor":"鼓阪-37,38 74"},"geometry":null},
+{"type":"Feature","properties":{"fid":395,"poi":806,"book":8,"description":null,"note":null,"anchor":"鼓阪-39,40 74"},"geometry":null},
+{"type":"Feature","properties":{"fid":396,"poi":139,"book":8,"description":null,"note":null,"anchor":"鼓阪-41 74"},"geometry":null}
 ]
 }
