@@ -21,6 +21,6 @@
     "@turf/boolean-point-in-polygon": "^6.5.0"
   },
   "devDependencies": {
-    "pwa-asset-generator": "^6.0.5"
+    "pwa-asset-generator": "^8.0.5"
   }
 }
