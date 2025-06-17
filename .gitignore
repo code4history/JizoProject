@@ -13,3 +13,4 @@ images/*/description.json
 bin/qgis2Xlsx_*
 bin/xlsx2Qgis_*
 bin/torii_local.json
+.env
