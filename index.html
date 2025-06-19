@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link href="https://unpkg.com/maplibre-gl@5.5.0/dist/maplibre-gl.css" rel="stylesheet">
+    <link rel="stylesheet" href="src/L.Control.Locate.min.css">
+    <link rel="stylesheet" href="src/style.css">
+    <link rel="icon" type="image/png" sizes="196x196" href="icons/favicon-196.png">
+    <link rel="apple-touch-icon" href="icons/apple-icon-180.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2048-2732.jpg" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2732-2048.jpg" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1668-2388.jpg" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2388-1668.jpg" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1536-2048.jpg" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2048-1536.jpg" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1668-2224.jpg" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2224-1668.jpg" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1620-2160.jpg" media="(device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2160-1620.jpg" media="(device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1284-2778.jpg" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2778-1284.jpg" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1170-2532.jpg" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2532-1170.jpg" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1125-2436.jpg" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2436-1125.jpg" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1242-2688.jpg" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2688-1242.jpg" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-828-1792.jpg" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1792-828.jpg" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1242-2208.jpg" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-2208-1242.jpg" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-750-1334.jpg" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1334-750.jpg" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-640-1136.jpg" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="icons/apple-splash-1136-640.jpg" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <title>奈良地蔵プロジェクト</title>
+    <meta property="og:title" content="奈良地蔵プロジェクト">
+    <meta name="description" content="奈良市の道端の地蔵堂や小祠、石仏などをオープンデータ化するプロジェクトです。奈良市では、街角の小さな祠や石仏ですら、1300年、700年といった歴史を持ち、さらに マンションの土台にすら、地蔵の置き場が設計の上組み込まれるほど、現代にまで信仰が根付いています。都会のコンビニ以上の密度で存在する、小さく身近な信仰の場にあふれているのですが、残念ながら奈良市民には身近すぎるためかその魅力に気付いておらず、平城宮や世界遺産は宣伝しても、こういった身近な魅力を宣伝したり、外国人に説明しアピールしたり活動はありません。そこで、奈良市の祠、石仏をリストアップして紹介し、誰もが使えるオープンデータとして提供することで、新たな教育や街づくり、観光ビジネスの可能性に繋がると考え、2016年活動を開始しました。2022年1月末までに396件の地物、1,151件の写真を収集しています。">
+    <meta property="og:description" content="奈良市の道端の地蔵堂や小祠、石仏などをオープンデータ化するプロジェクトです。奈良市では、街角の小さな祠や石仏ですら、1300年、700年といった歴史を持ち、さらに マンションの土台にすら、地蔵の置き場が設計の上組み込まれるほど、現代にまで信仰が根付いています。都会のコンビニ以上の密度で存在する、小さく身近な信仰の場にあふれているのですが、残念ながら奈良市民には身近すぎるためかその魅力に気付いておらず、平城宮や世界遺産は宣伝しても、こういった身近な魅力を宣伝したり、外国人に説明しアピールしたり活動はありません。そこで、奈良市の祠、石仏をリストアップして紹介し、誰もが使えるオープンデータとして提供することで、新たな教育や街づくり、観光ビジネスの可能性に繋がると考え、2016年活動を開始しました。2022年1月末までに396件の地物、1,151件の写真を収集しています。">
+    <meta name="keywords" content="奈良地蔵プロジェクト,奈良県,奈良市,オープンデータ,散歩,街歩き,観光,歴史,石仏,石仏情報学会">
+  </head>
+  <body>
+    <div id="container" class="close">
+      <div id="poipane">
+        <div class="poipane-content-wrapper">
+          <div class="poipane-content"></div>
+        </div>
+        <a class="poipane-close-button" href="#close">×</a>
+      </div>
+      <div id="mapid"></div>
+    </div>
+    <a class="github-fork-ribbon" href="https://github.com/code4history/JizoProject" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="src/L.Control.Locate.js"></script>
+    <script src="https://unpkg.com/maplibre-gl@5.5.0/dist/maplibre-gl.js"></script>
+    <script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.0/leaflet-maplibre-gl.js"></script>
+    <script src="src/twitter-text-3.1.0.min.js"></script>
+    <script src="src/popup_template.js"></script>
+    <script src="src/icon_template.js"></script>
+    <script src="src/twitter_Intent_url.js"></script>
+    <script src="src/oms.min.js"></script>
+    <script src="https://unpkg.com/quyuanjs@0.1.0/umd/quyuan.min.js"></script>
+    <script src="https://unpkg.com/flatgeobuf@3.24.1/dist/flatgeobuf-geojson.min.js"></script>
+    <script src="src/main.js"></script>
+  </body>
+</html>
