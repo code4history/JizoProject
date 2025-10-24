@@ -11,7 +11,7 @@ window.addEventListener('load', function() {
 async function main() {
   const {isMapboxURL, transformMapboxUrl} = await import("https://unpkg.com/maplibregl-mapbox-request-transformer@0.0.2/src/index.js");
   const accessToken =
-      "pk.eyJ1Ijoia29jaGl6dWZhbiIsImEiOiJjbHRnaWhzOW8wd2p4MmtvZDFsOWJiOG40In0.FYTPboTqXKv5a_onOaW1vQ";
+      "pk.eyJ1IjoicmVraXNoaWtva3VkbyIsImEiOiJjazRoMmF3dncwODU2M2ttdzI2aDVqYXVwIn0.8Hb9sekgjfck6Setxk5uVg";
   const style = "mapbox://styles/moritoru/ck4s6w8bd0sb51cpp9vn7ztty";
   const transformRequest = (url, resourceType) => {
     if (isMapboxURL(url)) {
