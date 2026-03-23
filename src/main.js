@@ -1,24 +1,24 @@
-window.addEventListener('load', function() {
+window.addEventListener('load', function () {
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register("sw.js")
-      .then(function(registration) {
+      .then(function (registration) {
         console.log("sw registed.");
-      }).catch(function(error) {
-      console.warn("sw error.", error);
-    });
+      }).catch(function (error) {
+        console.warn("sw error.", error);
+      });
   }
 });
 async function main() {
-  const {isMapboxURL, transformMapboxUrl} = await import("https://unpkg.com/maplibregl-mapbox-request-transformer@0.0.2/src/index.js");
+  const { isMapboxURL, transformMapboxUrl } = await import("https://unpkg.com/maplibregl-mapbox-request-transformer@0.0.2/src/index.js");
   const accessToken =
-      "pk.eyJ1IjoicmVraXNoaWtva3VkbyIsImEiOiJjazRoMmF3dncwODU2M2ttdzI2aDVqYXVwIn0.8Hb9sekgjfck6Setxk5uVg";
+    "pk.eyJ1IjoicmVraXNoaWtva3VkbyIsImEiOiJjazRoMmF3dncwODU2M2ttdzI2aDVqYXVwIn0.8Hb9sekgjfck6Setxk5uVg";
   const style = "mapbox://styles/moritoru/ck4s6w8bd0sb51cpp9vn7ztty";
   const transformRequest = (url, resourceType) => {
     if (isMapboxURL(url)) {
       const ret = transformMapboxUrl(url, resourceType, accessToken)
       return ret;
     }
-    return {url};
+    return { url };
   }
 
   const latLng = [34.66472542913676, 135.83543371143801];
@@ -29,7 +29,9 @@ async function main() {
   const geoBuf = "jizo_project.fgb";
   const mymap = L.map("mapid", {
     minZoom: minZoom,
-    maxZoom
+    maxZoom,
+    maxBounds: [[-85, -180], [85, 180]],
+    maxBoundsViscosity: 1
   }).setView(latLng, zoom);
   const roundDec = (val, level) => {
     const powVal = Math.pow(10, level);
@@ -51,7 +53,7 @@ async function main() {
       prefix: `石造文化財アイコン: © 2022 T.N.K.Japan, Code for History, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>`
     })
     .addTo(mymap);
-// see here: https://github.com/Fallstop/OverlappingMarkerSpiderfier-Leaflet#construction
+  // see here: https://github.com/Fallstop/OverlappingMarkerSpiderfier-Leaflet#construction
   const oms = new OverlappingMarkerSpiderfier(mymap, L, {
     keepSpiderfied: true,
   });
@@ -101,9 +103,8 @@ async function main() {
     <li>位置の修正を行う場合はピンをドラッグして位置を修正してください。自動でTwitter投稿に新しい経緯度が付与されます。</li>
     <li>画像の添付はTwitter起動後、Twitter投稿に添付してください。添付した画像は、Creative Commons 4.0 BY-SAの条件で誰でも使えるオープンデータになることを了承されたものとみなします。</li>
     </ul>
-    <span class="span-report">${poiId ? `POI ID: ${poiId}<br>${name}` : "新規報告"} #${hashTags[0]}${
-        poiId ? "" : `<br>緯度:${roundDec(latlng.lat,7)}, 経度:${roundDec(latlng.lng,7)}`
-    }</span><br>
+    <span class="span-report">${poiId ? `POI ID: ${poiId}<br>${name}` : "新規報告"} #${hashTags[0]}${poiId ? "" : `<br>緯度:${roundDec(latlng.lat, 7)}, 経度:${roundDec(latlng.lng, 7)}`
+      }</span><br>
     <textarea class="text-report"></textarea><br>
     <span class="report-number"></span><br>
     <a href="#" class="button twit-submit" onclick="currentTwitSubmitter();">投稿</a> <a href="#" class="button twit-cancel" onclick="currentTwitCanceller();">キャンセル</a><br><br>`;
@@ -141,7 +142,7 @@ async function main() {
 
   const updateMarkerMove = (poiId, name, marker) => {
     const latlng = marker.getLatLng();
-    const text = `${poiId ? `POI ID: ${poiId}\n${name}` : "新規報告"} #${hashTags[0]}\n緯度:${roundDec(latlng.lat,7)}, 経度:${roundDec(latlng.lng,7)}`;
+    const text = `${poiId ? `POI ID: ${poiId}\n${name}` : "新規報告"} #${hashTags[0]}\n緯度:${roundDec(latlng.lat, 7)}, 経度:${roundDec(latlng.lng, 7)}`;
     const spanReport = document.querySelector("#poipane .span-report");
     spanReport.innerText = text;
     updateReportNumber();
@@ -281,7 +282,7 @@ async function main() {
     preparePoiPane();
   });
 
-  mymap.on('moveend',() => {
+  mymap.on('moveend', () => {
     if (!mymap.hasLayer(newEditMarker)) {
       newEditMarker.setLatLng(mymap.getCenter());
     }
@@ -308,7 +309,7 @@ async function main() {
 
   fetch(geoBuf).then(async (response) => {
     for await (let feature of flatgeobuf.deserialize(response.body)) {
-      feature = Quyuan.templateExtractor({
+      feature = Quyuan.default.templateExtractor({
         geojson: feature,
         templates: {
           pin: iconTemplate,

@@ -15,11 +15,16 @@ popupHtmlTemplate += `<div class="report-form"></div>`;
 popupHtmlTemplate += `{% if type %} <b>種別:</b> {{ type }} <br> {% endif %}`;
 
 popupHtmlTemplate += `{% if images.length > 0 %}
-  <qy-swiper style='height: 300px'>
+  <cc-swiper style="height: 300px">
     {% for image in images %}
-      <qy-swiper-slide imageUrl="{{ image.path | safe }}" thumbnailUrl="{{ image.mid_thumbs | safe }}" imageType="image" caption="{{ image.description }}"></qy-swiper-slide>
+      <cc-swiper-slide
+        image-url="{{ image.path | safe }}"
+        thumbnail-url="{{ image.mid_thumbs | safe }}"
+        image-type="image"
+        caption="{{ image.description }}">
+      </cc-swiper-slide>
     {% endfor %}
-  </qy-swiper>
+  </cc-swiper>
 {% endif %}`;
 
 popupHtmlTemplate += `<b>年代:</b> {{ era }} {% if year %} ({{ year }}) {% endif %}<br>`;
